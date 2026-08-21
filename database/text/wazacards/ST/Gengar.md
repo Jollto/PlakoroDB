@@ -70,7 +70,7 @@
 | Down      |                                                                 |
 | Sideways  | On your opponent's next turn, they cannot roll their Charakoro. |
 
-[Shadow Bind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard04.webp)
+[Shadow Bind](https://x.com/plakoro_pokepla/status/2087373557202596139/photo/1)
 
 ####
 

@@ -108,17 +108,17 @@
 
 #### Explosion
 
-| Name      | Explosion                                          |
-| --------- | -------------------------------------------------- |
-| Japanese  | だいばくはつ                                       |
-| Type      | Normal                                             |
-| Code      | STW08-007                                          |
-| Pokémon   | Metagross                                          |
-| Energy    | {C}{C}{C}{C}{C}                                    |
-| Damage    | 100                                                |
-| Effect    | This Pokémon also does 120 damage to itself.       |
-| Standing  | Prevent the damage this move would do to yourself. |
-| Handstand |                                                    |
-| Back      |                                                    |
-| Down      |                                                    |
-| Sideways  |                                                    |
+| Name      | Explosion                                              |
+| --------- | ------------------------------------------------------ |
+| Japanese  | だいばくはつ                                           |
+| Type      | Normal                                                 |
+| Code      | STW08-007                                              |
+| Pokémon   | Metagross                                              |
+| Energy    | {C}{C}{C}{C}{C}                                        |
+| Damage    | 100                                                    |
+| Effect    | This Pokémon also does 120 damage to itself.           |
+| Standing  | Prevent the damage this move would do to your Pokémon. |
+| Handstand |                                                        |
+| Back      |                                                        |
+| Down      |                                                        |
+| Sideways  |                                                        |

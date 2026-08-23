@@ -77,6 +77,39 @@
 
 [Mew](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_characard.webp)
 
+### [Gengar](../cards/characards/STC07-001_Gengar.png)
+
+| Name     | Gengar    |
+| -------- | --------- |
+| Type     | Dark      |
+| Code     | STC07-001 |
+| Weakness | Psychic   |
+| HP       | 120       |
+
+[Gengar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_characard.webp)
+
+### [Metagross](../cards/characards/STC08-001_Metagross.png)
+
+| Name     | Metagross |
+| -------- | --------- |
+| Type     | Steel     |
+| Code     | STC08-001 |
+| Weakness | Fire      |
+| HP       | 120       |
+
+[Metagross](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_characard.webp)
+
+### [Lucario](../cards/characards/STC09-001_Lucario.png)
+
+| Name     | Lucario   |
+| -------- | --------- |
+| Type     | Fighting  |
+| Code     | STC09-001 |
+| Weakness | Fire      |
+| HP       | 120       |
+
+[Lucario](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_characard.webp)
+
 ## Exploration Box 1
 
 ### [Pinsir](../cards/characards/EBC01-001_Pinsir.png)

@@ -38,20 +38,20 @@
 
 #### Upside Down ?
 
-| Name      | Upside Down ?                                                              |
-| --------- | -------------------------------------------------------------------------- |
-| Japanese  | まっさかさま                                                               |
-| Type      | Dark                                                                       |
-| Code      | STW07-003                                                                  |
-| Pokémon   | Gengar                                                                     |
-| Energy    | {D}{D}                                                                     |
-| Damage    | 20                                                                         |
-| Effect    |                                                                            |
-| Standing  | On your opponent's next turn, set the direction of their Charakoro to {hs} |
-| Handstand |                                                                            |
-| Back      |                                                                            |
-| Down      |                                                                            |
-| Sideways  | On your opponent's next turn, set the direction of their Charakoro to {hs} |
+| Name      | Upside Down ?                                                               |
+| --------- | --------------------------------------------------------------------------- |
+| Japanese  | まっさかさま                                                                |
+| Type      | Dark                                                                        |
+| Code      | STW07-003                                                                   |
+| Pokémon   | Gengar                                                                      |
+| Energy    | {D}{D}                                                                      |
+| Damage    | 20                                                                          |
+| Effect    |                                                                             |
+| Standing  | On your opponent's next turn, set the direction of their Charakoro to {hs}. |
+| Handstand |                                                                             |
+| Back      |                                                                             |
+| Down      |                                                                             |
+| Sideways  | On your opponent's next turn, set the direction of their Charakoro to {hs}. |
 
 #### Shadow Bind
 

@@ -106,7 +106,7 @@
 
 #### Metal Claw
 
-| Name      |                                  |
+| Name      | Metal Claw                       |
 | --------- | -------------------------------- |
 | Japanese  | メタルクロー                     |
 | Type      | Steel                            |

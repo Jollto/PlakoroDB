@@ -11,7 +11,7 @@
 
 ## Starter Set
 
-### [Bulbasaur](../cards/characards/STC01-001_Bulbasaur.png)
+### [Bulbasaur](../cards/characards/STC01-001_bulbasaur.png)
 
 | Name     | Bulbasaur |
 | -------- | --------- |
@@ -22,7 +22,7 @@
 
 [Bulbasaur](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_characard.webp)
 
-### [Charmander](../cards/characards/STC02-001_Charmander.png)
+### [Charmander](../cards/characards/STC02-001_charmander.png)
 
 | Name     | Charmander |
 | -------- | ---------- |
@@ -33,7 +33,7 @@
 
 [Charmander](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_characard.webp)
 
-### [Squirtle](../cards/characards/STC03-001_Squirtle.png)
+### [Squirtle](../cards/characards/STC03-001_squirtle.png)
 
 | Name     | Squirtle  |
 | -------- | --------- |
@@ -44,7 +44,7 @@
 
 [Squirtle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_characard.webp)
 
-### [Pikachu](../cards/characards/STC04-001_Pikachu.png)
+### [Pikachu](../cards/characards/STC04-001_pikachu.png)
 
 | Name     | Pikachu   |
 | -------- | --------- |
@@ -55,7 +55,7 @@
 
 [Pikachu](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_characard.webp)
 
-### [Eevee](../cards/characards/STC05-001_Eevee.png)
+### [Eevee](../cards/characards/STC05-001_eevee.png)
 
 | Name     | Eevee     |
 | -------- | --------- |
@@ -66,7 +66,7 @@
 
 [Eevee](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_characard.webp)
 
-### [Mew](../cards/characards/STC06-001_Mew.png)
+### [Mew](../cards/characards/STC06-001_mew.png)
 
 | Name     | Mew       |
 | -------- | --------- |
@@ -77,7 +77,7 @@
 
 [Mew](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_characard.webp)
 
-### [Gengar](../cards/characards/STC07-001_Gengar.png)
+### [Gengar](../cards/characards/STC07-001_gengar.png)
 
 | Name     | Gengar    |
 | -------- | --------- |
@@ -88,7 +88,7 @@
 
 [Gengar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_characard.webp)
 
-### [Metagross](../cards/characards/STC08-001_Metagross.png)
+### [Metagross](../cards/characards/STC08-001_metagross.png)
 
 | Name     | Metagross |
 | -------- | --------- |
@@ -99,7 +99,7 @@
 
 [Metagross](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_characard.webp)
 
-### [Lucario](../cards/characards/STC09-001_Lucario.png)
+### [Lucario](../cards/characards/STC09-001_lucario.png)
 
 | Name     | Lucario   |
 | -------- | --------- |
@@ -112,7 +112,7 @@
 
 ## Exploration Box 1
 
-### [Pinsir](../cards/characards/EBC01-001_Pinsir.png)
+### [Pinsir](../cards/characards/EBC01-001_pinsir.png)
 
 | Name     | Pinsir    |
 | -------- | --------- |
@@ -123,7 +123,7 @@
 
 [Pinsir](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_characard.webp)
 
-### [Moltres](../cards/characards/EBC01-002_Moltres.png)
+### [Moltres](../cards/characards/EBC01-002_moltres.png)
 
 | Name     | Moltres   |
 | -------- | --------- |
@@ -134,7 +134,7 @@
 
 [Moltres](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_characard.webp)
 
-### [Articuno](../cards/characards/EBC01-003_Articuno.png)
+### [Articuno](../cards/characards/EBC01-003_articuno.png)
 
 | Name     | Articuno  |
 | -------- | --------- |
@@ -145,7 +145,7 @@
 
 [Articuno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_characard.webp)
 
-### [Zapdos](../cards/characards/EBC01-004_Zapdos.png)
+### [Zapdos](../cards/characards/EBC01-004_zapdos.png)
 
 | Name     | Zapdos    |
 | -------- | --------- |
@@ -156,7 +156,7 @@
 
 [Zapdos](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_characard.webp)
 
-### [Onix](../cards/characards/EBC01-005_Onix.png)
+### [Onix](../cards/characards/EBC01-005_onix.png)
 
 | Name     | Onix      |
 | -------- | --------- |
@@ -167,7 +167,7 @@
 
 [Onix](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/02/img_characard.webp)
 
-### [Grimer](../cards/characards/EBC01-006_Grimer.png)
+### [Grimer](../cards/characards/EBC01-006_grimer.png)
 
 | Name     | Grimer    |
 | -------- | --------- |

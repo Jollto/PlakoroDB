@@ -209,83 +209,83 @@ R: Guillotine
 
 #### 20
 
-Q: ワザ「Fire Wing」のキャラコロ効果で、⾃分もダメージを受けて、おたがいのポケモンのHPが同時になくなりました。
-この場合、勝敗はどうなりますか？
+Q: Due to the self-damage effect of the move "Fire Wing", I also took damage, and both Pokémon lost all their HP at the same time.
+In this case, who wins or loses?
 
-A: 自分の負けです。
-同時にHPがなくなった場合、ワザを使った⽅が負けになります。
+A: You lose.
+If both Pokémon lose all their HP at the same time, the player who used the move loses.
 
 R: Fire Wing
 
 #### 21
 
-Q: ワザ「Ice Wing」のキャラコロ効果で、次の相手の番、相手が振れるエネコロが1個少なくなりました。
-少なくするエネコロを選ぶのは誰ですか？
+Q: Due to the Charakoro effect of the move "Ice Wing", the opponent has to roll one Enekoro less during their next turn.
+Who decides which Enekoro to remove?
 
-A: 相手です。
-少なくするエネコロをどれにするかは、エネコロを振る人が選びます。
+A: The opponent.
+The player who rolls the Enekoro decides which one to remove.
 
 R: Ice Wing
 
 #### 22
 
-Q: ワザ「Heat Up」のキャラコロ効果で、次の自分の番、自分が振れるエネコロが2個多くなりました。
-ただし、相手のワザ「Cold Breath」のキャラコロ効果で、次の自分の番、自分が振れるエネコロが2個少なくなりました。
-この場合、次の番に自分が振れるエネコロは何個ですか？
+Q: Due to the Charakoro effect of the move "Heat Up", I have 2 more Enekoro to roll on my next turn.
+However, due to the Charakoro effect of the move "Cold Breath", I also have 2 less Enekoro to roll on my next turn.
+In this case, how many Enekoro can I roll on my next turn?
 
-A: 3個です。
+A: 3 Enekoro.
 
 R: Cold Breath, Heat Up
 
 #### 23
 
-Q: ワザ「Thunder Chain」のエネコロチェックとキャラコロチェックに成功しました。
-「もう1回キャラコロを振る。（失敗するまで繰り返せる。）」とはどのように行いますか？
+Q: I successfully passed the Enekoro and Charakoro rolls for the move "Thunder Chain".
+How do I carry out the effect that says "Reroll your Charakoro. (Can be repeated until it fails.)"?
 
-A: {st}{ba}{do}以外が出るまで、キャラコロを振ります。
-{st}{ba}{do}が出た回数×30ダメージを追加して、相⼿のポケモンにダメージを与えます。
+A: Roll the Charakoro until a result other than {st}{ba}{do} appears.
+Inflict damage on your opponent's Pokémon equal to the number of times {st}{ba}{do} appeared multiplied by 30, plus the base 30.
 
 R: Thunder Chain
 
 #### 24
 
-Q: ワザ「Rock Wall」のエネコロチェックとキャラコロチェックに成功しました。
-次の相手の番、相手がワザ「Electric Rush」を2回成功させました。
-この場合、自分が受けるダメージは何ダメージですか？
+Q: I successfully passed the Enekoro and Charakoro rolls for the move "Rock Wall".
+On my opponent's next turn, they successfully used the move "Electric Rush" twice.
+In this case, how much damage do I take?
 
-A: 0ダメージです。
-ワザを1回受けるたびに、受けるダメージを-30することができます。
+A: 0 damage.
+Each time you take a hit from a move, you can reduce the damage you take by 30.
 
 R: Rock Wall, Electric Rush
 
 #### 25
 
-Q: ワザ「Rock Wall」のエネコロチェックとキャラコロチェックに成功しました。
-次の相手の番、相手がワザ「Volt Rush」のキャラコロチェックを2回成功させました。
-この場合、自分が受けるダメージは何ダメージですか？
+Q: I successfully passed the Enekoro and Charakoro rolls for the move "Rock Wall".
+On my opponent's next turn, they successfully rolled the Charakoro for the move "Volt Rush" twice.
+In this case, how much damage do I take?
 
-A: 40ダメージです。
-「Volt Rush」の合計ダメージから、受けるダメージを-30することができます。
+A: 40 damage.
+You can subtract 30 from the total damage dealt by "Volt Rush".
 
 R: Rock Wall, Volt Rush
 
 #### 26
 
-Q: ワザ「Poison Gas」を使いました。
-エネコロチェックは成功、キャラコロチェックは失敗でした。
-次の自分の番、ワザ「Toxic Blast」のエネコロチェックとキャラコロチェックに成功した場合、ダメージを追加することはできますか？
+Q: I used the move "Poison Gas".
+The Enekoro roll succeeded, but the Charakoro roll failed.
+On my next turn, if I succeed at both the Enekoro and Charakoro rolls for the move "Toxic Blast", can I deal additiona damage?
 
-A: はい、できます。
+A: Yes, you can.
 
 R: Poison Gas, Toxic Blast
 
 #### 27
 
-Q: 相手がワザ「Electric Rush」を使いました。
-1回目のエネコロチェックとキャラコロチェックは成功、2回目のエネコロチェックは失敗でした。
-次の自分の番、ワザ「Harassment Venom」のエネコロチェックとキャラコロチェックに成功した場合、ダメージを追加することはできますか？
+Q: My opponent used the move "Electric Rush".
+The first Enekoro and Charakoro rolls were successful, but the second Enekoro roll failed.
+On my next turn, if I succeed at the Enekoro and Charakoro rolls for the move "Harassment Venom", can I deal additional damage?
 
-A: はい、できます。
+A: Yes, you can.
 
 R: Harassment Venom, Electric Rush
 

@@ -2,211 +2,208 @@
 
 ## About Wazacards
 
-### page 1
-
 #### 1
 
-Q: ワザ「Leech Seed」のエネコロチェックとキャラコロチェックに成功しました。
-「次の自分の番、自分のエネコロを1個多くする。」とはどのように行いますか？
+Q: I successfully passed the Enekoro and Charakoro rolls for the move "Leech Seed".
+How do I carry out the effect that says "On your next turn, increase the number of Enekoro you roll by 1."?
 
-A: まずは3個エネコロを振ります。
-次に、振り終えたエネコロの中から好きな1個を選び、もう⼀度振ります。
-多くするエネコロをどれにするかは、エネコロを振る人が選びます。
-その間に出たエネルギーがすべて、この番に出たエネルギーになります。
-もしエネコロを4つ以上持っているなら、好きなエネコロを追加して、同時に振っても良いです。
+A: First, roll 3 Enekoro.
+Next, choose any one of the rolled Enekoro and roll it again.
+The player rolling the Enekoro chooses which one to add.
+All the Energy revealed during this process counts as the Energy produced this turn.
+If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.
 
 R: Leech Seed
 
 #### 2
 
-Q: フシギダネのHPが120の時に、ワザ「Giga Drain」のエネコロチェックとキャラコロチェックに成功しました。
-この場合、HPを160にすることはできますか？
+Q: When Bulbasaur's HP was 120, I successfully passed the Enekoro and Charakoro rolls for the move "Giga Drain".
+In this case, can I raise its HP to 160?
 
-A: いいえ、できません。フシギダネの最⼤HPは120です。
+A: No, you cannot. Bulbasaur's max HP is 120.
 
 R: Giga Drain
 
 #### 3
 
-Q: ワザ「Reckless Charge」のキャラコロ効果で、⾃分もダメージを受けて、おたがいのポケモンのHPが同時になくなりました。
-この場合、勝敗はどうなりますか？
+Q: Due to the self-damage effect of the move "Reckless Charge", both my Pokémon and my opponent's Pokémon lost all their HP at the same time.
+In this case, who wins or loses?
 
-A: 自分の負けです。
-同時にHPがなくなった場合、ワザを使った⽅が負けになります。
+A: You lose.
+If both Pokémon lose all their HP at the same time, the player who used the move loses.
 
 R: Reckless Charge
 
 #### 4
 
-Q: ワザ「Heat Up」のエネコロチェックとキャラコロチェックに成功しました。
-「次の自分の番、自分のエネコロを2個多くする。」とはどのように行いますか？
-また、多くするエネコロを選ぶのは誰ですか？
+Q: I successfully passed the Enekoro and Charakoro rolls for the move "Heat Up".
+How do I carry out the effect that says "On your next turn, increase the number of Enekoro you roll by 2."?
+Also, who chooses which Enekoro to add?
 
-A: まずは3個エネコロを振ります。
-次に、振り終えたエネコロの中から好きな2個を選び、もう⼀度振ります。
-（もしエネコロを4つ以上持っているなら、好きなエネコロを追加して、同時に振っても良いです。）
-その間に出たエネルギーがすべて、この番に出たエネルギーになります。
-多くするエネコロをどれにするかは、エネコロを振る人が選びます。
+A: First, roll 3 Enekoro.
+Next, choose two of the rolled Enekoro and roll them again.
+(If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.)
+All the Energy revealed during this process counts as the Energy produced this turn.
+The player rolling the Enekoro chooses which one to add to increase the number of Enekoro.
 
 R: Heat Up
 
 #### 5
 
-Q: ワザ「Flare Storm」のエネコロチェックとキャラコロチェックに成功しました。
-出た炎エネルギーは5つでした。
-この場合、相手に与えるダメージは何ダメージですか？
+Q: I successfully passed the Enekoro and Charakoro rolls for the move "Flare Storm".
+I got 5 Fire{R} Energy symbols.
+In this case, how much damage do I deal to my opponent?
 
-A: 70ダメージです。
+A: 70 damage (base 20 + 10 \* 5 fire energy).
 
 R: Flare Storm
 
 #### 6
 
-Q: 前の自分の番にワザ「Shell Attack」のエネコロチェックとキャラコロチェックに成功しました。
-次の相手の番、相手がワザ「Vine Whip」を使いました。
-エネコロチェックは成功、キャラコロチェックは{s1}でした。
-この場合、自分が受けるダメージは何ダメージですか？
+Q: On my previous turn, I successfully passed the Enekoro and Charakoro rolls for the move "Shell Attack".
+On my opponent's next turn, my opponent used the move "Vine Whip". The Enekoro roll was successful, but the Charakoro rolled {s1}.
+In this case, how much damage do I take?
 
-A: 0ダメージです。
+A: 0 damage.
 
 R: Shell Attack, Vine Whip
 
 #### 7
 
-Q: 前の自分の番にワザ「Shell Attack」のエネコロチェックとキャラコロチェックに成功しました。
-次の相手の番、相手がワザ「Vine Whip」を使い、エネコロチェックとキャラコロチェックに成功しました。
-この場合、自分が受けるダメージは何ダメージですか？
+Q: On my previous turn, I successfully passed the Enekoro and Charakoro rolls for the move "Shell Attack".
+On my opponent's next turn, my opponent used the move "Vine Whip" and successfully passed the Enekoro and Charakoro rolls.
+In this case, how much damage do I take?
 
-A: 10ダメージです。
+A: 10 damage.
 
 R: Shell Attack, Vine Whip
 
 #### 8
 
-Q: ワザ「Electric Rush」のエネコロチェックとキャラコロチェックに成功しました。
-「もう1回「Electric Rush」を使う。（失敗するまでくり返せる。）」とはどのように行いますか？
+Q: I successfully passed the Enekoro and Charakoro rolls for the move "Electric Rush".
+How do I carry out the effect that says "Use "Electric Rush" 1 more time. (Can be repeated until it fails.)"?
 
-A: もう一度エネコロとキャラコロを振って、「Electric Rush」に挑戦します。
-これをエネコロチェックかキャラコロチェックのどちらかが失敗するまで繰り返します。
+A: Roll the Enekoro and Charakoro again to attempt "Electric Rush".
+Repeat this until you fail either the Enekoro or Charakoro rolls.
 
 R: Electric Rush
 
 #### 9
 
-Q: ワザ「Thunderbolt」のエネコロチェックとキャラコロチェックに成功しました。
-「次の自分の番、自分のエネコロを2個少なくする。」とはどのように行いますか？
-また、少なくするエネコロを選ぶのは誰ですか？
+Q: I successfully passed the Enekoro and Charakoro rolls for the move "Thunderbolt".
+How do I carry out the effect that says "On your next turn, reduce the number of Enekoro you roll by 2"?
+Also, who chooses which Enekoro to reduce?
 
-A: 3個のエネコロの中から、好きな1個を選んで振ります。
-少なくするエネコロをどれにするかは、エネコロを振る人が選びます。
+A: Choose any one of your three Enekoro and roll it.
+The player rolling the Enekoro chooses which one to reduce.
 
 R: Thunderbolt
 
 #### 10
 
-Q: ワザ「Volt Tackle」のキャラコロ効果で、⾃分もダメージを受けて、おたがいのポケモンのHPが同時になくなりました。
-この場合、勝敗はどうなりますか？
+Q: Due to the self-damage effect of the move "Volt Tackle", I also took damage, and both Pokémon lost all their HP at the same time.
+In this case, who wins or loses?
 
-A: 自分の負けです。
-同時にHPがなくなった場合、ワザを使った⽅が負けになります。
+A: You lose.
+If both Pokémon lose all their HP at the same time, the player who used the move loses.
 
 R: Volt Tackle
 
 #### 11
 
-Q: 相手がワザ「Leech Seed」のエネコロチェックとキャラコロチェックに成功して、次の自分の番、自分が振れるエネコロが1個少なくなりました。
-次の自分の番、エネコロが2個の状態で、ワザ「Electric Rush」のエネコロチェックとキャラコロチェックに成功しました。
-続けて2回目の「Electric Rush」を使う時、自分が振れるエネコロの数は何個ですか？
+Q: My opponent successfully passed the Enekoro and Charakoro rolls for the move "Leech Seed".
+On my next turn, with 2 Enekoro remaining, I successfully passed the Enekoro and Charakoro rolls for the move "Electric Rush".
+When I use "Electric Rush" for the second time in a row, how many Enekoro do I have to use?
 
-A: 2個です。
-さらに成功が続いた場合も、エネコロの数は2個のままです。
+A: 2 Enekoro.
+Even if you continue to succeed, the number of Enekoro you can roll remains at 2.
 
 R: Electric Rush, Leech Seed
 
 #### 12
 
-Q: 先攻初回の番、エネコロが2個の状態で、ワザ「Electric Rush」のエネコロチェックとキャラコロチェックに成功しました。
-続けて2回目の「Electric Rush」を使う時、自分が振れるエネコロの数は何個ですか？
+Q: In the first turn of the first player, with 2 Enekoro, I successfully passed the Enekoro and Charakoro rolls for the move "Electric Rush".
+When I use "Electric Rush" for the second time in a row, how many Enekoro can I spend?
 
-A: 2個です。
-さらに成功が続いた場合も、エネコロの数は2個のままです。
+A: 2 Enekoro.
+Even if you continue to succeed, the number of Enekoro you can roll remains at 2.
 
 R: Electric Rush
 
 #### 13
 
-Q: ワザ「Take Down」を選びました。
-エネコロチェックは空エネルギー3つ、キャラコロチェックは横向き(左)でした。
-この場合、相手に与えるダメージは何ダメージですか？
+Q: I chose the move "Take Down".
+The Enekoro roll shoed 3 Flying{Y} energy, and the Charakoro roll was sideways{s1}.
+In this case, how much damage will I deal to my opponent?
 
-A: 30ダメージです。
+A: 30 damage.
 
 R: Take Down
 
 #### 14
 
-Q: ワザ「Best Dash」を選びました。
-どのタイプのエネルギーが何個出れば成功ですか？
+Q: I chose the move "Best Dash".
+How many energies of which type do I need to succeed?
 
-A: どのタイプでもいいので、エネルギーが5個出ていれば成功するワザです。
+A: This move succeeds as long as you have 5 energies - any type will do.
 
 R: Best Dash
 
 #### 15
 
-Q: ワザ「Take Down」のキャラコロ効果で、⾃分もダメージを受けて、おたがいのポケモンのHPが同時になくなりました。
-この場合、勝敗はどうなりますか？
+Q: Due to the self-damage effect of the move "Take Down", I also took damage, and both Pokémon lost all their HP at the same time.
+In this case, who wins or loses?
 
-A: 自分の負けです。
-同時にHPがなくなった場合、ワザを使った⽅が負けになります。
+A: You lose.
+If both Pokémon lose all their HP at the same time, the player who used the move loses.
 
 R: Take Down
 
 #### 16
 
-Q: ワザ「Psychic」のエネコロチェックとキャラコロチェックに成功しました。
-相⼿がエネコロを振り、草エネルギーと炎エネルギーと⽔エネルギーが1個ずつ出ました。
-この場合、相手に与えるダメージは何ダメージですか？
+Q: I successfully passed the Enekoro and Charakoro rolls for the move "Psychic".
+My opponent rolled their Enekoro, and got one Grass{G} energy, one Fire{R} energy and one Water{W} energy.
+In this case, how much damage will I deal to my opponent?
 
-A: 30ダメージです。
-「一番多く出たタイプのエネルギーの数」は1個なので、1×10＝10ダメージが追加されます。
+A: 30 damage.
+Since the number of the most common Energy type is 1, 1x10 = 10 damage is added.
 
 R: Psychic
 
 #### 17
 
-Q: 相手がワザ「Gnaw」のエネコロチェックとキャラコロチェックに成功して、自分が40ダメージを受けました。
-次の自分の番、自分が「Reflection」のエネコロチェックとキャラコロチェックに成功しました。
-この場合、相手に与えるダメージは何ダメージですか？
+Q: My opponent successfully passed the Enekoro and Charakoro rolls for the move "Gnaw", and I took 40 damage.
+On my next turn, I successfully passed the Enekoro and Charakoro rolls for the move "Reflection".
+In this case, how much damage do I deal to my opponent?
 
-A: 20ダメージです。
-「相手が最後に選んだワザに書かれているダメージ」は10ダメージです。
-「Reflection」のキャラコロ効果でその2倍を与えられるため、10×2=20ダメージとなります。
+A: 20 damage.
+The damage listed on the opponent's last-chosen move is 10 damage.
+Because the Charakoro effect of "Reflection" allows you to deal double that amount, the damage is 10x2 = 20 damage.
 
 R: Reflection, Gnaw
 
 #### 18
 
-Q: ワザ「Scissors Charge」のエネコロチェックとキャラコロチェックに成功しました。
-「次の自分の番、自分のエネコロを1個多くする。」とはどのように行いますか？
-また、多くするエネコロを選ぶのは誰ですか？
+Q: I successfully passed the Enekoro and Charakoro rolls for the move "Scissors Charge".
+How do I carry out the effect that says "On your next turn, increase the number of Enekoro you roll by 1."?
+Also, who gets to choose which Enekoro to add=
 
-A: 3個エネコロを振った後に、その中から好きな1個を選んでもう⼀度振ります。
-その間に出たエネルギーがすべて、この番に出たエネルギーになります。
-エネコロを4つ以上持っている場合は、好きなエネコロを追加して、同時に振っても良いです。
-多くするエネコロをどれにするかは、エネコロを振る人が選びます。
+A: After rolling 3 Enekoro, choose any one of them and roll it again.
+All the Energy revealed during this process counts as the Energy produced this turn.
+If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.
+The player rolling the Enekoro chooses which one to add.
 
 R: Scissors Charge
 
 #### 19
 
-Q: ワザ「Guillotine」を選びました。
-エネコロチェックは草エネルギー4つ、キャラコロチェックは{st}でした。
-この場合、ダメージを与えることはできますか？
+Q: I choose the move "Guillotine".
+The Enekoro roll showed 4 Grass{G} Energy, and the Charakoro roll was {st}.
+In this case, can I deal damage?
 
-A: いいえ、できません。
-エネコロチェックに失敗しているため、ワザは失敗となります。
-その場合、キャラコロチェックは行わず、番は終了となります。
+A: No, you cannot.
+As the Enekoro roll failed, the move fails.
+In this case, the Charakoro check is not carried out, and the turn ends.
 
 R: Guillotine
 

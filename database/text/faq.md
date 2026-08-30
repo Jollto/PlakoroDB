@@ -289,268 +289,267 @@ A: Yes, you can.
 
 R: Harassment Venom, Electric Rush
 
-## 基本ルールについて about basic rules
+## About the Basic Rules
 
 #### 1
 
-Q: エネコロとはなんですか？
+Q: What is an Enekoro?
 
-A: ワザを使うのに必要なエネルギーが書かれたサイコロです。
-バトルの時に転がるように振って使います。
+A: It's a die that shows the energy needed to use a move.
+You roll it during battle to use it.
 
 #### 2
 
-Q: エネコロのカスタムチップの組み合わせを、自分の好きなように決めることはできますか？
+Q: Can I customize the combination of Enekoro's chips however I like?
 
-A: はい、できます。
+A: Yes, you can.
 
 #### 3
 
-Q: エネコロを組み立てる時は、2つのパーツを同じ色で揃える必要がありますか？
+Q: When assembling the Enekoro, do I need to match the two parts by color?
 
-A: いいえ、揃える必要はありません。
+A: No, you don't need to match them.
 
 #### 4
 
-Q: バトル中にエネコロのカスタムチップを付け替えることはできますか？
+Q: Can I swap out Enekoro's chips during a battle?
 
-A: いいえ、できません。
+A: No, you cannot.
 
 #### 5
 
-Q: バトル中にエネコロのカスタムチップが外れたら、どうすればよいですか？
+Q: WHat should I do if an Enekoro's chip comes off during a battle?
 
-A: カスタムチップが外れた面が見えていれば、そこにつけなおします。
-見えない場合は、エネコロチェックの後でカスタムチップをつけなおします。
+A: If you can see the face of the chip that came off, reattach it there.
+If you can't, reattach the chip after performing the Enekoro check.
 
 #### 6
 
-Q: ワザの効果などでエネコロを多く振ることになりました。この場合、どのように振ればよいですか？
+Q: I need to roll a large number of Enekoro due to a move's effect or similar reason. How should I roll them in this case?
 
-A: 3個エネコロを振った後に、その中から追加で振るエネコロの数ぶん選んでもう⼀度振ります。
-その間に出たエネルギーがすべて、この番に出たエネルギーになります。
-エネコロを4つ以上持っている場合は、好きなエネコロを追加して、同時に振っても良いです。
+A: After rolling 3 Enekoro, select a number of Enekoro from among them equal to the number you want to roll additionally, and roll them again.
+All the Energy revealed during this process counts as the Energy produced this turn.
+If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.
 
 #### 7
 
-Q: ワザの効果などでエネコロを少なく振ることになりました。この場合、どのように振ればよいですか？
+Q: Due to a move's effect or another reason, I need to roll fewer Enekoro. How should I roll them in this case?
 
-A: エネコロを振る前に、少なくするエネコロを選びます。
-残ったエネコロを振って出たエネルギーがすべて、この番に出たエネルギーになります。
+A: Before rolling the Enekoro, select the ones you want to remove.
+Roll the reamining Enekoro, and all the Energy produced from that roll will be the energy generated for this turn.
 
 #### 8
 
-Q: 机から落ちたエネコロやキャラコロは振りなおしますか？
+Q: Do I reroll Enekoro or Charakoro that have fallen off the table?
 
-A: 自分と相手のどちらかから見えないところにエネコロやキャラコロが落ちたときは、落ちたエネコロやキャラコロだけ振りなおします。
+A: If an Enekoro or Charakoro falls in a spot where neither you nor your opponent can see it, only the fallen Enekoro or Charakoro is rolled again.
 
 #### 9
 
-Q: エネコロとキャラコロを別々に振ることはできますか？
+Q: Can I roll the ENekoro and Charakoro separately?
 
-A: 基本的には同時に振ります。
-エネコロとキャラコロを同時に持てない場合は、エネコロとキャラコロを別々に振ることもできます。
+A: Generally, you roll them at the same time.
+However, if you cannot hold both the Enekoro and Charakoro at the same time, you may roll them separately.¡
 
 #### 10
 
-Q: キャラカードとはなんですか？
+Q: What is a Characard?
 
-A: 自分が使うポケモン、HPや弱点が書かれているカードです。
-対戦の時にキャラカード置き場に置きます。
+A: It is a card showing the Pokémon you are using, along with its HP and weakness.
 
 #### 11
 
-Q: キャラコロの向きが「斜め」で止まった場合、そのキャラコロを振り直すことはできますか？
+Q: If a Charakoro lands diagonally, can I roll it again?
 
-A: はい、できます。
+A: Yes, you can.
 
 #### 12
 
-Q: キャラカードと別のポケモンのキャラコロを使うことはできますか？
+Q: Can I use a Charakoro for a Pokémon other than the one on the Characard?
 
-A: いいえ、できません。
-キャラカードに書かれているポケモンの名前と同じキャラコロを使用してください。
+A: No, you cannot.
+Please use the Charakoro with the same name as the Pokémon shown on the Characard.
 
 #### 13
 
-Q: ライフカウンターとはなんですか？
+Q: What is a Life Counter?
 
-A: ポケモンのHPを表す道具です。
-キャラカードに書かれている数字に合わせてバトルを始めます。
+A: It is an item that represents a Pokémon's HP.
+You start the battle by setting the number on the Life Counter to match the figure shown on the Characard.
 
 #### 14
 
-Q: ワザカードとはなんですか？
+Q: What is a Wazacard?
 
-A: ポケモンがワザを使うためのカードです。
-選んだワザに書かれている数以上のエネルギーが出ていたらワザは成功です。
+A: It is a card that allows a Pokémon to use a move.
+The move is successful if you have at least as many Energies as the number shown on the chosen move.
 
 #### 15
 
-Q: 違うポケモンのワザカードを混ぜて使うことはできますか？
+Q: Can I mix and use Wazacards from different Pokémon?
 
-A: いいえ、できません。
-ワザカードの「このワザが使えるポケモン」に名前のあるポケモンしか、そのワザを使うことはできません。
+A: No, you cannot.
+Only the Pokémon listed under "Pokémon that can use this move" on a Wazacard can use this move.
 
 #### 16
 
-Q: 同じワザカードを複数枚入れることはできますか？
+Q: Can I include multiple copies of the same Wazacard?
 
-A: いいえ、できません。
+A: No, you cannot.
 
 #### 17
 
-Q: ワザカードの内容を、相手に秘密にしたまま対戦を始めることはできますか？
+Q: Can I start a match while keeping the contents of my Wazacards secret from my opponent?
 
-A: いいえ、できません。
-おたがいに対戦の準備ができたら、ワザカードをすべてオモテにします。
+A: No, you cannot.
+Once both players are ready to begin the match, all Wazacards must be turned face up.
 
 #### 18
 
-Q: 2つのワザを毎ターン交互に使い続けることはできますか？
+Q: Can I continue to use two different moves alternately every turn?
 
-A: はい、できます。
+A: Yes, you can.
 
 #### 19
 
-Q: ワザを使うコツはありますか？
+Q: Are there any tips for using moves?
 
-A: エネコストが少ないワザは成功しやすいです。ワザが決まらないときはエネコストが1や2のワザを使ってみましょう。
+A: Moves with a low energy cost are more likely to succeed. If your moves aren't landing, try using moves with an energy cost of 1 or 2.
 
 #### 20
 
-Q: エネコストが少ないワザは成功しやすいです。ワザが決まらないときはエネコストが1や2のワザを使ってみましょう。
+Q: If a move fails, can I still apply the Charakoro effect?
 
-A: いいえ、できません。ワザが失敗した場合はキャラコロチェックを行わずにそのまま番が終了します。
+A: No, you cannot. If a move fails, your turn ends immediately without performing a Charakoro check.
 
 #### 21
 
-Q: ワザカードを4枚よりも少ない枚数（例えば3枚だけ）で対戦を始めることはできますか？
+Q: Can I start a match with fewer than four Wazacards (for example, just three)?
 
-A: いいえ、できません。
+A: No, you cannot.
 
 #### 22
 
-Q: ワザを使わずに「パス」することはできますか？
+Q: Can I "pass" without using a move?
 
-A: いいえ、できません。
-その番に使うワザをかならず1つ選びます。
+A: No, you cannot.
+You must choose one move to use during your turn.
 
 #### 23
 
-Q: 先攻初回の番から相手にダメージを与えることはできますか？
+Q: Can I deal damage to my opponent from my very first turn when I go first?
 
-A: はい、できます。
-先攻初回の番に振れるエネコロの数は2個になりますが、ワザに必要なエネルギーが出ていれば、ダメージを与えることができます。
+A: Yes, you can.
+Although you can only roll two Enekoro during your first turn when going first, you can deal damage provided you have enough Energy to pay for the move.
 
 #### 24
 
-Q: ワザに必要なエネルギーが多く出た場合、別のワザに変えることはできますか？
+Q: If I roll more Energy than a move requires, can I switch to a different move?
 
-A: いいえ、できません。
+A: No, you cannot.
 
 #### 25
 
-Q: 「弱点＋20」の効果を、ワザが成功したダメージと、キャラコロ効果によるダメージの両方に追加することはできますか？
+Q: Can the "Weakness +20" effect be applied to both the damage dealt by a successful move and the damage caused by a "Charakoro" effect?
 
-A: いいえ、できません。
-弱点の効果は、ワザのダメージとキャラコロ効果のダメージを合わせた後に計算します。
+A: No, you cannot.
+The Weakness effect is calculated after the damage from the move and the damage from the "Charakoro" effect have been combined.
 
 #### 26
 
-Q: 回復とはなんですか？
+Q: What is healing?
 
-A: "ポケモンがダメージを受けて減ったHPを戻すことです。
-「このポケモンのHPを〇〇回復する。」といった効果で書かれているぶん、ライフカウンターを戻します。
+A: It is the act of restoring a Pokémon's HP that has been reduced by damage.
+Whatever an effect states something like "Heal XX HP from this Pokémon", the Life Counter is restored accordingly.
 
 #### 27
 
-Q: キャラカードに書かれている「HP120」を超えて回復させることはできますか？
+Q: Can I heal a character beyond the "120 HP" stated on their Characard?
 
-A: いいえ、できません
-キャラカードに書かれている最大HP以上に回復することはできません。
+A: No, you cannot.
+You cannot heal a Pokémon beyond the maximum HP stated on their Characard.
 
 #### 28
 
-Q: おたがいのHPが同時に0になった場合、勝敗はどうなりますか？
+Q: If both players' HP reaches 0 at the same time, who loses?
 
-A: ワザを使った方の負けになります。
+A: The player who used the move loses.
 
 #### 29
 
-Q: 「どく」や「まひ」などの状態異常はありますか？
+Q: Are there any status conditions such as "Poison" or "Paralysis"?
 
-A: いいえ、ありません。
+A: No, there aren't.
 
 #### 30
 
-Q: 対戦中に、相手のライフカウンター（残りHP）や、相手の残りワザカードを確認することはできますか？
+Q: During a match, can I check my opponent's life counter (remaining HP) or their remaining Wazacards?
 
-A: はい、できます。
-確認のために近くで見たい場合は、相手に声をかけましょう。
+A: Yes, you can.
+If you wish to look closely to check, please ask your opponent.
 
 #### 31
 
-Q: エネコロに書かれている、エネルギーのタイプは何種類ありますか？
+Q: How many different Energy types are listed for the Enekoros?
 
-A: 9種類です。
-草（くさ）、炎（ほのお）、水（みず）、雷（かみなり）、超（ちょう）、闘（とう）、悪（あく）、鋼（はがね）、空（そら）があります。
+A: There are nine types.
+These are Grass, Fire, Water, Electric, Psychic, Fighting, Dark, Steel and Flying.
 
 #### 32
 
-Q: キャラカードに書かれている、ポケモンのタイプは何種類ありますか？
+Q: How many types of Pokémon are listed on Charakoros?
 
-A: 11種類です。
-草（くさ）、炎（ほのお）、水（みず）、雷（かみなり）、超（ちょう）、闘（とう）、悪（あく）、鋼（はがね）、竜（ドラゴン）、空（そら）、無（むしょく）があります。
+A: There are 11 types.
+These are Grass, Fire, Water, Electric, Psychic, Fighting, Dark, Steel, Dragon, Flying and Normal.
 
 #### 33
 
-Q: ワザカードに書かれている、無（むしょく）エネルギーとはなんですか？
+Q: What is "Normal" Energy, as shown on Wazacards?
 
-A: どのタイプのエネルギーが出ていても数えられるエネルギーです。
-例えば、無（むしょく）エネルギーが5個書かれているワザカードの場合、どのタイプでもいいのでエネルギーが5個出ていればエネコロチェックは成功です。
+A: It is Energy that counts regardless of its type.
+For example, if a Wazacard shows 5 "Normal" Energy, the Energy Check is successful as long as there are 5 Energies in total, regardless of their type.
 
 #### 34
 
-Q: 相手のキャラコロを見てから使うキャラコロとエネコロを選ぶことはできますか？
+Q: Can I choose my Charakoro and Enekoro after seeing my opponent's Charakoro?
 
-A: いいえ、できません。
-キャラコロとエネコロは同時に見せ合います。
+A: No, you cannot.
+Charakoros and Enekoros are revealed simultaneously.
 
 #### 35
 
-Q: 相手のキャラコロを見てからエネコロのカスタムをすることはできますか？
+Q: Can I customise my Enekoro after seeing my opponent's Charakoro?
 
-A: いいえ、できません。
-キャラコロとエネコロは同時に見せ合います。
+A: No, you cannot.
+Charakoros and Enekoros are revealed simultaneously.
 
 #### 36
 
-Q: バトル中にキャラコロを変えることはできますか？
+Q: Can I change my Charakoro during a battle?
 
-A: いいえ、できません。
-同じポケモンであっても、途中で違うポーズのキャラコロへの変更はできません。
+A: No, you cannot.
+Even if it is the same Pokémon, you cannot switch to a Charakoro with a different pose mid-battle.
 
 #### 37
 
-Q: ワザの効果などでエネコロを多く振るために、バトルの途中でエネコロを追加したいです。
-この場合、追加したいエネコロを、バトルの準備の時に相手に見せる必要はありますか？
+Q: I would like to add an Enekoro mid-battle to use more Enekoro due to a move's effect or similar.
+In this case, do I need to show the opponent the Enekoro I wish to add during battle preparation?
 
-A: いいえ、バトルの準備の時に見せる必要はありません。
-エネコロを多くしたい時に、追加したいエネコロを相手に見せてください。
+A: No, you do not need to show them during battle preparation.
+When you wish to increase your Enekoro, please show your opponent the additional Enekoro you wish to add.
 
 #### 38
 
-Q: ワザの効果などでエネコロを多く振るために、バトルの途中でエネコロを追加しました。
-この場合、エネコロを多くする効果がはたらいていない番にも、追加したエネコロを選んで使うことはできますか？
+Q: I added more Enekoros during the battle to roll more of them, due to a move’s effect or similar.
+In this case, can I choose to use the added Enekoros even on turns when the effect that increases the number of Enekoros is not in effect?
 
-A: いいえ、できません。
-エネコロを多くする効果がはたらいていない番は、バトルの準備の時に相手に見せたエネコロ3個を振ります。
+A: No, you cannot.
+On turns when the effect that increases the number of Enekoros is not in effect, you must roll the three Enekoros you showed your opponent during battle preparation.
 
 #### 39
 
-Q: ワザの効果などでエネコロを多く振るために、バトルの途中でエネコロを追加しました。
-別の番にもう一度エネコロを多く振る効果がはたらいた場合、同じエネコロを使う必要はありますか？
+Q: I added more Enekoro during the battle to use more of them, due to a move’s effect or similar.
+If the effect that allows me to use more Enekoro takes effect again on a different turn, do I have to use the same Enekoro?
 
-A: いいえ、同じものを使う必要はありません。
-エネコロは追加するたびに相手に見せてください。
+A: No, you do not have to use the same ones.
+Please show your opponent the Enekoro each time you add them.

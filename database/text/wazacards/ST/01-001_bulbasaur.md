@@ -78,9 +78,9 @@
 
 [Grass Knot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard04.webp)
 
-#### Assault ?
+#### Reckless Charge
 
-| Name      | Assault ?                                   |
+| Name      | Reckless Charge                             |
 | --------- | ------------------------------------------- |
 | Japanese  | とつげき                                    |
 | Type      | Grass                                       |
@@ -95,7 +95,7 @@
 | Down      | This Pokémon also does 30 damage to itself. |
 | Sideways  |                                             |
 
-[Assault](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard05.webp)
+[Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard05.webp)
 
 #### Giga Drain
 

@@ -19,6 +19,8 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
+[Beam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard01.webp)
+
 #### Basic Calculation ?
 
 | Name      | Basic Calculation ?                                                                                     |
@@ -36,7 +38,7 @@
 | Down      |                                                                                                         |
 | Sideways  | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this move. |
 
-[Basic Calculation](https://x.com/plakoro_pokepla/status/2089910259888656819/photo/1)
+[Basic Calculation](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
 
 #### Wide Press ?
 
@@ -55,6 +57,8 @@
 | Down      |                                  |
 | Sideways  | This attack does 30 more damage. |
 
+[Wide Press](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard03.webp)
+
 #### Straight Stamp ?
 
 | Name      | Straight Stamp ?                 |
@@ -71,6 +75,8 @@
 | Back      | This attack does 20 more damage. |
 | Down      | This attack does 20 more damage. |
 | Sideways  |                                  |
+
+[Straight Stamp](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard04.webp)
 
 #### Meteor Mash
 
@@ -89,6 +95,8 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
+[Meteor Mash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard05.webp)
+
 #### Heavy Slam
 
 | Name      | Heavy Slam                                                     |
@@ -106,6 +114,8 @@
 | Down      | On your next turn, reduce the number of Enekoro you roll by 2. |
 | Sideways  | This attack does 40 more damage.                               |
 
+[Heavy Slam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard06.webp)
+
 #### Explosion
 
 | Name      | Explosion                                              |
@@ -122,3 +132,5 @@
 | Back      |                                                        |
 | Down      |                                                        |
 | Sideways  |                                                        |
+
+[Explosion](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)

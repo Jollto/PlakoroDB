@@ -19,6 +19,8 @@
 | Down      |                                  |
 | Sideways  | This attack does 10 more damage. |
 
+[Suffocating Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard01.webp)
+
 #### Spooky Shot
 
 | Name      | Spooky Shot                      |
@@ -35,6 +37,8 @@
 | Back      | This attack does 20 more damage. |
 | Down      | This attack does 20 more damage. |
 | Sideways  |                                  |
+
+[Spooky Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard02.webp)
 
 #### Upside Down ?
 
@@ -53,6 +57,8 @@
 | Down      |                                                                             |
 | Sideways  | On your opponent's next turn, set the direction of their Charakoro to {hs}. |
 
+[Upside Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard03.webp)
+
 #### Shadow Bind
 
 | Name      | Shadow Bind                                                     |
@@ -70,7 +76,7 @@
 | Down      |                                                                 |
 | Sideways  | On your opponent's next turn, they cannot roll their Charakoro. |
 
-[Shadow Bind](https://x.com/plakoro_pokepla/status/2087373557202596139/photo/1)
+[Shadow Bind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard04.webp)
 
 #### Sludge Bomb
 
@@ -89,6 +95,8 @@
 | Down      |                                  |
 | Sideways  | This attack does 20 more damage. |
 
+[Sludge Bomb](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard05.webp)
+
 #### Phantom Trick ?
 
 | Name      | Phantom Trick ?                                                                                       |
@@ -106,6 +114,8 @@
 | Down      | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, this attack does 40 more damage. |
 | Sideways  |                                                                                                       |
 
+[Phantom Trick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard06.webp)
+
 #### Psywave
 
 | Name      | Psywave                          |
@@ -122,3 +132,5 @@
 | Back      |                                  |
 | Down      |                                  |
 | Sideways  |                                  |
+
+[Psywave](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard07.webp)

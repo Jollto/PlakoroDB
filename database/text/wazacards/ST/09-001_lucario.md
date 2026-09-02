@@ -19,6 +19,8 @@
 | Down      | This attack does 10 more damage. |
 | Sideways  |                                  |
 
+[Kick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard01.webp)
+
 #### Force Palm
 
 | Name      | Force Palm                                                                |
@@ -35,6 +37,8 @@
 | Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
 | Down      |                                                                           |
 | Sideways  |                                                                           |
+
+[Force Palm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard02.webp)
 
 #### Aura Knuckle
 
@@ -53,6 +57,8 @@
 | Down      | If this pokemon has 80 or less HP remaining, this attack does 30 more damage. |
 | Sideways  |                                                                               |
 
+[Aura Knuckle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard03.webp)
+
 #### Rolling Kick
 
 | Name      | Rolling Kick                     |
@@ -69,6 +75,8 @@
 | Back      |                                  |
 | Down      |                                  |
 | Sideways  | This attack does 30 more damage. |
+
+[Rolling Kick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard04.webp)
 
 #### Aura Jab ?
 
@@ -87,7 +95,9 @@
 | Down      |                                                                                                                                |
 | Sideways  | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 
-#### Aura Sphere    
+[Aura Jab](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard05.webp)
+
+#### Aura Sphere
 
 | Name      | Aura Sphere                                                                   |
 | --------- | ----------------------------------------------------------------------------- |
@@ -103,6 +113,8 @@
 | Back      | If this pokemon has 40 or less HP remaining, this attack does 50 more damage. |
 | Down      | If this pokemon has 40 or less HP remaining, this attack does 50 more damage. |
 | Sideways  |                                                                               |
+
+[Aura Sphere](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard06.webp)
 
 #### Metal Claw
 
@@ -120,3 +132,5 @@
 | Back      |                                  |
 | Down      |                                  |
 | Sideways  |                                  |
+
+[Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard07.webp)

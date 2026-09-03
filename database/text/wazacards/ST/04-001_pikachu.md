@@ -139,7 +139,7 @@
 
 #### Critical Bolt ?
 
-| Name      | Critical Bolt                    |
+| Name      | Critical Bolt ?                  |
 | --------- | -------------------------------- |
 | Japanese  | クリティカルボルト               |
 | Type      | Electric                         |

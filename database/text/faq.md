@@ -4,7 +4,7 @@
 
 #### 1
 
-Q: I successfully passed the Enekoro and Charakoro rolls for the move "Leech Seed".
+Q: I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed".
 How do I carry out the effect that says "On your next turn, increase the number of Enekoro you roll by 1."?
 
 A: First, roll 3 Enekoro.
@@ -17,7 +17,7 @@ R: Leech Seed
 
 #### 2
 
-Q: When Bulbasaur's HP was 120, I successfully passed the Enekoro and Charakoro rolls for the move "Giga Drain".
+Q: When Bulbasaur's HP was 120, I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Giga Drain".
 In this case, can I raise its HP to 160?
 
 A: No, you cannot. Bulbasaur's max HP is 120.
@@ -26,7 +26,7 @@ R: Giga Drain
 
 #### 3
 
-Q: Due to the self-damage effect of the move "Reckless Charge", both my Pokémon and my opponent's Pokémon lost all their HP at the same time.
+Q: Due to the self-damage effect of Bulbasaur's move "Reckless Charge", both my Pokémon and my opponent's Pokémon lost all their HP at the same time.
 In this case, who wins or loses?
 
 A: You lose.
@@ -36,7 +36,7 @@ R: Reckless Charge
 
 #### 4
 
-Q: I successfully passed the Enekoro and Charakoro rolls for the move "Heat Up".
+Q: I successfully passed the Enekoro and Charakoro rolls for Charmander's move "Heat Up".
 How do I carry out the effect that says "On your next turn, increase the number of Enekoro you roll by 2."?
 Also, who chooses which Enekoro to add?
 
@@ -50,7 +50,7 @@ R: Heat Up
 
 #### 5
 
-Q: I successfully passed the Enekoro and Charakoro rolls for the move "Flare Storm".
+Q: I successfully passed the Enekoro and Charakoro rolls for Charmander's move "Flare Storm".
 I got 5 Fire{R} Energy symbols.
 In this case, how much damage do I deal to my opponent?
 
@@ -60,8 +60,9 @@ R: Flare Storm
 
 #### 6
 
-Q: On my previous turn, I successfully passed the Enekoro and Charakoro rolls for the move "Shell Attack".
-On my opponent's next turn, my opponent used the move "Vine Whip". The Enekoro roll was successful, but the Charakoro rolled {s1}.
+Q: On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack".
+On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip".
+The Enekoro roll was successful, but the Charakoro roll failed.
 In this case, how much damage do I take?
 
 A: 0 damage.
@@ -70,8 +71,8 @@ R: Shell Attack, Vine Whip
 
 #### 7
 
-Q: On my previous turn, I successfully passed the Enekoro and Charakoro rolls for the move "Shell Attack".
-On my opponent's next turn, my opponent used the move "Vine Whip" and successfully passed the Enekoro and Charakoro rolls.
+Q: On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack".
+On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip" and successfully passed the Enekoro and Charakoro rolls.
 In this case, how much damage do I take?
 
 A: 10 damage.
@@ -80,7 +81,7 @@ R: Shell Attack, Vine Whip
 
 #### 8
 
-Q: I successfully passed the Enekoro and Charakoro rolls for the move "Electric Rush".
+Q: I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush".
 How do I carry out the effect that says "Use "Electric Rush" 1 more time. (Can be repeated until it fails.)"?
 
 A: Roll the Enekoro and Charakoro again to attempt "Electric Rush".
@@ -90,7 +91,7 @@ R: Electric Rush
 
 #### 9
 
-Q: I successfully passed the Enekoro and Charakoro rolls for the move "Thunderbolt".
+Q: I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Thunderbolt".
 How do I carry out the effect that says "On your next turn, reduce the number of Enekoro you roll by 2"?
 Also, who chooses which Enekoro to reduce?
 
@@ -101,7 +102,7 @@ R: Thunderbolt
 
 #### 10
 
-Q: Due to the self-damage effect of the move "Volt Tackle", I also took damage, and both Pokémon lost all their HP at the same time.
+Q: Due to the self-damage effect of Pikachu's move "Volt Tackle", Pikachu also took damage, and both Pokémon lost all their HP at the same time.
 In this case, who wins or loses?
 
 A: You lose.
@@ -111,8 +112,8 @@ R: Volt Tackle
 
 #### 11
 
-Q: My opponent successfully passed the Enekoro and Charakoro rolls for the move "Leech Seed".
-On my next turn, with 2 Enekoro remaining, I successfully passed the Enekoro and Charakoro rolls for the move "Electric Rush".
+Q: My opponent successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed".
+On my next turn, with 2 Enekoro remaining, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush".
 When I use "Electric Rush" for the second time in a row, how many Enekoro do I have to use?
 
 A: 2 Enekoro.
@@ -122,7 +123,7 @@ R: Electric Rush, Leech Seed
 
 #### 12
 
-Q: In the first turn of the first player, with 2 Enekoro, I successfully passed the Enekoro and Charakoro rolls for the move "Electric Rush".
+Q: In the first turn of the first player, with 2 Enekoro, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush".
 When I use "Electric Rush" for the second time in a row, how many Enekoro can I spend?
 
 A: 2 Enekoro.
@@ -132,8 +133,8 @@ R: Electric Rush
 
 #### 13
 
-Q: I chose the move "Take Down".
-The Enekoro roll shoed 3 Flying{Y} energy, and the Charakoro roll was sideways{s1}.
+Q: I used Eevee's move "Take Down".
+The Enekoro roll showed 3 Flying{Y} energy, and the Charakoro roll was sideways{s1}.
 In this case, how much damage will I deal to my opponent?
 
 A: 30 damage.
@@ -142,7 +143,7 @@ R: Take Down
 
 #### 14
 
-Q: I chose the move "Best Dash".
+Q: I used Eevee's move "Best Dash".
 How many energies of which type do I need to succeed?
 
 A: This move succeeds as long as you have 5 energies - any type will do.
@@ -151,7 +152,7 @@ R: Best Dash
 
 #### 15
 
-Q: Due to the self-damage effect of the move "Take Down", I also took damage, and both Pokémon lost all their HP at the same time.
+Q: Due to the self-damage effect of Eevee's move "Take Down", Eevee also took damage, and both Pokémon lost all their HP at the same time.
 In this case, who wins or loses?
 
 A: You lose.
@@ -418,119 +419,113 @@ A: Moves with a low energy cost are more likely to succeed. If your moves aren't
 
 #### 20
 
-Q: If a move fails, can I still apply the Charakoro effect?
-
-A: No, you cannot. If a move fails, your turn ends immediately without performing a Charakoro check.
-
-#### 21
-
 Q: Can I start a match with fewer than four Wazacards (for example, just three)?
 
 A: No, you cannot.
 
-#### 22
+#### 21
 
 Q: Can I "pass" without using a move?
 
 A: No, you cannot.
 You must choose one move to use during your turn.
 
-#### 23
+#### 22
 
 Q: Can I deal damage to my opponent from my very first turn when I go first?
 
 A: Yes, you can.
 Although you can only roll two Enekoro during your first turn when going first, you can deal damage provided you have enough Energy to pay for the move.
 
-#### 24
+#### 23
 
 Q: If I roll more Energy than a move requires, can I switch to a different move?
 
 A: No, you cannot.
 
-#### 25
+#### 24
 
 Q: Can the "Weakness +20" effect be applied to both the damage dealt by a successful move and the damage caused by a "Charakoro" effect?
 
 A: No, you cannot.
 The Weakness effect is calculated after the damage from the move and the damage from the "Charakoro" effect have been combined.
 
-#### 26
+#### 25
 
 Q: What is healing?
 
 A: It is the act of restoring a Pokémon's HP that has been reduced by damage.
 Whatever an effect states something like "Heal XX HP from this Pokémon", the Life Counter is restored accordingly.
 
-#### 27
+#### 26
 
 Q: Can I heal a character beyond the "120 HP" stated on their Characard?
 
 A: No, you cannot.
 You cannot heal a Pokémon beyond the maximum HP stated on their Characard.
 
-#### 28
+#### 27
 
 Q: If both players' HP reaches 0 at the same time, who loses?
 
 A: The player who used the move loses.
 
-#### 29
+#### 28
 
 Q: Are there any status conditions such as "Poison" or "Paralysis"?
 
 A: No, there aren't.
 
-#### 30
+#### 29
 
 Q: During a match, can I check my opponent's life counter (remaining HP) or their remaining Wazacards?
 
 A: Yes, you can.
 If you wish to look closely to check, please ask your opponent.
 
-#### 31
+#### 30
 
 Q: How many different Energy types are listed for the Enekoros?
 
 A: There are nine types.
 These are Grass, Fire, Water, Electric, Psychic, Fighting, Dark, Steel and Flying.
 
-#### 32
+#### 31
 
 Q: How many types of Pokémon are listed on Charakoros?
 
 A: There are 11 types.
 These are Grass, Fire, Water, Electric, Psychic, Fighting, Dark, Steel, Dragon, Flying and Normal.
 
-#### 33
+#### 32
 
 Q: What is "Normal" Energy, as shown on Wazacards?
 
 A: It is Energy that counts regardless of its type.
 For example, if a Wazacard shows 5 "Normal" Energy, the Energy Check is successful as long as there are 5 Energies in total, regardless of their type.
 
-#### 34
+#### 33
 
 Q: Can I choose my Charakoro and Enekoro after seeing my opponent's Charakoro?
 
 A: No, you cannot.
 Charakoros and Enekoros are revealed simultaneously.
 
-#### 35
+#### 34
 
 Q: Can I customise my Enekoro after seeing my opponent's Charakoro?
 
 A: No, you cannot.
 Charakoros and Enekoros are revealed simultaneously.
 
-#### 36
+#### 35
 
 Q: Can I change my Charakoro during a battle?
 
 A: No, you cannot.
 Even if it is the same Pokémon, you cannot switch to a Charakoro with a different pose mid-battle.
 
-#### 37
+#### 36
 
 Q: I would like to add an Enekoro mid-battle to use more Enekoro due to a move's effect or similar.
 In this case, do I need to show the opponent the Enekoro I wish to add during battle preparation?
@@ -538,7 +533,7 @@ In this case, do I need to show the opponent the Enekoro I wish to add during ba
 A: No, you do not need to show them during battle preparation.
 When you wish to increase your Enekoro, please show your opponent the additional Enekoro you wish to add.
 
-#### 38
+#### 37
 
 Q: I added more Enekoros during the battle to roll more of them, due to a move’s effect or similar.
 In this case, can I choose to use the added Enekoros even on turns when the effect that increases the number of Enekoros is not in effect?
@@ -546,10 +541,25 @@ In this case, can I choose to use the added Enekoros even on turns when the effe
 A: No, you cannot.
 On turns when the effect that increases the number of Enekoros is not in effect, you must roll the three Enekoros you showed your opponent during battle preparation.
 
-#### 39
+#### 38
 
 Q: I added more Enekoro during the battle to use more of them, due to a move’s effect or similar.
 If the effect that allows me to use more Enekoro takes effect again on a different turn, do I have to use the same Enekoro?
 
 A: No, you do not have to use the same ones.
 Please show your opponent the Enekoro each time you add them.
+
+#### 39
+
+Q: Can I choose my Charako and Enekoro types after looking at my opponent's Wazacards?
+
+A: No, you cannot.
+You must reveal your Charakoro and Enekoro to each other at the same time while preparing for the battle.
+Once al preparations for the battle are complete, turn all four Wazacards face up and start the battle.
+
+#### 40
+
+Q: What should I do if the number of Enekoro I can roll becomes 0 due to a move's effect or a similar reason?
+
+A: Even on a turn where you have 0 Enekoro to roll, select the move you wish to use for that turn and roll only the Charakoro.
+Once the result is determined, that turn ends.

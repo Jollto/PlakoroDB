@@ -5,7 +5,7 @@
 #### 1
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed".
-How do I carry out the effect that says "On your next turn, increase the number of Enekoro you roll by 1."?
+How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?
 
 A: First, roll 3 Enekoro.
 Next, choose any one of the rolled Enekoro and roll it again.
@@ -37,7 +37,7 @@ R: Reckless Charge
 #### 4
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Charmander's move "Heat Up".
-How do I carry out the effect that says "On your next turn, increase the number of Enekoro you roll by 2."?
+How is the effect "On your next turn, increase the number of Enekoro you roll by 2." applied?
 Also, who chooses which Enekoro to add?
 
 A: First, roll 3 Enekoro.
@@ -82,7 +82,7 @@ R: Shell Attack, Vine Whip
 #### 8
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush".
-How do I carry out the effect that says "Use "Electric Rush" 1 more time. (Can be repeated until it fails.)"?
+How is the effect "Use "Electric Rush" 1 more time. (Can be repeated until it fails.)" applied?
 
 A: Roll the Enekoro and Charakoro again to attempt "Electric Rush".
 Repeat this until you fail either the Enekoro or Charakoro rolls.
@@ -92,7 +92,7 @@ R: Electric Rush
 #### 9
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Thunderbolt".
-How do I carry out the effect that says "On your next turn, reduce the number of Enekoro you roll by 2"?
+How is the effect "On your next turn, reduce the number of Enekoro you roll by 2" applied?
 Also, who chooses which Enekoro to reduce?
 
 A: Choose any one of your three Enekoro and roll it.
@@ -162,7 +162,7 @@ R: Take Down
 
 #### 16
 
-Q: I successfully passed the Enekoro and Charakoro rolls for the move "Psychic".
+Q: I successfully passed the Enekoro and Charakoro rolls for Mew's move "Psychic".
 My opponent rolled their Enekoro, and got one Grass{G} energy, one Fire{R} energy and one Water{W} energy.
 In this case, how much damage will I deal to my opponent?
 
@@ -173,8 +173,8 @@ R: Psychic
 
 #### 17
 
-Q: My opponent successfully passed the Enekoro and Charakoro rolls for the move "Gnaw", and I took 40 damage.
-On my next turn, I successfully passed the Enekoro and Charakoro rolls for the move "Reflection".
+Q: My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Gnaw", and I took 40 damage.
+On my next turn, I successfully passed the Enekoro and Charakoro rolls for Mew's move "Reflection".
 In this case, how much damage do I deal to my opponent?
 
 A: 20 damage.
@@ -185,9 +185,9 @@ R: Reflection, Gnaw
 
 #### 18
 
-Q: I successfully passed the Enekoro and Charakoro rolls for the move "Scissors Charge".
-How do I carry out the effect that says "On your next turn, increase the number of Enekoro you roll by 1."?
-Also, who gets to choose which Enekoro to add=
+Q: I successfully passed the Enekoro and Charakoro rolls for Pinsir's move "Scissors Charge".
+How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?
+Also, who gets to choose which Enekoro to add?
 
 A: After rolling 3 Enekoro, choose any one of them and roll it again.
 All the Energy revealed during this process counts as the Energy produced this turn.
@@ -198,7 +198,7 @@ R: Scissors Charge
 
 #### 19
 
-Q: I choose the move "Guillotine".
+Q: I used Pinsir's move "Guillotine".
 The Enekoro roll showed 4 Grass{G} Energy, and the Charakoro roll was {st}.
 In this case, can I deal damage?
 
@@ -210,7 +210,7 @@ R: Guillotine
 
 #### 20
 
-Q: Due to the self-damage effect of the move "Fire Wing", I also took damage, and both Pokémon lost all their HP at the same time.
+Q: Due to the self-damage effect of Moltres' move "Fire Wing", I also took damage, and both Pokémon lost all their HP at the same time.
 In this case, who wins or loses?
 
 A: You lose.
@@ -220,7 +220,7 @@ R: Fire Wing
 
 #### 21
 
-Q: Due to the Charakoro effect of the move "Ice Wing", the opponent has to roll one Enekoro less during their next turn.
+Q: Due to the Charakoro effect of Articuno's move "Ice Wing", the opponent has to roll one Enekoro less during their next turn.
 Who decides which Enekoro to remove?
 
 A: The opponent.
@@ -230,8 +230,8 @@ R: Ice Wing
 
 #### 22
 
-Q: Due to the Charakoro effect of the move "Heat Up", I have 2 more Enekoro to roll on my next turn.
-However, due to the Charakoro effect of the move "Cold Breath", I also have 2 less Enekoro to roll on my next turn.
+Q: Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn.
+However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 less Enekoro to roll on my next turn.
 In this case, how many Enekoro can I roll on my next turn?
 
 A: 3 Enekoro.
@@ -240,8 +240,8 @@ R: Cold Breath, Heat Up
 
 #### 23
 
-Q: I successfully passed the Enekoro and Charakoro rolls for the move "Thunder Chain".
-How do I carry out the effect that says "Reroll your Charakoro. (Can be repeated until it fails.)"?
+Q: I successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Thunder Chain".
+How is the effect "Reroll your Charakoro. (Can be repeated until it fails.)" applied?
 
 A: Roll the Charakoro until a result other than {st}{ba}{do} appears.
 Inflict damage on your opponent's Pokémon equal to the number of times {st}{ba}{do} appeared multiplied by 30, plus the base 30.
@@ -250,8 +250,8 @@ R: Thunder Chain
 
 #### 24
 
-Q: I successfully passed the Enekoro and Charakoro rolls for the move "Rock Wall".
-On my opponent's next turn, they successfully used the move "Electric Rush" twice.
+Q: I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall".
+On my opponent's next turn, they successfully used Pikachu's move "Electric Rush" twice.
 In this case, how much damage do I take?
 
 A: 0 damage.
@@ -261,8 +261,8 @@ R: Rock Wall, Electric Rush
 
 #### 25
 
-Q: I successfully passed the Enekoro and Charakoro rolls for the move "Rock Wall".
-On my opponent's next turn, they successfully rolled the Charakoro for the move "Volt Rush" twice.
+Q: I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall".
+On my opponent's next turn, they successfully rolled the Charakoro for Pikachu's move "Volt Rush" twice.
 In this case, how much damage do I take?
 
 A: 40 damage.
@@ -272,9 +272,9 @@ R: Rock Wall, Volt Rush
 
 #### 26
 
-Q: I used the move "Poison Gas".
+Q: I used Grimer's move "Poison Gas".
 The Enekoro roll succeeded, but the Charakoro roll failed.
-On my next turn, if I succeed at both the Enekoro and Charakoro rolls for the move "Toxic Blast", can I deal additiona damage?
+On my next turn, if I succeed at both the Enekoro and Charakoro rolls for Grimer's move "Toxic Blast", can I deal additiona damage?
 
 A: Yes, you can.
 
@@ -282,13 +282,74 @@ R: Poison Gas, Toxic Blast
 
 #### 27
 
-Q: My opponent used the move "Electric Rush".
+Q: My opponent used Pikachu's move "Electric Rush".
 The first Enekoro and Charakoro rolls were successful, but the second Enekoro roll failed.
-On my next turn, if I succeed at the Enekoro and Charakoro rolls for the move "Harassment Venom", can I deal additional damage?
+On my next turn, if I succeed at the Enekoro and Charakoro rolls for Grimer's move "Harassment Venom", can I deal additional damage?
 
 A: Yes, you can.
 
 R: Harassment Venom, Electric Rush
+
+#### 28
+
+Q: When Lucario's HP is 120, I successfully passed the Enekoro and Charakoro rolls for Lucario's move "Aura Knuckle".
+In this case, can I deal additional damage?
+
+A: No, you cannot.
+You can only deal additional damage via the Charakoro effect of "Aura Knuckle" when HP is 80 or less.
+
+R: Aura Knuckle
+
+#### 29
+
+Q: I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".
+How is the effect "On the opponent's next turn, set the direction of their Charakoro to {ht}." applied?
+
+A: On the opponent's next turn, after the opponent rolls the Charakoro, they set it to {ht}.
+This ensures that even if the opponent rolls the Charakoro multiple times on their next turn, all Charakoro will be set to {ht}.
+
+R: Upside Down
+
+#### 30
+
+Q: I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".
+On my opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Dual Thunder".
+In this case, what will be the orientation of the Charakoro the opponent rolls on their next turn?
+
+A: On the next turn, all the Charakoro the opponent rolls will be {ht}.
+As a result, all "Dual Thunder" Charakoro checks will fail.
+
+R: Upside Down, Dual Thunder
+
+#### 31
+
+Q: I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}.
+On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".
+In this case, what will be the orientation of the Charakoro I roll on my next turn?
+
+A: Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will be {ht}.
+
+R: Basic Calculation, Upside Down
+
+#### 32
+
+Q: I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}.
+On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Shadow Bind".
+In this case, what will be the orientation of the Charakoro I roll on my next turn?
+
+A: Due to the "Shadow Bind" Charakoro effect, you will be unable to roll the Charakoro.
+
+R: Basic Calculation, Shadow Bind
+
+#### 33
+
+Q: Due to the move effect of Metagross' "Explosion", Metagross also took damage, and both Pokémon lost all their HP at the same time.
+In this case, who wins or loses?
+
+A: You lose.
+If both Pokémon lose all their HP at the same time, the player who used the move loses.
+
+R: Explosion
 
 ## About the Basic Rules
 

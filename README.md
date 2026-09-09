@@ -25,7 +25,7 @@ If the copyright holder requests that any content be modified or removed, I will
 
 ## Cards
 
-Translated cards are generated for personal and community use using **u/Leonarth5's Plakoro Card Maker**.
+Translated cards are generated for personal and community use using [**u/Leonarth5's Plakoro Card Maker**](https://leonarthcg.itch.io/plakoro-card-maker).
 
 These cards are provided to make the translation easier to read and reference.
 
@@ -73,3 +73,5 @@ This license does **not** apply to either Pokémon's and Plakoro's original artw
                 - one file for each Pokémon, with all the moves it has avaiable
             - [EB01](/database/text/wazacards/EB01) : expansion box 01 Pokémon
                 - one file for each Pokémon, with all the moves it has avaiable
+        - [korocards](/database/text/korocards/): files for the moves to import to Plakoro Card Maker
+        - [faq.md](/database/text/faq.md): Frequently Asked Questions, updated 01/09/2026

@@ -1,0 +1,3 @@
+files:
+  - source: /database/text/**/*.md
+    translation: /database_%two_letters_code%/text/**/%file_name%.md

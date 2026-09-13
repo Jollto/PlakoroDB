@@ -1,31 +1,31 @@
-# Símbolos
+# Symbols
 
-## Tipos
+## Types
 
-|   Tipo    |     Japonés      | Letra |                                               Símbolo                                               |
-| :-------: | :--------------: | :---: | :-------------------------------------------------------------------------------------------------: |
-|  Planta   |   `草（くさ）`   | `{G}` |    ![Planta](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/grass.webp)    |
-|   Fuego   |  `炎（ほのお）`  | `{R}` |     ![Fuego](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/fire.webp)     |
-|   Agua    |   `水（みず）`   | `{W}` |     ![Agua](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/water.webp)     |
-| Eléctrico | `雷（かみなり）` | `{L}` | ![Eléctrico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/electric.webp) |
-| Psíquico  |  `超（ちょう）`  | `{P}` |  ![Psíquico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/psychic.webp)  |
-|   Lucha   |   `闘（とう）`   | `{F}` |   ![Lucha](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/fighting.webp)   |
-| Siniestro |   `悪（あく）`   | `{D}` |   ![Siniestro](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/dark.webp)   |
-|   Acero   |  `鋼（はがね）`  | `{M}` |    ![Acero](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/steel.webp)     |
-|  Dragón   | `竜（ドラゴン）` | `{N}` |   ![Dragón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/dragon.webp)    |
-|  Volador  |   `空（そら）`   | `{Y}` |   ![Volador](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/flying.webp)   |
-|  Normal   | `無（むしょく）` | `{C}` |   ![Normal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/normal.webp)    |
+|   Type   |  Japanese | Letter |                                                Symbol                                               |
+| :------: | :-------: | :----: | :-------------------------------------------------------------------------------------------------: |
+|   Grass  |  `草（くさ）`  |  `{G}` |     ![Grass](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/grass.webp)    |
+|   Fire   |  `炎（ほのお）` |  `{R}` |      ![Fire](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/fire.webp)     |
+|   Water  |  `水（みず）`  |  `{W}` |     ![Water](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/water.webp)    |
+| Electric | `雷（かみなり）` |  `{L}` | ![Lightning](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/electric.webp) |
+|  Psychic |  `超（ちょう）` |  `{P}` |   ![Psychic](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/psychic.webp)  |
+| Fighting |  `闘（とう）`  |  `{F}` |  ![Fighting](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/fighting.webp) |
+|   Dark   |  `悪（あく）`  |  `{D}` |      ![Dark](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/dark.webp)     |
+|   Steel  |  `鋼（はがね）` |  `{M}` |     ![Steel](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/steel.webp)    |
+|  Dragon  | `竜（ドラゴン）` |  `{N}` |    ![Dragon](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/dragon.webp)   |
+|  Flying  |  `空（そら）`  |  `{Y}` |    ![Flying](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/flying.webp)   |
+|  Normal  | `無（むしょく）` |  `{C}` |    ![Normal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/normal.webp)   |
 
-Los textos en japonés (del FAQ) usa la terminologia del TCG, pero los iconos de la pagina web usan los tipos del VGC, por lo que usaré los tipos de VGC también.
+Japanese text (from FAQ) uses TCG terminology, but icons from webpage uses VGC types, I'll be using VGC types too.
 
-Para referenciar a los tipos de energia, usaré la nomenclatura del TCG, con *Y* por el tipo volador.
+For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flying type.
 
-## Orientación
+## Orientations
 
-| Orientación |    Tag     |                                                                                                         Símbolo                                                                                                          |
+| Orientation |     Tag    |                                                                                                          Symbol                                                                                                          |
 | :---------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   De pie    |   `{st}`   |                                                          ![De pie](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/standing.webp)                                                           |
-|  Vertical   |   `{hs}`   |                                                         ![Vertical](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/handstand.webp)                                                         |
-| De espalda  |   `{ba}`   |                                                          ![De espalda](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/back.webp)                                                           |
-| Boca abajo  |   `{do}`   |                                                          ![Boca abajo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/down.webp)                                                           |
-|   De lado   | `{s1}{s2}` | ![De lado 01](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape01.webp)![De lado 02](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape02.webp) |
+|   Standing  |   `{st}`   |                                                          ![Standing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/standing.webp)                                                         |
+|  Handstand  |   `{hs}`   |                                                         ![Handstand](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/handstand.webp)                                                        |
+|     Back    |   `{ba}`   |                                                              ![Back](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/back.webp)                                                             |
+|     Down    |   `{do}`   |                                                              ![Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/down.webp)                                                             |
+|   Sideways  | `{s1}{s2}` | ![Sideways01](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape01.webp)![Sideways02](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape02.webp) |

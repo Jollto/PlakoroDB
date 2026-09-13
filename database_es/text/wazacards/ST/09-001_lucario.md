@@ -4,133 +4,133 @@
 
 #### Kick
 
-| Name      | Kick                                             |
-| --------- | ------------------------------------------------ |
-| Japanese  | `キック`                                            |
-| Type      | Fighting                                         |
-| Code      | STW09-001                                        |
-| Pokémon   | Lucario                                          |
-| Energy    | {F}                                              |
-| Damage    | 10                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 10 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 10 more damage. |
-| Down      | This attack does 10 more damage. |
-| Sideways  |                                                  |
+| Name       | Kick                                             |
+| ---------- | ------------------------------------------------ |
+| Japonés    | `キック`                                            |
+| Type       | Fighting                                         |
+| Code       | STW09-001                                        |
+| Pokémon    | Lucario                                          |
+| Energía    | {F}                                              |
+| Daño       | 10                                               |
+| Efecto     |                                                  |
+| De pie     | This attack does 10 more damage. |
+| Vertical   |                                                  |
+| De espalda | This attack does 10 more damage. |
+| Boca abajo | This attack does 10 more damage. |
+| De lado    |                                                  |
 
 [Kick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard01.webp)
 
 #### Force Palm
 
-| Name      | Force Palm                                                                                |
-| --------- | ----------------------------------------------------------------------------------------- |
-| Japanese  | `はっけい`                                                                                    |
-| Type      | Fighting                                                                                  |
-| Code      | STW09-002                                                                                 |
-| Pokémon   | Lucario                                                                                   |
-| Energy    | {F}{F}                                                                                    |
-| Damage    | 20                                                                                        |
-| Effect    |                                                                                           |
-| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Handstand |                                                                                           |
-| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Down      |                                                                                           |
-| Sideways  |                                                                                           |
+| Name       | Force Palm                                                                                |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| Japonés    | `はっけい`                                                                                    |
+| Type       | Fighting                                                                                  |
+| Code       | STW09-002                                                                                 |
+| Pokémon    | Lucario                                                                                   |
+| Energía    | {F}{F}                                                                                    |
+| Daño       | 20                                                                                        |
+| Efecto     |                                                                                           |
+| De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Vertical   |                                                                                           |
+| De espalda | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Boca abajo |                                                                                           |
+| De lado    |                                                                                           |
 
 [Force Palm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard02.webp)
 
 #### Aura Knuckle
 
-| Name      | Aura Knuckle                                                                                  |
-| --------- | --------------------------------------------------------------------------------------------- |
-| Japanese  | `はどうナックル`                                                                                     |
-| Type      | Fighting                                                                                      |
-| Code      | STW09-003                                                                                     |
-| Pokémon   | Lucario                                                                                       |
-| Energy    | {F}{F}                                                                                        |
-| Damage    | 20                                                                                            |
-| Effect    |                                                                                               |
-| Standing  | If this pokemon has 80 or less HP remaining, this attack does 30 more damage. |
-| Handstand |                                                                                               |
-| Back      | If this pokemon has 80 or less HP remaining, this attack does 30 more damage. |
-| Down      | If this pokemon has 80 or less HP remaining, this attack does 30 more damage. |
-| Sideways  |                                                                                               |
+| Name       | Aura Knuckle                                                                                  |
+| ---------- | --------------------------------------------------------------------------------------------- |
+| Japonés    | `はどうナックル`                                                                                     |
+| Type       | Fighting                                                                                      |
+| Code       | STW09-003                                                                                     |
+| Pokémon    | Lucario                                                                                       |
+| Energía    | {F}{F}                                                                                        |
+| Daño       | 20                                                                                            |
+| Efecto     |                                                                                               |
+| De pie     | If this pokemon has 80 or less HP remaining, this attack does 30 more damage. |
+| Vertical   |                                                                                               |
+| De espalda | If this pokemon has 80 or less HP remaining, this attack does 30 more damage. |
+| Boca abajo | If this pokemon has 80 or less HP remaining, this attack does 30 more damage. |
+| De lado    |                                                                                               |
 
 [Aura Knuckle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard03.webp)
 
 #### Rolling Kick
 
-| Name      | Rolling Kick                                     |
-| --------- | ------------------------------------------------ |
-| Japanese  | `まわしげり`                                          |
-| Type      | Fighting                                         |
-| Code      | STW09-004                                        |
-| Pokémon   | Lucario                                          |
-| Energy    | {F}{F}{F}                                        |
-| Damage    | 20                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                                  |
-| Back      |                                                  |
-| Down      |                                                  |
-| Sideways  | This attack does 30 more damage. |
+| Name       | Rolling Kick                                     |
+| ---------- | ------------------------------------------------ |
+| Japonés    | `まわしげり`                                          |
+| Type       | Fighting                                         |
+| Code       | STW09-004                                        |
+| Pokémon    | Lucario                                          |
+| Energía    | {F}{F}{F}                                        |
+| Daño       | 20                                               |
+| Efecto     |                                                  |
+| De pie     | This attack does 30 more damage. |
+| Vertical   |                                                  |
+| De espalda |                                                  |
+| Boca abajo |                                                  |
+| De lado    | This attack does 30 more damage. |
 
 [Rolling Kick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard04.webp)
 
 #### Aura Jab ?
 
-| Name      | Aura Jab ?                                                                                                                                     |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | `オーラづき`                                                                                                                                        |
-| Type      | Fighting                                                                                                                                       |
-| Code      | STW09-005                                                                                                                                      |
-| Pokémon   | Lucario                                                                                                                                        |
-| Energy    | {F}{F}{F}                                                                                                                                      |
-| Damage    | 30                                                                                                                                             |
-| Effect    |                                                                                                                                                |
-| Standing  | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Handstand |                                                                                                                                                |
-| Back      | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Down      |                                                                                                                                                |
-| Sideways  | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Name       | Aura Jab ?                                                                                                                                     |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | `オーラづき`                                                                                                                                        |
+| Type       | Fighting                                                                                                                                       |
+| Code       | STW09-005                                                                                                                                      |
+| Pokémon    | Lucario                                                                                                                                        |
+| Energía    | {F}{F}{F}                                                                                                                                      |
+| Daño       | 30                                                                                                                                             |
+| Efecto     |                                                                                                                                                |
+| De pie     | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Vertical   |                                                                                                                                                |
+| De espalda | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Boca abajo |                                                                                                                                                |
+| De lado    | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 
 [Aura Jab](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard05.webp)
 
 #### Aura Sphere
 
-| Name      | Aura Sphere                                                                                   |
-| --------- | --------------------------------------------------------------------------------------------- |
-| Japanese  | `はどうだん`                                                                                       |
-| Type      | Fighting                                                                                      |
-| Code      | STW09-006                                                                                     |
-| Pokémon   | Lucario                                                                                       |
-| Energy    | {F}{F}{F}{F}                                                                                  |
-| Damage    | 40                                                                                            |
-| Effect    |                                                                                               |
-| Standing  | If this pokemon has 40 or less HP remaining, this attack does 50 more damage. |
-| Handstand |                                                                                               |
-| Back      | If this pokemon has 40 or less HP remaining, this attack does 50 more damage. |
-| Down      | If this pokemon has 40 or less HP remaining, this attack does 50 more damage. |
-| Sideways  |                                                                                               |
+| Name       | Aura Sphere                                                                                   |
+| ---------- | --------------------------------------------------------------------------------------------- |
+| Japonés    | `はどうだん`                                                                                       |
+| Type       | Fighting                                                                                      |
+| Code       | STW09-006                                                                                     |
+| Pokémon    | Lucario                                                                                       |
+| Energía    | {F}{F}{F}{F}                                                                                  |
+| Daño       | 40                                                                                            |
+| Efecto     |                                                                                               |
+| De pie     | If this pokemon has 40 or less HP remaining, this attack does 50 more damage. |
+| Vertical   |                                                                                               |
+| De espalda | If this pokemon has 40 or less HP remaining, this attack does 50 more damage. |
+| Boca abajo | If this pokemon has 40 or less HP remaining, this attack does 50 more damage. |
+| De lado    |                                                                                               |
 
 [Aura Sphere](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard06.webp)
 
 #### Metal Claw
 
-| Name      | Metal Claw                                       |
-| --------- | ------------------------------------------------ |
-| Japanese  | `メタルクロー`                                         |
-| Type      | Steel                                            |
-| Code      | STW09-007                                        |
-| Pokémon   | Lucario                                          |
-| Energy    | {M}{C}{C}{C}                                     |
-| Damage    | 30                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 40 more damage. |
-| Handstand |                                                  |
-| Back      |                                                  |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Name       | Metal Claw                                       |
+| ---------- | ------------------------------------------------ |
+| Japonés    | `メタルクロー`                                         |
+| Type       | Steel                                            |
+| Code       | STW09-007                                        |
+| Pokémon    | Lucario                                          |
+| Energía    | {M}{C}{C}{C}                                     |
+| Daño       | 30                                               |
+| Efecto     |                                                  |
+| De pie     | This attack does 40 more damage. |
+| Vertical   |                                                  |
+| De espalda |                                                  |
+| Boca abajo |                                                  |
+| De lado    |                                                  |
 
 [Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard07.webp)

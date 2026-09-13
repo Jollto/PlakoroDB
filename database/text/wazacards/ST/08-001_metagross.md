@@ -6,7 +6,7 @@
 
 | Name      | Beam                             |
 | --------- | -------------------------------- |
-| Japanese  | ビーム                           |
+| Japanese  | `ビーム`                         |
 | Type      | Steel                            |
 | Code      | STW08-001                        |
 | Pokémon   | Metagross                        |
@@ -25,7 +25,7 @@
 
 | Name      | Basic Calculation ?                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------- |
-| Japanese  | しそくえんざん                                                                                          |
+| Japanese  | `しそくえんざん`                                                                                        |
 | Type      | Steel                                                                                                   |
 | Code      | STW08-002                                                                                               |
 | Pokémon   | Metagross                                                                                               |
@@ -44,7 +44,7 @@
 
 | Name      | Wide Press ?                     |
 | --------- | -------------------------------- |
-| Japanese  | ワイドプレス                     |
+| Japanese  | `ワイドプレス`                   |
 | Type      | Steel                            |
 | Code      | STW08-003                        |
 | Pokémon   | Metagross                        |
@@ -63,7 +63,7 @@
 
 | Name      | Straight Stamp ?                 |
 | --------- | -------------------------------- |
-| Japanese  | ストレートスタンプ               |
+| Japanese  | `ストレートスタンプ`             |
 | Type      | Steel                            |
 | Code      | STW08-004                        |
 | Pokémon   | Metagross                        |
@@ -82,7 +82,7 @@
 
 | Name      | Meteor Mash                      |
 | --------- | -------------------------------- |
-| Japanese  | コメットパンチ                   |
+| Japanese  | `コメットパンチ`                 |
 | Type      | Steel                            |
 | Code      | STW08-005                        |
 | Pokémon   | Metagross                        |
@@ -101,7 +101,7 @@
 
 | Name      | Heavy Slam                                                     |
 | --------- | -------------------------------------------------------------- |
-| Japanese  | ヘビーボンバー                                                 |
+| Japanese  | `ヘビーボンバー`                                               |
 | Type      | Steel                                                          |
 | Code      | STW08-006                                                      |
 | Pokémon   | Metagross                                                      |
@@ -120,7 +120,7 @@
 
 | Name      | Explosion                                              |
 | --------- | ------------------------------------------------------ |
-| Japanese  | だいばくはつ                                           |
+| Japanese  | `だいばくはつ`                                         |
 | Type      | Normal                                                 |
 | Code      | STW08-007                                              |
 | Pokémon   | Metagross                                              |

@@ -6,7 +6,7 @@
 
 | Name      | Water Gun                        |
 | --------- | -------------------------------- |
-| Japanese  | みずでっぽう                     |
+| Japanese  | `みずでっぽう`                   |
 | Type      | Water                            |
 | Code      | STW03-001                        |
 | Pokémon   | Squirtle                         |
@@ -25,7 +25,7 @@
 
 | Name      | Withdraw                                                                          |
 | --------- | --------------------------------------------------------------------------------- |
-| Japanese  | からにこもる                                                                      |
+| Japanese  | `からにこもる`                                                                    |
 | Type      | Water                                                                             |
 | Code      | STW03-002                                                                         |
 | Pokémon   | Squirtle                                                                          |
@@ -44,7 +44,7 @@
 
 | Name      | Water Pulse                      |
 | --------- | -------------------------------- |
-| Japanese  | みずのはどう                     |
+| Japanese  | `みずのはどう`                   |
 | Type      | Water                            |
 | Code      | STW03-003                        |
 | Pokémon   | Squirtle                         |
@@ -63,7 +63,7 @@
 
 | Name      | Shell Attack                                                                      |
 | --------- | --------------------------------------------------------------------------------- |
-| Japanese  | シェルアタック                                                                    |
+| Japanese  | `シェルアタック`                                                                  |
 | Type      | Water                                                                             |
 | Code      | STW03-004                                                                         |
 | Pokémon   | Squirtle                                                                          |
@@ -82,7 +82,7 @@
 
 | Name      | Bubble Beam                                                               |
 | --------- | ------------------------------------------------------------------------- |
-| Japanese  | バブルこうせん                                                            |
+| Japanese  | `バブルこうせん`                                                          |
 | Type      | Water                                                                     |
 | Code      | STW03-005                                                                 |
 | Pokémon   | Squirtle                                                                  |
@@ -101,7 +101,7 @@
 
 | Name      | Hydro Rage ?                                                                  |
 | --------- | ----------------------------------------------------------------------------- |
-| Japanese  | ハイドロアンガー                                                              |
+| Japanese  | `ハイドロアンガー`                                                            |
 | Type      | Water                                                                         |
 | Code      | STW03-006                                                                     |
 | Pokémon   | Squirtle                                                                      |
@@ -120,7 +120,7 @@
 
 | Name      | Mud Shot                         |
 | --------- | -------------------------------- |
-| Japanese  | マッドショット                   |
+| Japanese  | `マッドショット`                 |
 | Type      | Fighting                         |
 | Code      | STW03-007                        |
 | Pokémon   | Squirtle                         |
@@ -141,7 +141,7 @@
 
 | Name      | Hard Shell ?                                                                      |
 | --------- | --------------------------------------------------------------------------------- |
-| Japanese  | カチカチこうら                                                                    |
+| Japanese  | `カチカチこうら`                                                                  |
 | Type      | Water                                                                             |
 | Code      | PRW01-3-08                                                                        |
 | Pokémon   | Squirtle                                                                          |

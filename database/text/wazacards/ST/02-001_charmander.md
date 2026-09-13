@@ -6,7 +6,7 @@
 
 | Name      | Ember                            |
 | --------- | -------------------------------- |
-| Japanese  | ひのこ                           |
+| Japanese  | `ひのこ`                         |
 | Type      | Fire                             |
 | Code      | STW02-001                        |
 | Pokémon   | Charmander                       |
@@ -25,7 +25,7 @@
 
 | Name      | Heat Up                                                          |
 | --------- | ---------------------------------------------------------------- |
-| Japanese  | ヒートアップ                                                     |
+| Japanese  | `ヒートアップ`                                                   |
 | Type      | Fire                                                             |
 | Code      | STW02-002                                                        |
 | Pokémon   | Charmander                                                       |
@@ -44,7 +44,7 @@
 
 | Name      | Flamethrower                                                   |
 | --------- | -------------------------------------------------------------- |
-| Japanese  | かえんほうしゃ                                                 |
+| Japanese  | `かえんほうしゃ`                                               |
 | Type      | Fire                                                           |
 | Code      | STW02-003                                                      |
 | Pokémon   | Charmander                                                     |
@@ -63,7 +63,7 @@
 
 | Name      | Fire Fang                        |
 | --------- | -------------------------------- |
-| Japanese  | ほのおのキバ                     |
+| Japanese  | `ほのおのキバ`                   |
 | Type      | Fire                             |
 | Code      | STW02-004                        |
 | Pokémon   | Charmander                       |
@@ -82,7 +82,7 @@
 
 | Name      | Flare Storm                                              |
 | --------- | -------------------------------------------------------- |
-| Japanese  | フレアストーム                                           |
+| Japanese  | `フレアストーム`                                         |
 | Type      | Fire                                                     |
 | Code      | STW02-005                                                |
 | Pokémon   | Charmander                                               |
@@ -101,7 +101,7 @@
 
 | Name      | Thunder Punch                    |
 | --------- | -------------------------------- |
-| Japanese  | かみなりパンチ                   |
+| Japanese  | `かみなりパンチ`                 |
 | Type      | Electric                         |
 | Code      | STW02-006                        |
 | Pokémon   | Charmander                       |
@@ -120,7 +120,7 @@
 
 | Name      | Metal Claw                       |
 | --------- | -------------------------------- |
-| Japanese  | メタルクロー                     |
+| Japanese  | `メタルクロー`                   |
 | Type      | Steel                            |
 | Code      | STW02-007                        |
 | Pokémon   | Charmander                       |
@@ -141,7 +141,7 @@
 
 | Name      | Flame Up ?                                                       |
 | --------- | ---------------------------------------------------------------- |
-| Japanese  | フレイムアップ                                                   |
+| Japanese  | `フレイムアップ`                                                 |
 | Type      | Fire                                                             |
 | Code      | PRW01-2-08                                                       |
 | Pokémon   | Charmander                                                       |

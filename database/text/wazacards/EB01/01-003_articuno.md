@@ -6,7 +6,7 @@
 
 | Name      | Ice Wing                                                                  |
 | --------- | ------------------------------------------------------------------------- |
-| Japanese  | アイスウイング                                                            |
+| Japanese  | `アイスウイング`                                                          |
 | Type      | Water                                                                     |
 | Code      | EBW01-021                                                                 |
 | Pokémon   | Articuno                                                                  |
@@ -25,7 +25,7 @@
 
 | Name      | Frozen Blade ?                                                  |
 | --------- | --------------------------------------------------------------- |
-| Japanese  | いてつくやいば                                                  |
+| Japanese  | `いてつくやいば`                                                |
 | Type      | Water                                                           |
 | Code      | EBW01-022                                                       |
 | Pokémon   | Articuno                                                        |
@@ -44,7 +44,7 @@
 
 | Name      | Blizzard Storm ?                 |
 | --------- | -------------------------------- |
-| Japanese  | ブリザードストーム               |
+| Japanese  | `ブリザードストーム`             |
 | Type      | Water                            |
 | Code      | EBW01-023                        |
 | Pokémon   | Articuno                         |
@@ -61,7 +61,7 @@
 
 | Name      | Air Cutter                       |
 | --------- | -------------------------------- |
-| Japanese  | エアカッター                     |
+| Japanese  | `エアカッター`                   |
 | Type      | Flying                           |
 | Code      | EBW01-024                        |
 | Pokémon   | Articuno                         |
@@ -80,7 +80,7 @@
 
 | Name      | Roost                                  |
 | --------- | -------------------------------------- |
-| Japanese  | はねやすめ                             |
+| Japanese  | `はねやすめ`                           |
 | Type      | Flying                                 |
 | Code      | EBW01-025                              |
 | Pokémon   | Articuno                               |
@@ -99,7 +99,7 @@
 
 | Name      | Freeze Dive ?                    |
 | --------- | -------------------------------- |
-| Japanese  | フリーズダイブ                   |
+| Japanese  | `フリーズダイブ`                 |
 | Type      | Water                            |
 | Code      | EBW01-026                        |
 | Pokémon   | Articuno                         |
@@ -116,7 +116,7 @@
 
 | Name      | Ice Shot                         |
 | --------- | -------------------------------- |
-| Japanese  | アイスショット                   |
+| Japanese  | `アイスショット`                 |
 | Type      | Water                            |
 | Code      | EBW01-027                        |
 | Pokémon   | Articuno                         |
@@ -135,7 +135,7 @@
 
 | Name      | Cold Breath                                                               |
 | --------- | ------------------------------------------------------------------------- |
-| Japanese  | コールドブレス                                                            |
+| Japanese  | `コールドブレス`                                                          |
 | Type      | Water                                                                     |
 | Code      | EBW01-028                                                                 |
 | Pokémon   | Articuno                                                                  |
@@ -154,7 +154,7 @@
 
 | Name      | Sheer Cold                                                                                                  |
 | --------- | ----------------------------------------------------------------------------------------------------------- |
-| Japanese  | ぜったいれいど                                                                                              |
+| Japanese  | `ぜったいれいど`                                                                                            |
 | Type      | Water                                                                                                       |
 | Code      | EBW01-029                                                                                                   |
 | Pokémon   | Articuno                                                                                                    |
@@ -173,7 +173,7 @@
 
 | Name      | Fly                                                                              |
 | --------- | -------------------------------------------------------------------------------- |
-| Japanese  | そらをとぶ                                                                       |
+| Japanese  | `そらをとぶ`                                                                     |
 | Type      | Flying                                                                           |
 | Code      | EBW01-030                                                                        |
 | Pokémon   | Articuno                                                                         |

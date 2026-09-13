@@ -6,7 +6,7 @@
 
 | Name      | Vine Whip                        |
 | --------- | -------------------------------- |
-| Japanese  | つるのムチ                       |
+| Japanese  | `つるのムチ`                     |
 | Type      | Grass                            |
 | Code      | STW01-001                        |
 | Pokémon   | Bulbasaur                        |
@@ -25,7 +25,7 @@
 
 | Name      | Razor Leaf                       |
 | --------- | -------------------------------- |
-| Japanese  | はっぱカッター                   |
+| Japanese  | `はっぱカッター`                 |
 | Type      | Grass                            |
 | Code      | STW01-002                        |
 | Pokémon   | Bulbasaur                        |
@@ -44,7 +44,7 @@
 
 | Name      | Leech Seed                                                                                                                                 |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | やどりぎのタネ                                                                                                                             |
+| Japanese  | `やどりぎのタネ`                                                                                                                           |
 | Type      | Grass                                                                                                                                      |
 | Code      | STW01-003                                                                                                                                  |
 | Pokémon   | Bulbasaur                                                                                                                                  |
@@ -63,7 +63,7 @@
 
 | Name      | Grass Knot                                                                               |
 | --------- | ---------------------------------------------------------------------------------------- |
-| Japanese  | くさむすび                                                                               |
+| Japanese  | `くさむすび`                                                                             |
 | Type      | Grass                                                                                    |
 | Code      | STW01-004                                                                                |
 | Pokémon   | Bulbasaur                                                                                |
@@ -82,7 +82,7 @@
 
 | Name      | Reckless Charge                             |
 | --------- | ------------------------------------------- |
-| Japanese  | とつげき                                    |
+| Japanese  | `とつげき`                                  |
 | Type      | Grass                                       |
 | Code      | STW01-005                                   |
 | Pokémon   | Bulbasaur                                   |
@@ -101,7 +101,7 @@
 
 | Name      | Giga Drain                        |
 | --------- | --------------------------------- |
-| Japanese  | ギガドレイン                      |
+| Japanese  | `ギガドレイン`                    |
 | Type      | Grass                             |
 | Code      | STW01-006                         |
 | Pokémon   | Bulbasaur                         |
@@ -120,7 +120,7 @@
 
 | Name      | Acid Spray                       |
 | --------- | -------------------------------- |
-| Japanese  | アシッドボム                     |
+| Japanese  | `アシッドボム`                   |
 | Type      | Dark                             |
 | Code      | STW01-007                        |
 | Pokémon   | Bulbasaur                        |
@@ -141,7 +141,7 @@
 
 | Name      | Aroma Storm ?                     |
 | --------- | --------------------------------- |
-| Japanese  | アロマストーム                    |
+| Japanese  | `アロマストーム`                  |
 | Type      | Grass                             |
 | Code      | PRW01-1-08                        |
 | Pokémon   | Bulbasaur                         |

@@ -6,7 +6,7 @@
 
 | Name      | Kick                             |
 | --------- | -------------------------------- |
-| Japanese  | キック                           |
+| Japanese  | `キック`                         |
 | Type      | Fighting                         |
 | Code      | STW09-001                        |
 | Pokémon   | Lucario                          |
@@ -25,7 +25,7 @@
 
 | Name      | Force Palm                                                                |
 | --------- | ------------------------------------------------------------------------- |
-| Japanese  | はっけい                                                                  |
+| Japanese  | `はっけい`                                                                |
 | Type      | Fighting                                                                  |
 | Code      | STW09-002                                                                 |
 | Pokémon   | Lucario                                                                   |
@@ -44,7 +44,7 @@
 
 | Name      | Aura Knuckle                                                                  |
 | --------- | ----------------------------------------------------------------------------- |
-| Japanese  | はどうナックル                                                                |
+| Japanese  | `はどうナックル`                                                              |
 | Type      | Fighting                                                                      |
 | Code      | STW09-003                                                                     |
 | Pokémon   | Lucario                                                                       |
@@ -63,7 +63,7 @@
 
 | Name      | Rolling Kick                     |
 | --------- | -------------------------------- |
-| Japanese  | まわしげり                       |
+| Japanese  | `まわしげり`                     |
 | Type      | Fighting                         |
 | Code      | STW09-004                        |
 | Pokémon   | Lucario                          |
@@ -82,7 +82,7 @@
 
 | Name      | Aura Jab ?                                                                                                                     |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | オーラづき                                                                                                                     |
+| Japanese  | `オーラづき`                                                                                                                   |
 | Type      | Fighting                                                                                                                       |
 | Code      | STW09-005                                                                                                                      |
 | Pokémon   | Lucario                                                                                                                        |
@@ -101,7 +101,7 @@
 
 | Name      | Aura Sphere                                                                   |
 | --------- | ----------------------------------------------------------------------------- |
-| Japanese  | はどうだん                                                                    |
+| Japanese  | `はどうだん`                                                                  |
 | Type      | Fighting                                                                      |
 | Code      | STW09-006                                                                     |
 | Pokémon   | Lucario                                                                       |
@@ -120,7 +120,7 @@
 
 | Name      | Metal Claw                       |
 | --------- | -------------------------------- |
-| Japanese  | メタルクロー                     |
+| Japanese  | `メタルクロー`                   |
 | Type      | Steel                            |
 | Code      | STW09-007                        |
 | Pokémon   | Lucario                          |

@@ -1,17 +1,25 @@
-# Plakoro (English Fan Translation)
+# Plakoro (Fan Translation)
 
-An unofficial English database and fan translation for **Plakoro**.
+An unofficial database and fan translation for the Pokémon's dice game **Plakoro**.
 
 > [!IMPORTANT]
 > This project is **unofficial** and is **not affiliated with, endorsed by, or sponsored by the original developers or publisher.**
 
 ## About
 
-This repository aims to provide an English translation of Plakoro cards for players who cannot read Japanese.
+This repository aims to provide translations of Plakoro cards for players who cannot read Japanese.
 
 The translations are created by fans and are intended to be as accurate and consistent as possible, following official terminology whenever it exists and the writing conventions commonly used in trading card games.
 
-When no official English name is available, provisional names may be used. Attack names that are still uncertain are marked with a **?** and may change in the future if an official translation is released.
+Some moves might not have an official translation in either the TCG game or on the videogames. Attack names that are still uncertain are marked with a **?** in the text files and may change in the future if an official translation is released.
+
+The translations are being made in English, but support for other languages is being added, and help is welcomed! Check [Translating](#translating) for more info.
+
+[![gitlocalized ](https://gitlocalize.com/repo/10868/whole_project/badge.svg)](https://gitlocalize.com/repo/10868?utm_source=badge)
+
+Current translation level in the supported languages is:
+
+[![gitlocalized es](https://gitlocalize.com/repo/10868/es/badge.svg)](https://gitlocalize.com/repo/10868/es?utm_source=badge)
 
 Suggestions and corrections are always welcome.
 
@@ -45,7 +53,26 @@ You can help by:
 - improving wording or formatting
 - providing official translation references when available
 
-Please open an Issue for discussion or submit a Pull Request.
+And more important, translating the game to other languages! If you're fluent in a langnuage not being supported right now and you want to help, feel free to collaborate!
+
+Feel free to open an Issue or a discussion if you find something missing or want your language included, or make a Pull Request to add to the database! 
+
+### Translating
+
+To make translations easier, the project was added to [GitLocalize](https://gitlocalize.com/repo/10868).
+
+If your language is not supported yet, please ask for it by creating an issue, or writting to u/Jollto.
+
+If your language is supported, I will suggest starting the translation of the [symbols.md](./database/text/symbols.md) and the [move template from wazacards.md](./database/text/wazacards.md#template), and then feel free to translate the moves and the faq and other files that might exist in a future.
+
+To translate, you will have to follow this steps:
+    - Login to GitLocalize using a Github account.
+    - Select the file you want to translate, and based on the current english translation, you will be able to write the translation.
+    - Once a translation is finished, you can submit the file for a review request, and a Language Moderator will check the translation before creating a Pull Request for GitHub.
+
+If you also want to help more, you can ask to be a Language Moderator and help control new translations for whatever language you want.
+
+Once everything is done, the cards will be translated, and the last step needed will be to create the cards. This probably needs automatization and I'll investigate that when possible, but meanwhile I'll do it manually, or well, you also can, adding the koro files too to the database and making pull requests to add them.
 
 ## License
 

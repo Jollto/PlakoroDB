@@ -59,7 +59,7 @@ To make translations easier, the project was added to [crowdin](https://crowdin.
 
 [**Join and help translate!**](https://crwd.in/plakorodb/1ab1323b9058da54873086e6045818a22877741)
 
-If your language is not supported yet, please ask for it by creating an issue, or writting to u/Jollto.
+If your language is not supported yet, you can request a new language on crowdin's dashboard, or you can ask for it by creating an issue, or writting to u/Jollto.
 
 If your language is supported, I will suggest starting the translation of the [symbols.md](./database/text/symbols.md) and the [move template from wazacards.md](./database/text/wazacards.md#template), and then feel free to translate the moves and the faq and other files that might exist in a future.
 
@@ -67,9 +67,9 @@ To translate, you will have to follow this steps:
     - Login to crowdin and join the project.
     - Once in the dashboard, select the language you want to work with.
     - Select the file you want to translate, and based on the current english translation, you will be able to write the translation.
-    - Once a translation is finished, you can submit the file for a review request, and a Language Moderator will check the translation before creating a Pull Request for GitHub.
+    - Once a translation is finished, you can submit the file for a review request, and a proofreader will check the translation before creating a Pull Request for GitHub.
 
-If you also want to help more, you can ask to be a Language Moderator and help control new translations for whatever language you want.
+If you also want to help more, you can ask to be a proofreader and help control new translations for whatever language you want.
 
 Once everything is done, the cards will be translated, and the last step needed will be to create the cards. This probably needs automatization and I'll investigate that when possible, but meanwhile I'll do it manually, or well, you also can, adding the koro files too to the database and making pull requests to add them.
 

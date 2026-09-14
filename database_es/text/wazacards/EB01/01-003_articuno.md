@@ -57,6 +57,8 @@
 | Boca abajo |                                                  |
 | De lado    | This attack does 30 more damage. |
 
+[Blizzard Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard03.webp)
+
 #### Air Cutter
 
 | Name       | Air Cutter                                       |
@@ -111,6 +113,8 @@
 | De espalda | This attack does 20 more damage. |
 | Boca abajo |                                                  |
 | De lado    |                                                  |
+
+[Freeze Dive](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard06.webp)
 
 #### Ice Shot
 

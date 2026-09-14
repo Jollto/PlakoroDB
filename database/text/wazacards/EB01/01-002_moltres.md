@@ -190,4 +190,4 @@
 | Down      | This attack does nothing.                                                        |
 | Sideways  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard10.webp)
+[Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard10.webp)

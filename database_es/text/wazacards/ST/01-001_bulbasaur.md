@@ -19,24 +19,24 @@
 | Boca abajo | Este ataque hace 20 puntos de daño más. |
 | De lado    |                                                         |
 
-[Vine Whip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard01.webp)
+[Látigo Cepa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard01.webp)
 
 #### Razor Leaf
 
-| Name       | Razor Leaf                                       |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `はっぱカッター`                                        |
-| Type       | Grass                                            |
-| Code       | STW01-002                                        |
-| Pokémon    | Bulbasaur                                        |
-| Energía    | {G}{G}                                           |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    | This attack does 20 more damage. |
+| Nombre     | Razor Leaf                                              |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | `はっぱカッター`                                               |
+| Tipo       | Planta                                                  |
+| Código     | STW01-002                                               |
+| Pokémon    | Bulbasaur                                               |
+| Energía    | {G}{G}                                                  |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 20 puntos de daño más. |
 
 [Razor Leaf](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard02.webp)
 
@@ -45,7 +45,7 @@
 | Name       | Leech Seed                                                                                                                                                                 |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Japonés    | `やどりぎのタネ`                                                                                                                                                                  |
-| Type       | Grass                                                                                                                                                                      |
+| Type       | Planta                                                                                                                                                                     |
 | Code       | STW01-003                                                                                                                                                                  |
 | Pokémon    | Bulbasaur                                                                                                                                                                  |
 | Energía    | {G}{G}                                                                                                                                                                     |
@@ -65,7 +65,7 @@
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Japonés    | `くさむすび`                                                                                                                  |
 | Type       | Grass                                                                                                                    |
-| Code       | STW01-004                                                                                                                |
+| Código     | STW01-004                                                                                                                |
 | Pokémon    | Bulbasaur                                                                                                                |
 | Energía    | {G}{G}{G}                                                                                                                |
 | Daño       | 30                                                                                                                       |
@@ -80,10 +80,10 @@
 
 #### Reckless Charge
 
-| Name       | Reckless Charge                                             |
+| Nombre     | Reckless Charge                                             |
 | ---------- | ----------------------------------------------------------- |
 | Japonés    | `とつげき`                                                      |
-| Type       | Grass                                                       |
+| Tipo       | Planta                                                      |
 | Code       | STW01-005                                                   |
 | Pokémon    | Bulbasaur                                                   |
 | Energía    | {G}{G}{G}                                                   |

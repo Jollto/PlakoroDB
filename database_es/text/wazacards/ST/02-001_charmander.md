@@ -4,20 +4,20 @@
 
 #### Ember
 
-| Name       | Ember                                            |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `ひのこ`                                            |
-| Type       | Fire                                             |
-| Code       | STW02-001                                        |
-| Pokémon    | Charmander                                       |
-| Energía    | {R}{R}                                           |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 30 more damage. |
-| Vertical   |                                                  |
-| De espalda | This attack does 30 more damage. |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Name       | Ember                                                   |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ひのこ                                                     |
+| Type       | Fire                                                    |
+| Code       | STW02-001                                               |
+| Pokémon    | Charmander                                              |
+| Energía    | {R}{R}                                                  |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 30 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda | Este ataque hace 30 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Ember](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard01.webp)
 
@@ -25,7 +25,7 @@
 
 | Name       | Heat Up                                                                          |
 | ---------- | -------------------------------------------------------------------------------- |
-| Japonés    | `ヒートアップ`                                                                         |
+| Japonés    | ヒートアップ                                                                           |
 | Type       | Fire                                                                             |
 | Code       | STW02-002                                                                        |
 | Pokémon    | Charmander                                                                       |
@@ -44,16 +44,16 @@
 
 | Name       | Flamethrower                                                                   |
 | ---------- | ------------------------------------------------------------------------------ |
-| Japonés    | `かえんほうしゃ`                                                                      |
+| Japonés    | かえんほうしゃ                                                                        |
 | Type       | Fire                                                                           |
 | Code       | STW02-003                                                                      |
 | Pokémon    | Charmander                                                                     |
 | Energía    | {R}{R}{R}                                                                      |
 | Daño       | 40                                                                             |
 | Efecto     |                                                                                |
-| De pie     | This attack does 20 more damage.                               |
+| De pie     | Este ataque hace 20 puntos de daño más.                        |
 | Vertical   | On your next turn, reduce the number of Enekoro you roll by 1. |
-| De espalda | This attack does 20 more damage.                               |
+| De espalda | Este ataque hace 20 puntos de daño más.                        |
 | Boca abajo | On your next turn, reduce the number of Enekoro you roll by 1. |
 | De lado    | On your next turn, reduce the number of Enekoro you roll by 1. |
 
@@ -61,20 +61,20 @@
 
 #### Fire Fang
 
-| Name       | Fire Fang                                        |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `ほのおのキバ`                                         |
-| Type       | Fire                                             |
-| Code       | STW02-004                                        |
-| Pokémon    | Charmander                                       |
-| Energía    | {R}{R}{R}{R}                                     |
-| Daño       | 30                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 30 more damage. |
-| Vertical   |                                                  |
-| De espalda | This attack does 30 more damage. |
-| Boca abajo | This attack does 30 more damage. |
-| De lado    |                                                  |
+| Name       | Fire Fang                                               |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ほのおのキバ                                                  |
+| Type       | Fire                                                    |
+| Code       | STW02-004                                               |
+| Pokémon    | Charmander                                              |
+| Energía    | {R}{R}{R}{R}                                            |
+| Daño       | 30                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 30 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda | Este ataque hace 30 puntos de daño más. |
+| Boca abajo | Este ataque hace 30 puntos de daño más. |
+| De lado    |                                                         |
 
 [Fire Fang](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard04.webp)
 
@@ -82,7 +82,7 @@
 
 | Name       | Flare Storm                                                              |
 | ---------- | ------------------------------------------------------------------------ |
-| Japonés    | `フレアストーム`                                                                |
+| Japonés    | フレアストーム                                                                  |
 | Type       | Fire                                                                     |
 | Code       | STW02-005                                                                |
 | Pokémon    | Charmander                                                               |
@@ -99,39 +99,39 @@
 
 #### Thunder Punch
 
-| Name       | Thunder Punch                                    |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `かみなりパンチ`                                        |
-| Type       | Electric                                         |
-| Code       | STW02-006                                        |
-| Pokémon    | Charmander                                       |
-| Energía    | {L}{C}{C}                                        |
-| Daño       | 10                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
-| De espalda | This attack does 20 more damage. |
-| Boca abajo |                                                  |
-| De lado    | This attack does 20 more damage. |
+| Name       | Thunder Punch                                           |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | かみなりパンチ                                                 |
+| Type       | Electric                                                |
+| Code       | STW02-006                                               |
+| Pokémon    | Charmander                                              |
+| Energía    | {L}{C}{C}                                               |
+| Daño       | 10                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda | Este ataque hace 20 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 20 puntos de daño más. |
 
 [Thunder Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard06.webp)
 
 #### Metal Claw
 
-| Name       | Metal Claw                                       |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `メタルクロー`                                         |
-| Type       | Steel                                            |
-| Code       | STW02-007                                        |
-| Pokémon    | Charmander                                       |
-| Energía    | {M}{C}{C}                                        |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 40 more damage. |
-| Vertical   |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Name       | Metal Claw                                              |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | メタルクロー                                                  |
+| Type       | Steel                                                   |
+| Code       | STW02-007                                               |
+| Pokémon    | Charmander                                              |
+| Energía    | {M}{C}{C}                                               |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 40 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard07.webp)
 
@@ -141,7 +141,7 @@
 
 | Name       | Flame Up ?                                                                       |
 | ---------- | -------------------------------------------------------------------------------- |
-| Japonés    | `フレイムアップ`                                                                        |
+| Japonés    | フレイムアップ                                                                          |
 | Type       | Fire                                                                             |
 | Code       | PRW01-2-08                                                                       |
 | Pokémon    | Charmander                                                                       |

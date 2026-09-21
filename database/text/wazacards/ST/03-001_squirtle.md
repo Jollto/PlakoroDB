@@ -108,10 +108,10 @@
 | Energy    | {W}{W}{W}{W}                                                                  |
 | Damage    | 40                                                                            |
 | Effect    |                                                                               |
-| Standing  | If this pokemon has 40 or less HP remaining, this attack does 60 more damage. |
+| Standing  | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
 | Handstand |                                                                               |
-| Back      | If this pokemon has 40 or less HP remaining, this attack does 60 more damage. |
-| Down      | If this pokemon has 40 or less HP remaining, this attack does 60 more damage. |
+| Back      | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
+| Down      | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
 | Sideways  |                                                                               |
 
 [Hydro Rage](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard06.webp)

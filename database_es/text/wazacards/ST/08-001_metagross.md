@@ -4,20 +4,20 @@
 
 #### Beam
 
-| Name       | Beam                                             |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `ビーム`                                            |
-| Type       | Steel                                            |
-| Code       | STW08-001                                        |
-| Pokémon    | Metagross                                        |
-| Energía    | {M}                                              |
-| Daño       | 10                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
-| De espalda | This attack does 20 more damage. |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Name       | Beam                                                    |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ビーム                                                     |
+| Type       | Steel                                                   |
+| Code       | STW08-001                                               |
+| Pokémon    | Metagross                                               |
+| Energía    | {M}                                                     |
+| Daño       | 10                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda | Este ataque hace 20 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Beam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard01.webp)
 
@@ -25,7 +25,7 @@
 
 | Name       | Basic Calculation ?                                                                                                     |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | `しそくえんざん`                                                                                                               |
+| Japonés    | しそくえんざん                                                                                                                 |
 | Type       | Steel                                                                                                                   |
 | Code       | STW08-002                                                                                                               |
 | Pokémon    | Metagross                                                                                                               |
@@ -42,58 +42,58 @@
 
 #### Wide Press ?
 
-| Name       | Wide Press ?                                     |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `ワイドプレス`                                         |
-| Type       | Steel                                            |
-| Code       | STW08-003                                        |
-| Pokémon    | Metagross                                        |
-| Energía    | {M}{M}                                           |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     |                                                  |
-| Vertical   |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    | This attack does 30 more damage. |
+| Name       | Wide Press ?                                            |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ワイドプレス                                                  |
+| Type       | Steel                                                   |
+| Code       | STW08-003                                               |
+| Pokémon    | Metagross                                               |
+| Energía    | {M}{M}                                                  |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     |                                                         |
+| Vertical   |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 30 puntos de daño más. |
 
 [Wide Press](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard03.webp)
 
 #### Straight Stamp ?
 
-| Name       | Straight Stamp ?                                 |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `ストレートスタンプ`                                      |
-| Type       | Steel                                            |
-| Code       | STW08-004                                        |
-| Pokémon    | Metagross                                        |
-| Energía    | {M}{M}{M}                                        |
-| Daño       | 30                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
-| De espalda | This attack does 20 more damage. |
-| Boca abajo | This attack does 20 more damage. |
-| De lado    |                                                  |
+| Name       | Straight Stamp ?                                        |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ストレートスタンプ                                               |
+| Type       | Steel                                                   |
+| Code       | STW08-004                                               |
+| Pokémon    | Metagross                                               |
+| Energía    | {M}{M}{M}                                               |
+| Daño       | 30                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda | Este ataque hace 20 puntos de daño más. |
+| Boca abajo | Este ataque hace 20 puntos de daño más. |
+| De lado    |                                                         |
 
 [Straight Stamp](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard04.webp)
 
 #### Meteor Mash
 
-| Name       | Meteor Mash                                      |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `コメットパンチ`                                        |
-| Type       | Steel                                            |
-| Code       | STW08-005                                        |
-| Pokémon    | Metagross                                        |
-| Energía    | {M}{M}{M}                                        |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 40 more damage. |
-| Vertical   |                                                  |
-| De espalda | This attack does 40 more damage. |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Name       | Meteor Mash                                             |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | コメットパンチ                                                 |
+| Type       | Steel                                                   |
+| Code       | STW08-005                                               |
+| Pokémon    | Metagross                                               |
+| Energía    | {M}{M}{M}                                               |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 40 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda | Este ataque hace 40 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Meteor Mash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard05.webp)
 
@@ -101,18 +101,18 @@
 
 | Name       | Heavy Slam                                                                     |
 | ---------- | ------------------------------------------------------------------------------ |
-| Japonés    | `ヘビーボンバー`                                                                      |
+| Japonés    | ヘビーボンバー                                                                        |
 | Type       | Steel                                                                          |
 | Code       | STW08-006                                                                      |
 | Pokémon    | Metagross                                                                      |
 | Energía    | {M}{M}{M}{M}                                                                   |
 | Daño       | 40                                                                             |
 | Efecto     |                                                                                |
-| De pie     | This attack does 40 more damage.                               |
+| De pie     | Este ataque hace 40 puntos de daño más.                        |
 | Vertical   | On your next turn, reduce the number of Enekoro you roll by 2. |
 | De espalda | On your next turn, reduce the number of Enekoro you roll by 2. |
 | Boca abajo | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De lado    | This attack does 40 more damage.                               |
+| De lado    | Este ataque hace 40 puntos de daño más.                        |
 
 [Heavy Slam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard06.webp)
 
@@ -120,7 +120,7 @@
 
 | Name       | Explosion                                                              |
 | ---------- | ---------------------------------------------------------------------- |
-| Japonés    | `だいばくはつ`                                                               |
+| Japonés    | だいばくはつ                                                                 |
 | Type       | Normal                                                                 |
 | Code       | STW08-007                                                              |
 | Pokémon    | Metagross                                                              |

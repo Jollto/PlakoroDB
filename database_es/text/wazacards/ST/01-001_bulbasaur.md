@@ -4,134 +4,134 @@
 
 #### Látigo Cepa
 
-| Nombre     | Látigo Cepa                             |
-| ---------- | --------------------------------------- |
-| Japonés    | `つるのムチ`                            |
-| Tipo       | Planta                                  |
-| Código     | STW01-001                               |
-| Pokémon    | Bulbasaur                               |
-| Energía    | {G}                                     |
-| Daño       | 10                                      |
-| Efecto     |                                         |
+| Nombre     | Látigo Cepa                                             |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | `つるのムチ`                                                 |
+| Tipo       | Planta                                                  |
+| Código     | STW01-001                                               |
+| Pokémon    | Bulbasaur                                               |
+| Energía    | {G}                                                     |
+| Daño       | 10                                                      |
+| Efecto     |                                                         |
 | De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   |                                         |
+| Vertical   |                                                         |
 | De espalda | Este ataque hace 20 puntos de daño más. |
 | Boca abajo | Este ataque hace 20 puntos de daño más. |
-| De lado    |                                         |
+| De lado    |                                                         |
 
 [Látigo Cepa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard01.webp)
 
 #### Razor Leaf
 
-| Nombre     | Razor Leaf                              |
-| ---------- | --------------------------------------- |
-| Japonés    | `はっぱカッター`                        |
-| Tipo       | Planta                                  |
-| Código     | STW01-002                               |
-| Pokémon    | Bulbasaur                               |
-| Energía    | {G}{G}                                  |
-| Daño       | 20                                      |
-| Efecto     |                                         |
+| Nombre     | Razor Leaf                                              |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | `はっぱカッター`                                               |
+| Tipo       | Planta                                                  |
+| Código     | STW01-002                                               |
+| Pokémon    | Bulbasaur                                               |
+| Energía    | {G}{G}                                                  |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
 | De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   |                                         |
-| De espalda |                                         |
-| Boca abajo |                                         |
+| Vertical   |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
 
 [Razor Leaf](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard02.webp)
 
 #### Leech Seed
 
-| Name       | Leech Seed                                                                                                                                 |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japonés    | `やどりぎのタネ`                                                                                                                           |
-| Type       | Planta                                                                                                                                     |
-| Code       | STW01-003                                                                                                                                  |
-| Pokémon    | Bulbasaur                                                                                                                                  |
-| Energía    | {G}{G}                                                                                                                                     |
-| Daño       | 10                                                                                                                                         |
-| Efecto     |                                                                                                                                            |
+| Name       | Leech Seed                                                                                                                                                                 |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | `やどりぎのタネ`                                                                                                                                                                  |
+| Type       | Planta                                                                                                                                                                     |
+| Code       | STW01-003                                                                                                                                                                  |
+| Pokémon    | Bulbasaur                                                                                                                                                                  |
+| Energía    | {G}{G}                                                                                                                                                                     |
+| Daño       | 10                                                                                                                                                                         |
+| Efecto     |                                                                                                                                                                            |
 | De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 1. On your next turn, increase the number of Enekoro you roll by 1. |
-| Vertical   |                                                                                                                                            |
+| Vertical   |                                                                                                                                                                            |
 | De espalda | On the opponent's next turn, reduce the number of Enekoro they roll by 1. On your next turn, increase the number of Enekoro you roll by 1. |
-| Boca abajo |                                                                                                                                            |
+| Boca abajo |                                                                                                                                                                            |
 | De lado    | On the opponent's next turn, reduce the number of Enekoro they roll by 1. On your next turn, increase the number of Enekoro you roll by 1. |
 
 [Leech Seed](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard03.webp)
 
 #### Grass Knot
 
-| Name       | Grass Knot                                                                               |
-| ---------- | ---------------------------------------------------------------------------------------- |
-| Japonés    | `くさむすび`                                                                             |
-| Type       | Grass                                                                                    |
-| Código     | STW01-004                                                                                |
-| Pokémon    | Bulbasaur                                                                                |
-| Energía    | {G}{G}{G}                                                                                |
-| Daño       | 30                                                                                       |
-| Efecto     |                                                                                          |
+| Name       | Grass Knot                                                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Japonés    | `くさむすび`                                                                                                                  |
+| Type       | Grass                                                                                                                    |
+| Código     | STW01-004                                                                                                                |
+| Pokémon    | Bulbasaur                                                                                                                |
+| Energía    | {G}{G}{G}                                                                                                                |
+| Daño       | 30                                                                                                                       |
+| Efecto     |                                                                                                                          |
 | De pie     | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-| Vertical   |                                                                                          |
+| Vertical   |                                                                                                                          |
 | De espalda | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
 | Boca abajo | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-| De lado    |                                                                                          |
+| De lado    |                                                                                                                          |
 
 [Grass Knot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard04.webp)
 
 #### Reckless Charge
 
-| Nombre     | Reckless Charge                             |
-| ---------- | ------------------------------------------- |
-| Japonés    | `とつげき`                                  |
-| Tipo       | Planta                                      |
-| Code       | STW01-005                                   |
-| Pokémon    | Bulbasaur                                   |
-| Energía    | {G}{G}{G}                                   |
-| Daño       | 30                                          |
-| Efecto     |                                             |
-| De pie     | Este ataque hace 40 puntos de daño más.     |
+| Nombre     | Reckless Charge                                             |
+| ---------- | ----------------------------------------------------------- |
+| Japonés    | `とつげき`                                                      |
+| Tipo       | Planta                                                      |
+| Code       | STW01-005                                                   |
+| Pokémon    | Bulbasaur                                                   |
+| Energía    | {G}{G}{G}                                                   |
+| Daño       | 30                                                          |
+| Efecto     |                                                             |
+| De pie     | This attack does 40 more damage.            |
 | Vertical   | This Pokémon also does 30 damage to itself. |
-| De espalda | Este ataque hace 40 puntos de daño más.     |
+| De espalda | This attack does 40 more damage.            |
 | Boca abajo | This Pokémon also does 30 damage to itself. |
-| De lado    |                                             |
+| De lado    |                                                             |
 
 [Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard05.webp)
 
 #### Giga Drain
 
-| Name       | Giga Drain                        |
-| ---------- | --------------------------------- |
-| Japonés    | `ギガドレイン`                    |
-| Type       | Grass                             |
-| Code       | STW01-006                         |
-| Pokémon    | Bulbasaur                         |
-| Energía    | {G}{G}{G}{G}                      |
-| Daño       | 40                                |
-| Efecto     |                                   |
+| Name       | Giga Drain                                        |
+| ---------- | ------------------------------------------------- |
+| Japonés    | `ギガドレイン`                                          |
+| Type       | Grass                                             |
+| Code       | STW01-006                                         |
+| Pokémon    | Bulbasaur                                         |
+| Energía    | {G}{G}{G}{G}                                      |
+| Daño       | 40                                                |
+| Efecto     |                                                   |
 | De pie     | Heal 40 damage from this Pokémon. |
-| Vertical   |                                   |
-| De espalda |                                   |
-| Boca abajo |                                   |
+| Vertical   |                                                   |
+| De espalda |                                                   |
+| Boca abajo |                                                   |
 | De lado    | Heal 40 damage from this Pokémon. |
 
 [Giga Drain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard06.webp)
 
 #### Acid Spray
 
-| Name       | Acid Spray                              |
-| ---------- | --------------------------------------- |
-| Japonés    | `アシッドボム`                          |
-| Type       | Dark                                    |
-| Code       | STW01-007                               |
-| Pokémon    | Bulbasaur                               |
-| Energía    | {D}{C}{C}                               |
-| Daño       | 10                                      |
-| Efecto     |                                         |
-| De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   |                                         |
-| De espalda |                                         |
-| Boca abajo |                                         |
-| De lado    | Este ataque hace 20 puntos de daño más. |
+| Name       | Acid Spray                                       |
+| ---------- | ------------------------------------------------ |
+| Japonés    | `アシッドボム`                                         |
+| Type       | Dark                                             |
+| Code       | STW01-007                                        |
+| Pokémon    | Bulbasaur                                        |
+| Energía    | {D}{C}{C}                                        |
+| Daño       | 10                                               |
+| Efecto     |                                                  |
+| De pie     | This attack does 20 more damage. |
+| Vertical   |                                                  |
+| De espalda |                                                  |
+| Boca abajo |                                                  |
+| De lado    | This attack does 20 more damage. |
 
 [Acid Spray](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard07.webp)
 
@@ -139,19 +139,19 @@
 
 #### Aroma Storm ?
 
-| Name       | Aroma Storm ?                     |
-| ---------- | --------------------------------- |
-| Japonés    | `アロマストーム`                  |
-| Type       | Grass                             |
-| Code       | PRW01-1-08                        |
-| Pokémon    | Bulbasaur                         |
-| Energía    | {G}{G}{G}{G}                      |
-| Daño       | 30                                |
-| Efecto     |                                   |
+| Name       | Aroma Storm ?                                     |
+| ---------- | ------------------------------------------------- |
+| Japonés    | `アロマストーム`                                         |
+| Type       | Grass                                             |
+| Code       | PRW01-1-08                                        |
+| Pokémon    | Bulbasaur                                         |
+| Energía    | {G}{G}{G}{G}                                      |
+| Daño       | 30                                                |
+| Efecto     |                                                   |
 | De pie     | Heal 50 damage from this Pokémon. |
-| Vertical   |                                   |
-| De espalda |                                   |
-| Boca abajo |                                   |
-| De lado    |                                   |
+| Vertical   |                                                   |
+| De espalda |                                                   |
+| Boca abajo |                                                   |
+| De lado    |                                                   |
 
 [Aroma Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img01.webp)

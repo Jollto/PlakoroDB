@@ -4,39 +4,39 @@
 
 #### Suffocating Gas
 
-| Name       | Suffocating Gas                                  |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `ガスでつつむ`                                         |
-| Type       | Dark                                             |
-| Code       | STW07-001                                        |
-| Pokémon    | Gengar                                           |
-| Energía    | {D}                                              |
-| Daño       | 10                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 10 more damage. |
-| Vertical   |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    | This attack does 10 more damage. |
+| Name       | Suffocating Gas                                         |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ガスでつつむ                                                  |
+| Type       | Dark                                                    |
+| Code       | STW07-001                                               |
+| Pokémon    | Gengar                                                  |
+| Energía    | {D}                                                     |
+| Daño       | 10                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 10 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 10 puntos de daño más. |
 
 [Suffocating Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard01.webp)
 
 #### Spooky Shot
 
-| Name       | Spooky Shot                                      |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `ホロウショット`                                        |
-| Type       | Dark                                             |
-| Code       | STW07-002                                        |
-| Pokémon    | Gengar                                           |
-| Energía    | {D}{D}                                           |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
-| De espalda | This attack does 20 more damage. |
-| Boca abajo | This attack does 20 more damage. |
-| De lado    |                                                  |
+| Name       | Spooky Shot                                             |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ホロウショット                                                 |
+| Type       | Dark                                                    |
+| Code       | STW07-002                                               |
+| Pokémon    | Gengar                                                  |
+| Energía    | {D}{D}                                                  |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda | Este ataque hace 20 puntos de daño más. |
+| Boca abajo | Este ataque hace 20 puntos de daño más. |
+| De lado    |                                                         |
 
 [Spooky Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard02.webp)
 
@@ -44,7 +44,7 @@
 
 | Name       | Upside Down ?                                                                               |
 | ---------- | ------------------------------------------------------------------------------------------- |
-| Japonés    | `まっさかさま`                                                                                    |
+| Japonés    | まっさかさま                                                                                      |
 | Type       | Dark                                                                                        |
 | Code       | STW07-003                                                                                   |
 | Pokémon    | Gengar                                                                                      |
@@ -63,7 +63,7 @@
 
 | Name       | Shadow Bind                                                                     |
 | ---------- | ------------------------------------------------------------------------------- |
-| Japonés    | `かげしばり`                                                                         |
+| Japonés    | かげしばり                                                                           |
 | Type       | Dark                                                                            |
 | Code       | STW07-004                                                                       |
 | Pokémon    | Gengar                                                                          |
@@ -80,57 +80,57 @@
 
 #### Sludge Bomb
 
-| Name       | Sludge Bomb                                      |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `ヘドロばくだん`                                        |
-| Type       | Dark                                             |
-| Code       | STW07-005                                        |
-| Pokémon    | Gengar                                           |
-| Energía    | {D}{D}{D}                                        |
-| Daño       | 30                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
-| De espalda | This attack does 20 more damage. |
-| Boca abajo |                                                  |
-| De lado    | This attack does 20 more damage. |
+| Name       | Sludge Bomb                                             |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ヘドロばくだん                                                 |
+| Type       | Dark                                                    |
+| Code       | STW07-005                                               |
+| Pokémon    | Gengar                                                  |
+| Energía    | {D}{D}{D}                                               |
+| Daño       | 30                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda | Este ataque hace 20 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 20 puntos de daño más. |
 
 [Sludge Bomb](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard05.webp)
 
 #### Phantom Trick ?
 
-| Name       | Phantom Trick ?                                                                                                                       |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | `ファントムトリック`                                                                                                                           |
-| Type       | Dark                                                                                                                                  |
-| Code       | STW07-006                                                                                                                             |
-| Pokémon    | Gengar                                                                                                                                |
-| Energía    | {D}{D}{D}{D}                                                                                                                          |
-| Daño       | 10                                                                                                                                    |
-| Efecto     |                                                                                                                                       |
-| De pie     | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, this attack does 40 more damage. |
-| Vertical   | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, this attack does 40 more damage. |
-| De espalda | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, this attack does 40 more damage. |
-| Boca abajo | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, this attack does 40 more damage. |
-| De lado    |                                                                                                                                       |
+| Name       | Phantom Trick ?                                                                                                                              |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | ファントムトリック                                                                                                                                    |
+| Type       | Dark                                                                                                                                         |
+| Code       | STW07-006                                                                                                                                    |
+| Pokémon    | Gengar                                                                                                                                       |
+| Energía    | {D}{D}{D}{D}                                                                                                                                 |
+| Daño       | 10                                                                                                                                           |
+| Efecto     |                                                                                                                                              |
+| De pie     | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, Este ataque hace 40 puntos de daño más. |
+| Vertical   | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, Este ataque hace 40 puntos de daño más. |
+| De espalda | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, Este ataque hace 40 puntos de daño más. |
+| Boca abajo | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, Este ataque hace 40 puntos de daño más. |
+| De lado    |                                                                                                                                              |
 
 [Phantom Trick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard06.webp)
 
 #### Psywave
 
-| Name       | Psywave                                          |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `サイコウェーブ`                                        |
-| Type       | Psychic                                          |
-| Code       | STW07-007                                        |
-| Pokémon    | Gengar                                           |
-| Energía    | {P}{C}{C}{C}                                     |
-| Daño       | 30                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 40 more damage. |
-| Vertical   |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Name       | Psywave                                                 |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | サイコウェーブ                                                 |
+| Type       | Psychic                                                 |
+| Code       | STW07-007                                               |
+| Pokémon    | Gengar                                                  |
+| Energía    | {P}{C}{C}{C}                                            |
+| Daño       | 30                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 40 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Psywave](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard07.webp)

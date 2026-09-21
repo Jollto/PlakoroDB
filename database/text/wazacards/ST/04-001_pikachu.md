@@ -6,7 +6,7 @@
 
 | Name      | Gnaw                             |
 | --------- | -------------------------------- |
-| Japanese  | `かじる`                         |
+| Japanese  | かじる                           |
 | Type      | Electric                         |
 | Code      | STW04-001                        |
 | Pokémon   | Pikachu                          |
@@ -25,7 +25,7 @@
 
 | Name      | Thunder Shock                    |
 | --------- | -------------------------------- |
-| Japanese  | `でんきショック`                 |
+| Japanese  | でんきショック                   |
 | Type      | Electric                         |
 | Code      | STW04-002                        |
 | Pokémon   | Pikachu                          |
@@ -44,7 +44,7 @@
 
 | Name      | Electric Rush ?                                                    |
 | --------- | ------------------------------------------------------------------ |
-| Japanese  | `エレキラッシュ`                                                   |
+| Japanese  | エレキラッシュ                                                     |
 | Type      | Electric                                                           |
 | Code      | STW04-003                                                          |
 | Pokémon   | Pikachu                                                            |
@@ -63,7 +63,7 @@
 
 | Name      | Thunderbolt                                                    |
 | --------- | -------------------------------------------------------------- |
-| Japanese  | `10まんボルト`                                                 |
+| Japanese  | 10まんボルト                                                   |
 | Type      | Electric                                                       |
 | Code      | STW04-004                                                      |
 | Pokémon   | Pikachu                                                        |
@@ -82,7 +82,7 @@
 
 | Name      | Thunder                          |
 | --------- | -------------------------------- |
-| Japanese  | `かみなり`                       |
+| Japanese  | かみなり                         |
 | Type      | Electric                         |
 | Code      | STW04-005                        |
 | Pokémon   | Pikachu                          |
@@ -101,7 +101,7 @@
 
 | Name      | Volt Tackle                                 |
 | --------- | ------------------------------------------- |
-| Japanese  | `ボルテッカー`                              |
+| Japanese  | ボルテッカー                                |
 | Type      | Electric                                    |
 | Code      | STW04-006                                   |
 | Pokémon   | Pikachu                                     |
@@ -120,7 +120,7 @@
 
 | Name      | Iron Tail                                                                         |
 | --------- | --------------------------------------------------------------------------------- |
-| Japanese  | `アイアンテール`                                                                  |
+| Japanese  | アイアンテール                                                                    |
 | Type      | Steel                                                                             |
 | Code      | STW04-007                                                                         |
 | Pokémon   | Pikachu                                                                           |
@@ -141,7 +141,7 @@
 
 | Name      | Critical Bolt ?                  |
 | --------- | -------------------------------- |
-| Japanese  | `クリティカルボルト`             |
+| Japanese  | クリティカルボルト               |
 | Type      | Electric                         |
 | Code      | PRW01-008                        |
 | Pokémon   | Pikachu                          |

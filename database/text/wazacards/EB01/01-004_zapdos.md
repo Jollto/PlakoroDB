@@ -6,7 +6,7 @@
 
 | Name      | Thunder Flash ?                  |
 | --------- | -------------------------------- |
-| Japanese  | `でんじフラッシュ`               |
+| Japanese  | でんじフラッシュ                 |
 | Type      | Electric                         |
 | Code      | EBW01-031                        |
 | Pokémon   | Zapdos                           |
@@ -25,7 +25,7 @@
 
 | Name      | Thunder Shock                    |
 | --------- | -------------------------------- |
-| Japanese  | `でんきショック`                 |
+| Japanese  | でんきショック                   |
 | Type      | Electric                         |
 | Code      | EBW01-032                        |
 | Pokémon   | Zapdos                           |
@@ -44,7 +44,7 @@
 
 | Name      | Volt Rush ?                                                                              |
 | --------- | ---------------------------------------------------------------------------------------- |
-| Japanese  | `ボルトラッシュ`                                                                         |
+| Japanese  | ボルトラッシュ                                                                           |
 | Type      | Electric                                                                                 |
 | Code      | EBW01-033                                                                                |
 | Pokémon   | Zapdos                                                                                   |
@@ -63,7 +63,7 @@
 
 | Name      | Aerial Ace                       |
 | --------- | -------------------------------- |
-| Japanese  | `つばめがえし`                   |
+| Japanese  | つばめがえし                     |
 | Type      | Flying                           |
 | Code      | EBW01-034                        |
 | Pokémon   | Zapdos                           |
@@ -82,7 +82,7 @@
 
 | Name      | Crushing Wing ?                  |
 | --------- | -------------------------------- |
-| Japanese  | `バリバリウイング`               |
+| Japanese  | バリバリウイング                 |
 | Type      | Flying                           |
 | Code      | EBW01-035                        |
 | Pokémon   | Zapdos                           |
@@ -101,7 +101,7 @@
 
 | Name      | Dual Thunder ?                                                                           |
 | --------- | ---------------------------------------------------------------------------------------- |
-| Japanese  | `ダブルサンダー`                                                                         |
+| Japanese  | ダブルサンダー                                                                           |
 | Type      | Electric                                                                                 |
 | Code      | EBW01-036                                                                                |
 | Pokémon   | Zapdos                                                                                   |
@@ -120,7 +120,7 @@
 
 | Name      | Electroarrow ?                   |
 | --------- | -------------------------------- |
-| Japanese  | `エレキアロー`                   |
+| Japanese  | エレキアロー                     |
 | Type      | Electric                         |
 | Code      | EBW01-037                        |
 | Pokémon   | Zapdos                           |
@@ -139,7 +139,7 @@
 
 | Name      | Discharge                        |
 | --------- | -------------------------------- |
-| Japanese  | `ほうでん`                       |
+| Japanese  | ほうでん                         |
 | Type      | Electric                         |
 | Code      | EBW01-038                        |
 | Pokémon   | Zapdos                           |
@@ -158,7 +158,7 @@
 
 | Name      | Thunder Chain ?                                                                           |
 | --------- | ----------------------------------------------------------------------------------------- |
-| Japanese  | `サンダーチェイン`                                                                        |
+| Japanese  | サンダーチェイン                                                                          |
 | Type      | Electric                                                                                  |
 | Code      | EBW01-039                                                                                 |
 | Pokémon   | Zapdos                                                                                    |
@@ -177,7 +177,7 @@
 
 | Name      | Fly                                                                              |
 | --------- | -------------------------------------------------------------------------------- |
-| Japanese  | `そらをとぶ`                                                                     |
+| Japanese  | そらをとぶ                                                                       |
 | Type      | Flying                                                                           |
 | Code      | EBW01-040                                                                        |
 | Pokémon   | Zapdos                                                                           |

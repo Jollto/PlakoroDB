@@ -4,20 +4,20 @@
 
 #### Water Gun
 
-| Name       | Water Gun                                        |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `みずでっぽう`                                         |
-| Type       | Water                                            |
-| Code       | STW03-001                                        |
-| Pokémon    | Squirtle                                         |
-| Energía    | {W}                                              |
-| Daño       | 10                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
-| De espalda |                                                  |
-| Boca abajo | This attack does 20 more damage. |
-| De lado    |                                                  |
+| Name       | Water Gun                                               |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | みずでっぽう                                                  |
+| Type       | Water                                                   |
+| Code       | STW03-001                                               |
+| Pokémon    | Squirtle                                                |
+| Energía    | {W}                                                     |
+| Daño       | 10                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda |                                                         |
+| Boca abajo | Este ataque hace 20 puntos de daño más. |
+| De lado    |                                                         |
 
 [Water Gun](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard01.webp)
 
@@ -25,7 +25,7 @@
 
 | Name       | Withdraw                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------- |
-| Japonés    | `からにこもる`                                                                                          |
+| Japonés    | からにこもる                                                                                            |
 | Type       | Water                                                                                             |
 | Code       | STW03-002                                                                                         |
 | Pokémon    | Squirtle                                                                                          |
@@ -42,20 +42,20 @@
 
 #### Water Pulse
 
-| Name       | Water Pulse                                      |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `みずのはどう`                                         |
-| Type       | Water                                            |
-| Code       | STW03-003                                        |
-| Pokémon    | Squirtle                                         |
-| Energía    | {W}{W}                                           |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    | This attack does 20 more damage. |
+| Name       | Water Pulse                                             |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | みずのはどう                                                  |
+| Type       | Water                                                   |
+| Code       | STW03-003                                               |
+| Pokémon    | Squirtle                                                |
+| Energía    | {W}{W}                                                  |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 20 puntos de daño más. |
 
 [Water Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard03.webp)
 
@@ -63,7 +63,7 @@
 
 | Name       | Shell Attack                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------- |
-| Japonés    | `シェルアタック`                                                                                         |
+| Japonés    | シェルアタック                                                                                           |
 | Type       | Water                                                                                             |
 | Code       | STW03-004                                                                                         |
 | Pokémon    | Squirtle                                                                                          |
@@ -82,7 +82,7 @@
 
 | Name       | Bubble Beam                                                                               |
 | ---------- | ----------------------------------------------------------------------------------------- |
-| Japonés    | `バブルこうせん`                                                                                 |
+| Japonés    | バブルこうせん                                                                                   |
 | Type       | Water                                                                                     |
 | Code       | STW03-005                                                                                 |
 | Pokémon    | Squirtle                                                                                  |
@@ -99,39 +99,39 @@
 
 #### Hydro Rage ?
 
-| Name       | Hydro Rage ?                                                                                  |
-| ---------- | --------------------------------------------------------------------------------------------- |
-| Japonés    | `ハイドロアンガー`                                                                                    |
-| Type       | Water                                                                                         |
-| Code       | STW03-006                                                                                     |
-| Pokémon    | Squirtle                                                                                      |
-| Energía    | {W}{W}{W}{W}                                                                                  |
-| Daño       | 40                                                                                            |
-| Efecto     |                                                                                               |
-| De pie     | If this pokemon has 40 or less HP remaining, this attack does 60 more damage. |
-| Vertical   |                                                                                               |
-| De espalda | If this pokemon has 40 or less HP remaining, this attack does 60 more damage. |
-| Boca abajo | If this pokemon has 40 or less HP remaining, this attack does 60 more damage. |
-| De lado    |                                                                                               |
+| Name       | Hydro Rage ?                                                                                         |
+| ---------- | ---------------------------------------------------------------------------------------------------- |
+| Japonés    | ハイドロアンガー                                                                                             |
+| Type       | Water                                                                                                |
+| Code       | STW03-006                                                                                            |
+| Pokémon    | Squirtle                                                                                             |
+| Energía    | {W}{W}{W}{W}                                                                                         |
+| Daño       | 40                                                                                                   |
+| Efecto     |                                                                                                      |
+| De pie     | If this pokemon has 40 or less HP remaining, Este ataque hace 60 puntos de daño más. |
+| Vertical   |                                                                                                      |
+| De espalda | If this pokemon has 40 or less HP remaining, Este ataque hace 60 puntos de daño más. |
+| Boca abajo | If this pokemon has 40 or less HP remaining, Este ataque hace 60 puntos de daño más. |
+| De lado    |                                                                                                      |
 
 [Hydro Rage](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard06.webp)
 
 #### Mud Shot
 
-| Name       | Mud Shot                                         |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `マッドショット`                                        |
-| Type       | Fighting                                         |
-| Code       | STW03-007                                        |
-| Pokémon    | Squirtle                                         |
-| Energía    | {F}{C}{C}{C}                                     |
-| Daño       | 30                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 30 more damage. |
-| Vertical   |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    | This attack does 20 more damage. |
+| Name       | Mud Shot                                                |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | マッドショット                                                 |
+| Type       | Fighting                                                |
+| Code       | STW03-007                                               |
+| Pokémon    | Squirtle                                                |
+| Energía    | {F}{C}{C}{C}                                            |
+| Daño       | 30                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 30 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 20 puntos de daño más. |
 
 [Mud Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard07.webp)
 
@@ -141,7 +141,7 @@
 
 | Name       | Hard Shell ?                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------- |
-| Japonés    | `カチカチこうら`                                                                                         |
+| Japonés    | カチカチこうら                                                                                           |
 | Type       | Water                                                                                             |
 | Code       | PRW01-3-08                                                                                        |
 | Pokémon    | Squirtle                                                                                          |

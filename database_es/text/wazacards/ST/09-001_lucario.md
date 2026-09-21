@@ -42,20 +42,20 @@
 
 #### Aura Knuckle
 
-| Name       | Aura Knuckle                                                                                         |
-| ---------- | ---------------------------------------------------------------------------------------------------- |
-| Japonés    | はどうナックル                                                                                              |
-| Type       | Fighting                                                                                             |
-| Code       | STW09-003                                                                                            |
-| Pokémon    | Lucario                                                                                              |
-| Energía    | {F}{F}                                                                                               |
-| Daño       | 20                                                                                                   |
-| Efecto     |                                                                                                      |
-| De pie     | If this pokemon has 80 or less HP remaining, Este ataque hace 30 puntos de daño más. |
-| Vertical   |                                                                                                      |
-| De espalda | If this pokemon has 80 or less HP remaining, Este ataque hace 30 puntos de daño más. |
-| Boca abajo | If this pokemon has 80 or less HP remaining, Este ataque hace 30 puntos de daño más. |
-| De lado    |                                                                                                      |
+| Name       | Aura Knuckle                                                                                  |
+| ---------- | --------------------------------------------------------------------------------------------- |
+| Japonés    | はどうナックル                                                                                       |
+| Type       | Fighting                                                                                      |
+| Code       | STW09-003                                                                                     |
+| Pokémon    | Lucario                                                                                       |
+| Energía    | {F}{F}                                                                                        |
+| Daño       | 20                                                                                            |
+| Efecto     |                                                                                               |
+| De pie     | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
+| Vertical   |                                                                                               |
+| De espalda | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
+| Boca abajo | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
+| De lado    |                                                                                               |
 
 [Aura Knuckle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard03.webp)
 
@@ -89,30 +89,30 @@
 | Energía    | {F}{F}{F}                                                                                                                                      |
 | Daño       | 30                                                                                                                                             |
 | Efecto     |                                                                                                                                                |
-| De pie     | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| De pie     | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 | Vertical   |                                                                                                                                                |
-| De espalda | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| De espalda | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 | Boca abajo |                                                                                                                                                |
-| De lado    | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| De lado    | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 
 [Aura Jab](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard05.webp)
 
 #### Aura Sphere
 
-| Name       | Aura Sphere                                                                                          |
-| ---------- | ---------------------------------------------------------------------------------------------------- |
-| Japonés    | はどうだん                                                                                                |
-| Type       | Fighting                                                                                             |
-| Code       | STW09-006                                                                                            |
-| Pokémon    | Lucario                                                                                              |
-| Energía    | {F}{F}{F}{F}                                                                                         |
-| Daño       | 40                                                                                                   |
-| Efecto     |                                                                                                      |
-| De pie     | If this pokemon has 40 or less HP remaining, Este ataque hace 50 puntos de daño más. |
-| Vertical   |                                                                                                      |
-| De espalda | If this pokemon has 40 or less HP remaining, Este ataque hace 50 puntos de daño más. |
-| Boca abajo | If this pokemon has 40 or less HP remaining, Este ataque hace 50 puntos de daño más. |
-| De lado    |                                                                                                      |
+| Name       | Aura Sphere                                                                                   |
+| ---------- | --------------------------------------------------------------------------------------------- |
+| Japonés    | はどうだん                                                                                         |
+| Type       | Fighting                                                                                      |
+| Code       | STW09-006                                                                                     |
+| Pokémon    | Lucario                                                                                       |
+| Energía    | {F}{F}{F}{F}                                                                                  |
+| Daño       | 40                                                                                            |
+| Efecto     |                                                                                               |
+| De pie     | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
+| Vertical   |                                                                                               |
+| De espalda | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
+| Boca abajo | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
+| De lado    |                                                                                               |
 
 [Aura Sphere](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard06.webp)
 

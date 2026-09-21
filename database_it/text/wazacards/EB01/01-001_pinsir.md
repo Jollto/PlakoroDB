@@ -6,7 +6,7 @@
 
 | Name      | Concentrate ?                                                                    |
 | --------- | -------------------------------------------------------------------------------- |
-| Japanese  | `しゅうちゅう`                                                                         |
+| Japanese  | しゅうちゅう                                                                           |
 | Type      | Grass                                                                            |
 | Code      | EBW01-001                                                                        |
 | Pokémon   | Pinsir                                                                           |
@@ -25,7 +25,7 @@
 
 | Name      | Endure ?                                                                                          |
 | --------- | ------------------------------------------------------------------------------------------------- |
-| Japanese  | `たえる`                                                                                             |
+| Japanese  | たえる                                                                                               |
 | Type      | Grass                                                                                             |
 | Code      | EBW01-002                                                                                         |
 | Pokémon   | Pinsir                                                                                            |
@@ -44,7 +44,7 @@
 
 | Name      | Horn Attack ?                                    |
 | --------- | ------------------------------------------------ |
-| Japanese  | `つのでたたく`                                         |
+| Japanese  | つのでたたく                                           |
 | Type      | Grass                                            |
 | Code      | EBW01-003                                        |
 | Pokémon   | Pinsir                                           |
@@ -63,7 +63,7 @@
 
 | Name      | Guillotine                                   |
 | --------- | -------------------------------------------- |
-| Japanese  | `ハサミギロチン`                                    |
+| Japanese  | ハサミギロチン                                      |
 | Type      | Normal                                       |
 | Code      | EBW01-004                                    |
 | Pokémon   | Pinsir                                       |
@@ -82,7 +82,7 @@
 
 | Name      | Brick Break                                      |
 | --------- | ------------------------------------------------ |
-| Japanese  | `かわらわり`                                          |
+| Japanese  | かわらわり                                            |
 | Type      | Fighting                                         |
 | Code      | EBW01-005                                        |
 | Pokémon   | Pinsir                                           |
@@ -101,7 +101,7 @@
 
 | Name      | Scissors Charge ?                                                                |
 | --------- | -------------------------------------------------------------------------------- |
-| Japanese  | `チャージばさみ`                                                                        |
+| Japanese  | チャージばさみ                                                                          |
 | Type      | Grass                                                                            |
 | Code      | EBW01-006                                                                        |
 | Pokémon   | Pinsir                                                                           |
@@ -120,7 +120,7 @@
 
 | Name      | Berserk Swing ?                                                                                      |
 | --------- | ---------------------------------------------------------------------------------------------------- |
-| Japanese  | `ぎゃくじょうスイング`                                                                                         |
+| Japanese  | ぎゃくじょうスイング                                                                                           |
 | Type      | Grass                                                                                                |
 | Code      | EBW01-007                                                                                            |
 | Pokémon   | Pinsir                                                                                               |
@@ -139,7 +139,7 @@
 
 | Name      | Reckless Charge                                             |
 | --------- | ----------------------------------------------------------- |
-| Japanese  | `とつげき`                                                      |
+| Japanese  | とつげき                                                        |
 | Type      | Grass                                                       |
 | Code      | EBW01-008                                                   |
 | Pokémon   | Pinsir                                                      |
@@ -158,7 +158,7 @@
 
 | Name      | Deadly Scissors ?                                |
 | --------- | ------------------------------------------------ |
-| Japanese  | `ひっさつばさみ`                                        |
+| Japanese  | ひっさつばさみ                                          |
 | Type      | Grass                                            |
 | Code      | EBW01-009                                        |
 | Pokémon   | Pinsir                                           |
@@ -177,7 +177,7 @@
 
 | Name      | Submission                                                  |
 | --------- | ----------------------------------------------------------- |
-| Japanese  | `じごくぐるま`                                                    |
+| Japanese  | じごくぐるま                                                      |
 | Type      | Fighting                                                    |
 | Code      | EBW01-010                                                   |
 | Pokémon   | Pinsir                                                      |

@@ -6,7 +6,7 @@
 
 | Name      | Fire Wing                                                   |
 | --------- | ----------------------------------------------------------- |
-| Japanese  | `ほのおのつばさ`                                                   |
+| Japanese  | ほのおのつばさ                                                     |
 | Type      | Fire                                                        |
 | Code      | EBW01-011                                                   |
 | Pokémon   | Moltres                                                     |
@@ -25,7 +25,7 @@
 
 | Name      | Heat Wave                                        |
 | --------- | ------------------------------------------------ |
-| Japanese  | `ねっぷう`                                           |
+| Japanese  | ねっぷう                                             |
 | Type      | Fire                                             |
 | Code      | EBW01-012                                        |
 | Pokémon   | Moltres                                          |
@@ -44,7 +44,7 @@
 
 | Name      | Flamethrower                                                                   |
 | --------- | ------------------------------------------------------------------------------ |
-| Japanese  | `かえんほうしゃ`                                                                      |
+| Japanese  | かえんほうしゃ                                                                        |
 | Type      | Fire                                                                           |
 | Code      | EBW01-013                                                                      |
 | Pokémon   | Moltres                                                                        |
@@ -63,7 +63,7 @@
 
 | Name      | Flare Blitz                                                 |
 | --------- | ----------------------------------------------------------- |
-| Japanese  | `フレアドライブ`                                                   |
+| Japanese  | フレアドライブ                                                     |
 | Type      | Fire                                                        |
 | Code      | EBW01-014                                                   |
 | Pokémon   | Moltres                                                     |
@@ -82,7 +82,7 @@
 
 | Name      | Hurricane                                        |
 | --------- | ------------------------------------------------ |
-| Japanese  | `ぼうふう`                                           |
+| Japanese  | ぼうふう                                             |
 | Type      | Flying                                           |
 | Code      | EBW01-015                                        |
 | Pokémon   | Moltres                                          |
@@ -101,7 +101,7 @@
 
 | Name      | Fire Spin                                                                      |
 | --------- | ------------------------------------------------------------------------------ |
-| Japanese  | `ほのおのうず`                                                                       |
+| Japanese  | ほのおのうず                                                                         |
 | Type      | Fire                                                                           |
 | Code      | EBW01-016                                                                      |
 | Pokémon   | Moltres                                                                        |
@@ -120,7 +120,7 @@
 
 | Name      | Heat Breath                                                 |
 | --------- | ----------------------------------------------------------- |
-| Japanese  | `ヒートブレス`                                                    |
+| Japanese  | ヒートブレス                                                      |
 | Type      | Fire                                                        |
 | Code      | EBW01-017                                                   |
 | Pokémon   | Moltres                                                     |
@@ -139,7 +139,7 @@
 
 | Name      | Burn Up                                   |
 | --------- | ----------------------------------------- |
-| Japanese  | `もえつきる`                                   |
+| Japanese  | もえつきる                                     |
 | Type      | Fire                                      |
 | Code      | EBW01-018                                 |
 | Pokémon   | Moltres                                   |
@@ -158,7 +158,7 @@
 
 | Name      | Wing Rush ?                                      |
 | --------- | ------------------------------------------------ |
-| Japanese  | `ウイングラッシュ`                                       |
+| Japanese  | ウイングラッシュ                                         |
 | Type      | Flying                                           |
 | Code      | EBW01-019                                        |
 | Pokémon   | Moltres                                          |
@@ -177,7 +177,7 @@
 
 | Name      | Fly                                                                                              |
 | --------- | ------------------------------------------------------------------------------------------------ |
-| Japanese  | `そらをとぶ`                                                                                          |
+| Japanese  | そらをとぶ                                                                                            |
 | Type      | Flying                                                                                           |
 | Code      | EBW01-020                                                                                        |
 | Pokémon   | Moltres                                                                                          |

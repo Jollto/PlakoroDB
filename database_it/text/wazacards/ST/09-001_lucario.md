@@ -51,10 +51,10 @@
 | Energy    | {F}{F}                                                                                        |
 | Damage    | 20                                                                                            |
 | Effect    |                                                                                               |
-| Standing  | If this pokemon has 80 or less HP remaining, this attack does 30 more damage. |
+| Standing  | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
 | Handstand |                                                                                               |
-| Back      | If this pokemon has 80 or less HP remaining, this attack does 30 more damage. |
-| Down      | If this pokemon has 80 or less HP remaining, this attack does 30 more damage. |
+| Back      | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
+| Down      | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
 | Sideways  |                                                                                               |
 
 [Aura Knuckle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard03.webp)
@@ -89,11 +89,11 @@
 | Energy    | {F}{F}{F}                                                                                                                                      |
 | Damage    | 30                                                                                                                                             |
 | Effect    |                                                                                                                                                |
-| Standing  | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Standing  | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 | Handstand |                                                                                                                                                |
-| Back      | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Back      | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 | Down      |                                                                                                                                                |
-| Sideways  | If this pokemon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Sideways  | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 
 [Aura Jab](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard05.webp)
 
@@ -108,10 +108,10 @@
 | Energy    | {F}{F}{F}{F}                                                                                  |
 | Damage    | 40                                                                                            |
 | Effect    |                                                                                               |
-| Standing  | If this pokemon has 40 or less HP remaining, this attack does 50 more damage. |
+| Standing  | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
 | Handstand |                                                                                               |
-| Back      | If this pokemon has 40 or less HP remaining, this attack does 50 more damage. |
-| Down      | If this pokemon has 40 or less HP remaining, this attack does 50 more damage. |
+| Back      | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
+| Down      | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
 | Sideways  |                                                                                               |
 
 [Aura Sphere](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard06.webp)

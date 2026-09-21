@@ -6,7 +6,7 @@
 
 | Nombre     | Látigo Cepa                                             |
 | ---------- | ------------------------------------------------------- |
-| Japonés    | `つるのムチ`                                                 |
+| Japonés    | つるのムチ                                                   |
 | Tipo       | Planta                                                  |
 | Código     | STW01-001                                               |
 | Pokémon    | Bulbasaur                                               |
@@ -21,11 +21,11 @@
 
 [Látigo Cepa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard01.webp)
 
-#### Razor Leaf
+#### Hoja Afilada
 
-| Nombre     | Razor Leaf                                              |
+| Nombre     | Hoja Afilada                                            |
 | ---------- | ------------------------------------------------------- |
-| Japonés    | `はっぱカッター`                                               |
+| Japonés    | はっぱカッター                                                 |
 | Tipo       | Planta                                                  |
 | Código     | STW01-002                                               |
 | Pokémon    | Bulbasaur                                               |
@@ -38,32 +38,32 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
 
-[Razor Leaf](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard02.webp)
+[Hoja Afilada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard02.webp)
 
-#### Leech Seed
+#### Drenadoras
 
-| Name       | Leech Seed                                                                                                                                                                 |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | `やどりぎのタネ`                                                                                                                                                                  |
-| Type       | Planta                                                                                                                                                                     |
-| Code       | STW01-003                                                                                                                                                                  |
-| Pokémon    | Bulbasaur                                                                                                                                                                  |
-| Energía    | {G}{G}                                                                                                                                                                     |
-| Daño       | 10                                                                                                                                                                         |
-| Efecto     |                                                                                                                                                                            |
-| De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 1. On your next turn, increase the number of Enekoro you roll by 1. |
-| Vertical   |                                                                                                                                                                            |
-| De espalda | On the opponent's next turn, reduce the number of Enekoro they roll by 1. On your next turn, increase the number of Enekoro you roll by 1. |
-| Boca abajo |                                                                                                                                                                            |
-| De lado    | On the opponent's next turn, reduce the number of Enekoro they roll by 1. On your next turn, increase the number of Enekoro you roll by 1. |
+| Nombre     | Drenadoras                                                                                                                                                                            |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | やどりぎのタネ                                                                                                                                                                               |
+| Tipo       | Planta                                                                                                                                                                                |
+| Código     | STW01-003                                                                                                                                                                             |
+| Pokémon    | Bulbasaur                                                                                                                                                                             |
+| Energía    | {G}{G}                                                                                                                                                                                |
+| Daño       | 10                                                                                                                                                                                    |
+| Efecto     |                                                                                                                                                                                       |
+| De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
+| Vertical   |                                                                                                                                                                                       |
+| De espalda | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
+| Boca abajo |                                                                                                                                                                                       |
+| De lado    | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
 
-[Leech Seed](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard03.webp)
+[Drenadoras](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard03.webp)
 
-#### Grass Knot
+#### Hierba Lazo
 
-| Name       | Grass Knot                                                                                                               |
+| Nombre     | Hierba Lazo                                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Japonés    | `くさむすび`                                                                                                                  |
+| Japonés    | くさむすび                                                                                                                    |
 | Type       | Grass                                                                                                                    |
 | Código     | STW01-004                                                                                                                |
 | Pokémon    | Bulbasaur                                                                                                                |
@@ -82,16 +82,16 @@
 
 | Nombre     | Reckless Charge                                             |
 | ---------- | ----------------------------------------------------------- |
-| Japonés    | `とつげき`                                                      |
+| Japonés    | とつげき                                                        |
 | Tipo       | Planta                                                      |
 | Code       | STW01-005                                                   |
 | Pokémon    | Bulbasaur                                                   |
 | Energía    | {G}{G}{G}                                                   |
 | Daño       | 30                                                          |
 | Efecto     |                                                             |
-| De pie     | This attack does 40 more damage.            |
+| De pie     | Este ataque hace 40 puntos de daño más.     |
 | Vertical   | This Pokémon also does 30 damage to itself. |
-| De espalda | This attack does 40 more damage.            |
+| De espalda | Este ataque hace 40 puntos de daño más.     |
 | Boca abajo | This Pokémon also does 30 damage to itself. |
 | De lado    |                                                             |
 
@@ -101,7 +101,7 @@
 
 | Name       | Giga Drain                                        |
 | ---------- | ------------------------------------------------- |
-| Japonés    | `ギガドレイン`                                          |
+| Japonés    | ギガドレイン                                            |
 | Type       | Grass                                             |
 | Code       | STW01-006                                         |
 | Pokémon    | Bulbasaur                                         |
@@ -118,20 +118,20 @@
 
 #### Acid Spray
 
-| Name       | Acid Spray                                       |
-| ---------- | ------------------------------------------------ |
-| Japonés    | `アシッドボム`                                         |
-| Type       | Dark                                             |
-| Code       | STW01-007                                        |
-| Pokémon    | Bulbasaur                                        |
-| Energía    | {D}{C}{C}                                        |
-| Daño       | 10                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    | This attack does 20 more damage. |
+| Name       | Acid Spray                                              |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | アシッドボム                                                  |
+| Type       | Dark                                                    |
+| Code       | STW01-007                                               |
+| Pokémon    | Bulbasaur                                               |
+| Energía    | {D}{C}{C}                                               |
+| Daño       | 10                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Vertical   |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 20 puntos de daño más. |
 
 [Acid Spray](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard07.webp)
 
@@ -141,7 +141,7 @@
 
 | Name       | Aroma Storm ?                                     |
 | ---------- | ------------------------------------------------- |
-| Japonés    | `アロマストーム`                                         |
+| Japonés    | アロマストーム                                           |
 | Type       | Grass                                             |
 | Code       | PRW01-1-08                                        |
 | Pokémon    | Bulbasaur                                         |

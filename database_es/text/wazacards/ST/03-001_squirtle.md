@@ -99,20 +99,20 @@
 
 #### Hydro Rage ?
 
-| Name       | Hydro Rage ?                                                                                         |
-| ---------- | ---------------------------------------------------------------------------------------------------- |
-| Japonés    | ハイドロアンガー                                                                                             |
-| Type       | Water                                                                                                |
-| Code       | STW03-006                                                                                            |
-| Pokémon    | Squirtle                                                                                             |
-| Energía    | {W}{W}{W}{W}                                                                                         |
-| Daño       | 40                                                                                                   |
-| Efecto     |                                                                                                      |
-| De pie     | If this pokemon has 40 or less HP remaining, Este ataque hace 60 puntos de daño más. |
-| Vertical   |                                                                                                      |
-| De espalda | If this pokemon has 40 or less HP remaining, Este ataque hace 60 puntos de daño más. |
-| Boca abajo | If this pokemon has 40 or less HP remaining, Este ataque hace 60 puntos de daño más. |
-| De lado    |                                                                                                      |
+| Name       | Hydro Rage ?                                                                                  |
+| ---------- | --------------------------------------------------------------------------------------------- |
+| Japonés    | ハイドロアンガー                                                                                      |
+| Type       | Water                                                                                         |
+| Code       | STW03-006                                                                                     |
+| Pokémon    | Squirtle                                                                                      |
+| Energía    | {W}{W}{W}{W}                                                                                  |
+| Daño       | 40                                                                                            |
+| Efecto     |                                                                                               |
+| De pie     | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
+| Vertical   |                                                                                               |
+| De espalda | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
+| Boca abajo | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
+| De lado    |                                                                                               |
 
 [Hydro Rage](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard06.webp)
 

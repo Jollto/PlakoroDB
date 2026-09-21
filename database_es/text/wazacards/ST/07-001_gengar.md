@@ -108,10 +108,10 @@
 | Energía    | {D}{D}{D}{D}                                                                                                                                 |
 | Daño       | 10                                                                                                                                           |
 | Efecto     |                                                                                                                                              |
-| De pie     | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, Este ataque hace 40 puntos de daño más. |
-| Vertical   | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, Este ataque hace 40 puntos de daño más. |
-| De espalda | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, Este ataque hace 40 puntos de daño más. |
-| Boca abajo | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, Este ataque hace 40 puntos de daño más. |
+| De pie     | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| Vertical   | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| De espalda | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| Boca abajo | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
 | De lado    |                                                                                                                                              |
 
 [Phantom Trick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard06.webp)

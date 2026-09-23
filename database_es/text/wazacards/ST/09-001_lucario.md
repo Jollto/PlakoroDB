@@ -134,3 +134,22 @@
 | De lado    |                                                         |
 
 [Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard07.webp)
+
+### Promo
+
+#### Vacuum Wave
+
+| Name       | Vacuum Wave                                      |
+| ---------- | ------------------------------------------------ |
+| Japonés    | しんくうは                                            |
+| Type       | Fighting                                         |
+| Code       | PRW02-3-08                                       |
+| Pokémon    | Lucario                                          |
+| Energía    | {F}{F}{F}                                        |
+| Daño       | 20                                               |
+| Efecto     |                                                  |
+| De pie     | This attack does 50 more damage. |
+| Vertical   |                                                  |
+| De espalda |                                                  |
+| Boca abajo |                                                  |
+| De lado    |                                                  |

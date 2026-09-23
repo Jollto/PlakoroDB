@@ -134,3 +134,22 @@
 | Sideways  |                                                                        |
 
 [Explosion](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)
+
+### Promo
+
+#### Steel Claw ?
+
+| Name      | Steel Claw ?                                     |
+| --------- | ------------------------------------------------ |
+| Japanese  | こうてつのツメ                                          |
+| Type      | Steel                                            |
+| Code      | PRW02-2-08                                       |
+| Pokémon   | Metagross                                        |
+| Energy    | {M}                                              |
+| Damage    | 10                                               |
+| Effect    |                                                  |
+| Standing  | This attack does 30 more damage. |
+| Handstand |                                                  |
+| Back      |                                                  |
+| Down      |                                                  |
+| Sideways  |                                                  |

@@ -134,3 +134,22 @@
 | Sideways  |                                  |
 
 [Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard07.webp)
+
+### Promo
+
+#### Vacuum Wave
+
+| Name      | Vacuum Wave                      |
+| --------- | -------------------------------- |
+| Japanese  | しんくうは                       |
+| Type      | Fighting                         |
+| Code      | PRW02-3-08                       |
+| Pokémon   | Lucario                          |
+| Energy    | {F}{F}{F}                        |
+| Damage    | 20                               |
+| Effect    |                                  |
+| Standing  | This attack does 50 more damage. |
+| Handstand |                                  |
+| Back      |                                  |
+| Down      |                                  |
+| Sideways  |                                  |

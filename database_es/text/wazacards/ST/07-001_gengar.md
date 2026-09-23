@@ -134,3 +134,22 @@
 | De lado    |                                                         |
 
 [Psywave](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard07.webp)
+
+### Promo
+
+#### Night Lock ?
+
+| Name       | Night Lock ?                                                                              |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| Japonés    | ナイトロック                                                                                    |
+| Type       | Dark                                                                                      |
+| Code       | PRW02-1-08                                                                                |
+| Pokémon    | Gengar                                                                                    |
+| Energía    | {D}{D}{D}{D}                                                                              |
+| Daño       | 30                                                                                        |
+| Efecto     |                                                                                           |
+| De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
+| Vertical   |                                                                                           |
+| De espalda |                                                                                           |
+| Boca abajo |                                                                                           |
+| De lado    |                                                                                           |

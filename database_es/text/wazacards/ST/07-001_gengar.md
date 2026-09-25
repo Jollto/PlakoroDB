@@ -135,7 +135,7 @@
 
 [Psywave](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard07.webp)
 
-### Promo
+### Promoción
 
 #### Night Lock ?
 

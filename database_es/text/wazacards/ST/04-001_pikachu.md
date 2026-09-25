@@ -135,7 +135,7 @@
 
 [Iron Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
 
-### Promo
+### Promoción
 
 #### Critical Bolt ?
 

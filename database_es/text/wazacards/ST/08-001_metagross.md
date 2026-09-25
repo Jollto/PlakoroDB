@@ -135,7 +135,7 @@
 
 [Explosion](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)
 
-### Promo
+### Promoción
 
 #### Steel Claw ?
 

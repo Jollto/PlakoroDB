@@ -133,25 +133,25 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
 
-[Acid Spray](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard07.webp)
+[Bomba Ácida](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard07.webp)
 
-### Promo
+### Promoción
 
-#### Aroma Storm ?
+#### Tormenta Aromática ?
 
-| Name       | Aroma Storm ?                                     |
-| ---------- | ------------------------------------------------- |
-| Japonés    | アロマストーム                                           |
-| Type       | Grass                                             |
-| Code       | PRW01-1-08                                        |
-| Pokémon    | Bulbasaur                                         |
-| Energía    | {G}{G}{G}{G}                                      |
-| Daño       | 30                                                |
-| Efecto     |                                                   |
-| De pie     | Heal 50 damage from this Pokémon. |
-| Vertical   |                                                   |
-| De espalda |                                                   |
-| Boca abajo |                                                   |
-| De lado    |                                                   |
+| Nombre     | Tormenta Aromática ?                                    |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | アロマストーム                                                 |
+| Tipo       | Planta                                                  |
+| Código     | PRW01-1-08                                              |
+| Pokémon    | Bulbasaur                                               |
+| Energía    | {G}{G}{G}{G}                                            |
+| Daño       | 30                                                      |
+| Efecto     |                                                         |
+| De pie     | Cura 50 puntos de daño de este Pokémon. |
+| Vertical   |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
-[Aroma Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img01.webp)
+[Tormenta Aromática](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img01.webp)

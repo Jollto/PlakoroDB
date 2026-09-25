@@ -135,7 +135,7 @@
 
 [Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard07.webp)
 
-### Promo
+### Promoción
 
 #### Vacuum Wave
 

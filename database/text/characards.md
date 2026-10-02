@@ -110,6 +110,24 @@
 
 [Lucario](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_characard.webp)
 
+### [Altaria](../cards/characards/STC10-001_altaria.png)
+
+| Name     | Altaria   |
+| -------- | --------- |
+| Type     | Flying    |
+| Code     | STC10-001 |
+| Weakness | Water     |
+| HP       | 120       |
+
+### [Dragonite](../cards/characards/STC11-001_dragonite.png)
+
+| Name     | Dragonite |
+| -------- | --------- |
+| Type     | Dragon    |
+| Code     | STC11-001 |
+| Weakness | Dragon    |
+| HP       | 120       |
+
 ## Exploration Box 1
 
 ### [Pinsir](../cards/characards/EBC01-001_pinsir.png)

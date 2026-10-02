@@ -23,20 +23,20 @@
 
 #### Fluffy Flight ?
 
-| Name      | Fluffy Flight ?                                                                                                                                 |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | ふわふわひこう                                                                                                                                  |
-| Type      | Flying                                                                                                                                          |
-| Code      | STW10-002                                                                                                                                       |
-| Pokémon   | Altaria                                                                                                                                         |
-| Energy    | {Y}{Y}                                                                                                                                          |
-| Damage    | 20                                                                                                                                              |
-| Effect    |                                                                                                                                                 |
-| Standing  | On the opponent's next turn, if the charakoro rolls {st1}{st2}, you do not take damage from attacks. (You are still affected by other effects.) |
-| Handstand |                                                                                                                                                 |
-| Back      |                                                                                                                                                 |
-| Down      |                                                                                                                                                 |
-| Sideways  | On the opponent's next turn, if the charakoro rolls {st1}{st2}, you do not take damage from attacks. (You are still affected by other effects.) |
+| Name      | Fluffy Flight ?                                                                                                                               |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japanese  | ふわふわひこう                                                                                                                                |
+| Type      | Flying                                                                                                                                        |
+| Code      | STW10-002                                                                                                                                     |
+| Pokémon   | Altaria                                                                                                                                       |
+| Energy    | {Y}{Y}                                                                                                                                        |
+| Damage    | 20                                                                                                                                            |
+| Effect    |                                                                                                                                               |
+| Standing  | On the opponent's next turn, if the charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
+| Handstand |                                                                                                                                               |
+| Back      |                                                                                                                                               |
+| Down      |                                                                                                                                               |
+| Sideways  | On the opponent's next turn, if the charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
 
 [Fluffy Flight](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 
@@ -118,20 +118,20 @@
 
 #### Moonblast
 
-| Name      | Moonblast                                                      |
-| --------- | -------------------------------------------------------------- |
-| Japanese  | ムーンフォース                                                 |
-| Type      | Psychic                                                        |
-| Code      | STW10-007                                                      |
-| Pokémon   | Altaria                                                        |
-| Energy    | {P}{C}{C}{C}                                                   |
-| Damage    | 30                                                             |
-| Effect    |                                                                |
-| Standing  | If the opponent is a{D} type, this attack does 40 more damage. |
-| Handstand |                                                                |
-| Back      |                                                                |
-| Down      |                                                                |
-| Sideways  | If the opponent is a{D} type, this attack does 40 more damage. |
+| Name      | Moonblast                                                       |
+| --------- | --------------------------------------------------------------- |
+| Japanese  | ムーンフォース                                                  |
+| Type      | Psychic                                                         |
+| Code      | STW10-007                                                       |
+| Pokémon   | Altaria                                                         |
+| Energy    | {P}{C}{C}{C}                                                    |
+| Damage    | 30                                                              |
+| Effect    |                                                                 |
+| Standing  | If the opponent is a {N} type, this attack does 40 more damage. |
+| Handstand |                                                                 |
+| Back      |                                                                 |
+| Down      |                                                                 |
+| Sideways  | If the opponent is a {N} type, this attack does 40 more damage. |
 
 [Moonblast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)
 

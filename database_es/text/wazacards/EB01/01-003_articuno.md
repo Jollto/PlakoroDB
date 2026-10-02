@@ -95,7 +95,7 @@
 | Boca abajo |                                                        |
 | De lado    | Heal 20 more damage from this Pokémon. |
 
-[Air Cutter](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard05.webp)
+[Roost](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard05.webp)
 
 #### Freeze Dive ?
 

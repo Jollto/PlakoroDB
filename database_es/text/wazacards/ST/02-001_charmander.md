@@ -14,144 +14,144 @@
 | Daño       | 20                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 30 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda | Este ataque hace 30 puntos de daño más. |
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
 [Ascuas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard01.webp)
 
-#### Heat Up
+#### Calentar ?
 
-| Name       | Heat Up                                                                          |
-| ---------- | -------------------------------------------------------------------------------- |
-| Japonés    | ヒートアップ                                                                           |
-| Type       | Fire                                                                             |
-| Code       | STW02-002                                                                        |
-| Pokémon    | Charmander                                                                       |
-| Energía    | {R}{R}                                                                           |
-| Daño       | 10                                                                               |
-| Efecto     |                                                                                  |
-| De pie     | On your next turn, increase the number of Enekoro you roll by 2. |
-| Vertical   |                                                                                  |
-| De espalda | On your next turn, increase the number of Enekoro you roll by 2. |
-| Boca abajo |                                                                                  |
-| De lado    |                                                                                  |
+| Nombre     | Calentar ?                                                                                |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| Japonés    | ヒートアップ                                                                                    |
+| Tipo       | Fuego                                                                                     |
+| Código     | STW02-002                                                                                 |
+| Pokémon    | Charmander                                                                                |
+| Energía    | {R}{R}                                                                                    |
+| Daño       | 10                                                                                        |
+| Efecto     |                                                                                           |
+| De pie     | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
+| Pino       |                                                                                           |
+| De espalda | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
+| Boca abajo |                                                                                           |
+| De lado    |                                                                                           |
 
-[Heat Up](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard02.webp)
+[Calentar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard02.webp)
 
-#### Flamethrower
+#### Lanzallamas
 
-| Name       | Flamethrower                                                                   |
-| ---------- | ------------------------------------------------------------------------------ |
-| Japonés    | かえんほうしゃ                                                                        |
-| Type       | Fire                                                                           |
-| Code       | STW02-003                                                                      |
-| Pokémon    | Charmander                                                                     |
-| Energía    | {R}{R}{R}                                                                      |
-| Daño       | 40                                                                             |
-| Efecto     |                                                                                |
-| De pie     | Este ataque hace 20 puntos de daño más.                        |
-| Vertical   | On your next turn, reduce the number of Enekoro you roll by 1. |
-| De espalda | Este ataque hace 20 puntos de daño más.                        |
-| Boca abajo | On your next turn, reduce the number of Enekoro you roll by 1. |
-| De lado    | On your next turn, reduce the number of Enekoro you roll by 1. |
+| Nombre     | Lanzallamas                                                                           |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Japonés    | かえんほうしゃ                                                                               |
+| Tipo       | Fuego                                                                                 |
+| Código     | STW02-003                                                                             |
+| Pokémon    | Charmander                                                                            |
+| Energía    | {R}{R}{R}                                                                             |
+| Daño       | 40                                                                                    |
+| Efecto     |                                                                                       |
+| De pie     | Este ataque hace 20 puntos de daño más.                               |
+| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 1. |
+| De espalda | Este ataque hace 20 puntos de daño más.                               |
+| Boca abajo | Durante tu próximo turno, reduce el número de Enekoro que tiras en 1. |
+| De lado    | Durante tu próximo turno, reduce el número de Enekoro que tiras en 1. |
 
-[Flamethrower](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard03.webp)
+[Lanzallamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard03.webp)
 
-#### Fire Fang
+#### Colmillo Ígneo
 
-| Name       | Fire Fang                                               |
+| Nombre     | Colmillo Ígneo                                          |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ほのおのキバ                                                  |
-| Type       | Fire                                                    |
-| Code       | STW02-004                                               |
+| Tipo       | Fuego                                                   |
+| Código     | STW02-004                                               |
 | Pokémon    | Charmander                                              |
 | Energía    | {R}{R}{R}{R}                                            |
 | Daño       | 30                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 30 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda | Este ataque hace 30 puntos de daño más. |
 | Boca abajo | Este ataque hace 30 puntos de daño más. |
 | De lado    |                                                         |
 
-[Fire Fang](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard04.webp)
+[Colmillo Ígneo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard04.webp)
 
-#### Flare Storm
+#### Tormenta de Llamas
 
-| Name       | Flare Storm                                                              |
-| ---------- | ------------------------------------------------------------------------ |
-| Japonés    | フレアストーム                                                                  |
-| Type       | Fire                                                                     |
-| Code       | STW02-005                                                                |
-| Pokémon    | Charmander                                                               |
-| Energía    | {C}{C}{C}{C}{C}                                                          |
-| Daño       | 20                                                                       |
-| Efecto     |                                                                          |
-| De pie     | This attack does 10 damage for each {R} energy produced. |
-| Vertical   |                                                                          |
-| De espalda |                                                                          |
-| Boca abajo |                                                                          |
-| De lado    | This attack does 10 damage for each {R} energy produced. |
+| Nombre     | Tormenta de Llamas                                                                    |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Japonés    | フレアストーム                                                                               |
+| Tipo       | Fuego                                                                                 |
+| Código     | STW02-005                                                                             |
+| Pokémon    | Charmander                                                                            |
+| Energía    | {C}{C}{C}{C}{C}                                                                       |
+| Daño       | 20                                                                                    |
+| Efecto     |                                                                                       |
+| De pie     | Este ataque inflige 10 puntos de daño por cada energía {R} producida. |
+| Pino       |                                                                                       |
+| De espalda |                                                                                       |
+| Boca abajo |                                                                                       |
+| De lado    | Este ataque inflige 10 puntos de daño por cada energía {R} producida. |
 
-[Flare Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard05.webp)
+[Tormenta de Llamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard05.webp)
 
-#### Thunder Punch
+#### Puño Trueno
 
-| Name       | Thunder Punch                                           |
+| Nombre     | Puño Trueno                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | かみなりパンチ                                                 |
-| Type       | Electric                                                |
-| Code       | STW02-006                                               |
+| Tipo       | Eléctrico                                               |
+| Código     | STW02-006                                               |
 | Pokémon    | Charmander                                              |
 | Energía    | {L}{C}{C}                                               |
 | Daño       | 10                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda | Este ataque hace 20 puntos de daño más. |
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
 
-[Thunder Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard06.webp)
+[Puño Trueno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard06.webp)
 
-#### Metal Claw
+#### Garra Metal
 
-| Name       | Metal Claw                                              |
+| Nombre     | Garra Metal                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | メタルクロー                                                  |
-| Type       | Steel                                                   |
-| Code       | STW02-007                                               |
+| Tipo       | Acero                                                   |
+| Código     | STW02-007                                               |
 | Pokémon    | Charmander                                              |
 | Energía    | {M}{C}{C}                                               |
 | Daño       | 20                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 40 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard07.webp)
+[Garra Metal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard07.webp)
 
 ### Promoción
 
-#### Flame Up ?
+#### Avivar ?
 
-| Name       | Flame Up ?                                                                       |
-| ---------- | -------------------------------------------------------------------------------- |
-| Japonés    | フレイムアップ                                                                          |
-| Type       | Fire                                                                             |
-| Code       | PRW01-2-08                                                                       |
-| Pokémon    | Charmander                                                                       |
-| Energía    | {R}{R}{R}                                                                        |
-| Daño       | 20                                                                               |
-| Efecto     |                                                                                  |
-| De pie     | On your next turn, increase the number of Enekoro you roll by 2. |
-| Vertical   | On your next turn, reduce the number of Enekoro you roll by 2.   |
-| De espalda |                                                                                  |
-| Boca abajo |                                                                                  |
-| De lado    |                                                                                  |
+| Nombre     | Avivar ?                                                                                  |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| Japonés    | フレイムアップ                                                                                   |
+| Tipo       | Fuego                                                                                     |
+| Código     | PRW01-2-08                                                                                |
+| Pokémon    | Charmander                                                                                |
+| Energía    | {R}{R}{R}                                                                                 |
+| Daño       | 20                                                                                        |
+| Efecto     |                                                                                           |
+| De pie     | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
+| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2.     |
+| De espalda |                                                                                           |
+| Boca abajo |                                                                                           |
+| De lado    |                                                                                           |
 
-[Flame Up](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img02.webp)
+[Avivar](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img02.webp)

@@ -14,7 +14,7 @@
 | Daño       | 10                                                                                        |
 | Efecto     |                                                                                           |
 | De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Vertical   |                                                                                           |
+| Pino       |                                                                                           |
 | De espalda |                                                                                           |
 | Boca abajo |                                                                                           |
 | De lado    | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
@@ -33,7 +33,7 @@
 | Daño       | 20                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda |                                                  |
 | Boca abajo |                                                  |
 | De lado    | This attack does 20 more damage. |
@@ -52,7 +52,7 @@
 | Daño       | 30                                                                                                                             |
 | Efecto     |                                                                                                                                |
 | De pie     | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
-| Vertical   |                                                                                                                                |
+| Pino       |                                                                                                                                |
 | De espalda | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
 | Boca abajo |                                                                                                                                |
 | De lado    | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
@@ -71,7 +71,7 @@
 | Daño       | 30                                                                                                                       |
 | Efecto     |                                                                                                                          |
 | De pie     | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-| Vertical   |                                                                                                                          |
+| Pino       |                                                                                                                          |
 | De espalda | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
 | Boca abajo | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
 | De lado    |                                                                                                                          |
@@ -90,7 +90,7 @@
 | Daño       | 40                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 30 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda | This attack does 30 more damage. |
 | Boca abajo |                                                  |
 | De lado    |                                                  |
@@ -109,7 +109,7 @@
 | Daño       | 20                                                                                                                              |
 | Efecto     |                                                                                                                                 |
 | De pie     | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
-| Vertical   |                                                                                                                                 |
+| Pino       |                                                                                                                                 |
 | De espalda | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
 | Boca abajo |                                                                                                                                 |
 | De lado    | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
@@ -128,7 +128,7 @@
 | Daño       | 30                                                                                                                            |
 | Efecto     |                                                                                                                               |
 | De pie     | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
-| Vertical   |                                                                                                                               |
+| Pino       |                                                                                                                               |
 | De espalda | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
 | Boca abajo | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
 | De lado    |                                                                                                                               |
@@ -147,7 +147,7 @@
 | Daño       | 20                                                          |
 | Efecto     |                                                             |
 | De pie     | This attack does 40 more damage.            |
-| Vertical   | This Pokémon also does 20 damage to itself. |
+| Pino       | This Pokémon also does 20 damage to itself. |
 | De espalda | This Pokémon also does 20 damage to itself. |
 | Boca abajo | This Pokémon also does 20 damage to itself. |
 | De lado    | This attack does 40 more damage.            |
@@ -166,7 +166,7 @@
 | Daño       | 20                                                                                                               |
 | Efecto     |                                                                                                                  |
 | De pie     | During your opponent's last turn, if their Enekoro roll failed, this attack does 50 more damage. |
-| Vertical   |                                                                                                                  |
+| Pino       |                                                                                                                  |
 | De espalda |                                                                                                                  |
 | Boca abajo |                                                                                                                  |
 | De lado    | During your opponent's last turn, if their Enekoro roll failed, this attack does 50 more damage. |

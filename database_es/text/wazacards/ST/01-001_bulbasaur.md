@@ -14,7 +14,7 @@
 | Daño       | 10                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda | Este ataque hace 20 puntos de daño más. |
 | Boca abajo | Este ataque hace 20 puntos de daño más. |
 | De lado    |                                                         |
@@ -33,7 +33,7 @@
 | Daño       | 20                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
@@ -52,7 +52,7 @@
 | Daño       | 10                                                                                                                                                                                    |
 | Efecto     |                                                                                                                                                                                       |
 | De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
-| Vertical   |                                                                                                                                                                                       |
+| Pino       |                                                                                                                                                                                       |
 | De espalda | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
 | Boca abajo |                                                                                                                                                                                       |
 | De lado    | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
@@ -71,7 +71,7 @@
 | Daño       | 30                                                                                                                           |
 | Efecto     |                                                                                                                              |
 | De pie     | Elige 1 de los ataques de tu oponente. Durante su próximo turno, no pueden usar este ataque. |
-| Vertical   |                                                                                                                              |
+| Pino       |                                                                                                                              |
 | De espalda | Elige 1 de los ataques de tu oponente. Durante su próximo turno, no pueden usar este ataque. |
 | Boca abajo | Elige 1 de los ataques de tu oponente. Durante su próximo turno, no pueden usar este ataque. |
 | De lado    |                                                                                                                              |
@@ -90,7 +90,7 @@
 | Daño       | 30                                                              |
 | Efecto     |                                                                 |
 | De pie     | Este ataque hace 40 puntos de daño más.         |
-| Vertical   | Este Pokémon también se hace 30 puntos de daño. |
+| Pino       | Este Pokémon también se hace 30 puntos de daño. |
 | De espalda | Este ataque hace 40 puntos de daño más.         |
 | Boca abajo | Este Pokémon también se hace 30 puntos de daño. |
 | De lado    |                                                                 |
@@ -109,7 +109,7 @@
 | Daño       | 40                                                      |
 | Efecto     |                                                         |
 | De pie     | Cura 40 puntos de daño de este Pokémon. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    | Cura 40 puntos de daño de este Pokémon. |
@@ -128,7 +128,7 @@
 | Daño       | 10                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
@@ -149,7 +149,7 @@
 | Daño       | 30                                                      |
 | Efecto     |                                                         |
 | De pie     | Cura 50 puntos de daño de este Pokémon. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    |                                                         |

@@ -1,14 +1,14 @@
-## Charmander Cards
+## Cartas de Carmander
 
-### Starter Set
+### Set de Inicio
 
-#### Ember
+#### Ascuas
 
-| Name       | Ember                                                   |
+| Nombre     | Ascuas                                                  |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ひのこ                                                     |
-| Type       | Fire                                                    |
-| Code       | STW02-001                                               |
+| Tipo       | Fuego                                                   |
+| Código     | STW02-001                                               |
 | Pokémon    | Charmander                                              |
 | Energía    | {R}{R}                                                  |
 | Daño       | 20                                                      |
@@ -19,7 +19,7 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Ember](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard01.webp)
+[Ascuas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard01.webp)
 
 #### Heat Up
 

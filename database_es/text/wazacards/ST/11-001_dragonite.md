@@ -14,7 +14,7 @@
 | Daño       | 20                                                                             |
 | Efecto     |                                                                                |
 | De pie     | This attack does 30 more damage.                               |
-| Vertical   | On your next turn, reduce the number of Enekoro you roll by 1. |
+| Pino       | On your next turn, reduce the number of Enekoro you roll by 1. |
 | De espalda | This attack does 30 more damage.                               |
 | Boca abajo | On your next turn, reduce the number of Enekoro you roll by 1. |
 | De lado    |                                                                                |
@@ -33,7 +33,7 @@
 | Daño       | 20                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda |                                                  |
 | Boca abajo |                                                  |
 | De lado    | This attack does 20 more damage. |
@@ -52,7 +52,7 @@
 | Daño       | 20                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 30 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda | This attack does 30 more damage. |
 | Boca abajo | This attack does 30 more damage. |
 | De lado    |                                                  |
@@ -71,7 +71,7 @@
 | Daño       | 60                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 40 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda | This attack does 40 more damage. |
 | Boca abajo | This attack does 40 more damage. |
 | De lado    |                                                  |
@@ -90,7 +90,7 @@
 | Daño       | 30                                                                                                |
 | Efecto     |                                                                                                   |
 | De pie     | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
-| Vertical   |                                                                                                   |
+| Pino       |                                                                                                   |
 | De espalda | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
 | Boca abajo |                                                                                                   |
 | De lado    |                                                                                                   |
@@ -109,7 +109,7 @@
 | Daño       | 20                                                                                                       |
 | Efecto     | Roll your Charakoro 3 times.                                                             |
 | De pie     | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| Vertical   |                                                                                                          |
+| Pino       |                                                                                                          |
 | De espalda |                                                                                                          |
 | Boca abajo |                                                                                                          |
 | De lado    | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
@@ -128,7 +128,7 @@
 | Daño       | 30                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 40 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda |                                                  |
 | Boca abajo |                                                  |
 | De lado    |                                                  |

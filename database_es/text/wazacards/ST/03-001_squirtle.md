@@ -1,48 +1,48 @@
-## Squirtle Cards
+## Cartas de Squirtle
 
-### Starter Set
+### Set de Inicio
 
-#### Water Gun
+#### Pistola Agua
 
-| Name       | Water Gun                                               |
+| Nombre     | Pistola Agua                                            |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | みずでっぽう                                                  |
-| Type       | Water                                                   |
-| Code       | STW03-001                                               |
+| Tipo       | Agua                                                    |
+| Código     | STW03-001                                               |
 | Pokémon    | Squirtle                                                |
 | Energía    | {W}                                                     |
 | Daño       | 10                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo | Este ataque hace 20 puntos de daño más. |
 | De lado    |                                                         |
 
-[Water Gun](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard01.webp)
+[Pistola Agua](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard01.webp)
 
-#### Withdraw
+#### Refugio
 
-| Name       | Withdraw                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------- |
-| Japonés    | からにこもる                                                                                            |
-| Type       | Water                                                                                             |
-| Code       | STW03-002                                                                                         |
-| Pokémon    | Squirtle                                                                                          |
-| Energía    | {W}                                                                                               |
-| Daño       |                                                                                                   |
-| Efecto     | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| De pie     |                                                                                                   |
-| Vertical   |                                                                                                   |
-| De espalda |                                                                                                   |
-| Boca abajo | Heal 30 damage from this Pokémon.                                                 |
-| De lado    |                                                                                                   |
+| Nombre     | Refugio                                                                                                              |
+| ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | からにこもる                                                                                                               |
+| Tipo       | Agua                                                                                                                 |
+| Código     | STW03-002                                                                                                            |
+| Pokémon    | Squirtle                                                                                                             |
+| Energía    | {W}                                                                                                                  |
+| Daño       |                                                                                                                      |
+| Efecto     | Durante el próximo turno de tu oponente, este Pokémon recibe 20 puntos menos de daño de los ataques. |
+| De pie     |                                                                                                                      |
+| Pino       |                                                                                                                      |
+| De espalda |                                                                                                                      |
+| Boca abajo | Cura 30 puntos de daño de este Pokémon.                                                              |
+| De lado    |                                                                                                                      |
 
-[Withdraw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard02.webp)
+[Refugio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard02.webp)
 
-#### Water Pulse
+#### Hidropulso
 
-| Name       | Water Pulse                                             |
+| Nombre     | Hidropulso                                              |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | みずのはどう                                                  |
 | Type       | Water                                                   |
@@ -52,7 +52,7 @@
 | Daño       | 20                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
@@ -71,7 +71,7 @@
 | Daño       | 30                                                                                                |
 | Efecto     |                                                                                                   |
 | De pie     | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Vertical   |                                                                                                   |
+| Pino       |                                                                                                   |
 | De espalda | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 | Boca abajo | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 | De lado    |                                                                                                   |
@@ -80,20 +80,20 @@
 
 #### Bubble Beam
 
-| Name       | Bubble Beam                                                                               |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| Japonés    | バブルこうせん                                                                                   |
-| Type       | Water                                                                                     |
-| Code       | STW03-005                                                                                 |
-| Pokémon    | Squirtle                                                                                  |
-| Energía    | {W}{W}{W}                                                                                 |
-| Daño       | 30                                                                                        |
-| Efecto     |                                                                                           |
-| De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Vertical   |                                                                                           |
-| De espalda | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Boca abajo | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| De lado    |                                                                                           |
+| Name       | Bubble Beam                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------------- |
+| Japonés    | バブルこうせん                                                                                     |
+| Type       | Water                                                                                       |
+| Code       | STW03-005                                                                                   |
+| Pokémon    | Squirtle                                                                                    |
+| Energía    | {W}{W}{W}                                                                                   |
+| Daño       | 30                                                                                          |
+| Efecto     |                                                                                             |
+| De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
+| Pino       |                                                                                             |
+| De espalda | On the opponent's next turn, reduce the number of Enekoro they roll by 1.   |
+| Boca abajo | On the opponent's next turn, reduce the number of Enekoro they roll by 1.   |
+| De lado    |                                                                                             |
 
 [Bubble Beam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard05.webp)
 
@@ -109,7 +109,7 @@
 | Daño       | 40                                                                                            |
 | Efecto     |                                                                                               |
 | De pie     | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
-| Vertical   |                                                                                               |
+| Pino       |                                                                                               |
 | De espalda | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
 | Boca abajo | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
 | De lado    |                                                                                               |
@@ -128,7 +128,7 @@
 | Daño       | 30                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 30 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
@@ -149,7 +149,7 @@
 | Daño       | 20                                                                                                |
 | Efecto     |                                                                                                   |
 | De pie     |                                                                                                   |
-| Vertical   |                                                                                                   |
+| Pino       |                                                                                                   |
 | De espalda |                                                                                                   |
 | Boca abajo | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
 | De lado    |                                                                                                   |

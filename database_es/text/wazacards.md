@@ -12,7 +12,7 @@
 | Daño       |   |
 | Efecto     |   |
 | De pie     |   |
-| Vertical   |   |
+| Pino       |   |
 | De espalda |   |
 | Boca abajo |   |
 | De lado    |   |

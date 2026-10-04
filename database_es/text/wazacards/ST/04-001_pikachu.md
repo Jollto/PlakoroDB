@@ -14,7 +14,7 @@
 | Daño       | 10                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 30 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda | Este ataque hace 30 puntos de daño más. |
 | Boca abajo |                                                         |
 | De lado    |                                                         |
@@ -33,7 +33,7 @@
 | Daño       | 10                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   | Este ataque hace 20 puntos de daño más. |
+| Pino       | Este ataque hace 20 puntos de daño más. |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
@@ -52,7 +52,7 @@
 | Daño       | 20                                                                                                                    |
 | Efecto     | This attack's damage isn't affected by Weakness.                                                      |
 | De pie     | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
-| Vertical   |                                                                                                                       |
+| Pino       |                                                                                                                       |
 | De espalda | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
 | Boca abajo |                                                                                                                       |
 | De lado    |                                                                                                                       |
@@ -71,7 +71,7 @@
 | Daño       | 30                                                                             |
 | Efecto     |                                                                                |
 | De pie     | Este ataque hace 30 puntos de daño más.                        |
-| Vertical   | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Pino       | On your next turn, reduce the number of Enekoro you roll by 2. |
 | De espalda | On your next turn, reduce the number of Enekoro you roll by 2. |
 | Boca abajo | On your next turn, reduce the number of Enekoro you roll by 2. |
 | De lado    | Este ataque hace 20 puntos de daño más.                        |
@@ -90,7 +90,7 @@
 | Daño       | 20                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 60 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    |                                                         |
@@ -109,7 +109,7 @@
 | Daño       | 40                                                          |
 | Efecto     | This Pokémon also does 30 damage to itself. |
 | De pie     | Este ataque hace 40 puntos de daño más.     |
-| Vertical   |                                                             |
+| Pino       |                                                             |
 | De espalda | Este ataque hace 40 puntos de daño más.     |
 | Boca abajo | Este ataque hace 40 puntos de daño más.     |
 | De lado    |                                                             |
@@ -128,7 +128,7 @@
 | Daño       | 20                                                                                                |
 | Efecto     |                                                                                                   |
 | De pie     | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
-| Vertical   |                                                                                                   |
+| Pino       |                                                                                                   |
 | De espalda | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
 | Boca abajo | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
 | De lado    |                                                                                                   |
@@ -149,7 +149,7 @@
 | Daño       | 30                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 60 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    |                                                         |

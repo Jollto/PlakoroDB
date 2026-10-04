@@ -14,7 +14,7 @@
 | Daño       | 10                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda | This attack does 20 more damage. |
 | Boca abajo |                                                  |
 | De lado    |                                                  |
@@ -33,7 +33,7 @@
 | Daño       | 20                                                                                                                                                                                               |
 | Efecto     |                                                                                                                                                                                                  |
 | De pie     | On the opponent's next turn, if the charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
-| Vertical   |                                                                                                                                                                                                  |
+| Pino       |                                                                                                                                                                                                  |
 | De espalda |                                                                                                                                                                                                  |
 | Boca abajo |                                                                                                                                                                                                  |
 | De lado    | On the opponent's next turn, if the charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
@@ -52,7 +52,7 @@
 | Daño       |                                                        |
 | Efecto     | Heal 20 damage from this Pokémon.      |
 | De pie     | Heal 20 more damage from this Pokémon. |
-| Vertical   |                                                        |
+| Pino       |                                                        |
 | De espalda |                                                        |
 | Boca abajo |                                                        |
 | De lado    | Heal 20 more damage from this Pokémon. |
@@ -71,7 +71,7 @@
 | Daño       | 30                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda | This attack does 20 more damage. |
 | Boca abajo |                                                  |
 | De lado    |                                                  |
@@ -90,7 +90,7 @@
 | Daño       | 40                                                                                                                                                                             |
 | Efecto     |                                                                                                                                                                                |
 | De pie     | During your opponent's next turn, this Pokémon doesn't take damage from attacks. (You are still affected by other effects.) |
-| Vertical   | This attack does nothing.                                                                                                                                      |
+| Pino       | This attack does nothing.                                                                                                                                      |
 | De espalda | This attack does nothing.                                                                                                                                      |
 | Boca abajo | This attack does nothing.                                                                                                                                      |
 | De lado    | During your opponent's next turn, this Pokémon doesn't take damage from attacks. (You are still affected by other effects.) |
@@ -109,7 +109,7 @@
 | Daño       | 30                                                                             |
 | Efecto     |                                                                                |
 | De pie     | This attack does 50 more damage.                               |
-| Vertical   | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Pino       | On your next turn, reduce the number of Enekoro you roll by 2. |
 | De espalda | This attack does 50 more damage.                               |
 | Boca abajo | On your next turn, reduce the number of Enekoro you roll by 2. |
 | De lado    |                                                                                |
@@ -128,7 +128,7 @@
 | Daño       | 30                                                                              |
 | Efecto     |                                                                                 |
 | De pie     | If the opponent is a {N} type, this attack does 40 more damage. |
-| Vertical   |                                                                                 |
+| Pino       |                                                                                 |
 | De espalda |                                                                                 |
 | Boca abajo |                                                                                 |
 | De lado    | If the opponent is a {N} type, this attack does 40 more damage. |

@@ -14,7 +14,7 @@
 | Daño       | 10                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 10 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 10 puntos de daño más. |
@@ -33,7 +33,7 @@
 | Daño       | 20                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda | Este ataque hace 20 puntos de daño más. |
 | Boca abajo | Este ataque hace 20 puntos de daño más. |
 | De lado    |                                                         |
@@ -52,7 +52,7 @@
 | Daño       | 20                                                                                          |
 | Efecto     |                                                                                             |
 | De pie     | On your opponent's next turn, set the direction of their Charakoro to {hs}. |
-| Vertical   |                                                                                             |
+| Pino       |                                                                                             |
 | De espalda |                                                                                             |
 | Boca abajo |                                                                                             |
 | De lado    | On your opponent's next turn, set the direction of their Charakoro to {hs}. |
@@ -71,7 +71,7 @@
 | Daño       | 30                                                                              |
 | Efecto     |                                                                                 |
 | De pie     | On your opponent's next turn, they cannot roll their Charakoro. |
-| Vertical   |                                                                                 |
+| Pino       |                                                                                 |
 | De espalda | On your opponent's next turn, they cannot roll their Charakoro. |
 | Boca abajo |                                                                                 |
 | De lado    | On your opponent's next turn, they cannot roll their Charakoro. |
@@ -90,7 +90,7 @@
 | Daño       | 30                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 20 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda | Este ataque hace 20 puntos de daño más. |
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
@@ -109,7 +109,7 @@
 | Daño       | 10                                                                                                                                           |
 | Efecto     |                                                                                                                                              |
 | De pie     | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
-| Vertical   | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| Pino       | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
 | De espalda | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
 | Boca abajo | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
 | De lado    |                                                                                                                                              |
@@ -128,7 +128,7 @@
 | Daño       | 30                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 40 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    |                                                         |
@@ -149,7 +149,7 @@
 | Daño       | 30                                                                                        |
 | Efecto     |                                                                                           |
 | De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
-| Vertical   |                                                                                           |
+| Pino       |                                                                                           |
 | De espalda |                                                                                           |
 | Boca abajo |                                                                                           |
 | De lado    |                                                                                           |

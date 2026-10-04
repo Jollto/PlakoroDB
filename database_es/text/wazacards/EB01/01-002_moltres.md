@@ -14,7 +14,7 @@
 | Daño       | 30                                                          |
 | Efecto     |                                                             |
 | De pie     | This attack does 30 more damage.            |
-| Vertical   |                                                             |
+| Pino       |                                                             |
 | De espalda | This attack does 30 more damage.            |
 | Boca abajo |                                                             |
 | De lado    | This Pokémon also does 20 damage to itself. |
@@ -33,7 +33,7 @@
 | Daño       | 30                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 20 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda |                                                  |
 | Boca abajo |                                                  |
 | De lado    | This attack does 20 more damage. |
@@ -52,7 +52,7 @@
 | Daño       | 40                                                                             |
 | Efecto     |                                                                                |
 | De pie     | This attack does 40 more damage.                               |
-| Vertical   | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Pino       | On your next turn, reduce the number of Enekoro you roll by 2. |
 | De espalda | This attack does 40 more damage.                               |
 | Boca abajo | On your next turn, reduce the number of Enekoro you roll by 2. |
 | De lado    | On your next turn, reduce the number of Enekoro you roll by 2. |
@@ -71,7 +71,7 @@
 | Daño       | 50                                                          |
 | Efecto     |                                                             |
 | De pie     | This attack does 40 more damage.            |
-| Vertical   | This Pokémon also does 40 damage to itself. |
+| Pino       | This Pokémon also does 40 damage to itself. |
 | De espalda | This attack does 40 more damage.            |
 | Boca abajo | This attack does 40 more damage.            |
 | De lado    | This Pokémon also does 40 damage to itself. |
@@ -90,7 +90,7 @@
 | Daño       | 20                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 60 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda |                                                  |
 | Boca abajo |                                                  |
 | De lado    |                                                  |
@@ -109,7 +109,7 @@
 | Daño       | 20                                                                             |
 | Efecto     |                                                                                |
 | De pie     | This attack does 40 more damage.                               |
-| Vertical   | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Pino       | On your next turn, reduce the number of Enekoro you roll by 2. |
 | De espalda | This attack does 40 more damage.                               |
 | Boca abajo | On your next turn, reduce the number of Enekoro you roll by 2. |
 | De lado    | On your next turn, reduce the number of Enekoro you roll by 2. |
@@ -128,7 +128,7 @@
 | Daño       | 40                                                          |
 | Efecto     |                                                             |
 | De pie     | This attack does 40 more damage.            |
-| Vertical   | This Pokémon also does 30 damage to itself. |
+| Pino       | This Pokémon also does 30 damage to itself. |
 | De espalda | This attack does 40 more damage.            |
 | Boca abajo | This Pokémon also does 30 damage to itself. |
 | De lado    |                                                             |
@@ -147,7 +147,7 @@
 | Daño       | 80                                        |
 | Efecto     |                                           |
 | De pie     |                                           |
-| Vertical   | This attack does nothing. |
+| Pino       | This attack does nothing. |
 | De espalda | This attack does nothing. |
 | Boca abajo | This attack does nothing. |
 | De lado    |                                           |
@@ -166,7 +166,7 @@
 | Daño       | 20                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 10 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda | This attack does 10 more damage. |
 | Boca abajo |                                                  |
 | De lado    | This attack does 10 more damage. |
@@ -185,7 +185,7 @@
 | Daño       | 30                                                                                               |
 | Efecto     |                                                                                                  |
 | De pie     | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
-| Vertical   | This attack does nothing.                                                        |
+| Pino       | This attack does nothing.                                                        |
 | De espalda | This attack does nothing.                                                        |
 | Boca abajo | This attack does nothing.                                                        |
 | De lado    | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |

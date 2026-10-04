@@ -14,7 +14,7 @@
 | Daño       | 10                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 10 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda | Este ataque hace 10 puntos de daño más. |
 | Boca abajo | Este ataque hace 10 puntos de daño más. |
 | De lado    |                                                         |
@@ -33,7 +33,7 @@
 | Daño       | 20                                                                                        |
 | Efecto     |                                                                                           |
 | De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Vertical   |                                                                                           |
+| Pino       |                                                                                           |
 | De espalda | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
 | Boca abajo |                                                                                           |
 | De lado    |                                                                                           |
@@ -52,7 +52,7 @@
 | Daño       | 20                                                                                            |
 | Efecto     |                                                                                               |
 | De pie     | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
-| Vertical   |                                                                                               |
+| Pino       |                                                                                               |
 | De espalda | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
 | Boca abajo | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
 | De lado    |                                                                                               |
@@ -71,7 +71,7 @@
 | Daño       | 20                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 30 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 30 puntos de daño más. |
@@ -90,7 +90,7 @@
 | Daño       | 30                                                                                                                                             |
 | Efecto     |                                                                                                                                                |
 | De pie     | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Vertical   |                                                                                                                                                |
+| Pino       |                                                                                                                                                |
 | De espalda | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 | Boca abajo |                                                                                                                                                |
 | De lado    | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
@@ -109,16 +109,16 @@
 | Daño       | 40                                                                                            |
 | Efecto     |                                                                                               |
 | De pie     | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
-| Vertical   |                                                                                               |
+| Pino       |                                                                                               |
 | De espalda | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
 | Boca abajo | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
 | De lado    |                                                                                               |
 
 [Aura Sphere](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard06.webp)
 
-#### Metal Claw
+#### Garra Metal
 
-| Name       | Metal Claw                                              |
+| Name       | Garra Metal                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | メタルクロー                                                  |
 | Type       | Steel                                                   |
@@ -128,7 +128,7 @@
 | Daño       | 30                                                      |
 | Efecto     |                                                         |
 | De pie     | Este ataque hace 40 puntos de daño más. |
-| Vertical   |                                                         |
+| Pino       |                                                         |
 | De espalda |                                                         |
 | Boca abajo |                                                         |
 | De lado    |                                                         |
@@ -149,7 +149,7 @@
 | Daño       | 20                                               |
 | Efecto     |                                                  |
 | De pie     | This attack does 50 more damage. |
-| Vertical   |                                                  |
+| Pino       |                                                  |
 | De espalda |                                                  |
 | Boca abajo |                                                  |
 | De lado    |                                                  |

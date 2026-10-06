@@ -45,8 +45,8 @@
 | Nombre     | Hidropulso                                              |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | みずのはどう                                                  |
-| Type       | Water                                                   |
-| Code       | STW03-003                                               |
+| Tipo       | Agua                                                    |
+| Código     | STW03-003                                               |
 | Pokémon    | Squirtle                                                |
 | Energía    | {W}{W}                                                  |
 | Daño       | 20                                                      |
@@ -57,11 +57,11 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
 
-[Water Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard03.webp)
+[Hidropulso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard03.webp)
 
-#### Shell Attack
+#### Ataque Caparazón
 
-| Name       | Shell Attack                                                                                      |
+| Name       | Ataque Caparazón                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------- |
 | Japonés    | シェルアタック                                                                                           |
 | Type       | Water                                                                                             |
@@ -76,7 +76,7 @@
 | Boca abajo | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
 | De lado    |                                                                                                   |
 
-[Shell Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard04.webp)
+[Ataque Caparazón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard04.webp)
 
 #### Bubble Beam
 

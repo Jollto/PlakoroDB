@@ -61,20 +61,20 @@
 
 #### Aerial Ace
 
-| Nombre     | Aerial Ace                                       |
-| ---------- | ------------------------------------------------ |
-| Japonés    | つばめがえし                                           |
-| Tipo       | Volador                                          |
-| Código     | EBW01-034                                        |
-| Pokémon    | Zapdos                                           |
-| Energía    | {Y}                                              |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 20 more damage. |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Aerial Ace                                              |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | つばめがえし                                                  |
+| Tipo       | Volador                                                 |
+| Código     | EBW01-034                                               |
+| Pokémon    | Zapdos                                                  |
+| Energía    | {Y}                                                     |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 20 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Aerial Ace](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard04.webp)
 
@@ -137,20 +137,20 @@
 
 #### Discharge
 
-| Nombre     | Discharge                                        |
-| ---------- | ------------------------------------------------ |
-| Japonés    | ほうでん                                             |
-| Tipo       | Eléctrico                                        |
-| Código     | EBW01-038                                        |
-| Pokémon    | Zapdos                                           |
-| Energía    | {L}{L}{L}                                        |
-| Daño       | 30                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 20 more damage. |
-| Boca abajo | This attack does 20 more damage. |
-| De lado    |                                                  |
+| Nombre     | Discharge                                               |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ほうでん                                                    |
+| Tipo       | Eléctrico                                               |
+| Código     | EBW01-038                                               |
+| Pokémon    | Zapdos                                                  |
+| Energía    | {L}{L}{L}                                               |
+| Daño       | 30                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 20 puntos de daño más. |
+| Boca abajo | Este ataque hace 20 puntos de daño más. |
+| De lado    |                                                         |
 
 [Discharge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard08.webp)
 

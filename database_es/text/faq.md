@@ -1,6 +1,6 @@
-# PLAKORO FAQ
+# FAQ PLAKORO
 
-## About Wazacards
+## Acerca de Wazacards
 
 #### 1
 

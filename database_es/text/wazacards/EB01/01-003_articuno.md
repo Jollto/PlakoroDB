@@ -99,39 +99,39 @@
 
 #### Freeze Dive ?
 
-| Nombre     | Freeze Dive ?                                    |
-| ---------- | ------------------------------------------------ |
-| Japonés    | フリーズダイブ                                          |
-| Tipo       | Agua                                             |
-| Código     | EBW01-026                                        |
-| Pokémon    | Articuno                                         |
-| Energía    | {W}                                              |
-| Daño       | 10                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 20 more damage. |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Freeze Dive ?                                           |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | フリーズダイブ                                                 |
+| Tipo       | Agua                                                    |
+| Código     | EBW01-026                                               |
+| Pokémon    | Articuno                                                |
+| Energía    | {W}                                                     |
+| Daño       | 10                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 20 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Freeze Dive](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard06.webp)
 
 #### Ice Shot
 
-| Nombre     | Ice Shot                                         |
-| ---------- | ------------------------------------------------ |
-| Japonés    | アイスショット                                          |
-| Tipo       | Agua                                             |
-| Código     | EBW01-027                                        |
-| Pokémon    | Articuno                                         |
-| Energía    | {W}{W}                                           |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Pino       |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    | This attack does 20 more damage. |
+| Nombre     | Ice Shot                                                |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | アイスショット                                                 |
+| Tipo       | Agua                                                    |
+| Código     | EBW01-027                                               |
+| Pokémon    | Articuno                                                |
+| Energía    | {W}{W}                                                  |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 20 puntos de daño más. |
 
 [Ice Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard07.webp)
 

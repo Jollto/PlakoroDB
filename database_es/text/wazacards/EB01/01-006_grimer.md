@@ -137,20 +137,20 @@
 
 #### Sludge Tackle ?
 
-| Nombre     | Sludge Tackle ?                                             |
-| ---------- | ----------------------------------------------------------- |
-| Japonés    | ヘドロタックル                                                     |
-| Tipo       | Siniestro                                                   |
-| Código     | EBW01-059                                                   |
-| Pokémon    | Grimer                                                      |
-| Energía    | {D}{D}{D}                                                   |
-| Daño       | 20                                                          |
-| Efecto     |                                                             |
-| De pie     | This attack does 40 more damage.            |
-| Pino       | This Pokémon also does 20 damage to itself. |
-| De espalda | This Pokémon also does 20 damage to itself. |
-| Boca abajo | This Pokémon also does 20 damage to itself. |
-| De lado    | This attack does 40 more damage.            |
+| Nombre     | Sludge Tackle ?                                                 |
+| ---------- | --------------------------------------------------------------- |
+| Japonés    | ヘドロタックル                                                         |
+| Tipo       | Siniestro                                                       |
+| Código     | EBW01-059                                                       |
+| Pokémon    | Grimer                                                          |
+| Energía    | {D}{D}{D}                                                       |
+| Daño       | 20                                                              |
+| Efecto     |                                                                 |
+| De pie     | This attack does 40 more damage.                |
+| Pino       | Este Pokémon también se hace 20 puntos de daño. |
+| De espalda | Este Pokémon también se hace 20 puntos de daño. |
+| Boca abajo | Este Pokémon también se hace 20 puntos de daño. |
+| De lado    | This attack does 40 more damage.                |
 
 [Sludge Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard09.webp)
 

@@ -23,20 +23,20 @@
 
 #### Heat Wave
 
-| Nombre     | Heat Wave                                        |
-| ---------- | ------------------------------------------------ |
-| Japonés    | ねっぷう                                             |
-| Tipo       | Fuego                                            |
-| Código     | EBW01-012                                        |
-| Pokémon    | Moltres                                          |
-| Energía    | {R}{R}{R}                                        |
-| Daño       | 30                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Pino       |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    | This attack does 20 more damage. |
+| Nombre     | Heat Wave                                               |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ねっぷう                                                    |
+| Tipo       | Fuego                                                   |
+| Código     | EBW01-012                                               |
+| Pokémon    | Moltres                                                 |
+| Energía    | {R}{R}{R}                                               |
+| Daño       | 30                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 20 puntos de daño más. |
 
 [Heat Wave](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard02.webp)
 

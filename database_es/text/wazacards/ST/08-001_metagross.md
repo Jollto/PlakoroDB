@@ -1,14 +1,14 @@
 ## Metagross Cards
 
-### Starter Set
+### Set de Inicio
 
 #### Beam
 
-| Name       | Beam                                                    |
+| Nombre     | Beam                                                    |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ビーム                                                     |
-| Type       | Steel                                                   |
-| Code       | STW08-001                                               |
+| Tipo       | Acero                                                   |
+| Código     | STW08-001                                               |
 | Pokémon    | Metagross                                               |
 | Energía    | {M}                                                     |
 | Daño       | 10                                                      |
@@ -23,11 +23,11 @@
 
 #### Basic Calculation ?
 
-| Name       | Basic Calculation ?                                                                                                     |
+| Nombre     | Basic Calculation ?                                                                                                     |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Japonés    | しそくえんざん                                                                                                                 |
-| Type       | Steel                                                                                                                   |
-| Code       | STW08-002                                                                                                               |
+| Tipo       | Acero                                                                                                                   |
+| Código     | STW08-002                                                                                                               |
 | Pokémon    | Metagross                                                                                                               |
 | Energía    | {M}{M}                                                                                                                  |
 | Daño       | 20                                                                                                                      |
@@ -42,11 +42,11 @@
 
 #### Wide Press ?
 
-| Name       | Wide Press ?                                            |
+| Nombre     | Wide Press ?                                            |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ワイドプレス                                                  |
-| Type       | Steel                                                   |
-| Code       | STW08-003                                               |
+| Tipo       | Acero                                                   |
+| Código     | STW08-003                                               |
 | Pokémon    | Metagross                                               |
 | Energía    | {M}{M}                                                  |
 | Daño       | 20                                                      |
@@ -61,11 +61,11 @@
 
 #### Straight Stamp ?
 
-| Name       | Straight Stamp ?                                        |
+| Nombre     | Straight Stamp ?                                        |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ストレートスタンプ                                               |
-| Type       | Steel                                                   |
-| Code       | STW08-004                                               |
+| Tipo       | Acero                                                   |
+| Código     | STW08-004                                               |
 | Pokémon    | Metagross                                               |
 | Energía    | {M}{M}{M}                                               |
 | Daño       | 30                                                      |
@@ -80,11 +80,11 @@
 
 #### Meteor Mash
 
-| Name       | Meteor Mash                                             |
+| Nombre     | Meteor Mash                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | コメットパンチ                                                 |
-| Type       | Steel                                                   |
-| Code       | STW08-005                                               |
+| Tipo       | Acero                                                   |
+| Código     | STW08-005                                               |
 | Pokémon    | Metagross                                               |
 | Energía    | {M}{M}{M}                                               |
 | Daño       | 20                                                      |
@@ -99,11 +99,11 @@
 
 #### Heavy Slam
 
-| Name       | Heavy Slam                                                                     |
+| Nombre     | Heavy Slam                                                                     |
 | ---------- | ------------------------------------------------------------------------------ |
 | Japonés    | ヘビーボンバー                                                                        |
-| Type       | Steel                                                                          |
-| Code       | STW08-006                                                                      |
+| Tipo       | Acero                                                                          |
+| Código     | STW08-006                                                                      |
 | Pokémon    | Metagross                                                                      |
 | Energía    | {M}{M}{M}{M}                                                                   |
 | Daño       | 40                                                                             |
@@ -118,11 +118,11 @@
 
 #### Explosion
 
-| Name       | Explosion                                                              |
+| Nombre     | Explosion                                                              |
 | ---------- | ---------------------------------------------------------------------- |
 | Japonés    | だいばくはつ                                                                 |
-| Type       | Normal                                                                 |
-| Code       | STW08-007                                                              |
+| Tipo       | Normal                                                                 |
+| Código     | STW08-007                                                              |
 | Pokémon    | Metagross                                                              |
 | Energía    | {C}{C}{C}{C}{C}                                                        |
 | Daño       | 100                                                                    |
@@ -139,17 +139,19 @@
 
 #### Steel Claw ?
 
-| Name       | Steel Claw ?                                     |
-| ---------- | ------------------------------------------------ |
-| Japonés    | こうてつのツメ                                          |
-| Type       | Steel                                            |
-| Code       | PRW02-2-08                                       |
-| Pokémon    | Metagross                                        |
-| Energía    | {M}                                              |
-| Daño       | 10                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 30 more damage. |
-| Pino       |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Steel Claw ?                                            |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | こうてつのツメ                                                 |
+| Tipo       | Acero                                                   |
+| Código     | PRW02-2-08                                              |
+| Pokémon    | Metagross                                               |
+| Energía    | {M}                                                     |
+| Daño       | 10                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 30 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
+
+[Steel Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img04.webp)

@@ -153,3 +153,5 @@
 | Back      |                                                  |
 | Down      |                                                  |
 | Sideways  |                                                  |
+
+[Steel Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img04.webp)

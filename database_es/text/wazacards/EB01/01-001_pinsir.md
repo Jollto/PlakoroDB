@@ -116,9 +116,9 @@
 
 [Scissors Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 
-#### Berserk Swing ?
+#### Golpe Cólera ?
 
-| Nombre     | Berserk Swing ?                                                                                                 |
+| Nombre     | Golpe Cólera ?                                                                                                  |
 | ---------- | --------------------------------------------------------------------------------------------------------------- |
 | Japonés    | ぎゃくじょうスイング                                                                                                      |
 | Tipo       | Planta                                                                                                          |
@@ -133,61 +133,61 @@
 | Boca abajo |                                                                                                                 |
 | De lado    | Durante tu último turno, si tu tirada de Enekoro falló, este ataque hace 40 puntos de daño más. |
 
-[Pincer Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
+[Golpe Cólera](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
 
-#### Reckless Charge
+#### Carga Descuidada
 
-| Nombre     | Reckless Charge                                             |
-| ---------- | ----------------------------------------------------------- |
-| Japonés    | とつげき                                                        |
-| Tipo       | Planta                                                      |
-| Código     | EBW01-008                                                   |
-| Pokémon    | Pinsir                                                      |
-| Energía    | {G}{G}{G}                                                   |
-| Daño       | 30                                                          |
-| Efecto     |                                                             |
-| De pie     | Este ataque hace 20 puntos de daño más.     |
-| Pino       | This Pokémon also does 20 damage to itself. |
-| De espalda | Este ataque hace 20 puntos de daño más.     |
-| Boca abajo | This Pokémon also does 20 damage to itself. |
-| De lado    |                                                             |
+| Nombre     | Carga Descuidada                                                |
+| ---------- | --------------------------------------------------------------- |
+| Japonés    | とつげき                                                            |
+| Tipo       | Planta                                                          |
+| Código     | EBW01-008                                                       |
+| Pokémon    | Pinsir                                                          |
+| Energía    | {G}{G}{G}                                                       |
+| Daño       | 30                                                              |
+| Efecto     |                                                                 |
+| De pie     | Este ataque hace 20 puntos de daño más.         |
+| Pino       | Este Pokémon también se hace 20 puntos de daño. |
+| De espalda | Este ataque hace 20 puntos de daño más.         |
+| Boca abajo | Este Pokémon también se hace 20 puntos de daño. |
+| De lado    |                                                                 |
 
-[Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
+[Carga Descuidada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
 #### Deadly Scissors ?
 
-| Nombre     | Deadly Scissors ?                                |
-| ---------- | ------------------------------------------------ |
-| Japonés    | ひっさつばさみ                                          |
-| Tipo       | Planta                                           |
-| Código     | EBW01-009                                        |
-| Pokémon    | Pinsir                                           |
-| Energía    | {G}{G}{G}{G}                                     |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 80 more damage. |
-| Pino       |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Deadly Scissors ?                                       |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ひっさつばさみ                                                 |
+| Tipo       | Planta                                                  |
+| Código     | EBW01-009                                               |
+| Pokémon    | Pinsir                                                  |
+| Energía    | {G}{G}{G}{G}                                            |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 80 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Deadly Scissors](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
-#### Submission
+#### Sumisión
 
-| Nombre     | Submission                                                  |
-| ---------- | ----------------------------------------------------------- |
-| Japonés    | じごくぐるま                                                      |
-| Tipo       | Lucha                                                       |
-| Código     | EBW01-010                                                   |
-| Pokémon    | Pinsir                                                      |
-| Energía    | {F}{C}{C}{C}                                                |
-| Daño       | 30                                                          |
-| Efecto     | This Pokémon also does 20 damage to itself. |
-| De pie     | Este ataque hace 30 puntos de daño más.     |
-| Pino       | Este ataque hace 30 puntos de daño más.     |
-| De espalda | Este ataque hace 30 puntos de daño más.     |
-| Boca abajo | Este ataque hace 30 puntos de daño más.     |
-| De lado    |                                                             |
+| Nombre     | Sumisión                                                        |
+| ---------- | --------------------------------------------------------------- |
+| Japonés    | じごくぐるま                                                          |
+| Tipo       | Lucha                                                           |
+| Código     | EBW01-010                                                       |
+| Pokémon    | Pinsir                                                          |
+| Energía    | {F}{C}{C}{C}                                                    |
+| Daño       | 30                                                              |
+| Efecto     | Este Pokémon también se hace 20 puntos de daño. |
+| De pie     | Este ataque hace 30 puntos de daño más.         |
+| Pino       | Este ataque hace 30 puntos de daño más.         |
+| De espalda | Este ataque hace 30 puntos de daño más.         |
+| Boca abajo | Este ataque hace 30 puntos de daño más.         |
+| De lado    |                                                                 |
 
-[Submission](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)
+[Sumisión](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)

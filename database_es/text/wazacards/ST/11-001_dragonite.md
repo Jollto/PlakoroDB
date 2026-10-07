@@ -23,20 +23,20 @@
 
 #### Claw Slash
 
-| Nombre     | Claw Slash                                       |
-| ---------- | ------------------------------------------------ |
-| Japonés    | ツメできりさく                                          |
-| Tipo       | Dragón                                           |
-| Código     | STW11-002                                        |
-| Pokémon    | Dragonite                                        |
-| Energía    | {L}{L}                                           |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Pino       |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    | This attack does 20 more damage. |
+| Nombre     | Claw Slash                                              |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ツメできりさく                                                 |
+| Tipo       | Dragón                                                  |
+| Código     | STW11-002                                               |
+| Pokémon    | Dragonite                                               |
+| Energía    | {L}{L}                                                  |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 20 puntos de daño más. |
 
 [Claw Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard02.webp)
 

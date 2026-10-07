@@ -1,21 +1,21 @@
 ## Moltres Cards
 
-### Exploration Box 1
+### Caja de Exploración 1
 
 #### Fire Wing
 
-| Name       | Fire Wing                                                   |
+| Nombre     | Fire Wing                                                   |
 | ---------- | ----------------------------------------------------------- |
 | Japonés    | ほのおのつばさ                                                     |
-| Type       | Fire                                                        |
-| Code       | EBW01-011                                                   |
+| Tipo       | Fuego                                                       |
+| Código     | EBW01-011                                                   |
 | Pokémon    | Moltres                                                     |
 | Energía    | {R}{R}                                                      |
 | Daño       | 30                                                          |
 | Efecto     |                                                             |
-| De pie     | This attack does 30 more damage.            |
+| De pie     | Este ataque hace 30 puntos de daño más.     |
 | Pino       |                                                             |
-| De espalda | This attack does 30 more damage.            |
+| De espalda | Este ataque hace 30 puntos de daño más.     |
 | Boca abajo |                                                             |
 | De lado    | This Pokémon also does 20 damage to itself. |
 
@@ -23,11 +23,11 @@
 
 #### Heat Wave
 
-| Name       | Heat Wave                                        |
+| Nombre     | Heat Wave                                        |
 | ---------- | ------------------------------------------------ |
 | Japonés    | ねっぷう                                             |
-| Type       | Fire                                             |
-| Code       | EBW01-012                                        |
+| Tipo       | Fuego                                            |
+| Código     | EBW01-012                                        |
 | Pokémon    | Moltres                                          |
 | Energía    | {R}{R}{R}                                        |
 | Daño       | 30                                               |
@@ -42,11 +42,11 @@
 
 #### Flamethrower
 
-| Name       | Flamethrower                                                                   |
+| Nombre     | Flamethrower                                                                   |
 | ---------- | ------------------------------------------------------------------------------ |
 | Japonés    | かえんほうしゃ                                                                        |
-| Type       | Fire                                                                           |
-| Code       | EBW01-013                                                                      |
+| Tipo       | Fuego                                                                          |
+| Código     | EBW01-013                                                                      |
 | Pokémon    | Moltres                                                                        |
 | Energía    | {R}{R}{R}{R}                                                                   |
 | Daño       | 40                                                                             |
@@ -61,11 +61,11 @@
 
 #### Flare Blitz
 
-| Name       | Flare Blitz                                                 |
+| Nombre     | Flare Blitz                                                 |
 | ---------- | ----------------------------------------------------------- |
 | Japonés    | フレアドライブ                                                     |
-| Type       | Fire                                                        |
-| Code       | EBW01-014                                                   |
+| Tipo       | Fuego                                                       |
+| Código     | EBW01-014                                                   |
 | Pokémon    | Moltres                                                     |
 | Energía    | {R}{R}{R}{R}{R}                                             |
 | Daño       | 50                                                          |
@@ -80,11 +80,11 @@
 
 #### Hurricane
 
-| Name       | Hurricane                                        |
+| Nombre     | Hurricane                                        |
 | ---------- | ------------------------------------------------ |
 | Japonés    | ぼうふう                                             |
-| Type       | Flying                                           |
-| Code       | EBW01-015                                        |
+| Tipo       | Volador                                          |
+| Código     | EBW01-015                                        |
 | Pokémon    | Moltres                                          |
 | Energía    | {Y}{C}{C}{C}                                     |
 | Daño       | 20                                               |
@@ -99,11 +99,11 @@
 
 #### Fire Spin
 
-| Name       | Fire Spin                                                                      |
+| Nombre     | Fire Spin                                                                      |
 | ---------- | ------------------------------------------------------------------------------ |
 | Japonés    | ほのおのうず                                                                         |
-| Type       | Fire                                                                           |
-| Code       | EBW01-016                                                                      |
+| Tipo       | Fuego                                                                          |
+| Código     | EBW01-016                                                                      |
 | Pokémon    | Moltres                                                                        |
 | Energía    | {R}{R}                                                                         |
 | Daño       | 20                                                                             |
@@ -118,11 +118,11 @@
 
 #### Heat Breath
 
-| Name       | Heat Breath                                                 |
+| Nombre     | Heat Breath                                                 |
 | ---------- | ----------------------------------------------------------- |
 | Japonés    | ヒートブレス                                                      |
-| Type       | Fire                                                        |
-| Code       | EBW01-017                                                   |
+| Tipo       | Fuego                                                       |
+| Código     | EBW01-017                                                   |
 | Pokémon    | Moltres                                                     |
 | Energía    | {R}{R}{R}                                                   |
 | Daño       | 40                                                          |
@@ -137,11 +137,11 @@
 
 #### Burn Up
 
-| Name       | Burn Up                                   |
+| Nombre     | Burn Up                                   |
 | ---------- | ----------------------------------------- |
 | Japonés    | もえつきる                                     |
-| Type       | Fire                                      |
-| Code       | EBW01-018                                 |
+| Tipo       | Fuego                                     |
+| Código     | EBW01-018                                 |
 | Pokémon    | Moltres                                   |
 | Energía    | {R}{R}{R}{R}                              |
 | Daño       | 80                                        |
@@ -156,11 +156,11 @@
 
 #### Wing Rush ?
 
-| Name       | Wing Rush ?                                      |
+| Nombre     | Wing Rush ?                                      |
 | ---------- | ------------------------------------------------ |
 | Japonés    | ウイングラッシュ                                         |
-| Type       | Flying                                           |
-| Code       | EBW01-019                                        |
+| Tipo       | Volador                                          |
+| Código     | EBW01-019                                        |
 | Pokémon    | Moltres                                          |
 | Energía    | {Y}                                              |
 | Daño       | 20                                               |
@@ -175,11 +175,11 @@
 
 #### Fly
 
-| Name       | Fly                                                                                              |
+| Nombre     | Fly                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------ |
 | Japonés    | そらをとぶ                                                                                            |
-| Type       | Flying                                                                                           |
-| Code       | EBW01-020                                                                                        |
+| Tipo       | Volador                                                                                          |
+| Código     | EBW01-020                                                                                        |
 | Pokémon    | Moltres                                                                                          |
 | Energía    | {Y}{C}{C}                                                                                        |
 | Daño       | 30                                                                                               |

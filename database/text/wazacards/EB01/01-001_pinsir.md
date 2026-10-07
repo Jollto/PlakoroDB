@@ -21,9 +21,9 @@
 
 [Concentrate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
-#### Endure ?
+#### Bear ?
 
-| Name      | Endure ?                                                                          |
+| Name      | Bear ?                                                                            |
 | --------- | --------------------------------------------------------------------------------- |
 | Japanese  | たえる                                                                            |
 | Type      | Grass                                                                             |
@@ -38,11 +38,11 @@
 | Down      | Reduce damage taken by an additional 20.                                          |
 | Sideways  |                                                                                   |
 
-[Endure](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
+[Bear](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 
-#### Horn Attack ?
+#### Horn Beat ?
 
-| Name      | Horn Attack ?                    |
+| Name      | Horn Beat ?                      |
 | --------- | -------------------------------- |
 | Japanese  | つのでたたく                     |
 | Type      | Grass                            |
@@ -57,7 +57,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 30 more damage. |
 
-[Horn Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
+[Horn Beat](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
 
 #### Guillotine
 

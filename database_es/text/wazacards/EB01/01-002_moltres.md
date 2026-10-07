@@ -4,20 +4,20 @@
 
 #### Fire Wing
 
-| Nombre     | Fire Wing                                                   |
-| ---------- | ----------------------------------------------------------- |
-| Japonés    | ほのおのつばさ                                                     |
-| Tipo       | Fuego                                                       |
-| Código     | EBW01-011                                                   |
-| Pokémon    | Moltres                                                     |
-| Energía    | {R}{R}                                                      |
-| Daño       | 30                                                          |
-| Efecto     |                                                             |
-| De pie     | Este ataque hace 30 puntos de daño más.     |
-| Pino       |                                                             |
-| De espalda | Este ataque hace 30 puntos de daño más.     |
-| Boca abajo |                                                             |
-| De lado    | This Pokémon also does 20 damage to itself. |
+| Nombre     | Fire Wing                                                       |
+| ---------- | --------------------------------------------------------------- |
+| Japonés    | ほのおのつばさ                                                         |
+| Tipo       | Fuego                                                           |
+| Código     | EBW01-011                                                       |
+| Pokémon    | Moltres                                                         |
+| Energía    | {R}{R}                                                          |
+| Daño       | 30                                                              |
+| Efecto     |                                                                 |
+| De pie     | Este ataque hace 30 puntos de daño más.         |
+| Pino       |                                                                 |
+| De espalda | Este ataque hace 30 puntos de daño más.         |
+| Boca abajo |                                                                 |
+| De lado    | Este Pokémon también se hace 20 puntos de daño. |
 
 [Fire Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard01.webp)
 

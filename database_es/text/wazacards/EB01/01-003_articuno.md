@@ -1,14 +1,14 @@
 ## Articuno Cards
 
-### Exploration Box 1
+### Caja de Exploración 1
 
 #### Ice Wing
 
-| Name       | Ice Wing                                                                                  |
+| Nombre     | Ice Wing                                                                                  |
 | ---------- | ----------------------------------------------------------------------------------------- |
 | Japonés    | アイスウイング                                                                                   |
-| Type       | Water                                                                                     |
-| Code       | EBW01-021                                                                                 |
+| Tipo       | Agua                                                                                      |
+| Código     | EBW01-021                                                                                 |
 | Pokémon    | Articuno                                                                                  |
 | Energía    | {W}{W}                                                                                    |
 | Daño       | 10                                                                                        |
@@ -23,11 +23,11 @@
 
 #### Frozen Blade ?
 
-| Name       | Frozen Blade ?                                                                  |
+| Nombre     | Frozen Blade ?                                                                  |
 | ---------- | ------------------------------------------------------------------------------- |
 | Japonés    | いてつくやいば                                                                         |
-| Type       | Water                                                                           |
-| Code       | EBW01-022                                                                       |
+| Tipo       | Agua                                                                            |
+| Código     | EBW01-022                                                                       |
 | Pokémon    | Articuno                                                                        |
 | Energía    | {W}{W}{W}                                                                       |
 | Daño       | 30                                                                              |
@@ -42,49 +42,49 @@
 
 #### Blizzard Storm ?
 
-| Name       | Blizzard Storm ?                                 |
-| ---------- | ------------------------------------------------ |
-| Japonés    | ブリザードストーム                                        |
-| Type       | Water                                            |
-| Code       | EBW01-023                                        |
-| Pokémon    | Articuno                                         |
-| Energía    | {W}{W}{W}{W}                                     |
-| Daño       | 30                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 30 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 30 more damage. |
-| Boca abajo |                                                  |
-| De lado    | This attack does 30 more damage. |
+| Nombre     | Blizzard Storm ?                                        |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ブリザードストーム                                               |
+| Tipo       | Agua                                                    |
+| Código     | EBW01-023                                               |
+| Pokémon    | Articuno                                                |
+| Energía    | {W}{W}{W}{W}                                            |
+| Daño       | 30                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 30 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 30 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 30 puntos de daño más. |
 
 [Blizzard Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard03.webp)
 
 #### Air Cutter
 
-| Name       | Air Cutter                                       |
-| ---------- | ------------------------------------------------ |
-| Japonés    | エアカッター                                           |
-| Type       | Flying                                           |
-| Code       | EBW01-024                                        |
-| Pokémon    | Articuno                                         |
-| Energía    | {Y}{C}{C}{C}                                     |
-| Daño       | 40                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 30 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 30 more damage. |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Air Cutter                                              |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | エアカッター                                                  |
+| Tipo       | Volador                                                 |
+| Código     | EBW01-024                                               |
+| Pokémon    | Articuno                                                |
+| Energía    | {Y}{C}{C}{C}                                            |
+| Daño       | 40                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 30 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 30 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Air Cutter](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard04.webp)
 
 #### Roost
 
-| Name       | Roost                                                  |
+| Nombre     | Roost                                                  |
 | ---------- | ------------------------------------------------------ |
 | Japonés    | はねやすめ                                                  |
-| Type       | Flying                                                 |
-| Code       | EBW01-025                                              |
+| Tipo       | Volador                                                |
+| Código     | EBW01-025                                              |
 | Pokémon    | Articuno                                               |
 | Energía    | {Y}{Y}                                                 |
 | Daño       |                                                        |
@@ -99,11 +99,11 @@
 
 #### Freeze Dive ?
 
-| Name       | Freeze Dive ?                                    |
+| Nombre     | Freeze Dive ?                                    |
 | ---------- | ------------------------------------------------ |
 | Japonés    | フリーズダイブ                                          |
-| Type       | Water                                            |
-| Code       | EBW01-026                                        |
+| Tipo       | Agua                                             |
+| Código     | EBW01-026                                        |
 | Pokémon    | Articuno                                         |
 | Energía    | {W}                                              |
 | Daño       | 10                                               |
@@ -118,11 +118,11 @@
 
 #### Ice Shot
 
-| Name       | Ice Shot                                         |
+| Nombre     | Ice Shot                                         |
 | ---------- | ------------------------------------------------ |
 | Japonés    | アイスショット                                          |
-| Type       | Water                                            |
-| Code       | EBW01-027                                        |
+| Tipo       | Agua                                             |
+| Código     | EBW01-027                                        |
 | Pokémon    | Articuno                                         |
 | Energía    | {W}{W}                                           |
 | Daño       | 20                                               |
@@ -137,11 +137,11 @@
 
 #### Cold Breath
 
-| Name       | Cold Breath                                                                               |
+| Nombre     | Cold Breath                                                                               |
 | ---------- | ----------------------------------------------------------------------------------------- |
 | Japonés    | コールドブレス                                                                                   |
-| Type       | Water                                                                                     |
-| Code       | EBW01-028                                                                                 |
+| Tipo       | Agua                                                                                      |
+| Código     | EBW01-028                                                                                 |
 | Pokémon    | Articuno                                                                                  |
 | Energía    | {W}{W}{W}                                                                                 |
 | Daño       | 20                                                                                        |
@@ -156,11 +156,11 @@
 
 #### Sheer Cold
 
-| Name       | Sheer Cold                                                                                                                                  |
+| Nombre     | Sheer Cold                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Japonés    | ぜったいれいど                                                                                                                                     |
-| Type       | Water                                                                                                                                       |
-| Code       | EBW01-029                                                                                                                                   |
+| Tipo       | Agua                                                                                                                                        |
+| Código     | EBW01-029                                                                                                                                   |
 | Pokémon    | Articuno                                                                                                                                    |
 | Energía    | {W}{W}{W}{W}                                                                                                                                |
 | Daño       | 40                                                                                                                                          |
@@ -175,11 +175,11 @@
 
 #### Fly
 
-| Name       | Fly                                                                                              |
+| Nombre     | Fly                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------ |
 | Japonés    | そらをとぶ                                                                                            |
-| Type       | Flying                                                                                           |
-| Code       | EBW01-030                                                                                        |
+| Tipo       | Volador                                                                                          |
+| Código     | EBW01-030                                                                                        |
 | Pokémon    | Articuno                                                                                         |
 | Energía    | {Y}{C}{C}                                                                                        |
 | Daño       | 30                                                                                               |

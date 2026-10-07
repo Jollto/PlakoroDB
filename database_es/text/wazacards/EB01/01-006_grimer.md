@@ -1,14 +1,14 @@
 ## Grimer Cards
 
-### Exploration Box 1
+### Caja de Exploración 1
 
 #### Poison Gas
 
-| Name       | Poison Gas                                                                                |
+| Nombre     | Poison Gas                                                                                |
 | ---------- | ----------------------------------------------------------------------------------------- |
 | Japonés    | どくガス                                                                                      |
-| Type       | Dark                                                                                      |
-| Code       | EBW01-051                                                                                 |
+| Tipo       | Siniestro                                                                                 |
+| Código     | EBW01-051                                                                                 |
 | Pokémon    | Grimer                                                                                    |
 | Energía    | {D}                                                                                       |
 | Daño       | 10                                                                                        |
@@ -23,11 +23,11 @@
 
 #### Sludge Toss ?
 
-| Name       | Sludge Toss ?                                    |
+| Nombre     | Sludge Toss ?                                    |
 | ---------- | ------------------------------------------------ |
 | Japonés    | ベトベトなげ                                           |
-| Type       | Dark                                             |
-| Code       | EBW01-052                                        |
+| Tipo       | Siniestro                                        |
+| Código     | EBW01-052                                        |
 | Pokémon    | Grimer                                           |
 | Energía    | {D}{D}                                           |
 | Daño       | 20                                               |
@@ -42,11 +42,11 @@
 
 #### Toxic Heal ?
 
-| Name       | Toxic Heal ?                                                                                                                   |
+| Nombre     | Toxic Heal ?                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Japonés    | どくどくヒール                                                                                                                        |
-| Type       | Dark                                                                                                                           |
-| Code       | EBW01-053                                                                                                                      |
+| Tipo       | Siniestro                                                                                                                      |
+| Código     | EBW01-053                                                                                                                      |
 | Pokémon    | Grimer                                                                                                                         |
 | Energía    | {D}{D}{D}                                                                                                                      |
 | Daño       | 30                                                                                                                             |
@@ -61,11 +61,11 @@
 
 #### Sludge Ring ?
 
-| Name       | Sludge Ring ?                                                                                                            |
+| Nombre     | Sludge Ring ?                                                                                                            |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Japonés    | ヘドロでかこむ                                                                                                                  |
-| Type       | Dark                                                                                                                     |
-| Code       | EBW01-054                                                                                                                |
+| Tipo       | Siniestro                                                                                                                |
+| Código     | EBW01-054                                                                                                                |
 | Pokémon    | Grimer                                                                                                                   |
 | Energía    | {D}{D}{D}                                                                                                                |
 | Daño       | 30                                                                                                                       |
@@ -80,30 +80,30 @@
 
 #### Venom Punch ?
 
-| Name       | Venom Punch ?                                    |
-| ---------- | ------------------------------------------------ |
-| Japonés    | ベノムパンチ                                           |
-| Type       | Dark                                             |
-| Code       | EBW01-055                                        |
-| Pokémon    | Grimer                                           |
-| Energía    | {D}{D}{D}{D}                                     |
-| Daño       | 40                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 30 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 30 more damage. |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Venom Punch ?                                           |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ベノムパンチ                                                  |
+| Tipo       | Siniestro                                               |
+| Código     | EBW01-055                                               |
+| Pokémon    | Grimer                                                  |
+| Energía    | {D}{D}{D}{D}                                            |
+| Daño       | 40                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 30 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 30 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Venom Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard05.webp)
 
 #### Venom Slip ?
 
-| Name       | Venom Slip ?                                                                                                                    |
+| Nombre     | Venom Slip ?                                                                                                                    |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | Japonés    | ベノムスリップ                                                                                                                         |
-| Type       | Dark                                                                                                                            |
-| Code       | EBW01-057                                                                                                                       |
+| Tipo       | Siniestro                                                                                                                       |
+| Código     | EBW01-057                                                                                                                       |
 | Pokémon    | Grimer                                                                                                                          |
 | Energía    | {D}{D}                                                                                                                          |
 | Daño       | 20                                                                                                                              |
@@ -118,11 +118,11 @@
 
 #### Toxic Blast ?
 
-| Name       | Toxic Blast ?                                                                                                                 |
+| Nombre     | Toxic Blast ?                                                                                                                 |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Japonés    | どくどくボンバー                                                                                                                      |
-| Type       | Dark                                                                                                                          |
-| Code       | EBW01-058                                                                                                                     |
+| Tipo       | Siniestro                                                                                                                     |
+| Código     | EBW01-058                                                                                                                     |
 | Pokémon    | Grimer                                                                                                                        |
 | Energía    | {D}{D}{D}                                                                                                                     |
 | Daño       | 30                                                                                                                            |
@@ -137,11 +137,11 @@
 
 #### Sludge Tackle ?
 
-| Name       | Sludge Tackle ?                                             |
+| Nombre     | Sludge Tackle ?                                             |
 | ---------- | ----------------------------------------------------------- |
 | Japonés    | ヘドロタックル                                                     |
-| Type       | Dark                                                        |
-| Code       | EBW01-059                                                   |
+| Tipo       | Siniestro                                                   |
+| Código     | EBW01-059                                                   |
 | Pokémon    | Grimer                                                      |
 | Energía    | {D}{D}{D}                                                   |
 | Daño       | 20                                                          |
@@ -156,11 +156,11 @@
 
 #### Harassment Venom ?
 
-| Name       | Harassment Venom ?                                                                                               |
+| Nombre     | Harassment Venom ?                                                                                               |
 | ---------- | ---------------------------------------------------------------------------------------------------------------- |
 | Japonés    | いやがらせベノム                                                                                                         |
-| Type       | Dark                                                                                                             |
-| Code       | EBW01-060                                                                                                        |
+| Tipo       | Siniestro                                                                                                        |
+| Código     | EBW01-060                                                                                                        |
 | Pokémon    | Grimer                                                                                                           |
 | Energía    | {D}{D}{D}{D}                                                                                                     |
 | Daño       | 20                                                                                                               |

@@ -1,33 +1,33 @@
 ## Zapdos Cards
 
-### Exploration Box 1
+### Caja de Exploración 1
 
 #### Thunder Flash ?
 
-| Name       | Thunder Flash ?                                  |
-| ---------- | ------------------------------------------------ |
-| Japonés    | でんじフラッシュ                                         |
-| Type       | Electric                                         |
-| Code       | EBW01-031                                        |
-| Pokémon    | Zapdos                                           |
-| Energía    | {L}{L}                                           |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 30 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 30 more damage. |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Thunder Flash ?                                         |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | でんじフラッシュ                                                |
+| Tipo       | Eléctrico                                               |
+| Código     | EBW01-031                                               |
+| Pokémon    | Zapdos                                                  |
+| Energía    | {L}{L}                                                  |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 30 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 30 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Thunder Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
 
 #### Thunder Shock
 
-| Name       | Thunder Shock                                    |
+| Nombre     | Thunder Shock                                    |
 | ---------- | ------------------------------------------------ |
 | Japonés    | でんきショック                                          |
-| Type       | Electric                                         |
-| Code       | EBW01-032                                        |
+| Tipo       | Eléctrico                                        |
+| Código     | EBW01-032                                        |
 | Pokémon    | Zapdos                                           |
 | Energía    | {L}                                              |
 | Daño       | 10                                               |
@@ -42,11 +42,11 @@
 
 #### Volt Rush ?
 
-| Name       | Volt Rush ?                                                                                              |
+| Nombre     | Volt Rush ?                                                                                              |
 | ---------- | -------------------------------------------------------------------------------------------------------- |
 | Japonés    | ボルトラッシュ                                                                                                  |
-| Type       | Electric                                                                                                 |
-| Code       | EBW01-033                                                                                                |
+| Tipo       | Eléctrico                                                                                                |
+| Código     | EBW01-033                                                                                                |
 | Pokémon    | Zapdos                                                                                                   |
 | Energía    | {L}{L}{L}{L}                                                                                             |
 | Daño       | 10                                                                                                       |
@@ -61,11 +61,11 @@
 
 #### Aerial Ace
 
-| Name       | Aerial Ace                                       |
+| Nombre     | Aerial Ace                                       |
 | ---------- | ------------------------------------------------ |
 | Japonés    | つばめがえし                                           |
-| Type       | Flying                                           |
-| Code       | EBW01-034                                        |
+| Tipo       | Volador                                          |
+| Código     | EBW01-034                                        |
 | Pokémon    | Zapdos                                           |
 | Energía    | {Y}                                              |
 | Daño       | 20                                               |
@@ -80,11 +80,11 @@
 
 #### Crushing Wing ?
 
-| Name       | Crushing Wing ?                                  |
+| Nombre     | Crushing Wing ?                                  |
 | ---------- | ------------------------------------------------ |
 | Japonés    | バリバリウイング                                         |
-| Type       | Flying                                           |
-| Code       | EBW01-035                                        |
+| Tipo       | Volador                                          |
+| Código     | EBW01-035                                        |
 | Pokémon    | Zapdos                                           |
 | Energía    | {Y}{C}{C}{C}{C}                                  |
 | Daño       | 40                                               |
@@ -99,11 +99,11 @@
 
 #### Dual Thunder ?
 
-| Name       | Dual Thunder ?                                                                                           |
+| Nombre     | Dual Thunder ?                                                                                           |
 | ---------- | -------------------------------------------------------------------------------------------------------- |
 | Japonés    | ダブルサンダー                                                                                                  |
-| Type       | Electric                                                                                                 |
-| Code       | EBW01-036                                                                                                |
+| Tipo       | Eléctrico                                                                                                |
+| Código     | EBW01-036                                                                                                |
 | Pokémon    | Zapdos                                                                                                   |
 | Energía    | {L}                                                                                                      |
 | Daño       |                                                                                                          |
@@ -118,11 +118,11 @@
 
 #### Electroarrow ?
 
-| Name       | Electroarrow ?                                   |
+| Nombre     | Electroarrow ?                                   |
 | ---------- | ------------------------------------------------ |
 | Japonés    | エレキアロー                                           |
-| Type       | Electric                                         |
-| Code       | EBW01-037                                        |
+| Tipo       | Eléctrico                                        |
+| Código     | EBW01-037                                        |
 | Pokémon    | Zapdos                                           |
 | Energía    | {L}{L}                                           |
 | Daño       | 20                                               |
@@ -137,11 +137,11 @@
 
 #### Discharge
 
-| Name       | Discharge                                        |
+| Nombre     | Discharge                                        |
 | ---------- | ------------------------------------------------ |
 | Japonés    | ほうでん                                             |
-| Type       | Electric                                         |
-| Code       | EBW01-038                                        |
+| Tipo       | Eléctrico                                        |
+| Código     | EBW01-038                                        |
 | Pokémon    | Zapdos                                           |
 | Energía    | {L}{L}{L}                                        |
 | Daño       | 30                                               |
@@ -156,30 +156,30 @@
 
 #### Thunder Chain ?
 
-| Name       | Thunder Chain ?                                                                                                                                              |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japonés    | サンダーチェイン                                                                                                                                                     |
-| Type       | Electric                                                                                                                                                     |
-| Code       | EBW01-039                                                                                                                                                    |
-| Pokémon    | Zapdos                                                                                                                                                       |
-| Energía    | {L}{L}{L}{L}                                                                                                                                                 |
-| Daño       | 30                                                                                                                                                           |
-| Efecto     |                                                                                                                                                              |
-| De pie     | This attack does 30 more damage. Reroll your Charakoro. (Can be repeated until it fails.) |
-| Pino       |                                                                                                                                                              |
-| De espalda | This attack does 30 more damage. Reroll your Charakoro. (Can be repeated until it fails.) |
-| Boca abajo | This attack does 30 more damage. Reroll your Charakoro. (Can be repeated until it fails.) |
-| De lado    |                                                                                                                                                              |
+| Nombre     | Thunder Chain ?                                                                                                                                                     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | サンダーチェイン                                                                                                                                                            |
+| Tipo       | Eléctrico                                                                                                                                                           |
+| Código     | EBW01-039                                                                                                                                                           |
+| Pokémon    | Zapdos                                                                                                                                                              |
+| Energía    | {L}{L}{L}{L}                                                                                                                                                        |
+| Daño       | 30                                                                                                                                                                  |
+| Efecto     |                                                                                                                                                                     |
+| De pie     | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Can be repeated until it fails.) |
+| Pino       |                                                                                                                                                                     |
+| De espalda | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Can be repeated until it fails.) |
+| Boca abajo | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Can be repeated until it fails.) |
+| De lado    |                                                                                                                                                                     |
 
 [Thunder Chain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
 
 #### Fly
 
-| Name       | Fly                                                                                              |
+| Nombre     | Fly                                                                                              |
 | ---------- | ------------------------------------------------------------------------------------------------ |
 | Japonés    | そらをとぶ                                                                                            |
-| Type       | Flying                                                                                           |
-| Code       | EBW01-040                                                                                        |
+| Tipo       | Volador                                                                                          |
+| Código     | EBW01-040                                                                                        |
 | Pokémon    | Zapdos                                                                                           |
 | Energía    | {Y}{C}{C}                                                                                        |
 | Daño       | 30                                                                                               |

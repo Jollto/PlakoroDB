@@ -59,9 +59,9 @@
 
 [Horn Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
 
-#### Guillotine
+#### Guillotina
 
-| Nombre     | Guillotine                                           |
+| Nombre     | Guillotina                                           |
 | ---------- | ---------------------------------------------------- |
 | Japonés    | ハサミギロチン                                              |
 | Tipo       | Normal                                               |
@@ -76,62 +76,62 @@
 | Boca abajo |                                                      |
 | De lado    |                                                      |
 
-[Guillotine](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard04.webp)
+[Guillotina](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard04.webp)
 
-#### Brick Break
+#### Demolición
 
-| Nombre     | Brick Break                                      |
-| ---------- | ------------------------------------------------ |
-| Japonés    | かわらわり                                            |
-| Tipo       | Lucha                                            |
-| Código     | EBW01-005                                        |
-| Pokémon    | Pinsir                                           |
-| Energía    | {F}                                              |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 20 more damage. |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Demolición                                              |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | かわらわり                                                   |
+| Tipo       | Lucha                                                   |
+| Código     | EBW01-005                                               |
+| Pokémon    | Pinsir                                                  |
+| Energía    | {F}                                                     |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 20 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
-[Brick Break](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
+[Demolición](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
 
 #### Scissors Charge ?
 
-| Nombre     | Scissors Charge ?                                                                |
-| ---------- | -------------------------------------------------------------------------------- |
-| Japonés    | チャージばさみ                                                                          |
-| Tipo       | Planta                                                                           |
-| Código     | EBW01-006                                                                        |
-| Pokémon    | Pinsir                                                                           |
-| Energía    | {G}{G}                                                                           |
-| Daño       | 20                                                                               |
-| Efecto     |                                                                                  |
-| De pie     | On your next turn, increase the number of Enekoro you roll by 1. |
-| Pino       |                                                                                  |
-| De espalda | On your next turn, increase the number of Enekoro you roll by 1. |
-| Boca abajo |                                                                                  |
-| De lado    |                                                                                  |
+| Nombre     | Scissors Charge ?                                                                         |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| Japonés    | チャージばさみ                                                                                   |
+| Tipo       | Planta                                                                                    |
+| Código     | EBW01-006                                                                                 |
+| Pokémon    | Pinsir                                                                                    |
+| Energía    | {G}{G}                                                                                    |
+| Daño       | 20                                                                                        |
+| Efecto     |                                                                                           |
+| De pie     | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
+| Pino       |                                                                                           |
+| De espalda | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
+| Boca abajo |                                                                                           |
+| De lado    |                                                                                           |
 
 [Scissors Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 
 #### Berserk Swing ?
 
-| Nombre     | Berserk Swing ?                                                                                      |
-| ---------- | ---------------------------------------------------------------------------------------------------- |
-| Japonés    | ぎゃくじょうスイング                                                                                           |
-| Tipo       | Planta                                                                                               |
-| Código     | EBW01-007                                                                                            |
-| Pokémon    | Pinsir                                                                                               |
-| Energía    | {G}{G}{G}                                                                                            |
-| Daño       | 10                                                                                                   |
-| Efecto     |                                                                                                      |
-| De pie     | During your last turn, if your Enekoro roll failed, this attack does 40 more damage. |
-| Pino       |                                                                                                      |
-| De espalda |                                                                                                      |
-| Boca abajo |                                                                                                      |
-| De lado    | During your last turn, if your Enekoro roll failed, this attack does 40 more damage. |
+| Nombre     | Berserk Swing ?                                                                                                 |
+| ---------- | --------------------------------------------------------------------------------------------------------------- |
+| Japonés    | ぎゃくじょうスイング                                                                                                      |
+| Tipo       | Planta                                                                                                          |
+| Código     | EBW01-007                                                                                                       |
+| Pokémon    | Pinsir                                                                                                          |
+| Energía    | {G}{G}{G}                                                                                                       |
+| Daño       | 10                                                                                                              |
+| Efecto     |                                                                                                                 |
+| De pie     | Durante tu último turno, si tu tirada de Enekoro falló, este ataque hace 40 puntos de daño más. |
+| Pino       |                                                                                                                 |
+| De espalda |                                                                                                                 |
+| Boca abajo |                                                                                                                 |
+| De lado    | Durante tu último turno, si tu tirada de Enekoro falló, este ataque hace 40 puntos de daño más. |
 
 [Pincer Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
 
@@ -146,9 +146,9 @@
 | Energía    | {G}{G}{G}                                                   |
 | Daño       | 30                                                          |
 | Efecto     |                                                             |
-| De pie     | This attack does 20 more damage.            |
+| De pie     | Este ataque hace 20 puntos de daño más.     |
 | Pino       | This Pokémon also does 20 damage to itself. |
-| De espalda | This attack does 20 more damage.            |
+| De espalda | Este ataque hace 20 puntos de daño más.     |
 | Boca abajo | This Pokémon also does 20 damage to itself. |
 | De lado    |                                                             |
 

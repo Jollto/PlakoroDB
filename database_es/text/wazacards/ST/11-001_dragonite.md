@@ -1,21 +1,21 @@
 ## Dragonite Cards
 
-### Starter Set
+### Set de Inicio
 
 #### Dragon Pulse
 
-| Name       | Dragon Pulse                                                                   |
+| Nombre     | Dragon Pulse                                                                   |
 | ---------- | ------------------------------------------------------------------------------ |
 | Japonés    | りゅうのはどう                                                                        |
-| Type       | Dragón                                                                         |
-| Code       | STW11-001                                                                      |
+| Tipo       | Dragón                                                                         |
+| Código     | STW11-001                                                                      |
 | Pokémon    | Dragonite                                                                      |
 | Energía    | {W}{L}                                                                         |
 | Daño       | 20                                                                             |
 | Efecto     |                                                                                |
-| De pie     | This attack does 30 more damage.                               |
+| De pie     | Este ataque hace 30 puntos de daño más.                        |
 | Pino       | On your next turn, reduce the number of Enekoro you roll by 1. |
-| De espalda | This attack does 30 more damage.                               |
+| De espalda | Este ataque hace 30 puntos de daño más.                        |
 | Boca abajo | On your next turn, reduce the number of Enekoro you roll by 1. |
 | De lado    |                                                                                |
 
@@ -23,11 +23,11 @@
 
 #### Claw Slash
 
-| Name       | Claw Slash                                       |
+| Nombre     | Claw Slash                                       |
 | ---------- | ------------------------------------------------ |
 | Japonés    | ツメできりさく                                          |
-| Type       | Dragón                                           |
-| Code       | STW11-002                                        |
+| Tipo       | Dragón                                           |
+| Código     | STW11-002                                        |
 | Pokémon    | Dragonite                                        |
 | Energía    | {L}{L}                                           |
 | Daño       | 20                                               |
@@ -42,30 +42,30 @@
 
 #### Wrack Down
 
-| Name       | Wrack Down                                       |
-| ---------- | ------------------------------------------------ |
-| Japonés    | たたきつぶす                                           |
-| Type       | Dragón                                           |
-| Code       | STW11-003                                        |
-| Pokémon    | Dragonite                                        |
-| Energía    | {W}{W}{W}                                        |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 30 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 30 more damage. |
-| Boca abajo | This attack does 30 more damage. |
-| De lado    |                                                  |
+| Nombre     | Wrack Down                                              |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | たたきつぶす                                                  |
+| Tipo       | Dragón                                                  |
+| Código     | STW11-003                                               |
+| Pokémon    | Dragonite                                               |
+| Energía    | {W}{W}{W}                                               |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 30 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 30 puntos de daño más. |
+| Boca abajo | Este ataque hace 30 puntos de daño más. |
+| De lado    |                                                         |
 
 [Wrack Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard03.webp)
 
 #### Dragon Blast
 
-| Name       | Dragon Blast                                     |
+| Nombre     | Dragon Blast                                     |
 | ---------- | ------------------------------------------------ |
 | Japonés    | まわしげり                                            |
-| Type       | Dragón                                           |
-| Code       | STW11-004                                        |
+| Tipo       | Dragón                                           |
+| Código     | STW11-004                                        |
 | Pokémon    | Dragonite                                        |
 | Energía    | {W}{W}{W}{L}{L}                                  |
 | Daño       | 60                                               |
@@ -80,11 +80,11 @@
 
 #### Scale Press ?
 
-| Name       | Scale Press ?                                                                                     |
+| Nombre     | Scale Press ?                                                                                     |
 | ---------- | ------------------------------------------------------------------------------------------------- |
 | Japonés    | スケイルプレス                                                                                           |
-| Type       | Water                                                                                             |
-| Code       | STW11-005                                                                                         |
+| Tipo       | Agua                                                                                              |
+| Código     | STW11-005                                                                                         |
 | Pokémon    | Dragonite                                                                                         |
 | Energía    | {W}{W}{C}{C}                                                                                      |
 | Daño       | 30                                                                                                |
@@ -99,11 +99,11 @@
 
 #### Hurricane Tail
 
-| Name       | Hurricane Tail                                                                                           |
+| Nombre     | Hurricane Tail                                                                                           |
 | ---------- | -------------------------------------------------------------------------------------------------------- |
 | Japonés    | ハリケーンテール                                                                                                 |
-| Type       | Lightning                                                                                                |
-| Code       | STW11-006                                                                                                |
+| Tipo       | Lightning                                                                                                |
+| Código     | STW11-006                                                                                                |
 | Pokémon    | Dragonite                                                                                                |
 | Energía    | {L}{L}{C}{C}                                                                                             |
 | Daño       | 20                                                                                                       |
@@ -118,11 +118,11 @@
 
 #### Extreme Speed
 
-| Name       | Extreme Speed                                    |
+| Nombre     | Extreme Speed                                    |
 | ---------- | ------------------------------------------------ |
 | Japonés    | しんそく                                             |
-| Type       | Normal                                           |
-| Code       | STW11-007                                        |
+| Tipo       | Normal                                           |
+| Código     | STW11-007                                        |
 | Pokémon    | Dragonite                                        |
 | Energía    | {C}{C}{C}{C}                                     |
 | Daño       | 30                                               |

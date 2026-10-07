@@ -153,3 +153,5 @@
 | Back      |                                  |
 | Down      |                                  |
 | Sideways  |                                  |
+
+[Vacuum Wave](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img02.webp)

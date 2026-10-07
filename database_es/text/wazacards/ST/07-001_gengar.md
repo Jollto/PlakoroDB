@@ -1,14 +1,14 @@
 ## Gengar Cards
 
-### Starter Set
+### Set de Inicio
 
 #### Suffocating Gas
 
-| Name       | Suffocating Gas                                         |
+| Nombre     | Suffocating Gas                                         |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ガスでつつむ                                                  |
-| Type       | Dark                                                    |
-| Code       | STW07-001                                               |
+| Tipo       | Siniestro                                               |
+| Código     | STW07-001                                               |
 | Pokémon    | Gengar                                                  |
 | Energía    | {D}                                                     |
 | Daño       | 10                                                      |
@@ -23,11 +23,11 @@
 
 #### Spooky Shot
 
-| Name       | Spooky Shot                                             |
+| Nombre     | Spooky Shot                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ホロウショット                                                 |
-| Type       | Dark                                                    |
-| Code       | STW07-002                                               |
+| Tipo       | Siniestro                                               |
+| Código     | STW07-002                                               |
 | Pokémon    | Gengar                                                  |
 | Energía    | {D}{D}                                                  |
 | Daño       | 20                                                      |
@@ -42,11 +42,11 @@
 
 #### Upside Down ?
 
-| Name       | Upside Down ?                                                                               |
+| Nombre     | Upside Down ?                                                                               |
 | ---------- | ------------------------------------------------------------------------------------------- |
 | Japonés    | まっさかさま                                                                                      |
-| Type       | Dark                                                                                        |
-| Code       | STW07-003                                                                                   |
+| Tipo       | Siniestro                                                                                   |
+| Código     | STW07-003                                                                                   |
 | Pokémon    | Gengar                                                                                      |
 | Energía    | {D}{D}                                                                                      |
 | Daño       | 20                                                                                          |
@@ -61,11 +61,11 @@
 
 #### Shadow Bind
 
-| Name       | Shadow Bind                                                                     |
+| Nombre     | Shadow Bind                                                                     |
 | ---------- | ------------------------------------------------------------------------------- |
 | Japonés    | かげしばり                                                                           |
-| Type       | Dark                                                                            |
-| Code       | STW07-004                                                                       |
+| Tipo       | Siniestro                                                                       |
+| Código     | STW07-004                                                                       |
 | Pokémon    | Gengar                                                                          |
 | Energía    | {D}{D}{D}                                                                       |
 | Daño       | 30                                                                              |
@@ -80,11 +80,11 @@
 
 #### Sludge Bomb
 
-| Name       | Sludge Bomb                                             |
+| Nombre     | Sludge Bomb                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ヘドロばくだん                                                 |
-| Type       | Dark                                                    |
-| Code       | STW07-005                                               |
+| Tipo       | Siniestro                                               |
+| Código     | STW07-005                                               |
 | Pokémon    | Gengar                                                  |
 | Energía    | {D}{D}{D}                                               |
 | Daño       | 30                                                      |
@@ -99,11 +99,11 @@
 
 #### Phantom Trick ?
 
-| Name       | Phantom Trick ?                                                                                                                              |
+| Nombre     | Phantom Trick ?                                                                                                                              |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Japonés    | ファントムトリック                                                                                                                                    |
-| Type       | Dark                                                                                                                                         |
-| Code       | STW07-006                                                                                                                                    |
+| Tipo       | Siniestro                                                                                                                                    |
+| Código     | STW07-006                                                                                                                                    |
 | Pokémon    | Gengar                                                                                                                                       |
 | Energía    | {D}{D}{D}{D}                                                                                                                                 |
 | Daño       | 10                                                                                                                                           |
@@ -118,11 +118,11 @@
 
 #### Psywave
 
-| Name       | Psywave                                                 |
+| Nombre     | Psywave                                                 |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | サイコウェーブ                                                 |
-| Type       | Psychic                                                 |
-| Code       | STW07-007                                               |
+| Tipo       | Psíquico                                                |
+| Código     | STW07-007                                               |
 | Pokémon    | Gengar                                                  |
 | Energía    | {P}{C}{C}{C}                                            |
 | Daño       | 30                                                      |
@@ -139,11 +139,11 @@
 
 #### Night Lock ?
 
-| Name       | Night Lock ?                                                                              |
+| Nombre     | Night Lock ?                                                                              |
 | ---------- | ----------------------------------------------------------------------------------------- |
 | Japonés    | ナイトロック                                                                                    |
-| Type       | Dark                                                                                      |
-| Code       | PRW02-1-08                                                                                |
+| Tipo       | Siniestro                                                                                 |
+| Código     | PRW02-1-08                                                                                |
 | Pokémon    | Gengar                                                                                    |
 | Energía    | {D}{D}{D}{D}                                                                              |
 | Daño       | 30                                                                                        |
@@ -153,3 +153,5 @@
 | De espalda |                                                                                           |
 | Boca abajo |                                                                                           |
 | De lado    |                                                                                           |
+
+[Night Lock](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img03.webp)

@@ -4,20 +4,20 @@
 
 #### Peck
 
-| Nombre     | Peck                                             |
-| ---------- | ------------------------------------------------ |
-| Japonés    | つつく                                              |
-| Tipo       | Volador                                          |
-| Código     | STW10-001                                        |
-| Pokémon    | Altaria                                          |
-| Energía    | {Y}                                              |
-| Daño       | 10                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 20 more damage. |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Peck                                                    |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | つつく                                                     |
+| Tipo       | Volador                                                 |
+| Código     | STW10-001                                               |
+| Pokémon    | Altaria                                                 |
+| Energía    | {Y}                                                     |
+| Daño       | 10                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 20 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Peck](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard01.webp)
 
@@ -61,20 +61,20 @@
 
 #### Aerial Ace
 
-| Nombre     | Aerial Ace                                       |
-| ---------- | ------------------------------------------------ |
-| Japonés    | つばめがえし                                           |
-| Tipo       | Volador                                          |
-| Código     | STW10-004                                        |
-| Pokémon    | Altaria                                          |
-| Energía    | {Y}{Y}{Y}                                        |
-| Daño       | 30                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 20 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 20 more damage. |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Aerial Ace                                              |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | つばめがえし                                                  |
+| Tipo       | Volador                                                 |
+| Código     | STW10-004                                               |
+| Pokémon    | Altaria                                                 |
+| Energía    | {Y}{Y}{Y}                                               |
+| Daño       | 30                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 20 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 20 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Aerial Ace](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard04.webp)
 

@@ -1,6 +1,6 @@
 ## Pinsir Cards
 
-### Expansion Box 1
+### Exploration Box 1
 
 #### Concentrate ?
 

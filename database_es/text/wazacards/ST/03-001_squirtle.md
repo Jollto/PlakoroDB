@@ -61,20 +61,20 @@
 
 #### Ataque Caparazón
 
-| Name       | Ataque Caparazón                                                                                  |
-| ---------- | ------------------------------------------------------------------------------------------------- |
-| Japonés    | シェルアタック                                                                                           |
-| Type       | Water                                                                                             |
-| Code       | STW03-004                                                                                         |
-| Pokémon    | Squirtle                                                                                          |
-| Energía    | {W}{W}{W}                                                                                         |
-| Daño       | 30                                                                                                |
-| Efecto     |                                                                                                   |
-| De pie     | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Pino       |                                                                                                   |
-| De espalda | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Boca abajo | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| De lado    |                                                                                                   |
+| Nombre     | Ataque Caparazón                                                                                                     |
+| ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | シェルアタック                                                                                                              |
+| Tipo       | Agua                                                                                                                 |
+| Código     | STW03-004                                                                                                            |
+| Pokémon    | Squirtle                                                                                                             |
+| Energía    | {W}{W}{W}                                                                                                            |
+| Daño       | 30                                                                                                                   |
+| Efecto     |                                                                                                                      |
+| De pie     | Durante el próximo turno de tu oponente, este Pokémon recibe 20 puntos menos de daño de los ataques. |
+| Pino       |                                                                                                                      |
+| De espalda | During your opponent's next turn, this Pokémon takes 20 less damage from attacks.                    |
+| Boca abajo | During your opponent's next turn, this Pokémon takes 20 less damage from attacks.                    |
+| De lado    |                                                                                                                      |
 
 [Ataque Caparazón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard04.webp)
 

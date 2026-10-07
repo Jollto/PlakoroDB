@@ -2,41 +2,41 @@
 
 ### Caja de Exploración 1
 
-#### Concentrate ?
+#### Concentrar ?
 
-| Nombre     | Concentrate ?                                                                    |
-| ---------- | -------------------------------------------------------------------------------- |
-| Japonés    | しゅうちゅう                                                                           |
-| Tipo       | Planta                                                                           |
-| Código     | EBW01-001                                                                        |
-| Pokémon    | Pinsir                                                                           |
-| Energía    | {G}                                                                              |
-| Daño       |                                                                                  |
-| Efecto     |                                                                                  |
-| De pie     | On your next turn, increase the number of Enekoro you roll by 2. |
-| Pino       |                                                                                  |
-| De espalda |                                                                                  |
-| Boca abajo |                                                                                  |
-| De lado    | On your next turn, increase the number of Enekoro you roll by 2. |
+| Nombre     | Concentrar ?                                                                              |
+| ---------- | ----------------------------------------------------------------------------------------- |
+| Japonés    | しゅうちゅう                                                                                    |
+| Tipo       | Planta                                                                                    |
+| Código     | EBW01-001                                                                                 |
+| Pokémon    | Pinsir                                                                                    |
+| Energía    | {G}                                                                                       |
+| Daño       |                                                                                           |
+| Efecto     |                                                                                           |
+| De pie     | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
+| Pino       |                                                                                           |
+| De espalda |                                                                                           |
+| Boca abajo |                                                                                           |
+| De lado    | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
 
-[Concentrate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
+[Concentrar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
 #### Endure ?
 
-| Nombre     | Endure ?                                                                                          |
-| ---------- | ------------------------------------------------------------------------------------------------- |
-| Japonés    | たえる                                                                                               |
-| Tipo       | Planta                                                                                            |
-| Código     | EBW01-002                                                                                         |
-| Pokémon    | Pinsir                                                                                            |
-| Energía    | {G}{G}                                                                                            |
-| Daño       |                                                                                                   |
-| Efecto     | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| De pie     | Reduce damage taken by an additional 20.                                          |
-| Pino       |                                                                                                   |
-| De espalda | Reduce damage taken by an additional 20.                                          |
-| Boca abajo | Reduce damage taken by an additional 20.                                          |
-| De lado    |                                                                                                   |
+| Nombre     | Endure ?                                                                                                             |
+| ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | たえる                                                                                                                  |
+| Tipo       | Planta                                                                                                               |
+| Código     | EBW01-002                                                                                                            |
+| Pokémon    | Pinsir                                                                                                               |
+| Energía    | {G}{G}                                                                                                               |
+| Daño       |                                                                                                                      |
+| Efecto     | Durante el próximo turno de tu oponente, este Pokémon recibe 20 puntos menos de daño de los ataques. |
+| De pie     | Reduce el daño recibido en 20 puntos adicionales.                                                    |
+| Pino       |                                                                                                                      |
+| De espalda | Reduce el daño recibido en 20 puntos adicionales.                                                    |
+| Boca abajo | Reduce el daño recibido en 20 puntos adicionales.                                                    |
+| De lado    |                                                                                                                      |
 
 [Endure](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 

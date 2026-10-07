@@ -1,14 +1,14 @@
 ### Pikachu Cards
 
-### Starter Set
+### Set de Inicio
 
 #### Gnaw
 
-| Name       | Gnaw                                                    |
+| Nombre     | Gnaw                                                    |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | かじる                                                     |
-| Type       | Electric                                                |
-| Code       | STW04-001                                               |
+| Tipo       | Eléctrico                                               |
+| Código     | STW04-001                                               |
 | Pokémon    | Pikachu                                                 |
 | Energía    | {L}                                                     |
 | Daño       | 10                                                      |
@@ -23,11 +23,11 @@
 
 #### Thunder Shock
 
-| Name       | Thunder Shock                                           |
+| Nombre     | Thunder Shock                                           |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | でんきショック                                                 |
-| Type       | Electric                                                |
-| Code       | STW04-002                                               |
+| Tipo       | Eléctrico                                               |
+| Código     | STW04-002                                               |
 | Pokémon    | Pikachu                                                 |
 | Energía    | {L}{L}                                                  |
 | Daño       | 10                                                      |
@@ -42,11 +42,11 @@
 
 #### Electric Rush ?
 
-| Name       | Electric Rush ?                                                                                                       |
+| Nombre     | Electric Rush ?                                                                                                       |
 | ---------- | --------------------------------------------------------------------------------------------------------------------- |
 | Japonés    | エレキラッシュ                                                                                                               |
-| Type       | Electric                                                                                                              |
-| Code       | STW04-003                                                                                                             |
+| Tipo       | Eléctrico                                                                                                             |
+| Código     | STW04-003                                                                                                             |
 | Pokémon    | Pikachu                                                                                                               |
 | Energía    | {L}{L}                                                                                                                |
 | Daño       | 20                                                                                                                    |
@@ -61,11 +61,11 @@
 
 #### Thunderbolt
 
-| Name       | Thunderbolt                                                                    |
+| Nombre     | Thunderbolt                                                                    |
 | ---------- | ------------------------------------------------------------------------------ |
 | Japonés    | 10まんボルト                                                                        |
-| Type       | Electric                                                                       |
-| Code       | STW04-004                                                                      |
+| Tipo       | Eléctrico                                                                      |
+| Código     | STW04-004                                                                      |
 | Pokémon    | Pikachu                                                                        |
 | Energía    | {L}{L}{L}                                                                      |
 | Daño       | 30                                                                             |
@@ -80,11 +80,11 @@
 
 #### Thunder
 
-| Name       | Thunder                                                 |
+| Nombre     | Thunder                                                 |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | かみなり                                                    |
-| Type       | Electric                                                |
-| Code       | STW04-005                                               |
+| Tipo       | Eléctrico                                               |
+| Código     | STW04-005                                               |
 | Pokémon    | Pikachu                                                 |
 | Energía    | {L}{L}{L}                                               |
 | Daño       | 20                                                      |
@@ -99,11 +99,11 @@
 
 #### Volt Tackle
 
-| Name       | Volt Tackle                                                 |
+| Nombre     | Volt Tackle                                                 |
 | ---------- | ----------------------------------------------------------- |
 | Japonés    | ボルテッカー                                                      |
-| Type       | Electric                                                    |
-| Code       | STW04-006                                                   |
+| Tipo       | Eléctrico                                                   |
+| Código     | STW04-006                                                   |
 | Pokémon    | Pikachu                                                     |
 | Energía    | {L}{L}{L}{L}                                                |
 | Daño       | 40                                                          |
@@ -118,11 +118,11 @@
 
 #### Iron Tail
 
-| Name       | Iron Tail                                                                                         |
+| Nombre     | Iron Tail                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------- |
 | Japonés    | アイアンテール                                                                                           |
-| Type       | Steel                                                                                             |
-| Code       | STW04-007                                                                                         |
+| Tipo       | Acero                                                                                             |
+| Código     | STW04-007                                                                                         |
 | Pokémon    | Pikachu                                                                                           |
 | Energía    | {M}                                                                                               |
 | Daño       | 20                                                                                                |
@@ -139,11 +139,11 @@
 
 #### Critical Bolt ?
 
-| Name       | Critical Bolt ?                                         |
+| Nombre     | Critical Bolt ?                                         |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | クリティカルボルト                                               |
-| Type       | Electric                                                |
-| Code       | PRW01-008                                               |
+| Tipo       | Eléctrico                                               |
+| Código     | PRW01-008                                               |
 | Pokémon    | Pikachu                                                 |
 | Energía    | {L}{L}{L}{L}                                            |
 | Daño       | 30                                                      |

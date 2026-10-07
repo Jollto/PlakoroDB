@@ -72,57 +72,57 @@
 | Efecto     |                                                                                                                      |
 | De pie     | Durante el próximo turno de tu oponente, este Pokémon recibe 20 puntos menos de daño de los ataques. |
 | Pino       |                                                                                                                      |
-| De espalda | During your opponent's next turn, this Pokémon takes 20 less damage from attacks.                    |
-| Boca abajo | During your opponent's next turn, this Pokémon takes 20 less damage from attacks.                    |
+| De espalda | Durante el próximo turno de tu oponente, este Pokémon recibe 20 puntos menos de daño de los ataques. |
+| Boca abajo | Durante el próximo turno de tu oponente, este Pokémon recibe 20 puntos menos de daño de los ataques. |
 | De lado    |                                                                                                                      |
 
 [Ataque Caparazón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard04.webp)
 
-#### Bubble Beam
+#### Rayo Burbuja
 
-| Name       | Bubble Beam                                                                                 |
+| Nombre     | Rayo Burbuja                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------- |
 | Japonés    | バブルこうせん                                                                                     |
-| Type       | Water                                                                                       |
-| Code       | STW03-005                                                                                   |
+| Tipo       | Agua                                                                                        |
+| Código     | STW03-005                                                                                   |
 | Pokémon    | Squirtle                                                                                    |
 | Energía    | {W}{W}{W}                                                                                   |
 | Daño       | 30                                                                                          |
 | Efecto     |                                                                                             |
 | De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
 | Pino       |                                                                                             |
-| De espalda | On the opponent's next turn, reduce the number of Enekoro they roll by 1.   |
-| Boca abajo | On the opponent's next turn, reduce the number of Enekoro they roll by 1.   |
+| De espalda | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
+| Boca abajo | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
 | De lado    |                                                                                             |
 
-[Bubble Beam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard05.webp)
+[Rayo Burbuja](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard05.webp)
 
-#### Hydro Rage ?
+#### Hidrofuria ?
 
-| Name       | Hydro Rage ?                                                                                  |
-| ---------- | --------------------------------------------------------------------------------------------- |
-| Japonés    | ハイドロアンガー                                                                                      |
-| Type       | Water                                                                                         |
-| Code       | STW03-006                                                                                     |
-| Pokémon    | Squirtle                                                                                      |
-| Energía    | {W}{W}{W}{W}                                                                                  |
-| Daño       | 40                                                                                            |
-| Efecto     |                                                                                               |
-| De pie     | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
-| Pino       |                                                                                               |
-| De espalda | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
-| Boca abajo | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
-| De lado    |                                                                                               |
+| Nombre     | Hidrofuria ?                                                                                             |
+| ---------- | -------------------------------------------------------------------------------------------------------- |
+| Japonés    | ハイドロアンガー                                                                                                 |
+| Tipo       | Agua                                                                                                     |
+| Código     | STW03-006                                                                                                |
+| Pokémon    | Squirtle                                                                                                 |
+| Energía    | {W}{W}{W}{W}                                                                                             |
+| Daño       | 40                                                                                                       |
+| Efecto     |                                                                                                          |
+| De pie     | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 60 puntos de daño más. |
+| Pino       |                                                                                                          |
+| De espalda | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 60 puntos de daño más. |
+| Boca abajo | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 60 puntos de daño más. |
+| De lado    |                                                                                                          |
 
-[Hydro Rage](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard06.webp)
+[Hidrofuria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard06.webp)
 
-#### Mud Shot
+#### Disparo Lodo
 
-| Name       | Mud Shot                                                |
+| Nombre     | Disparo Lodo                                            |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | マッドショット                                                 |
-| Type       | Fighting                                                |
-| Code       | STW03-007                                               |
+| Tipo       | Lucha                                                   |
+| Código     | STW03-007                                               |
 | Pokémon    | Squirtle                                                |
 | Energía    | {F}{C}{C}{C}                                            |
 | Daño       | 30                                                      |
@@ -139,11 +139,11 @@
 
 #### Hard Shell ?
 
-| Name       | Hard Shell ?                                                                                      |
+| Nombre     | Hard Shell ?                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------- |
 | Japonés    | カチカチこうら                                                                                           |
-| Type       | Water                                                                                             |
-| Code       | PRW01-3-08                                                                                        |
+| Tipo       | Agua                                                                                              |
+| Código     | PRW01-3-08                                                                                        |
 | Pokémon    | Squirtle                                                                                          |
 | Energía    | {W}{W}{W}                                                                                         |
 | Daño       | 20                                                                                                |

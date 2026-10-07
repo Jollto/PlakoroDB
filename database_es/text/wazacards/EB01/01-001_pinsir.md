@@ -1,14 +1,14 @@
-## Pinsir Cards
+## Cartas de Pinsir
 
-### Expansion Box 1
+### Caja de Exploración 1
 
 #### Concentrate ?
 
-| Name       | Concentrate ?                                                                    |
+| Nombre     | Concentrate ?                                                                    |
 | ---------- | -------------------------------------------------------------------------------- |
 | Japonés    | しゅうちゅう                                                                           |
-| Type       | Grass                                                                            |
-| Code       | EBW01-001                                                                        |
+| Tipo       | Planta                                                                           |
+| Código     | EBW01-001                                                                        |
 | Pokémon    | Pinsir                                                                           |
 | Energía    | {G}                                                                              |
 | Daño       |                                                                                  |
@@ -23,11 +23,11 @@
 
 #### Endure ?
 
-| Name       | Endure ?                                                                                          |
+| Nombre     | Endure ?                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------- |
 | Japonés    | たえる                                                                                               |
-| Type       | Grass                                                                                             |
-| Code       | EBW01-002                                                                                         |
+| Tipo       | Planta                                                                                            |
+| Código     | EBW01-002                                                                                         |
 | Pokémon    | Pinsir                                                                                            |
 | Energía    | {G}{G}                                                                                            |
 | Daño       |                                                                                                   |
@@ -42,49 +42,49 @@
 
 #### Horn Attack ?
 
-| Name       | Horn Attack ?                                    |
-| ---------- | ------------------------------------------------ |
-| Japonés    | つのでたたく                                           |
-| Type       | Grass                                            |
-| Code       | EBW01-003                                        |
-| Pokémon    | Pinsir                                           |
-| Energía    | {G}{G}{G}                                        |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 30 more damage. |
-| Pino       |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    | This attack does 30 more damage. |
+| Nombre     | Horn Attack ?                                           |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | つのでたたく                                                  |
+| Tipo       | Planta                                                  |
+| Código     | EBW01-003                                               |
+| Pokémon    | Pinsir                                                  |
+| Energía    | {G}{G}{G}                                               |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 30 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 30 puntos de daño más. |
 
 [Horn Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
 
 #### Guillotine
 
-| Name       | Guillotine                                   |
-| ---------- | -------------------------------------------- |
-| Japonés    | ハサミギロチン                                      |
-| Type       | Normal                                       |
-| Code       | EBW01-004                                    |
-| Pokémon    | Pinsir                                       |
-| Energía    | {G}{G}{G}{G}{G}                              |
-| Daño       |                                              |
-| Efecto     |                                              |
-| De pie     | This attack does 150 damage. |
-| Pino       |                                              |
-| De espalda |                                              |
-| Boca abajo |                                              |
-| De lado    |                                              |
+| Nombre     | Guillotine                                           |
+| ---------- | ---------------------------------------------------- |
+| Japonés    | ハサミギロチン                                              |
+| Tipo       | Normal                                               |
+| Código     | EBW01-004                                            |
+| Pokémon    | Pinsir                                               |
+| Energía    | {G}{G}{G}{G}{G}                                      |
+| Daño       |                                                      |
+| Efecto     |                                                      |
+| De pie     | Este ataque hace 150 puntos de daño. |
+| Pino       |                                                      |
+| De espalda |                                                      |
+| Boca abajo |                                                      |
+| De lado    |                                                      |
 
 [Guillotine](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard04.webp)
 
 #### Brick Break
 
-| Name       | Brick Break                                      |
+| Nombre     | Brick Break                                      |
 | ---------- | ------------------------------------------------ |
 | Japonés    | かわらわり                                            |
-| Type       | Fighting                                         |
-| Code       | EBW01-005                                        |
+| Tipo       | Lucha                                            |
+| Código     | EBW01-005                                        |
 | Pokémon    | Pinsir                                           |
 | Energía    | {F}                                              |
 | Daño       | 20                                               |
@@ -99,11 +99,11 @@
 
 #### Scissors Charge ?
 
-| Name       | Scissors Charge ?                                                                |
+| Nombre     | Scissors Charge ?                                                                |
 | ---------- | -------------------------------------------------------------------------------- |
 | Japonés    | チャージばさみ                                                                          |
-| Type       | Grass                                                                            |
-| Code       | EBW01-006                                                                        |
+| Tipo       | Planta                                                                           |
+| Código     | EBW01-006                                                                        |
 | Pokémon    | Pinsir                                                                           |
 | Energía    | {G}{G}                                                                           |
 | Daño       | 20                                                                               |
@@ -118,11 +118,11 @@
 
 #### Berserk Swing ?
 
-| Name       | Berserk Swing ?                                                                                      |
+| Nombre     | Berserk Swing ?                                                                                      |
 | ---------- | ---------------------------------------------------------------------------------------------------- |
 | Japonés    | ぎゃくじょうスイング                                                                                           |
-| Type       | Grass                                                                                                |
-| Code       | EBW01-007                                                                                            |
+| Tipo       | Planta                                                                                               |
+| Código     | EBW01-007                                                                                            |
 | Pokémon    | Pinsir                                                                                               |
 | Energía    | {G}{G}{G}                                                                                            |
 | Daño       | 10                                                                                                   |
@@ -137,11 +137,11 @@
 
 #### Reckless Charge
 
-| Name       | Reckless Charge                                             |
+| Nombre     | Reckless Charge                                             |
 | ---------- | ----------------------------------------------------------- |
 | Japonés    | とつげき                                                        |
-| Type       | Grass                                                       |
-| Code       | EBW01-008                                                   |
+| Tipo       | Planta                                                      |
+| Código     | EBW01-008                                                   |
 | Pokémon    | Pinsir                                                      |
 | Energía    | {G}{G}{G}                                                   |
 | Daño       | 30                                                          |
@@ -156,11 +156,11 @@
 
 #### Deadly Scissors ?
 
-| Name       | Deadly Scissors ?                                |
+| Nombre     | Deadly Scissors ?                                |
 | ---------- | ------------------------------------------------ |
 | Japonés    | ひっさつばさみ                                          |
-| Type       | Grass                                            |
-| Code       | EBW01-009                                        |
+| Tipo       | Planta                                           |
+| Código     | EBW01-009                                        |
 | Pokémon    | Pinsir                                           |
 | Energía    | {G}{G}{G}{G}                                     |
 | Daño       | 20                                               |
@@ -175,19 +175,19 @@
 
 #### Submission
 
-| Name       | Submission                                                  |
+| Nombre     | Submission                                                  |
 | ---------- | ----------------------------------------------------------- |
 | Japonés    | じごくぐるま                                                      |
-| Type       | Fighting                                                    |
-| Code       | EBW01-010                                                   |
+| Tipo       | Lucha                                                       |
+| Código     | EBW01-010                                                   |
 | Pokémon    | Pinsir                                                      |
 | Energía    | {F}{C}{C}{C}                                                |
 | Daño       | 30                                                          |
 | Efecto     | This Pokémon also does 20 damage to itself. |
-| De pie     | This attack does 30 more damage.            |
-| Pino       | This attack does 30 more damage.            |
-| De espalda | This attack does 30 more damage.            |
-| Boca abajo | This attack does 30 more damage.            |
+| De pie     | Este ataque hace 30 puntos de daño más.     |
+| Pino       | Este ataque hace 30 puntos de daño más.     |
+| De espalda | Este ataque hace 30 puntos de daño más.     |
+| Boca abajo | Este ataque hace 30 puntos de daño más.     |
 | De lado    |                                                             |
 
 [Submission](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)

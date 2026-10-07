@@ -1,14 +1,14 @@
 ## Lucario Cards
 
-### Starter Set
+### Set de Inicio
 
 #### Kick
 
-| Name       | Kick                                                    |
+| Nombre     | Kick                                                    |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | キック                                                     |
-| Type       | Fighting                                                |
-| Code       | STW09-001                                               |
+| Tipo       | Lucha                                                   |
+| Código     | STW09-001                                               |
 | Pokémon    | Lucario                                                 |
 | Energía    | {F}                                                     |
 | Daño       | 10                                                      |
@@ -23,11 +23,11 @@
 
 #### Force Palm
 
-| Name       | Force Palm                                                                                |
+| Nombre     | Force Palm                                                                                |
 | ---------- | ----------------------------------------------------------------------------------------- |
 | Japonés    | はっけい                                                                                      |
-| Type       | Fighting                                                                                  |
-| Code       | STW09-002                                                                                 |
+| Tipo       | Lucha                                                                                     |
+| Código     | STW09-002                                                                                 |
 | Pokémon    | Lucario                                                                                   |
 | Energía    | {F}{F}                                                                                    |
 | Daño       | 20                                                                                        |
@@ -42,11 +42,11 @@
 
 #### Aura Knuckle
 
-| Name       | Aura Knuckle                                                                                  |
+| Nombre     | Aura Knuckle                                                                                  |
 | ---------- | --------------------------------------------------------------------------------------------- |
 | Japonés    | はどうナックル                                                                                       |
-| Type       | Fighting                                                                                      |
-| Code       | STW09-003                                                                                     |
+| Tipo       | Lucha                                                                                         |
+| Código     | STW09-003                                                                                     |
 | Pokémon    | Lucario                                                                                       |
 | Energía    | {F}{F}                                                                                        |
 | Daño       | 20                                                                                            |
@@ -61,11 +61,11 @@
 
 #### Rolling Kick
 
-| Name       | Rolling Kick                                            |
+| Nombre     | Rolling Kick                                            |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | まわしげり                                                   |
-| Type       | Fighting                                                |
-| Code       | STW09-004                                               |
+| Tipo       | Lucha                                                   |
+| Código     | STW09-004                                               |
 | Pokémon    | Lucario                                                 |
 | Energía    | {F}{F}{F}                                               |
 | Daño       | 20                                                      |
@@ -80,11 +80,11 @@
 
 #### Aura Jab ?
 
-| Name       | Aura Jab ?                                                                                                                                     |
+| Nombre     | Aura Jab ?                                                                                                                                     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | Japonés    | オーラづき                                                                                                                                          |
-| Type       | Fighting                                                                                                                                       |
-| Code       | STW09-005                                                                                                                                      |
+| Tipo       | Lucha                                                                                                                                          |
+| Código     | STW09-005                                                                                                                                      |
 | Pokémon    | Lucario                                                                                                                                        |
 | Energía    | {F}{F}{F}                                                                                                                                      |
 | Daño       | 30                                                                                                                                             |
@@ -99,11 +99,11 @@
 
 #### Aura Sphere
 
-| Name       | Aura Sphere                                                                                   |
+| Nombre     | Aura Sphere                                                                                   |
 | ---------- | --------------------------------------------------------------------------------------------- |
 | Japonés    | はどうだん                                                                                         |
-| Type       | Fighting                                                                                      |
-| Code       | STW09-006                                                                                     |
+| Tipo       | Lucha                                                                                         |
+| Código     | STW09-006                                                                                     |
 | Pokémon    | Lucario                                                                                       |
 | Energía    | {F}{F}{F}{F}                                                                                  |
 | Daño       | 40                                                                                            |
@@ -118,11 +118,11 @@
 
 #### Garra Metal
 
-| Name       | Garra Metal                                             |
+| Nombre     | Garra Metal                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | メタルクロー                                                  |
-| Type       | Steel                                                   |
-| Code       | STW09-007                                               |
+| Tipo       | Acero                                                   |
+| Código     | STW09-007                                               |
 | Pokémon    | Lucario                                                 |
 | Energía    | {M}{C}{C}{C}                                            |
 | Daño       | 30                                                      |
@@ -139,11 +139,11 @@
 
 #### Vacuum Wave
 
-| Name       | Vacuum Wave                                      |
+| Nombre     | Vacuum Wave                                      |
 | ---------- | ------------------------------------------------ |
 | Japonés    | しんくうは                                            |
-| Type       | Fighting                                         |
-| Code       | PRW02-3-08                                       |
+| Tipo       | Lucha                                            |
+| Código     | PRW02-3-08                                       |
 | Pokémon    | Lucario                                          |
 | Energía    | {F}{F}{F}                                        |
 | Daño       | 20                                               |
@@ -153,3 +153,5 @@
 | De espalda |                                                  |
 | Boca abajo |                                                  |
 | De lado    |                                                  |
+
+[Vacuum Wave](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img02.webp)

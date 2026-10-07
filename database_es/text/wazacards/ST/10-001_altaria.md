@@ -1,14 +1,14 @@
 ## Altaria Cards
 
-### Starter Set
+### Set de Inicio
 
 #### Peck
 
-| Name       | Peck                                             |
+| Nombre     | Peck                                             |
 | ---------- | ------------------------------------------------ |
 | Japonés    | つつく                                              |
-| Type       | Flying                                           |
-| Code       | STW10-001                                        |
+| Tipo       | Volador                                          |
+| Código     | STW10-001                                        |
 | Pokémon    | Altaria                                          |
 | Energía    | {Y}                                              |
 | Daño       | 10                                               |
@@ -23,11 +23,11 @@
 
 #### Fluffy Flight ?
 
-| Name       | Fluffy Flight ?                                                                                                                                                                                  |
+| Nombre     | Fluffy Flight ?                                                                                                                                                                                  |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Japonés    | ふわふわひこう                                                                                                                                                                                          |
-| Type       | Flying                                                                                                                                                                                           |
-| Code       | STW10-002                                                                                                                                                                                        |
+| Tipo       | Volador                                                                                                                                                                                          |
+| Código     | STW10-002                                                                                                                                                                                        |
 | Pokémon    | Altaria                                                                                                                                                                                          |
 | Energía    | {Y}{Y}                                                                                                                                                                                           |
 | Daño       | 20                                                                                                                                                                                               |
@@ -42,11 +42,11 @@
 
 #### Roost
 
-| Name       | Roost                                                  |
+| Nombre     | Roost                                                  |
 | ---------- | ------------------------------------------------------ |
 | Japonés    | はねやすめ                                                  |
-| Type       | Flying                                                 |
-| Code       | STW10-003                                              |
+| Tipo       | Volador                                                |
+| Código     | STW10-003                                              |
 | Pokémon    | Altaria                                                |
 | Energía    | {Y}{Y}                                                 |
 | Daño       |                                                        |
@@ -61,11 +61,11 @@
 
 #### Aerial Ace
 
-| Name       | Aerial Ace                                       |
+| Nombre     | Aerial Ace                                       |
 | ---------- | ------------------------------------------------ |
 | Japonés    | つばめがえし                                           |
-| Type       | Flying                                           |
-| Code       | STW10-004                                        |
+| Tipo       | Volador                                          |
+| Código     | STW10-004                                        |
 | Pokémon    | Altaria                                          |
 | Energía    | {Y}{Y}{Y}                                        |
 | Daño       | 30                                               |
@@ -80,11 +80,11 @@
 
 #### Fly
 
-| Name       | Fly                                                                                                                                                                            |
+| Nombre     | Fly                                                                                                                                                                            |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Japonés    | そらをとぶ                                                                                                                                                                          |
-| Type       | Flying                                                                                                                                                                         |
-| Code       | STW10-005                                                                                                                                                                      |
+| Tipo       | Volador                                                                                                                                                                        |
+| Código     | STW10-005                                                                                                                                                                      |
 | Pokémon    | Altaria                                                                                                                                                                        |
 | Energía    | {Y}{Y}{Y}                                                                                                                                                                      |
 | Daño       | 40                                                                                                                                                                             |
@@ -99,11 +99,11 @@
 
 #### Sky Attack
 
-| Name       | Sky Attack                                                                     |
+| Nombre     | Sky Attack                                                                     |
 | ---------- | ------------------------------------------------------------------------------ |
 | Japonés    | ゴッドバード                                                                         |
-| Type       | Flying                                                                         |
-| Code       | STW10-006                                                                      |
+| Tipo       | Volador                                                                        |
+| Código     | STW10-006                                                                      |
 | Pokémon    | Altaria                                                                        |
 | Energía    | {Y}{Y}{Y}{Y}                                                                   |
 | Daño       | 30                                                                             |
@@ -118,11 +118,11 @@
 
 #### Moonblast
 
-| Name       | Moonblast                                                                       |
+| Nombre     | Moonblast                                                                       |
 | ---------- | ------------------------------------------------------------------------------- |
 | Japonés    | ムーンフォース                                                                         |
-| Type       | Psychic                                                                         |
-| Code       | STW10-007                                                                       |
+| Tipo       | Psíquico                                                                        |
+| Código     | STW10-007                                                                       |
 | Pokémon    | Altaria                                                                         |
 | Energía    | {P}{C}{C}{C}                                                                    |
 | Daño       | 30                                                                              |

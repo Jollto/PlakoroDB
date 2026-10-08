@@ -99,20 +99,20 @@
 
 #### Heavy Slam
 
-| Nombre     | Heavy Slam                                                                            |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Japonés    | ヘビーボンバー                                                                               |
-| Tipo       | Acero                                                                                 |
-| Código     | STW08-006                                                                             |
-| Pokémon    | Metagross                                                                             |
-| Energía    | {M}{M}{M}{M}                                                                          |
-| Daño       | 40                                                                                    |
-| Efecto     |                                                                                       |
-| De pie     | Este ataque hace 40 puntos de daño más.                               |
-| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De espalda | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| Boca abajo | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De lado    | Este ataque hace 40 puntos de daño más.                               |
+| Nombre     | Heavy Slam                                                                       |
+| ---------- | -------------------------------------------------------------------------------- |
+| Japonés    | ヘビーボンバー                                                                          |
+| Tipo       | Acero                                                                            |
+| Código     | STW08-006                                                                        |
+| Pokémon    | Metagross                                                                        |
+| Energía    | {M}{M}{M}{M}                                                                     |
+| Daño       | 40                                                                               |
+| Efecto     |                                                                                  |
+| De pie     | Este ataque hace 40 puntos de daño más.                          |
+| Pino       | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De espalda | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| Boca abajo | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De lado    | Este ataque hace 40 puntos de daño más.                          |
 
 [Heavy Slam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard06.webp)
 

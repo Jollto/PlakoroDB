@@ -146,11 +146,11 @@
 | Energía    | {D}{D}{D}                                                       |
 | Daño       | 20                                                              |
 | Efecto     |                                                                 |
-| De pie     | This attack does 40 more damage.                |
+| De pie     | Este ataque hace 40 puntos de daño más.         |
 | Pino       | Este Pokémon también se hace 20 puntos de daño. |
 | De espalda | Este Pokémon también se hace 20 puntos de daño. |
 | Boca abajo | Este Pokémon también se hace 20 puntos de daño. |
-| De lado    | This attack does 40 more damage.                |
+| De lado    | Este ataque hace 40 puntos de daño más.         |
 
 [Sludge Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard09.webp)
 

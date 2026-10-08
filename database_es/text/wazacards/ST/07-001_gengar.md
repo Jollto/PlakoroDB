@@ -61,20 +61,20 @@
 
 #### Shadow Bind
 
-| Nombre     | Shadow Bind                                                                     |
-| ---------- | ------------------------------------------------------------------------------- |
-| Japonés    | かげしばり                                                                           |
-| Tipo       | Siniestro                                                                       |
-| Código     | STW07-004                                                                       |
-| Pokémon    | Gengar                                                                          |
-| Energía    | {D}{D}{D}                                                                       |
-| Daño       | 30                                                                              |
-| Efecto     |                                                                                 |
-| De pie     | On your opponent's next turn, they cannot roll their Charakoro. |
-| Pino       |                                                                                 |
-| De espalda | On your opponent's next turn, they cannot roll their Charakoro. |
-| Boca abajo |                                                                                 |
-| De lado    | On your opponent's next turn, they cannot roll their Charakoro. |
+| Nombre     | Shadow Bind                                                                      |
+| ---------- | -------------------------------------------------------------------------------- |
+| Japonés    | かげしばり                                                                            |
+| Tipo       | Siniestro                                                                        |
+| Código     | STW07-004                                                                        |
+| Pokémon    | Gengar                                                                           |
+| Energía    | {D}{D}{D}                                                                        |
+| Daño       | 30                                                                               |
+| Efecto     |                                                                                  |
+| De pie     | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
+| Pino       |                                                                                  |
+| De espalda | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
+| Boca abajo |                                                                                  |
+| De lado    | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
 
 [Shadow Bind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard04.webp)
 

@@ -99,20 +99,20 @@
 
 #### Hurricane Tail
 
-| Nombre     | Hurricane Tail                                                                                           |
-| ---------- | -------------------------------------------------------------------------------------------------------- |
-| Japonés    | ハリケーンテール                                                                                                 |
-| Tipo       | Lightning                                                                                                |
-| Código     | STW11-006                                                                                                |
-| Pokémon    | Dragonite                                                                                                |
-| Energía    | {L}{L}{C}{C}                                                                                             |
-| Daño       | 20                                                                                                       |
-| Efecto     | Roll your Charakoro 3 times.                                                             |
-| De pie     | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| Pino       |                                                                                                          |
-| De espalda |                                                                                                          |
-| Boca abajo |                                                                                                          |
-| De lado    | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
+| Nombre     | Hurricane Tail                                                                                                 |
+| ---------- | -------------------------------------------------------------------------------------------------------------- |
+| Japonés    | ハリケーンテール                                                                                                       |
+| Tipo       | Lightning                                                                                                      |
+| Código     | STW11-006                                                                                                      |
+| Pokémon    | Dragonite                                                                                                      |
+| Energía    | {L}{L}{C}{C}                                                                                                   |
+| Daño       | 20                                                                                                             |
+| Efecto     | Tira tu Charakoro 3 veces.                                                                     |
+| De pie     | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 20 puntos de daño más. |
+| Pino       |                                                                                                                |
+| De espalda |                                                                                                                |
+| Boca abajo |                                                                                                                |
+| De lado    | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 20 puntos de daño más. |
 
 [Hurricane Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard06.webp)
 

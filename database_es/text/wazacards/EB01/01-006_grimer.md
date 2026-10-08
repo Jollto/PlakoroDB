@@ -4,20 +4,20 @@
 
 #### Poison Gas
 
-| Nombre     | Poison Gas                                                                                |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| Japonés    | どくガス                                                                                      |
-| Tipo       | Siniestro                                                                                 |
-| Código     | EBW01-051                                                                                 |
-| Pokémon    | Grimer                                                                                    |
-| Energía    | {D}                                                                                       |
-| Daño       | 10                                                                                        |
-| Efecto     |                                                                                           |
-| De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Pino       |                                                                                           |
-| De espalda |                                                                                           |
-| Boca abajo |                                                                                           |
-| De lado    | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Nombre     | Poison Gas                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------- |
+| Japonés    | どくガス                                                                                        |
+| Tipo       | Siniestro                                                                                   |
+| Código     | EBW01-051                                                                                   |
+| Pokémon    | Grimer                                                                                      |
+| Energía    | {D}                                                                                         |
+| Daño       | 10                                                                                          |
+| Efecto     |                                                                                             |
+| De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
+| Pino       |                                                                                             |
+| De espalda |                                                                                             |
+| Boca abajo |                                                                                             |
+| De lado    | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
 
 [Poison Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard01.webp)
 

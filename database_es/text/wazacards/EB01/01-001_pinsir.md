@@ -4,20 +4,20 @@
 
 #### Concentrar ?
 
-| Nombre     | Concentrar ?                                                                              |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| Japonés    | しゅうちゅう                                                                                    |
-| Tipo       | Planta                                                                                    |
-| Código     | EBW01-001                                                                                 |
-| Pokémon    | Pinsir                                                                                    |
-| Energía    | {G}                                                                                       |
-| Daño       |                                                                                           |
-| Efecto     |                                                                                           |
-| De pie     | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
-| Pino       |                                                                                           |
-| De espalda |                                                                                           |
-| Boca abajo |                                                                                           |
-| De lado    | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
+| Nombre     | Concentrar ?                                                                         |
+| ---------- | ------------------------------------------------------------------------------------ |
+| Japonés    | しゅうちゅう                                                                               |
+| Tipo       | Planta                                                                               |
+| Código     | EBW01-001                                                                            |
+| Pokémon    | Pinsir                                                                               |
+| Energía    | {G}                                                                                  |
+| Daño       |                                                                                      |
+| Efecto     |                                                                                      |
+| De pie     | En tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
+| Pino       |                                                                                      |
+| De espalda |                                                                                      |
+| Boca abajo |                                                                                      |
+| De lado    | En tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
 
 [Concentrar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
@@ -99,20 +99,20 @@
 
 #### Scissors Charge ?
 
-| Nombre     | Scissors Charge ?                                                                         |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| Japonés    | チャージばさみ                                                                                   |
-| Tipo       | Planta                                                                                    |
-| Código     | EBW01-006                                                                                 |
-| Pokémon    | Pinsir                                                                                    |
-| Energía    | {G}{G}                                                                                    |
-| Daño       | 20                                                                                        |
-| Efecto     |                                                                                           |
-| De pie     | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
-| Pino       |                                                                                           |
-| De espalda | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
-| Boca abajo |                                                                                           |
-| De lado    |                                                                                           |
+| Nombre     | Scissors Charge ?                                                                    |
+| ---------- | ------------------------------------------------------------------------------------ |
+| Japonés    | チャージばさみ                                                                              |
+| Tipo       | Planta                                                                               |
+| Código     | EBW01-006                                                                            |
+| Pokémon    | Pinsir                                                                               |
+| Energía    | {G}{G}                                                                               |
+| Daño       | 20                                                                                   |
+| Efecto     |                                                                                      |
+| De pie     | En tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
+| Pino       |                                                                                      |
+| De espalda | En tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
+| Boca abajo |                                                                                      |
+| De lado    |                                                                                      |
 
 [Scissors Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 

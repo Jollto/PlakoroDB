@@ -133,7 +133,7 @@
 | Down      |                                                                                      |
 | Sideways  | During your last turn, if your Enekoro roll failed, this attack does 40 more damage. |
 
-[Pincer Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
+[Berserk Swing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
 
 #### Reckless Charge
 

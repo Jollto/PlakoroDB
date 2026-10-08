@@ -23,20 +23,20 @@
 
 #### Endure ?
 
-| Nombre     | Endure ?                                                                                                             |
-| ---------- | -------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | たえる                                                                                                                  |
-| Tipo       | Planta                                                                                                               |
-| Código     | EBW01-002                                                                                                            |
-| Pokémon    | Pinsir                                                                                                               |
-| Energía    | {G}{G}                                                                                                               |
-| Daño       |                                                                                                                      |
-| Efecto     | Durante el próximo turno de tu oponente, este Pokémon recibe 20 puntos menos de daño de los ataques. |
-| De pie     | Reduce el daño recibido en 20 puntos adicionales.                                                    |
-| Pino       |                                                                                                                      |
-| De espalda | Reduce el daño recibido en 20 puntos adicionales.                                                    |
-| Boca abajo | Reduce el daño recibido en 20 puntos adicionales.                                                    |
-| De lado    |                                                                                                                      |
+| Nombre     | Endure ?                                                                                                          |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| Japonés    | たえる                                                                                                               |
+| Tipo       | Planta                                                                                                            |
+| Código     | EBW01-002                                                                                                         |
+| Pokémon    | Pinsir                                                                                                            |
+| Energía    | {G}{G}                                                                                                            |
+| Daño       |                                                                                                                   |
+| Efecto     | Durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
+| De pie     | Reduce el daño recibido en 20 puntos adicionales.                                                 |
+| Pino       |                                                                                                                   |
+| De espalda | Reduce el daño recibido en 20 puntos adicionales.                                                 |
+| Boca abajo | Reduce el daño recibido en 20 puntos adicionales.                                                 |
+| De lado    |                                                                                                                   |
 
 [Endure](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 

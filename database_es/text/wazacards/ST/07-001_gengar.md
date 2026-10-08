@@ -139,19 +139,19 @@
 
 #### Night Lock ?
 
-| Nombre     | Night Lock ?                                                                              |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| Japonés    | ナイトロック                                                                                    |
-| Tipo       | Siniestro                                                                                 |
-| Código     | PRW02-1-08                                                                                |
-| Pokémon    | Gengar                                                                                    |
-| Energía    | {D}{D}{D}{D}                                                                              |
-| Daño       | 30                                                                                        |
-| Efecto     |                                                                                           |
-| De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
-| Pino       |                                                                                           |
-| De espalda |                                                                                           |
-| Boca abajo |                                                                                           |
-| De lado    |                                                                                           |
+| Nombre     | Night Lock ?                                                                                |
+| ---------- | ------------------------------------------------------------------------------------------- |
+| Japonés    | ナイトロック                                                                                      |
+| Tipo       | Siniestro                                                                                   |
+| Código     | PRW02-1-08                                                                                  |
+| Pokémon    | Gengar                                                                                      |
+| Energía    | {D}{D}{D}{D}                                                                                |
+| Daño       | 30                                                                                          |
+| Efecto     |                                                                                             |
+| De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 2. |
+| Pino       |                                                                                             |
+| De espalda |                                                                                             |
+| Boca abajo |                                                                                             |
+| De lado    |                                                                                             |
 
 [Night Lock](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img03.webp)

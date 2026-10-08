@@ -42,26 +42,26 @@
 
 #### Electrofuria ?
 
-| Nombre     | Electrofuria ?                                                                                           |
-| ---------- | -------------------------------------------------------------------------------------------------------- |
-| Japonés    | ボルトラッシュ                                                                                                  |
-| Tipo       | Eléctrico                                                                                                |
-| Código     | EBW01-033                                                                                                |
-| Pokémon    | Zapdos                                                                                                   |
-| Energía    | {L}{L}{L}{L}                                                                                             |
-| Daño       | 10                                                                                                       |
-| Efecto     | Roll your Charakoro 3 times.                                                             |
-| De pie     | Each time the Charakoro roll succeeds with this attack, this attack does 30 more damage. |
-| Pino       |                                                                                                          |
-| De espalda |                                                                                                          |
-| Boca abajo |                                                                                                          |
-| De lado    | Each time the Charakoro roll succeeds with this attack, this attack does 30 more damage. |
+| Nombre     | Electrofuria ?                                                                                                 |
+| ---------- | -------------------------------------------------------------------------------------------------------------- |
+| Japonés    | ボルトラッシュ                                                                                                        |
+| Tipo       | Eléctrico                                                                                                      |
+| Código     | EBW01-033                                                                                                      |
+| Pokémon    | Zapdos                                                                                                         |
+| Energía    | {L}{L}{L}{L}                                                                                                   |
+| Daño       | 10                                                                                                             |
+| Efecto     | Tira tu Charakoro 3 veces.                                                                     |
+| De pie     | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 30 puntos de daño más. |
+| Pino       |                                                                                                                |
+| De espalda |                                                                                                                |
+| Boca abajo |                                                                                                                |
+| De lado    | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 30 puntos de daño más. |
 
-[Volt Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard03.webp)
+[Electrofuria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard03.webp)
 
-#### Aerial Ace
+#### Golpe Aéreo
 
-| Nombre     | Aerial Ace                                              |
+| Nombre     | Golpe Aéreo                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | つばめがえし                                                  |
 | Tipo       | Volador                                                 |
@@ -76,11 +76,11 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Aerial Ace](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard04.webp)
+[Golpe Aéreo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard04.webp)
 
-#### Crushing Wing ?
+#### Ala Trituradora ?
 
-| Nombre     | Crushing Wing ?                                         |
+| Nombre     | Ala Trituradora ?                                       |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | バリバリウイング                                                |
 | Tipo       | Volador                                                 |
@@ -95,30 +95,30 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 40 puntos de daño más. |
 
-[Crushing Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
+[Ala Trituradora](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
 
-#### Dual Thunder ?
+#### Doble Trueno ?
 
-| Nombre     | Dual Thunder ?                                                                                           |
-| ---------- | -------------------------------------------------------------------------------------------------------- |
-| Japonés    | ダブルサンダー                                                                                                  |
-| Tipo       | Eléctrico                                                                                                |
-| Código     | EBW01-036                                                                                                |
-| Pokémon    | Zapdos                                                                                                   |
-| Energía    | {L}                                                                                                      |
-| Daño       |                                                                                                          |
-| Efecto     | Roll your Charakoro 2 times.                                                             |
-| De pie     | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| Pino       |                                                                                                          |
-| De espalda | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| Boca abajo | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| De lado    |                                                                                                          |
+| Nombre     | Doble Trueno ?                                                                                                 |
+| ---------- | -------------------------------------------------------------------------------------------------------------- |
+| Japonés    | ダブルサンダー                                                                                                        |
+| Tipo       | Eléctrico                                                                                                      |
+| Código     | EBW01-036                                                                                                      |
+| Pokémon    | Zapdos                                                                                                         |
+| Energía    | {L}                                                                                                            |
+| Daño       |                                                                                                                |
+| Efecto     | Tira tu Charakoro 2 veces.                                                                     |
+| De pie     | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 20 puntos de daño más. |
+| Pino       |                                                                                                                |
+| De espalda | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 20 puntos de daño más. |
+| Boca abajo | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 20 puntos de daño más. |
+| De lado    |                                                                                                                |
 
-[Dual Thunder](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard06.webp)
+[Doble Trueno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard06.webp)
 
-#### Electroarrow ?
+#### Electroflecha ?
 
-| Nombre     | Electroarrow ?                                          |
+| Nombre     | Electroflecha ?                                         |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | エレキアロー                                                  |
 | Tipo       | Eléctrico                                               |
@@ -133,11 +133,11 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Electroarrow](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard07.webp)
+[Electroflecha](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard07.webp)
 
-#### Discharge
+#### Chispazo
 
-| Nombre     | Discharge                                               |
+| Nombre     | Chispazo                                                |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ほうでん                                                    |
 | Tipo       | Eléctrico                                               |
@@ -152,26 +152,26 @@
 | Boca abajo | Este ataque hace 20 puntos de daño más. |
 | De lado    |                                                         |
 
-[Discharge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard08.webp)
+[Chispazo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard08.webp)
 
-#### Thunder Chain ?
+#### Cadena de Rayos ?
 
-| Nombre     | Thunder Chain ?                                                                                                                                                     |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | サンダーチェイン                                                                                                                                                            |
-| Tipo       | Eléctrico                                                                                                                                                           |
-| Código     | EBW01-039                                                                                                                                                           |
-| Pokémon    | Zapdos                                                                                                                                                              |
-| Energía    | {L}{L}{L}{L}                                                                                                                                                        |
-| Daño       | 30                                                                                                                                                                  |
-| Efecto     |                                                                                                                                                                     |
-| De pie     | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Can be repeated until it fails.) |
-| Pino       |                                                                                                                                                                     |
-| De espalda | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Can be repeated until it fails.) |
-| Boca abajo | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Can be repeated until it fails.) |
-| De lado    |                                                                                                                                                                     |
+| Nombre     | Cadena de Rayos ?                                                                                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | サンダーチェイン                                                                                                                                                             |
+| Tipo       | Eléctrico                                                                                                                                                            |
+| Código     | EBW01-039                                                                                                                                                            |
+| Pokémon    | Zapdos                                                                                                                                                               |
+| Energía    | {L}{L}{L}{L}                                                                                                                                                         |
+| Daño       | 30                                                                                                                                                                   |
+| Efecto     |                                                                                                                                                                      |
+| De pie     | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Puede repetirse hasta que falle.) |
+| Pino       |                                                                                                                                                                      |
+| De espalda | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Puede repetirse hasta que falle.) |
+| Boca abajo | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Puede repetirse hasta que falle.) |
+| De lado    |                                                                                                                                                                      |
 
-[Thunder Chain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
+[Cadena de Rayos](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
 
 #### Vuelo
 

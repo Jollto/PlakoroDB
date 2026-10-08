@@ -116,22 +116,22 @@
 
 [Volt Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard06.webp)
 
-#### Iron Tail
+#### Cola Férrea
 
-| Nombre     | Iron Tail                                                                                                            |
-| ---------- | -------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | アイアンテール                                                                                                              |
-| Tipo       | Acero                                                                                                                |
-| Código     | STW04-007                                                                                                            |
-| Pokémon    | Pikachu                                                                                                              |
-| Energía    | {M}                                                                                                                  |
-| Daño       | 20                                                                                                                   |
-| Efecto     |                                                                                                                      |
-| De pie     | Durante el próximo turno de tu oponente, este Pokémon recibe 10 puntos menos de daño de los ataques. |
-| Pino       |                                                                                                                      |
-| De espalda | Durante el próximo turno de tu oponente, este Pokémon recibe 10 puntos menos de daño de los ataques. |
-| Boca abajo | Durante el próximo turno de tu oponente, este Pokémon recibe 10 puntos menos de daño de los ataques. |
-| De lado    |                                                                                                                      |
+| Nombre     | Cola Férrea                                                                                                       |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| Japonés    | アイアンテール                                                                                                           |
+| Tipo       | Acero                                                                                                             |
+| Código     | STW04-007                                                                                                         |
+| Pokémon    | Pikachu                                                                                                           |
+| Energía    | {M}                                                                                                               |
+| Daño       | 20                                                                                                                |
+| Efecto     |                                                                                                                   |
+| De pie     | Durante el próximo turno de tu rival, este Pokémon recibe 10 puntos menos de daño de los ataques. |
+| Pino       |                                                                                                                   |
+| De espalda | Durante el próximo turno de tu rival, este Pokémon recibe 10 puntos menos de daño de los ataques. |
+| Boca abajo | Durante el próximo turno de tu rival, este Pokémon recibe 10 puntos menos de daño de los ataques. |
+| De lado    |                                                                                                                   |
 
 [Iron Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
 

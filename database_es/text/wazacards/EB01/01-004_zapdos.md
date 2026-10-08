@@ -1,10 +1,10 @@
-## Zapdos Cards
+## Cartas de Zapdos
 
 ### Caja de Exploración 1
 
-#### Thunder Flash ?
+#### Trueno Destello ?
 
-| Nombre     | Thunder Flash ?                                         |
+| Nombre     | Trueno Destello ?                                       |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | でんじフラッシュ                                                |
 | Tipo       | Eléctrico                                               |
@@ -19,11 +19,11 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Thunder Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
+[Trueno Destello](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
 
-#### Thunder Shock
+#### Impactrueno
 
-| Nombre     | Thunder Shock                                           |
+| Nombre     | Impactrueno                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | でんきショック                                                 |
 | Tipo       | Eléctrico                                               |
@@ -38,11 +38,11 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 10 puntos de daño más. |
 
-[Thunder Shock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard02.webp)
+[Impactrueno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard02.webp)
 
-#### Volt Rush ?
+#### Electrofuria ?
 
-| Nombre     | Volt Rush ?                                                                                              |
+| Nombre     | Electrofuria ?                                                                                           |
 | ---------- | -------------------------------------------------------------------------------------------------------- |
 | Japonés    | ボルトラッシュ                                                                                                  |
 | Tipo       | Eléctrico                                                                                                |
@@ -190,4 +190,4 @@
 | Boca abajo | Este ataque no hace nada.                                                            |
 | De lado    | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. |
 
-[Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)
+[Vuelo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

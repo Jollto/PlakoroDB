@@ -42,20 +42,20 @@
 
 #### Electrofuria ?
 
-| Nombre     | Electrofuria ?                                                                                                 |
-| ---------- | -------------------------------------------------------------------------------------------------------------- |
-| Japonés    | ボルトラッシュ                                                                                                        |
-| Tipo       | Eléctrico                                                                                                      |
-| Código     | EBW01-033                                                                                                      |
-| Pokémon    | Zapdos                                                                                                         |
-| Energía    | {L}{L}{L}{L}                                                                                                   |
-| Daño       | 10                                                                                                             |
-| Efecto     | Tira tu Charakoro 3 veces.                                                                     |
-| De pie     | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 30 puntos de daño más. |
-| Pino       |                                                                                                                |
-| De espalda |                                                                                                                |
-| Boca abajo |                                                                                                                |
-| De lado    | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 30 puntos de daño más. |
+| Nombre     | Electrofuria ?                                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------------------------ |
+| Japonés    | ボルトラッシュ                                                                                                      |
+| Tipo       | Eléctrico                                                                                                    |
+| Código     | EBW01-033                                                                                                    |
+| Pokémon    | Zapdos                                                                                                       |
+| Energía    | {L}{L}{L}{L}                                                                                                 |
+| Daño       | 10                                                                                                           |
+| Efecto     | Tira tu Charakoro 3 veces.                                                                   |
+| De pie     | Cada vez que el Charakoro caiga bien en este ataque, este ataque hace 30 puntos de daño más. |
+| Pino       |                                                                                                              |
+| De espalda |                                                                                                              |
+| Boca abajo |                                                                                                              |
+| De lado    | Cada vez que el Charakoro caiga bien en este ataque, este ataque hace 30 puntos de daño más. |
 
 [Electrofuria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard03.webp)
 
@@ -156,20 +156,20 @@
 
 #### Cadena de Rayos ?
 
-| Nombre     | Cadena de Rayos ?                                                                                                                                                    |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | サンダーチェイン                                                                                                                                                             |
-| Tipo       | Eléctrico                                                                                                                                                            |
-| Código     | EBW01-039                                                                                                                                                            |
-| Pokémon    | Zapdos                                                                                                                                                               |
-| Energía    | {L}{L}{L}{L}                                                                                                                                                         |
-| Daño       | 30                                                                                                                                                                   |
-| Efecto     |                                                                                                                                                                      |
-| De pie     | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Puede repetirse hasta que falle.) |
-| Pino       |                                                                                                                                                                      |
-| De espalda | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Puede repetirse hasta que falle.) |
-| Boca abajo | Este ataque hace 30 puntos de daño más. Reroll your Charakoro. (Puede repetirse hasta que falle.) |
-| De lado    |                                                                                                                                                                      |
+| Nombre     | Cadena de Rayos ?                                                                                                                                                          |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | サンダーチェイン                                                                                                                                                                   |
+| Tipo       | Eléctrico                                                                                                                                                                  |
+| Código     | EBW01-039                                                                                                                                                                  |
+| Pokémon    | Zapdos                                                                                                                                                                     |
+| Energía    | {L}{L}{L}{L}                                                                                                                                                               |
+| Daño       | 30                                                                                                                                                                         |
+| Efecto     |                                                                                                                                                                            |
+| De pie     | Este ataque hace 30 puntos de daño más. Vuelve a tirar tu Charakoro. (Puede repetirse hasta que falle.) |
+| Pino       |                                                                                                                                                                            |
+| De espalda | Este ataque hace 30 puntos de daño más. Vuelve a tirar tu Charakoro. (Puede repetirse hasta que falle.) |
+| Boca abajo | Este ataque hace 30 puntos de daño más. Vuelve a tirar tu Charakoro. (Puede repetirse hasta que falle.) |
+| De lado    |                                                                                                                                                                            |
 
 [Cadena de Rayos](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
 

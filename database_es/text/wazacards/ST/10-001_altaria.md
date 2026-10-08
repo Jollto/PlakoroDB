@@ -78,22 +78,22 @@
 
 [Aerial Ace](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard04.webp)
 
-#### Fly
+#### Vuelo
 
-| Nombre     | Fly                                                                                                                                                                            |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japonés    | そらをとぶ                                                                                                                                                                          |
-| Tipo       | Volador                                                                                                                                                                        |
-| Código     | STW10-005                                                                                                                                                                      |
-| Pokémon    | Altaria                                                                                                                                                                        |
-| Energía    | {Y}{Y}{Y}                                                                                                                                                                      |
-| Daño       | 40                                                                                                                                                                             |
-| Efecto     |                                                                                                                                                                                |
-| De pie     | During your opponent's next turn, this Pokémon doesn't take damage from attacks. (You are still affected by other effects.) |
-| Pino       | Este ataque no hace nada.                                                                                                                                      |
-| De espalda | Este ataque no hace nada.                                                                                                                                      |
-| Boca abajo | Este ataque no hace nada.                                                                                                                                      |
-| De lado    | During your opponent's next turn, this Pokémon doesn't take damage from attacks. (You are still affected by other effects.) |
+| Nombre     | Vuelo                                                                                                                                                                              |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | そらをとぶ                                                                                                                                                                              |
+| Tipo       | Volador                                                                                                                                                                            |
+| Código     | STW10-005                                                                                                                                                                          |
+| Pokémon    | Altaria                                                                                                                                                                            |
+| Energía    | {Y}{Y}{Y}                                                                                                                                                                          |
+| Daño       | 40                                                                                                                                                                                 |
+| Efecto     |                                                                                                                                                                                    |
+| De pie     | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. (You are still affected by other effects.) |
+| Pino       | Este ataque no hace nada.                                                                                                                                          |
+| De espalda | Este ataque no hace nada.                                                                                                                                          |
+| Boca abajo | Este ataque no hace nada.                                                                                                                                          |
+| De lado    | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. (You are still affected by other effects.) |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
 

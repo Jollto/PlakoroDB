@@ -1,10 +1,10 @@
-### Pikachu Cards
+### Cartas de Pikachu
 
 ### Set de Inicio
 
-#### Gnaw
+#### Roer
 
-| Nombre     | Gnaw                                                    |
+| Nombre     | Roer                                                    |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | かじる                                                     |
 | Tipo       | Eléctrico                                               |

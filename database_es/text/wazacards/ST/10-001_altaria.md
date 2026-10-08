@@ -90,29 +90,29 @@
 | Daño       | 40                                                                                                                                                                             |
 | Efecto     |                                                                                                                                                                                |
 | De pie     | During your opponent's next turn, this Pokémon doesn't take damage from attacks. (You are still affected by other effects.) |
-| Pino       | This attack does nothing.                                                                                                                                      |
-| De espalda | This attack does nothing.                                                                                                                                      |
-| Boca abajo | This attack does nothing.                                                                                                                                      |
+| Pino       | Este ataque no hace nada.                                                                                                                                      |
+| De espalda | Este ataque no hace nada.                                                                                                                                      |
+| Boca abajo | Este ataque no hace nada.                                                                                                                                      |
 | De lado    | During your opponent's next turn, this Pokémon doesn't take damage from attacks. (You are still affected by other effects.) |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
 
 #### Sky Attack
 
-| Nombre     | Sky Attack                                                                     |
-| ---------- | ------------------------------------------------------------------------------ |
-| Japonés    | ゴッドバード                                                                         |
-| Tipo       | Volador                                                                        |
-| Código     | STW10-006                                                                      |
-| Pokémon    | Altaria                                                                        |
-| Energía    | {Y}{Y}{Y}{Y}                                                                   |
-| Daño       | 30                                                                             |
-| Efecto     |                                                                                |
-| De pie     | This attack does 50 more damage.                               |
-| Pino       | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De espalda | This attack does 50 more damage.                               |
-| Boca abajo | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De lado    |                                                                                |
+| Nombre     | Sky Attack                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Japonés    | ゴッドバード                                                                                |
+| Tipo       | Volador                                                                               |
+| Código     | STW10-006                                                                             |
+| Pokémon    | Altaria                                                                               |
+| Energía    | {Y}{Y}{Y}{Y}                                                                          |
+| Daño       | 30                                                                                    |
+| Efecto     |                                                                                       |
+| De pie     | This attack does 50 more damage.                                      |
+| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De espalda | This attack does 50 more damage.                                      |
+| Boca abajo | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De lado    |                                                                                       |
 
 [Sky Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard06.webp)
 

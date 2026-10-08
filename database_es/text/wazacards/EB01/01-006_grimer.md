@@ -99,20 +99,20 @@
 
 #### Venom Slip ?
 
-| Nombre     | Venom Slip ?                                                                                                                    |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | ベノムスリップ                                                                                                                         |
-| Tipo       | Siniestro                                                                                                                       |
-| Código     | EBW01-057                                                                                                                       |
-| Pokémon    | Grimer                                                                                                                          |
-| Energía    | {D}{D}                                                                                                                          |
-| Daño       | 20                                                                                                                              |
-| Efecto     |                                                                                                                                 |
-| De pie     | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
-| Pino       |                                                                                                                                 |
-| De espalda | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
-| Boca abajo |                                                                                                                                 |
-| De lado    | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
+| Nombre     | Venom Slip ?                                                                                                                 |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | ベノムスリップ                                                                                                                      |
+| Tipo       | Siniestro                                                                                                                    |
+| Código     | EBW01-057                                                                                                                    |
+| Pokémon    | Grimer                                                                                                                       |
+| Energía    | {D}{D}                                                                                                                       |
+| Daño       | 20                                                                                                                           |
+| Efecto     |                                                                                                                              |
+| De pie     | Tu oponente también tira su Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
+| Pino       |                                                                                                                              |
+| De espalda | Tu oponente también tira su Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
+| Boca abajo |                                                                                                                              |
+| De lado    | Tu oponente también tira su Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
 
 [Venom Slip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard07.webp)
 

@@ -23,20 +23,20 @@
 
 #### Force Palm
 
-| Nombre     | Force Palm                                                                                |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| Japonés    | はっけい                                                                                      |
-| Tipo       | Lucha                                                                                     |
-| Código     | STW09-002                                                                                 |
-| Pokémon    | Lucario                                                                                   |
-| Energía    | {F}{F}                                                                                    |
-| Daño       | 20                                                                                        |
-| Efecto     |                                                                                           |
-| De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Pino       |                                                                                           |
-| De espalda | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Boca abajo |                                                                                           |
-| De lado    |                                                                                           |
+| Nombre     | Force Palm                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------- |
+| Japonés    | はっけい                                                                                        |
+| Tipo       | Lucha                                                                                       |
+| Código     | STW09-002                                                                                   |
+| Pokémon    | Lucario                                                                                     |
+| Energía    | {F}{F}                                                                                      |
+| Daño       | 20                                                                                          |
+| Efecto     |                                                                                             |
+| De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
+| Pino       |                                                                                             |
+| De espalda | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
+| Boca abajo |                                                                                             |
+| De lado    |                                                                                             |
 
 [Force Palm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard02.webp)
 

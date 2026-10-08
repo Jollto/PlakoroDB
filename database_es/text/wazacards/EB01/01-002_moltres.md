@@ -154,40 +154,40 @@
 
 [Llama Final](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard08.webp)
 
-#### Wing Rush ?
+#### Ala Rápida ?
 
-| Nombre     | Wing Rush ?                                      |
-| ---------- | ------------------------------------------------ |
-| Japonés    | ウイングラッシュ                                         |
-| Tipo       | Volador                                          |
-| Código     | EBW01-019                                        |
-| Pokémon    | Moltres                                          |
-| Energía    | {Y}                                              |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 10 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 10 more damage. |
-| Boca abajo |                                                  |
-| De lado    | This attack does 10 more damage. |
+| Nombre     | Ala Rápida ?                                            |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ウイングラッシュ                                                |
+| Tipo       | Volador                                                 |
+| Código     | EBW01-019                                               |
+| Pokémon    | Moltres                                                 |
+| Energía    | {Y}                                                     |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 10 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 10 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 10 puntos de daño más. |
 
-[Wing Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard09.webp)
+[Ala Rápida](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard09.webp)
 
-#### Fly
+#### Vuelo
 
-| Nombre     | Fly                                                                                              |
-| ---------- | ------------------------------------------------------------------------------------------------ |
-| Japonés    | そらをとぶ                                                                                            |
-| Tipo       | Volador                                                                                          |
-| Código     | EBW01-020                                                                                        |
-| Pokémon    | Moltres                                                                                          |
-| Energía    | {Y}{C}{C}                                                                                        |
-| Daño       | 30                                                                                               |
-| Efecto     |                                                                                                  |
-| De pie     | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
-| Pino       | Este ataque no hace nada.                                                        |
-| De espalda | Este ataque no hace nada.                                                        |
-| Boca abajo | Este ataque no hace nada.                                                        |
-| De lado    | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
+| Nombre     | Vuelo                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------- |
+| Japonés    | そらをとぶ                                                                                                |
+| Tipo       | Volador                                                                                              |
+| Código     | EBW01-020                                                                                            |
+| Pokémon    | Moltres                                                                                              |
+| Energía    | {Y}{C}{C}                                                                                            |
+| Daño       | 30                                                                                                   |
+| Efecto     |                                                                                                      |
+| De pie     | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. |
+| Pino       | Este ataque no hace nada.                                                            |
+| De espalda | Este ataque no hace nada.                                                            |
+| Boca abajo | Este ataque no hace nada.                                                            |
+| De lado    | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. |
 
-[Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard10.webp)
+[Vuelo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard10.webp)

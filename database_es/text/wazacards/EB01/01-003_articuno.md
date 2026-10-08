@@ -185,9 +185,9 @@
 | Daño       | 30                                                                                               |
 | Efecto     |                                                                                                  |
 | De pie     | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
-| Pino       | This attack does nothing.                                                        |
-| De espalda | This attack does nothing.                                                        |
-| Boca abajo | This attack does nothing.                                                        |
+| Pino       | Este ataque no hace nada.                                                        |
+| De espalda | Este ataque no hace nada.                                                        |
+| Boca abajo | Este ataque no hace nada.                                                        |
 | De lado    | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

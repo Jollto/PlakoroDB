@@ -59,9 +59,9 @@
 
 [Roost](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard03.webp)
 
-#### Aerial Ace
+#### Golpe Aéreo
 
-| Nombre     | Aerial Ace                                              |
+| Nombre     | Golpe Aéreo                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | つばめがえし                                                  |
 | Tipo       | Volador                                                 |

@@ -21,9 +21,9 @@
 
 [Gnaw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard01.webp)
 
-#### Thunder Shock
+#### Impactrueno
 
-| Nombre     | Thunder Shock                                           |
+| Nombre     | Impactrueno                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | でんきショック                                                 |
 | Tipo       | Eléctrico                                               |
@@ -61,20 +61,20 @@
 
 #### Thunderbolt
 
-| Nombre     | Thunderbolt                                                                           |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Japonés    | 10まんボルト                                                                               |
-| Tipo       | Eléctrico                                                                             |
-| Código     | STW04-004                                                                             |
-| Pokémon    | Pikachu                                                                               |
-| Energía    | {L}{L}{L}                                                                             |
-| Daño       | 30                                                                                    |
-| Efecto     |                                                                                       |
-| De pie     | Este ataque hace 30 puntos de daño más.                               |
-| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De espalda | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| Boca abajo | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De lado    | Este ataque hace 20 puntos de daño más.                               |
+| Nombre     | Thunderbolt                                                                      |
+| ---------- | -------------------------------------------------------------------------------- |
+| Japonés    | 10まんボルト                                                                          |
+| Tipo       | Eléctrico                                                                        |
+| Código     | STW04-004                                                                        |
+| Pokémon    | Pikachu                                                                          |
+| Energía    | {L}{L}{L}                                                                        |
+| Daño       | 30                                                                               |
+| Efecto     |                                                                                  |
+| De pie     | Este ataque hace 30 puntos de daño más.                          |
+| Pino       | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De espalda | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| Boca abajo | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De lado    | Este ataque hace 20 puntos de daño más.                          |
 
 [Thunderbolt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard04.webp)
 

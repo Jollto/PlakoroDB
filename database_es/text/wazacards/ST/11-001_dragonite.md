@@ -4,20 +4,20 @@
 
 #### Dragon Pulse
 
-| Nombre     | Dragon Pulse                                                                   |
-| ---------- | ------------------------------------------------------------------------------ |
-| Japonés    | りゅうのはどう                                                                        |
-| Tipo       | Dragón                                                                         |
-| Código     | STW11-001                                                                      |
-| Pokémon    | Dragonite                                                                      |
-| Energía    | {W}{L}                                                                         |
-| Daño       | 20                                                                             |
-| Efecto     |                                                                                |
-| De pie     | Este ataque hace 30 puntos de daño más.                        |
-| Pino       | On your next turn, reduce the number of Enekoro you roll by 1. |
-| De espalda | Este ataque hace 30 puntos de daño más.                        |
-| Boca abajo | On your next turn, reduce the number of Enekoro you roll by 1. |
-| De lado    |                                                                                |
+| Nombre     | Dragon Pulse                                                                     |
+| ---------- | -------------------------------------------------------------------------------- |
+| Japonés    | りゅうのはどう                                                                          |
+| Tipo       | Dragón                                                                           |
+| Código     | STW11-001                                                                        |
+| Pokémon    | Dragonite                                                                        |
+| Energía    | {W}{L}                                                                           |
+| Daño       | 20                                                                               |
+| Efecto     |                                                                                  |
+| De pie     | Este ataque hace 30 puntos de daño más.                          |
+| Pino       | En tu próximo turno, reduce el número de Enekoro que tiras en 1. |
+| De espalda | Este ataque hace 30 puntos de daño más.                          |
+| Boca abajo | En tu próximo turno, reduce el número de Enekoro que tiras en 1. |
+| De lado    |                                                                                  |
 
 [Dragon Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard01.webp)
 

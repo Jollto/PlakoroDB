@@ -80,20 +80,20 @@
 
 #### Scale Press ?
 
-| Nombre     | Scale Press ?                                                                                     |
-| ---------- | ------------------------------------------------------------------------------------------------- |
-| Japonés    | スケイルプレス                                                                                           |
-| Tipo       | Agua                                                                                              |
-| Código     | STW11-005                                                                                         |
-| Pokémon    | Dragonite                                                                                         |
-| Energía    | {W}{W}{C}{C}                                                                                      |
-| Daño       | 30                                                                                                |
-| Efecto     |                                                                                                   |
-| De pie     | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
-| Pino       |                                                                                                   |
-| De espalda | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
-| Boca abajo |                                                                                                   |
-| De lado    |                                                                                                   |
+| Nombre     | Scale Press ?                                                                                                     |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| Japonés    | スケイルプレス                                                                                                           |
+| Tipo       | Agua                                                                                                              |
+| Código     | STW11-005                                                                                                         |
+| Pokémon    | Dragonite                                                                                                         |
+| Energía    | {W}{W}{C}{C}                                                                                                      |
+| Daño       | 30                                                                                                                |
+| Efecto     |                                                                                                                   |
+| De pie     | Durante el próximo turno de tu rival, este Pokémon recibe 50 puntos menos de daño de los ataques. |
+| Pino       |                                                                                                                   |
+| De espalda | Durante el próximo turno de tu rival, este Pokémon recibe 50 puntos menos de daño de los ataques. |
+| Boca abajo |                                                                                                                   |
+| De lado    |                                                                                                                   |
 
 [Scale Press](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
 

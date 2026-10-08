@@ -42,39 +42,39 @@
 
 #### Drenadoras
 
-| Nombre     | Drenadoras                                                                                                                                                                            |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | やどりぎのタネ                                                                                                                                                                               |
-| Tipo       | Planta                                                                                                                                                                                |
-| Código     | STW01-003                                                                                                                                                                             |
-| Pokémon    | Bulbasaur                                                                                                                                                                             |
-| Energía    | {G}{G}                                                                                                                                                                                |
-| Daño       | 10                                                                                                                                                                                    |
-| Efecto     |                                                                                                                                                                                       |
-| De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
-| Pino       |                                                                                                                                                                                       |
-| De espalda | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
-| Boca abajo |                                                                                                                                                                                       |
-| De lado    | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. Durante tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
+| Nombre     | Drenadoras                                                                                                                                                                       |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | やどりぎのタネ                                                                                                                                                                          |
+| Tipo       | Planta                                                                                                                                                                           |
+| Código     | STW01-003                                                                                                                                                                        |
+| Pokémon    | Bulbasaur                                                                                                                                                                        |
+| Energía    | {G}{G}                                                                                                                                                                           |
+| Daño       | 10                                                                                                                                                                               |
+| Efecto     |                                                                                                                                                                                  |
+| De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. En tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
+| Pino       |                                                                                                                                                                                  |
+| De espalda | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. En tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
+| Boca abajo |                                                                                                                                                                                  |
+| De lado    | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. En tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
 
 [Drenadoras](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard03.webp)
 
 #### Hierba Lazo
 
-| Nombre     | Hierba Lazo                                                                                                                  |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | くさむすび                                                                                                                        |
-| Tipo       | Planta                                                                                                                       |
-| Código     | STW01-004                                                                                                                    |
-| Pokémon    | Bulbasaur                                                                                                                    |
-| Energía    | {G}{G}{G}                                                                                                                    |
-| Daño       | 30                                                                                                                           |
-| Efecto     |                                                                                                                              |
-| De pie     | Elige 1 de los ataques de tu oponente. Durante su próximo turno, no pueden usar este ataque. |
-| Pino       |                                                                                                                              |
-| De espalda | Elige 1 de los ataques de tu oponente. Durante su próximo turno, no pueden usar este ataque. |
-| Boca abajo | Elige 1 de los ataques de tu oponente. Durante su próximo turno, no pueden usar este ataque. |
-| De lado    |                                                                                                                              |
+| Nombre     | Hierba Lazo                                                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | くさむすび                                                                                                                     |
+| Tipo       | Planta                                                                                                                    |
+| Código     | STW01-004                                                                                                                 |
+| Pokémon    | Bulbasaur                                                                                                                 |
+| Energía    | {G}{G}{G}                                                                                                                 |
+| Daño       | 30                                                                                                                        |
+| Efecto     |                                                                                                                           |
+| De pie     | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar este ataque. |
+| Pino       |                                                                                                                           |
+| De espalda | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar este ataque. |
+| Boca abajo | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar este ataque. |
+| De lado    |                                                                                                                           |
 
 [Hierba Lazo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard04.webp)
 

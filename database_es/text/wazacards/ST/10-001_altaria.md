@@ -40,22 +40,22 @@
 
 [Fluffy Flight](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 
-#### Roost
+#### Respiro
 
-| Nombre     | Roost                                                  |
-| ---------- | ------------------------------------------------------ |
-| Japonés    | はねやすめ                                                  |
-| Tipo       | Volador                                                |
-| Código     | STW10-003                                              |
-| Pokémon    | Altaria                                                |
-| Energía    | {Y}{Y}                                                 |
-| Daño       |                                                        |
-| Efecto     | Heal 20 damage from this Pokémon.      |
-| De pie     | Heal 20 more damage from this Pokémon. |
-| Pino       |                                                        |
-| De espalda |                                                        |
-| Boca abajo |                                                        |
-| De lado    | Heal 20 more damage from this Pokémon. |
+| Nombre     | Respiro                                                     |
+| ---------- | ----------------------------------------------------------- |
+| Japonés    | はねやすめ                                                       |
+| Tipo       | Volador                                                     |
+| Código     | STW10-003                                                   |
+| Pokémon    | Altaria                                                     |
+| Energía    | {Y}{Y}                                                      |
+| Daño       |                                                             |
+| Efecto     | Cura 20 puntos de daño de este Pokémon.     |
+| De pie     | Cura 20 puntos de daño más de este Pokémon. |
+| Pino       |                                                             |
+| De espalda |                                                             |
+| Boca abajo |                                                             |
+| De lado    | Cura 20 puntos de daño más de este Pokémon. |
 
 [Roost](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard03.webp)
 
@@ -99,20 +99,20 @@
 
 #### Sky Attack
 
-| Nombre     | Sky Attack                                                                            |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Japonés    | ゴッドバード                                                                                |
-| Tipo       | Volador                                                                               |
-| Código     | STW10-006                                                                             |
-| Pokémon    | Altaria                                                                               |
-| Energía    | {Y}{Y}{Y}{Y}                                                                          |
-| Daño       | 30                                                                                    |
-| Efecto     |                                                                                       |
-| De pie     | This attack does 50 more damage.                                      |
-| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De espalda | This attack does 50 more damage.                                      |
-| Boca abajo | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De lado    |                                                                                       |
+| Nombre     | Sky Attack                                                                       |
+| ---------- | -------------------------------------------------------------------------------- |
+| Japonés    | ゴッドバード                                                                           |
+| Tipo       | Volador                                                                          |
+| Código     | STW10-006                                                                        |
+| Pokémon    | Altaria                                                                          |
+| Energía    | {Y}{Y}{Y}{Y}                                                                     |
+| Daño       | 30                                                                               |
+| Efecto     |                                                                                  |
+| De pie     | This attack does 50 more damage.                                 |
+| Pino       | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De espalda | This attack does 50 more damage.                                 |
+| Boca abajo | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De lado    |                                                                                  |
 
 [Sky Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard06.webp)
 

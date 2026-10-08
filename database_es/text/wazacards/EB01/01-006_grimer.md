@@ -1,10 +1,10 @@
-## Grimer Cards
+## Cartas de Grimer
 
 ### Caja de Exploración 1
 
-#### Poison Gas
+#### Gas Venenoso
 
-| Nombre     | Poison Gas                                                                                  |
+| Nombre     | Gas Venenoso                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------- |
 | Japonés    | どくガス                                                                                        |
 | Tipo       | Siniestro                                                                                   |
@@ -19,11 +19,11 @@
 | Boca abajo |                                                                                             |
 | De lado    | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
 
-[Poison Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard01.webp)
+[Gas Venenoso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard01.webp)
 
-#### Sludge Toss ?
+#### Lanzamiento Lodo ?
 
-| Nombre     | Sludge Toss ?                                           |
+| Nombre     | Lanzamiento Lodo ?                                      |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ベトベトなげ                                                  |
 | Tipo       | Siniestro                                               |
@@ -38,49 +38,49 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
 
-[Sludge Toss](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard02.webp)
+[Lanzamiento Lodo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard02.webp)
 
-#### Toxic Heal ?
+#### Cura Tóxica ?
 
-| Nombre     | Toxic Heal ?                                                                                                                   |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Japonés    | どくどくヒール                                                                                                                        |
-| Tipo       | Siniestro                                                                                                                      |
-| Código     | EBW01-053                                                                                                                      |
-| Pokémon    | Grimer                                                                                                                         |
-| Energía    | {D}{D}{D}                                                                                                                      |
-| Daño       | 30                                                                                                                             |
-| Efecto     |                                                                                                                                |
-| De pie     | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
-| Pino       |                                                                                                                                |
-| De espalda | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
-| Boca abajo |                                                                                                                                |
-| De lado    | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
+| Nombre     | Cura Tóxica ?                                                                                                                            |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | どくどくヒール                                                                                                                                  |
+| Tipo       | Siniestro                                                                                                                                |
+| Código     | EBW01-053                                                                                                                                |
+| Pokémon    | Grimer                                                                                                                                   |
+| Energía    | {D}{D}{D}                                                                                                                                |
+| Daño       | 30                                                                                                                                       |
+| Efecto     |                                                                                                                                          |
+| De pie     | Durante tu último turno, si el ataque "Gas Venenoso" de este Pokémon tuvo éxito, cura 30 puntos de daño de este Pokémon. |
+| Pino       |                                                                                                                                          |
+| De espalda | Durante tu último turno, si el ataque "Gas Venenoso" de este Pokémon tuvo éxito, cura 30 puntos de daño de este Pokémon. |
+| Boca abajo |                                                                                                                                          |
+| De lado    | Durante tu último turno, si el ataque "Gas Venenoso" de este Pokémon tuvo éxito, cura 30 puntos de daño de este Pokémon. |
 
-[Toxic Heal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard03.webp)
+[Cura Tóxica](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard03.webp)
 
-#### Sludge Ring ?
+#### Anillo Lodo ?
 
-| Nombre     | Sludge Ring ?                                                                                                            |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Japonés    | ヘドロでかこむ                                                                                                                  |
-| Tipo       | Siniestro                                                                                                                |
-| Código     | EBW01-054                                                                                                                |
-| Pokémon    | Grimer                                                                                                                   |
-| Energía    | {D}{D}{D}                                                                                                                |
-| Daño       | 30                                                                                                                       |
-| Efecto     |                                                                                                                          |
-| De pie     | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-| Pino       |                                                                                                                          |
-| De espalda | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-| Boca abajo | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-| De lado    |                                                                                                                          |
+| Nombre     | Anillo Lodo ?                                                                                                             |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | ヘドロでかこむ                                                                                                                   |
+| Tipo       | Siniestro                                                                                                                 |
+| Código     | EBW01-054                                                                                                                 |
+| Pokémon    | Grimer                                                                                                                    |
+| Energía    | {D}{D}{D}                                                                                                                 |
+| Daño       | 30                                                                                                                        |
+| Efecto     |                                                                                                                           |
+| De pie     | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar este ataque. |
+| Pino       |                                                                                                                           |
+| De espalda | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar este ataque. |
+| Boca abajo | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar este ataque. |
+| De lado    |                                                                                                                           |
 
-[Sludge Ring](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard04.webp)
+[Anillo Lodo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard04.webp)
 
-#### Venom Punch ?
+#### Puño Tóxico ?
 
-| Nombre     | Venom Punch ?                                           |
+| Nombre     | Puño Tóxico ?                                           |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ベノムパンチ                                                  |
 | Tipo       | Siniestro                                               |
@@ -95,49 +95,49 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Venom Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard05.webp)
+[Puño Tóxico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard05.webp)
 
-#### Venom Slip ?
+#### Corte Venenoso ?
 
-| Nombre     | Venom Slip ?                                                                                                                 |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | ベノムスリップ                                                                                                                      |
-| Tipo       | Siniestro                                                                                                                    |
-| Código     | EBW01-057                                                                                                                    |
-| Pokémon    | Grimer                                                                                                                       |
-| Energía    | {D}{D}                                                                                                                       |
-| Daño       | 20                                                                                                                           |
-| Efecto     |                                                                                                                              |
-| De pie     | Tu oponente también tira su Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
-| Pino       |                                                                                                                              |
-| De espalda | Tu oponente también tira su Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
-| Boca abajo |                                                                                                                              |
-| De lado    | Tu oponente también tira su Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
+| Nombre     | Corte Venenoso ?                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Japonés    | ベノムスリップ                                                                                                                                    |
+| Tipo       | Siniestro                                                                                                                                  |
+| Código     | EBW01-057                                                                                                                                  |
+| Pokémon    | Grimer                                                                                                                                     |
+| Energía    | {D}{D}                                                                                                                                     |
+| Daño       | 20                                                                                                                                         |
+| Efecto     |                                                                                                                                            |
+| De pie     | Tu oponente también tira su Charakoro. Si cae en {hs}{do}{s1}{s2}, este ataque hace 20 puntos de daño más. |
+| Pino       |                                                                                                                                            |
+| De espalda | Tu oponente también tira su Charakoro. Si cae en {hs}{do}{s1}{s2}, este ataque hace 20 puntos de daño más. |
+| Boca abajo |                                                                                                                                            |
+| De lado    | Tu oponente también tira su Charakoro. Si cae en {hs}{do}{s1}{s2}, este ataque hace 20 puntos de daño más. |
 
-[Venom Slip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard07.webp)
+[Corte Venenoso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard07.webp)
 
-#### Toxic Blast ?
+#### Chorro Tóxico ?
 
-| Nombre     | Toxic Blast ?                                                                                                                 |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | どくどくボンバー                                                                                                                      |
-| Tipo       | Siniestro                                                                                                                     |
-| Código     | EBW01-058                                                                                                                     |
-| Pokémon    | Grimer                                                                                                                        |
-| Energía    | {D}{D}{D}                                                                                                                     |
-| Daño       | 30                                                                                                                            |
-| Efecto     |                                                                                                                               |
-| De pie     | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
-| Pino       |                                                                                                                               |
-| De espalda | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
-| Boca abajo | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
-| De lado    |                                                                                                                               |
+| Nombre     | Chorro Tóxico ?                                                                                                                          |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | どくどくボンバー                                                                                                                                 |
+| Tipo       | Siniestro                                                                                                                                |
+| Código     | EBW01-058                                                                                                                                |
+| Pokémon    | Grimer                                                                                                                                   |
+| Energía    | {D}{D}{D}                                                                                                                                |
+| Daño       | 30                                                                                                                                       |
+| Efecto     |                                                                                                                                          |
+| De pie     | Durante tu último turno, si el ataque "Gas Venenoso" de este Pokémon tuvo éxito, este ataque hace 30 puntos de daño más. |
+| Pino       |                                                                                                                                          |
+| De espalda | Durante tu último turno, si el ataque "Gas Venenoso" de este Pokémon tuvo éxito, este ataque hace 30 puntos de daño más. |
+| Boca abajo | Durante tu último turno, si el ataque "Gas Venenoso" de este Pokémon tuvo éxito, este ataque hace 30 puntos de daño más. |
+| De lado    |                                                                                                                                          |
 
-[Toxic Blast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard08.webp)
+[Chorro Tóxico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard08.webp)
 
-#### Sludge Tackle ?
+#### Placaje Venenoso ?
 
-| Nombre     | Sludge Tackle ?                                                 |
+| Nombre     | Placaje Venenoso ?                                              |
 | ---------- | --------------------------------------------------------------- |
 | Japonés    | ヘドロタックル                                                         |
 | Tipo       | Siniestro                                                       |
@@ -152,23 +152,23 @@
 | Boca abajo | Este Pokémon también se hace 20 puntos de daño. |
 | De lado    | Este ataque hace 40 puntos de daño más.         |
 
-[Sludge Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard09.webp)
+[Placaje Venenoso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard09.webp)
 
-#### Harassment Venom ?
+#### Veneno Hostil ?
 
-| Nombre     | Harassment Venom ?                                                                                               |
-| ---------- | ---------------------------------------------------------------------------------------------------------------- |
-| Japonés    | いやがらせベノム                                                                                                         |
-| Tipo       | Siniestro                                                                                                        |
-| Código     | EBW01-060                                                                                                        |
-| Pokémon    | Grimer                                                                                                           |
-| Energía    | {D}{D}{D}{D}                                                                                                     |
-| Daño       | 20                                                                                                               |
-| Efecto     |                                                                                                                  |
-| De pie     | During your opponent's last turn, if their Enekoro roll failed, this attack does 50 more damage. |
-| Pino       |                                                                                                                  |
-| De espalda |                                                                                                                  |
-| Boca abajo |                                                                                                                  |
-| De lado    | During your opponent's last turn, if their Enekoro roll failed, this attack does 50 more damage. |
+| Nombre     | Veneno Hostil ?                                                                                                             |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | いやがらせベノム                                                                                                                    |
+| Tipo       | Siniestro                                                                                                                   |
+| Código     | EBW01-060                                                                                                                   |
+| Pokémon    | Grimer                                                                                                                      |
+| Energía    | {D}{D}{D}{D}                                                                                                                |
+| Daño       | 20                                                                                                                          |
+| Efecto     |                                                                                                                             |
+| De pie     | Durante el último turno de tu rival, si su tirada de Enekoro falló, este ataque hace 50 puntos de daño más. |
+| Pino       |                                                                                                                             |
+| De espalda |                                                                                                                             |
+| Boca abajo |                                                                                                                             |
+| De lado    | Durante el último turno de tu rival, si su tirada de Enekoro falló, este ataque hace 50 puntos de daño más. |
 
-[Harassment Venom](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard10.webp)
+[Veneno Hostil](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard10.webp)

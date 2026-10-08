@@ -61,20 +61,20 @@
 
 #### Dragon Blast
 
-| Nombre     | Dragon Blast                                     |
-| ---------- | ------------------------------------------------ |
-| Japonés    | まわしげり                                            |
-| Tipo       | Dragón                                           |
-| Código     | STW11-004                                        |
-| Pokémon    | Dragonite                                        |
-| Energía    | {W}{W}{W}{L}{L}                                  |
-| Daño       | 60                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 40 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 40 more damage. |
-| Boca abajo | This attack does 40 more damage. |
-| De lado    |                                                  |
+| Nombre     | Dragon Blast                                            |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | まわしげり                                                   |
+| Tipo       | Dragón                                                  |
+| Código     | STW11-004                                               |
+| Pokémon    | Dragonite                                               |
+| Energía    | {W}{W}{W}{L}{L}                                         |
+| Daño       | 60                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 40 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 40 puntos de daño más. |
+| Boca abajo | Este ataque hace 40 puntos de daño más. |
+| De lado    |                                                         |
 
 [Dragon Blast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard04.webp)
 
@@ -118,19 +118,19 @@
 
 #### Extreme Speed
 
-| Nombre     | Extreme Speed                                    |
-| ---------- | ------------------------------------------------ |
-| Japonés    | しんそく                                             |
-| Tipo       | Normal                                           |
-| Código     | STW11-007                                        |
-| Pokémon    | Dragonite                                        |
-| Energía    | {C}{C}{C}{C}                                     |
-| Daño       | 30                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 40 more damage. |
-| Pino       |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Extreme Speed                                           |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | しんそく                                                    |
+| Tipo       | Normal                                                  |
+| Código     | STW11-007                                               |
+| Pokémon    | Dragonite                                               |
+| Energía    | {C}{C}{C}{C}                                            |
+| Daño       | 30                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 40 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
 [Extreme Speed](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard07.webp)

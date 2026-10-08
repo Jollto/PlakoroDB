@@ -42,20 +42,20 @@
 
 #### Electric Rush ?
 
-| Nombre     | Electric Rush ?                                                                                                       |
-| ---------- | --------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | エレキラッシュ                                                                                                               |
-| Tipo       | Eléctrico                                                                                                             |
-| Código     | STW04-003                                                                                                             |
-| Pokémon    | Pikachu                                                                                                               |
-| Energía    | {L}{L}                                                                                                                |
-| Daño       | 20                                                                                                                    |
-| Efecto     | This attack's damage isn't affected by Weakness.                                                      |
-| De pie     | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
-| Pino       |                                                                                                                       |
-| De espalda | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
-| Boca abajo |                                                                                                                       |
-| De lado    |                                                                                                                       |
+| Nombre     | Electric Rush ?                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | エレキラッシュ                                                                                                                |
+| Tipo       | Eléctrico                                                                                                              |
+| Código     | STW04-003                                                                                                              |
+| Pokémon    | Pikachu                                                                                                                |
+| Energía    | {L}{L}                                                                                                                 |
+| Daño       | 20                                                                                                                     |
+| Efecto     | This attack's damage isn't affected by Weakness.                                                       |
+| De pie     | Use "Electric Rush" 1 more time. (Puede repetirse hasta que falle.) |
+| Pino       |                                                                                                                        |
+| De espalda | Use "Electric Rush" 1 more time. (Puede repetirse hasta que falle.) |
+| Boca abajo |                                                                                                                        |
+| De lado    |                                                                                                                        |
 
 [Electric Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard03.webp)
 
@@ -118,20 +118,20 @@
 
 #### Iron Tail
 
-| Nombre     | Iron Tail                                                                                         |
-| ---------- | ------------------------------------------------------------------------------------------------- |
-| Japonés    | アイアンテール                                                                                           |
-| Tipo       | Acero                                                                                             |
-| Código     | STW04-007                                                                                         |
-| Pokémon    | Pikachu                                                                                           |
-| Energía    | {M}                                                                                               |
-| Daño       | 20                                                                                                |
-| Efecto     |                                                                                                   |
-| De pie     | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
-| Pino       |                                                                                                   |
-| De espalda | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
-| Boca abajo | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
-| De lado    |                                                                                                   |
+| Nombre     | Iron Tail                                                                                                            |
+| ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | アイアンテール                                                                                                              |
+| Tipo       | Acero                                                                                                                |
+| Código     | STW04-007                                                                                                            |
+| Pokémon    | Pikachu                                                                                                              |
+| Energía    | {M}                                                                                                                  |
+| Daño       | 20                                                                                                                   |
+| Efecto     |                                                                                                                      |
+| De pie     | Durante el próximo turno de tu oponente, este Pokémon recibe 10 puntos menos de daño de los ataques. |
+| Pino       |                                                                                                                      |
+| De espalda | Durante el próximo turno de tu oponente, este Pokémon recibe 10 puntos menos de daño de los ataques. |
+| Boca abajo | Durante el próximo turno de tu oponente, este Pokémon recibe 10 puntos menos de daño de los ataques. |
+| De lado    |                                                                                                                      |
 
 [Iron Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
 

@@ -23,20 +23,20 @@
 
 #### Thunder Shock
 
-| Nombre     | Thunder Shock                                    |
-| ---------- | ------------------------------------------------ |
-| Japonés    | でんきショック                                          |
-| Tipo       | Eléctrico                                        |
-| Código     | EBW01-032                                        |
-| Pokémon    | Zapdos                                           |
-| Energía    | {L}                                              |
-| Daño       | 10                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 10 more damage. |
-| Pino       |                                                  |
-| De espalda | This attack does 10 more damage. |
-| Boca abajo |                                                  |
-| De lado    | This attack does 10 more damage. |
+| Nombre     | Thunder Shock                                           |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | でんきショック                                                 |
+| Tipo       | Eléctrico                                               |
+| Código     | EBW01-032                                               |
+| Pokémon    | Zapdos                                                  |
+| Energía    | {L}                                                     |
+| Daño       | 10                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 10 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda | Este ataque hace 10 puntos de daño más. |
+| Boca abajo |                                                         |
+| De lado    | Este ataque hace 10 puntos de daño más. |
 
 [Thunder Shock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard02.webp)
 
@@ -173,21 +173,21 @@
 
 [Thunder Chain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
 
-#### Fly
+#### Vuelo
 
-| Nombre     | Fly                                                                                              |
-| ---------- | ------------------------------------------------------------------------------------------------ |
-| Japonés    | そらをとぶ                                                                                            |
-| Tipo       | Volador                                                                                          |
-| Código     | EBW01-040                                                                                        |
-| Pokémon    | Zapdos                                                                                           |
-| Energía    | {Y}{C}{C}                                                                                        |
-| Daño       | 30                                                                                               |
-| Efecto     |                                                                                                  |
-| De pie     | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
-| Pino       | Este ataque no hace nada.                                                        |
-| De espalda | Este ataque no hace nada.                                                        |
-| Boca abajo | Este ataque no hace nada.                                                        |
-| De lado    | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
+| Nombre     | Vuelo                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------- |
+| Japonés    | そらをとぶ                                                                                                |
+| Tipo       | Volador                                                                                              |
+| Código     | EBW01-040                                                                                            |
+| Pokémon    | Zapdos                                                                                               |
+| Energía    | {Y}{C}{C}                                                                                            |
+| Daño       | 30                                                                                                   |
+| Efecto     |                                                                                                      |
+| De pie     | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. |
+| Pino       | Este ataque no hace nada.                                                            |
+| De espalda | Este ataque no hace nada.                                                            |
+| Boca abajo | Este ataque no hace nada.                                                            |
+| De lado    | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

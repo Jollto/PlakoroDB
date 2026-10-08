@@ -61,20 +61,20 @@
 
 #### Thunderbolt
 
-| Nombre     | Thunderbolt                                                                    |
-| ---------- | ------------------------------------------------------------------------------ |
-| Japonés    | 10まんボルト                                                                        |
-| Tipo       | Eléctrico                                                                      |
-| Código     | STW04-004                                                                      |
-| Pokémon    | Pikachu                                                                        |
-| Energía    | {L}{L}{L}                                                                      |
-| Daño       | 30                                                                             |
-| Efecto     |                                                                                |
-| De pie     | Este ataque hace 30 puntos de daño más.                        |
-| Pino       | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De espalda | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Boca abajo | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De lado    | Este ataque hace 20 puntos de daño más.                        |
+| Nombre     | Thunderbolt                                                                           |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Japonés    | 10まんボルト                                                                               |
+| Tipo       | Eléctrico                                                                             |
+| Código     | STW04-004                                                                             |
+| Pokémon    | Pikachu                                                                               |
+| Energía    | {L}{L}{L}                                                                             |
+| Daño       | 30                                                                                    |
+| Efecto     |                                                                                       |
+| De pie     | Este ataque hace 30 puntos de daño más.                               |
+| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De espalda | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| Boca abajo | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De lado    | Este ataque hace 20 puntos de daño más.                               |
 
 [Thunderbolt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard04.webp)
 
@@ -99,20 +99,20 @@
 
 #### Volt Tackle
 
-| Nombre     | Volt Tackle                                                 |
-| ---------- | ----------------------------------------------------------- |
-| Japonés    | ボルテッカー                                                      |
-| Tipo       | Eléctrico                                                   |
-| Código     | STW04-006                                                   |
-| Pokémon    | Pikachu                                                     |
-| Energía    | {L}{L}{L}{L}                                                |
-| Daño       | 40                                                          |
-| Efecto     | This Pokémon also does 30 damage to itself. |
-| De pie     | Este ataque hace 40 puntos de daño más.     |
-| Pino       |                                                             |
-| De espalda | Este ataque hace 40 puntos de daño más.     |
-| Boca abajo | Este ataque hace 40 puntos de daño más.     |
-| De lado    |                                                             |
+| Nombre     | Volt Tackle                                                     |
+| ---------- | --------------------------------------------------------------- |
+| Japonés    | ボルテッカー                                                          |
+| Tipo       | Eléctrico                                                       |
+| Código     | STW04-006                                                       |
+| Pokémon    | Pikachu                                                         |
+| Energía    | {L}{L}{L}{L}                                                    |
+| Daño       | 40                                                              |
+| Efecto     | Este Pokémon también se hace 30 puntos de daño. |
+| De pie     | Este ataque hace 40 puntos de daño más.         |
+| Pino       |                                                                 |
+| De espalda | Este ataque hace 40 puntos de daño más.         |
+| Boca abajo | Este ataque hace 40 puntos de daño más.         |
+| De lado    |                                                                 |
 
 [Volt Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard06.webp)
 

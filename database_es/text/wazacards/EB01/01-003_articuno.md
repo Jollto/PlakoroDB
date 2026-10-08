@@ -57,7 +57,7 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 30 puntos de daño más. |
 
-[Blizzard Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard03.webp)
+[Tormenta Ventisca](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard03.webp)
 
 #### Air Cutter
 

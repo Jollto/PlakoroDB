@@ -42,20 +42,20 @@
 
 #### Lanzallamas
 
-| Nombre     | Lanzallamas                                                                           |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Japonés    | かえんほうしゃ                                                                               |
-| Tipo       | Fuego                                                                                 |
-| Código     | EBW01-013                                                                             |
-| Pokémon    | Moltres                                                                               |
-| Energía    | {R}{R}{R}{R}                                                                          |
-| Daño       | 40                                                                                    |
-| Efecto     |                                                                                       |
-| De pie     | Este ataque hace 40 puntos de daño más.                               |
-| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De espalda | Este ataque hace 40 puntos de daño más.                               |
-| Boca abajo | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De lado    | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| Nombre     | Lanzallamas                                                                      |
+| ---------- | -------------------------------------------------------------------------------- |
+| Japonés    | かえんほうしゃ                                                                          |
+| Tipo       | Fuego                                                                            |
+| Código     | EBW01-013                                                                        |
+| Pokémon    | Moltres                                                                          |
+| Energía    | {R}{R}{R}{R}                                                                     |
+| Daño       | 40                                                                               |
+| Efecto     |                                                                                  |
+| De pie     | Este ataque hace 40 puntos de daño más.                          |
+| Pino       | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De espalda | Este ataque hace 40 puntos de daño más.                          |
+| Boca abajo | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De lado    | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 
 [Lanzallamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard03.webp)
 
@@ -99,20 +99,20 @@
 
 #### Giro Fuego
 
-| Nombre     | Giro Fuego                                                                            |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Japonés    | ほのおのうず                                                                                |
-| Tipo       | Fuego                                                                                 |
-| Código     | EBW01-016                                                                             |
-| Pokémon    | Moltres                                                                               |
-| Energía    | {R}{R}                                                                                |
-| Daño       | 20                                                                                    |
-| Efecto     |                                                                                       |
-| De pie     | Este ataque hace 40 puntos de daño más.                               |
-| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De espalda | Este ataque hace 40 puntos de daño más.                               |
-| Boca abajo | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De lado    | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| Nombre     | Giro Fuego                                                                       |
+| ---------- | -------------------------------------------------------------------------------- |
+| Japonés    | ほのおのうず                                                                           |
+| Tipo       | Fuego                                                                            |
+| Código     | EBW01-016                                                                        |
+| Pokémon    | Moltres                                                                          |
+| Energía    | {R}{R}                                                                           |
+| Daño       | 20                                                                               |
+| Efecto     |                                                                                  |
+| De pie     | Este ataque hace 40 puntos de daño más.                          |
+| Pino       | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De espalda | Este ataque hace 40 puntos de daño más.                          |
+| Boca abajo | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De lado    | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 
 [Giro Fuego](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard06.webp)
 

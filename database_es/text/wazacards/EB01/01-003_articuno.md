@@ -4,45 +4,45 @@
 
 #### Ala Gélida
 
-| Nombre     | Ala Gélida                                                                                |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| Japonés    | アイスウイング                                                                                   |
-| Tipo       | Agua                                                                                      |
-| Código     | EBW01-021                                                                                 |
-| Pokémon    | Articuno                                                                                  |
-| Energía    | {W}{W}                                                                                    |
-| Daño       | 10                                                                                        |
-| Efecto     |                                                                                           |
-| De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Pino       |                                                                                           |
-| De espalda | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Boca abajo |                                                                                           |
-| De lado    | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Nombre     | Ala Gélida                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------- |
+| Japonés    | アイスウイング                                                                                     |
+| Tipo       | Agua                                                                                        |
+| Código     | EBW01-021                                                                                   |
+| Pokémon    | Articuno                                                                                    |
+| Energía    | {W}{W}                                                                                      |
+| Daño       | 10                                                                                          |
+| Efecto     |                                                                                             |
+| De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
+| Pino       |                                                                                             |
+| De espalda | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
+| Boca abajo |                                                                                             |
+| De lado    | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
 
-[Ice Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard01.webp)
+[Ala Gélida](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard01.webp)
 
-#### Frozen Blade ?
+#### Hoja Heladora ?
 
-| Nombre     | Frozen Blade ?                                                                  |
-| ---------- | ------------------------------------------------------------------------------- |
-| Japonés    | いてつくやいば                                                                         |
-| Tipo       | Agua                                                                            |
-| Código     | EBW01-022                                                                       |
-| Pokémon    | Articuno                                                                        |
-| Energía    | {W}{W}{W}                                                                       |
-| Daño       | 30                                                                              |
-| Efecto     |                                                                                 |
-| De pie     | On your opponent's next turn, they cannot roll their Charakoro. |
-| Pino       |                                                                                 |
-| De espalda |                                                                                 |
-| Boca abajo |                                                                                 |
-| De lado    | On your opponent's next turn, they cannot roll their Charakoro. |
+| Nombre     | Hoja Heladora ?                                                                  |
+| ---------- | -------------------------------------------------------------------------------- |
+| Japonés    | いてつくやいば                                                                          |
+| Tipo       | Agua                                                                             |
+| Código     | EBW01-022                                                                        |
+| Pokémon    | Articuno                                                                         |
+| Energía    | {W}{W}{W}                                                                        |
+| Daño       | 30                                                                               |
+| Efecto     |                                                                                  |
+| De pie     | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
+| Pino       |                                                                                  |
+| De espalda |                                                                                  |
+| Boca abajo |                                                                                  |
+| De lado    | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
 
-[Frozen Blade](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
+[Hoja Heladora](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
 
-#### Blizzard Storm ?
+#### Tormenta Ventisca ?
 
-| Nombre     | Blizzard Storm ?                                        |
+| Nombre     | Tormenta Ventisca ?                                     |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ブリザードストーム                                               |
 | Tipo       | Agua                                                    |

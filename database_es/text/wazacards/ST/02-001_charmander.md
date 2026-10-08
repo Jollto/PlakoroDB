@@ -23,39 +23,39 @@
 
 #### Calentar ?
 
-| Nombre     | Calentar ?                                                                                |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| Japonés    | ヒートアップ                                                                                    |
-| Tipo       | Fuego                                                                                     |
-| Código     | STW02-002                                                                                 |
-| Pokémon    | Charmander                                                                                |
-| Energía    | {R}{R}                                                                                    |
-| Daño       | 10                                                                                        |
-| Efecto     |                                                                                           |
-| De pie     | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
-| Pino       |                                                                                           |
-| De espalda | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
-| Boca abajo |                                                                                           |
-| De lado    |                                                                                           |
+| Nombre     | Calentar ?                                                                           |
+| ---------- | ------------------------------------------------------------------------------------ |
+| Japonés    | ヒートアップ                                                                               |
+| Tipo       | Fuego                                                                                |
+| Código     | STW02-002                                                                            |
+| Pokémon    | Charmander                                                                           |
+| Energía    | {R}{R}                                                                               |
+| Daño       | 10                                                                                   |
+| Efecto     |                                                                                      |
+| De pie     | En tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
+| Pino       |                                                                                      |
+| De espalda | En tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
+| Boca abajo |                                                                                      |
+| De lado    |                                                                                      |
 
 [Calentar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard02.webp)
 
 #### Lanzallamas
 
-| Nombre     | Lanzallamas                                                                           |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Japonés    | かえんほうしゃ                                                                               |
-| Tipo       | Fuego                                                                                 |
-| Código     | STW02-003                                                                             |
-| Pokémon    | Charmander                                                                            |
-| Energía    | {R}{R}{R}                                                                             |
-| Daño       | 40                                                                                    |
-| Efecto     |                                                                                       |
-| De pie     | Este ataque hace 20 puntos de daño más.                               |
-| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 1. |
-| De espalda | Este ataque hace 20 puntos de daño más.                               |
-| Boca abajo | Durante tu próximo turno, reduce el número de Enekoro que tiras en 1. |
-| De lado    | Durante tu próximo turno, reduce el número de Enekoro que tiras en 1. |
+| Nombre     | Lanzallamas                                                                      |
+| ---------- | -------------------------------------------------------------------------------- |
+| Japonés    | かえんほうしゃ                                                                          |
+| Tipo       | Fuego                                                                            |
+| Código     | STW02-003                                                                        |
+| Pokémon    | Charmander                                                                       |
+| Energía    | {R}{R}{R}                                                                        |
+| Daño       | 40                                                                               |
+| Efecto     |                                                                                  |
+| De pie     | Este ataque hace 20 puntos de daño más.                          |
+| Pino       | En tu próximo turno, reduce el número de Enekoro que tiras en 1. |
+| De espalda | Este ataque hace 20 puntos de daño más.                          |
+| Boca abajo | En tu próximo turno, reduce el número de Enekoro que tiras en 1. |
+| De lado    | En tu próximo turno, reduce el número de Enekoro que tiras en 1. |
 
 [Lanzallamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard03.webp)
 
@@ -139,19 +139,19 @@
 
 #### Avivar ?
 
-| Nombre     | Avivar ?                                                                                  |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| Japonés    | フレイムアップ                                                                                   |
-| Tipo       | Fuego                                                                                     |
-| Código     | PRW01-2-08                                                                                |
-| Pokémon    | Charmander                                                                                |
-| Energía    | {R}{R}{R}                                                                                 |
-| Daño       | 20                                                                                        |
-| Efecto     |                                                                                           |
-| De pie     | Durante tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
-| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2.     |
-| De espalda |                                                                                           |
-| Boca abajo |                                                                                           |
-| De lado    |                                                                                           |
+| Nombre     | Avivar ?                                                                             |
+| ---------- | ------------------------------------------------------------------------------------ |
+| Japonés    | フレイムアップ                                                                              |
+| Tipo       | Fuego                                                                                |
+| Código     | PRW01-2-08                                                                           |
+| Pokémon    | Charmander                                                                           |
+| Energía    | {R}{R}{R}                                                                            |
+| Daño       | 20                                                                                   |
+| Efecto     |                                                                                      |
+| De pie     | En tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
+| Pino       | En tu próximo turno, reduce el número de Enekoro que tiras en 2.     |
+| De espalda |                                                                                      |
+| Boca abajo |                                                                                      |
+| De lado    |                                                                                      |
 
 [Avivar](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img02.webp)

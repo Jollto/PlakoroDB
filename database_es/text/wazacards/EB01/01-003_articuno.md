@@ -59,9 +59,9 @@
 
 [Tormenta Ventisca](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard03.webp)
 
-#### Air Cutter
+#### Aire Afilado
 
-| Nombre     | Air Cutter                                              |
+| Nombre     | Aire Afilado                                            |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | エアカッター                                                  |
 | Tipo       | Volador                                                 |
@@ -76,30 +76,30 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Air Cutter](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard04.webp)
+[Aire Afilado](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard04.webp)
 
-#### Roost
+#### Respiro
 
-| Nombre     | Roost                                                  |
-| ---------- | ------------------------------------------------------ |
-| Japonés    | はねやすめ                                                  |
-| Tipo       | Volador                                                |
-| Código     | EBW01-025                                              |
-| Pokémon    | Articuno                                               |
-| Energía    | {Y}{Y}                                                 |
-| Daño       |                                                        |
-| Efecto     | Heal 20 damage from this Pokémon.      |
-| De pie     | Heal 20 more damage from this Pokémon. |
-| Pino       |                                                        |
-| De espalda |                                                        |
-| Boca abajo |                                                        |
-| De lado    | Heal 20 more damage from this Pokémon. |
+| Nombre     | Respiro                                                     |
+| ---------- | ----------------------------------------------------------- |
+| Japonés    | はねやすめ                                                       |
+| Tipo       | Volador                                                     |
+| Código     | EBW01-025                                                   |
+| Pokémon    | Articuno                                                    |
+| Energía    | {Y}{Y}                                                      |
+| Daño       |                                                             |
+| Efecto     | Cura 20 puntos de daño de este Pokémon.     |
+| De pie     | Cura 20 puntos de daño más de este Pokémon. |
+| Pino       |                                                             |
+| De espalda |                                                             |
+| Boca abajo |                                                             |
+| De lado    | Cura 20 puntos de daño más de este Pokémon. |
 
-[Roost](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard05.webp)
+[Respiro](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard05.webp)
 
-#### Freeze Dive ?
+#### Picada Helada ?
 
-| Nombre     | Freeze Dive ?                                           |
+| Nombre     | Picada Helada ?                                         |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | フリーズダイブ                                                 |
 | Tipo       | Agua                                                    |
@@ -114,11 +114,11 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Freeze Dive](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard06.webp)
+[Picada Helada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard06.webp)
 
-#### Ice Shot
+#### Disparo Gélido
 
-| Nombre     | Ice Shot                                                |
+| Nombre     | Disparo Gélido                                          |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | アイスショット                                                 |
 | Tipo       | Agua                                                    |
@@ -133,45 +133,45 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
 
-[Ice Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard07.webp)
+[Disparo Gélido](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard07.webp)
 
-#### Cold Breath
+#### Aliento Frío
 
-| Nombre     | Cold Breath                                                                               |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| Japonés    | コールドブレス                                                                                   |
-| Tipo       | Agua                                                                                      |
-| Código     | EBW01-028                                                                                 |
-| Pokémon    | Articuno                                                                                  |
-| Energía    | {W}{W}{W}                                                                                 |
-| Daño       | 20                                                                                        |
-| Efecto     |                                                                                           |
-| De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
-| Pino       |                                                                                           |
-| De espalda |                                                                                           |
-| Boca abajo |                                                                                           |
-| De lado    | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
+| Nombre     | Aliento Frío                                                                                |
+| ---------- | ------------------------------------------------------------------------------------------- |
+| Japonés    | コールドブレス                                                                                     |
+| Tipo       | Agua                                                                                        |
+| Código     | EBW01-028                                                                                   |
+| Pokémon    | Articuno                                                                                    |
+| Energía    | {W}{W}{W}                                                                                   |
+| Daño       | 20                                                                                          |
+| Efecto     |                                                                                             |
+| De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 2. |
+| Pino       |                                                                                             |
+| De espalda |                                                                                             |
+| Boca abajo |                                                                                             |
+| De lado    | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 2. |
 
-[Cold Breath](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard08.webp)
+[Aliento Frío](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard08.webp)
 
-#### Sheer Cold
+#### Frío Polar
 
-| Nombre     | Sheer Cold                                                                                                                                  |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | ぜったいれいど                                                                                                                                     |
-| Tipo       | Agua                                                                                                                                        |
-| Código     | EBW01-029                                                                                                                                   |
-| Pokémon    | Articuno                                                                                                                                    |
-| Energía    | {W}{W}{W}{W}                                                                                                                                |
-| Daño       | 40                                                                                                                                          |
-| Efecto     |                                                                                                                                             |
-| De pie     | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
-| Pino       |                                                                                                                                             |
-| De espalda | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
-| Boca abajo |                                                                                                                                             |
-| De lado    |                                                                                                                                             |
+| Nombre     | Frío Polar                                                                                                                                |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | ぜったいれいど                                                                                                                                   |
+| Tipo       | Agua                                                                                                                                      |
+| Código     | EBW01-029                                                                                                                                 |
+| Pokémon    | Articuno                                                                                                                                  |
+| Energía    | {W}{W}{W}{W}                                                                                                                              |
+| Daño       | 40                                                                                                                                        |
+| Efecto     |                                                                                                                                           |
+| De pie     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 2. No pueden tirar su Charakoro. |
+| Pino       |                                                                                                                                           |
+| De espalda | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 2. No pueden tirar su Charakoro. |
+| Boca abajo |                                                                                                                                           |
+| De lado    |                                                                                                                                           |
 
-[Sheer Cold](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
+[Frío Polar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
 
 #### Vuelo
 
@@ -190,4 +190,4 @@
 | Boca abajo | Este ataque no hace nada.                                                            |
 | De lado    | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. |
 
-[Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)
+[Vuelo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

@@ -1,10 +1,10 @@
-## Articuno Cards
+## Cartas de Articuno
 
 ### Caja de Exploración 1
 
-#### Ice Wing
+#### Ala Gélida
 
-| Nombre     | Ice Wing                                                                                  |
+| Nombre     | Ala Gélida                                                                                |
 | ---------- | ----------------------------------------------------------------------------------------- |
 | Japonés    | アイスウイング                                                                                   |
 | Tipo       | Agua                                                                                      |
@@ -173,21 +173,21 @@
 
 [Sheer Cold](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
 
-#### Fly
+#### Vuelo
 
-| Nombre     | Fly                                                                                              |
-| ---------- | ------------------------------------------------------------------------------------------------ |
-| Japonés    | そらをとぶ                                                                                            |
-| Tipo       | Volador                                                                                          |
-| Código     | EBW01-030                                                                                        |
-| Pokémon    | Articuno                                                                                         |
-| Energía    | {Y}{C}{C}                                                                                        |
-| Daño       | 30                                                                                               |
-| Efecto     |                                                                                                  |
-| De pie     | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
-| Pino       | Este ataque no hace nada.                                                        |
-| De espalda | Este ataque no hace nada.                                                        |
-| Boca abajo | Este ataque no hace nada.                                                        |
-| De lado    | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
+| Nombre     | Vuelo                                                                                                |
+| ---------- | ---------------------------------------------------------------------------------------------------- |
+| Japonés    | そらをとぶ                                                                                                |
+| Tipo       | Volador                                                                                              |
+| Código     | EBW01-030                                                                                            |
+| Pokémon    | Articuno                                                                                             |
+| Energía    | {Y}{C}{C}                                                                                            |
+| Daño       | 30                                                                                                   |
+| Efecto     |                                                                                                      |
+| De pie     | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. |
+| Pino       | Este ataque no hace nada.                                                            |
+| De espalda | Este ataque no hace nada.                                                            |
+| Boca abajo | Este ataque no hace nada.                                                            |
+| De lado    | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

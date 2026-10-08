@@ -139,19 +139,19 @@
 
 #### Hard Shell ?
 
-| Nombre     | Hard Shell ?                                                                                      |
-| ---------- | ------------------------------------------------------------------------------------------------- |
-| Japonés    | カチカチこうら                                                                                           |
-| Tipo       | Agua                                                                                              |
-| Código     | PRW01-3-08                                                                                        |
-| Pokémon    | Squirtle                                                                                          |
-| Energía    | {W}{W}{W}                                                                                         |
-| Daño       | 20                                                                                                |
-| Efecto     |                                                                                                   |
-| De pie     |                                                                                                   |
-| Pino       |                                                                                                   |
-| De espalda |                                                                                                   |
-| Boca abajo | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
-| De lado    |                                                                                                   |
+| Nombre     | Hard Shell ?                                                                                                      |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| Japonés    | カチカチこうら                                                                                                           |
+| Tipo       | Agua                                                                                                              |
+| Código     | PRW01-3-08                                                                                                        |
+| Pokémon    | Squirtle                                                                                                          |
+| Energía    | {W}{W}{W}                                                                                                         |
+| Daño       | 20                                                                                                                |
+| Efecto     |                                                                                                                   |
+| De pie     |                                                                                                                   |
+| Pino       |                                                                                                                   |
+| De espalda |                                                                                                                   |
+| Boca abajo | Durante el próximo turno de tu rival, este Pokémon recibe 50 puntos menos de daño de los ataques. |
+| De lado    |                                                                                                                   |
 
 [Hard Shell](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img03.webp)

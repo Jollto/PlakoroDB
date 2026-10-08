@@ -1,10 +1,10 @@
-## Moltres Cards
+## Cartas de Moltres
 
 ### Caja de Exploración 1
 
-#### Fire Wing
+#### Ala Ígnea
 
-| Nombre     | Fire Wing                                                       |
+| Nombre     | Ala Ígnea                                                       |
 | ---------- | --------------------------------------------------------------- |
 | Japonés    | ほのおのつばさ                                                         |
 | Tipo       | Fuego                                                           |
@@ -19,11 +19,11 @@
 | Boca abajo |                                                                 |
 | De lado    | Este Pokémon también se hace 20 puntos de daño. |
 
-[Fire Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard01.webp)
+[Ala Ígnea](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard01.webp)
 
-#### Heat Wave
+#### Onda Ígnea
 
-| Nombre     | Heat Wave                                               |
+| Nombre     | Onda Ígnea                                              |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ねっぷう                                                    |
 | Tipo       | Fuego                                                   |
@@ -38,106 +38,106 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
 
-[Heat Wave](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard02.webp)
+[Onda Ígnea](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard02.webp)
 
-#### Flamethrower
+#### Lanzallamas
 
-| Nombre     | Flamethrower                                                                   |
-| ---------- | ------------------------------------------------------------------------------ |
-| Japonés    | かえんほうしゃ                                                                        |
-| Tipo       | Fuego                                                                          |
-| Código     | EBW01-013                                                                      |
-| Pokémon    | Moltres                                                                        |
-| Energía    | {R}{R}{R}{R}                                                                   |
-| Daño       | 40                                                                             |
-| Efecto     |                                                                                |
-| De pie     | This attack does 40 more damage.                               |
-| Pino       | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De espalda | This attack does 40 more damage.                               |
-| Boca abajo | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De lado    | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Nombre     | Lanzallamas                                                                           |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Japonés    | かえんほうしゃ                                                                               |
+| Tipo       | Fuego                                                                                 |
+| Código     | EBW01-013                                                                             |
+| Pokémon    | Moltres                                                                               |
+| Energía    | {R}{R}{R}{R}                                                                          |
+| Daño       | 40                                                                                    |
+| Efecto     |                                                                                       |
+| De pie     | Este ataque hace 40 puntos de daño más.                               |
+| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De espalda | Este ataque hace 40 puntos de daño más.                               |
+| Boca abajo | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De lado    | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 
-[Flamethrower](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard03.webp)
+[Lanzallamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard03.webp)
 
-#### Flare Blitz
+#### Envite Ígneo
 
-| Nombre     | Flare Blitz                                                 |
-| ---------- | ----------------------------------------------------------- |
-| Japonés    | フレアドライブ                                                     |
-| Tipo       | Fuego                                                       |
-| Código     | EBW01-014                                                   |
-| Pokémon    | Moltres                                                     |
-| Energía    | {R}{R}{R}{R}{R}                                             |
-| Daño       | 50                                                          |
-| Efecto     |                                                             |
-| De pie     | This attack does 40 more damage.            |
-| Pino       | This Pokémon also does 40 damage to itself. |
-| De espalda | This attack does 40 more damage.            |
-| Boca abajo | This attack does 40 more damage.            |
-| De lado    | This Pokémon also does 40 damage to itself. |
+| Nombre     | Envite Ígneo                                                    |
+| ---------- | --------------------------------------------------------------- |
+| Japonés    | フレアドライブ                                                         |
+| Tipo       | Fuego                                                           |
+| Código     | EBW01-014                                                       |
+| Pokémon    | Moltres                                                         |
+| Energía    | {R}{R}{R}{R}{R}                                                 |
+| Daño       | 50                                                              |
+| Efecto     |                                                                 |
+| De pie     | Este ataque hace 40 puntos de daño más.         |
+| Pino       | Este Pokémon también se hace 40 puntos de daño. |
+| De espalda | Este ataque hace 40 puntos de daño más.         |
+| Boca abajo | Este ataque hace 40 puntos de daño más.         |
+| De lado    | Este Pokémon también se hace 40 puntos de daño. |
 
-[Flamethrower](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard04.webp)
+[Envite Ígneo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard04.webp)
 
-#### Hurricane
+#### Vendaval
 
-| Nombre     | Hurricane                                        |
-| ---------- | ------------------------------------------------ |
-| Japonés    | ぼうふう                                             |
-| Tipo       | Volador                                          |
-| Código     | EBW01-015                                        |
-| Pokémon    | Moltres                                          |
-| Energía    | {Y}{C}{C}{C}                                     |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 60 more damage. |
-| Pino       |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Vendaval                                                |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | ぼうふう                                                    |
+| Tipo       | Volador                                                 |
+| Código     | EBW01-015                                               |
+| Pokémon    | Moltres                                                 |
+| Energía    | {Y}{C}{C}{C}                                            |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 60 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
-[Hurricane](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard05.webp)
+[Vendaval](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard05.webp)
 
-#### Fire Spin
+#### Giro Fuego
 
-| Nombre     | Fire Spin                                                                      |
-| ---------- | ------------------------------------------------------------------------------ |
-| Japonés    | ほのおのうず                                                                         |
-| Tipo       | Fuego                                                                          |
-| Código     | EBW01-016                                                                      |
-| Pokémon    | Moltres                                                                        |
-| Energía    | {R}{R}                                                                         |
-| Daño       | 20                                                                             |
-| Efecto     |                                                                                |
-| De pie     | This attack does 40 more damage.                               |
-| Pino       | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De espalda | This attack does 40 more damage.                               |
-| Boca abajo | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De lado    | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Nombre     | Giro Fuego                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Japonés    | ほのおのうず                                                                                |
+| Tipo       | Fuego                                                                                 |
+| Código     | EBW01-016                                                                             |
+| Pokémon    | Moltres                                                                               |
+| Energía    | {R}{R}                                                                                |
+| Daño       | 20                                                                                    |
+| Efecto     |                                                                                       |
+| De pie     | Este ataque hace 40 puntos de daño más.                               |
+| Pino       | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De espalda | Este ataque hace 40 puntos de daño más.                               |
+| Boca abajo | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De lado    | Durante tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 
-[Fire Spin](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard06.webp)
+[Giro Fuego](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard06.webp)
 
-#### Heat Breath
+#### Aliento Ardiente
 
-| Nombre     | Heat Breath                                                 |
-| ---------- | ----------------------------------------------------------- |
-| Japonés    | ヒートブレス                                                      |
-| Tipo       | Fuego                                                       |
-| Código     | EBW01-017                                                   |
-| Pokémon    | Moltres                                                     |
-| Energía    | {R}{R}{R}                                                   |
-| Daño       | 40                                                          |
-| Efecto     |                                                             |
-| De pie     | This attack does 40 more damage.            |
-| Pino       | This Pokémon also does 30 damage to itself. |
-| De espalda | This attack does 40 more damage.            |
-| Boca abajo | This Pokémon also does 30 damage to itself. |
-| De lado    |                                                             |
+| Nombre     | Aliento Ardiente                                                |
+| ---------- | --------------------------------------------------------------- |
+| Japonés    | ヒートブレス                                                          |
+| Tipo       | Fuego                                                           |
+| Código     | EBW01-017                                                       |
+| Pokémon    | Moltres                                                         |
+| Energía    | {R}{R}{R}                                                       |
+| Daño       | 40                                                              |
+| Efecto     |                                                                 |
+| De pie     | Este ataque hace 40 puntos de daño más.         |
+| Pino       | Este Pokémon también se hace 30 puntos de daño. |
+| De espalda | Este ataque hace 40 puntos de daño más.         |
+| Boca abajo | Este Pokémon también se hace 30 puntos de daño. |
+| De lado    |                                                                 |
 
-[Heat Breath](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard07.webp)
+[Aliento Ardiente](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard07.webp)
 
-#### Burn Up
+#### Llama Final
 
-| Nombre     | Burn Up                                   |
+| Nombre     | Llama Final                               |
 | ---------- | ----------------------------------------- |
 | Japonés    | もえつきる                                     |
 | Tipo       | Fuego                                     |
@@ -147,12 +147,12 @@
 | Daño       | 80                                        |
 | Efecto     |                                           |
 | De pie     |                                           |
-| Pino       | This attack does nothing. |
-| De espalda | This attack does nothing. |
-| Boca abajo | This attack does nothing. |
+| Pino       | Este ataque no hace nada. |
+| De espalda | Este ataque no hace nada. |
+| Boca abajo | Este ataque no hace nada. |
 | De lado    |                                           |
 
-[Burn Up](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard08.webp)
+[Llama Final](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard08.webp)
 
 #### Wing Rush ?
 
@@ -185,9 +185,9 @@
 | Daño       | 30                                                                                               |
 | Efecto     |                                                                                                  |
 | De pie     | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
-| Pino       | This attack does nothing.                                                        |
-| De espalda | This attack does nothing.                                                        |
-| Boca abajo | This attack does nothing.                                                        |
+| Pino       | Este ataque no hace nada.                                                        |
+| De espalda | Este ataque no hace nada.                                                        |
+| Boca abajo | Este ataque no hace nada.                                                        |
 | De lado    | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard10.webp)

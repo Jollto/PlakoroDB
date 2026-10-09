@@ -21,9 +21,9 @@
 
 [Gas Sofocante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard01.webp)
 
-#### Spooky Shot
+#### Disparo Embrujado
 
-| Nombre     | Spooky Shot                                             |
+| Nombre     | Disparo Embrujado                                       |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ホロウショット                                                 |
 | Tipo       | Siniestro                                               |
@@ -38,26 +38,26 @@
 | Boca abajo | Este ataque hace 20 puntos de daño más. |
 | De lado    |                                                         |
 
-[Spooky Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard02.webp)
+[Disparo Embrujado](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard02.webp)
 
-#### Upside Down ?
+#### Boca Abajo ?
 
-| Nombre     | Upside Down ?                                                                               |
-| ---------- | ------------------------------------------------------------------------------------------- |
-| Japonés    | まっさかさま                                                                                      |
-| Tipo       | Siniestro                                                                                   |
-| Código     | STW07-003                                                                                   |
-| Pokémon    | Gengar                                                                                      |
-| Energía    | {D}{D}                                                                                      |
-| Daño       | 20                                                                                          |
-| Efecto     |                                                                                             |
-| De pie     | On your opponent's next turn, set the direction of their Charakoro to {hs}. |
-| Pino       |                                                                                             |
-| De espalda |                                                                                             |
-| Boca abajo |                                                                                             |
-| De lado    | On your opponent's next turn, set the direction of their Charakoro to {hs}. |
+| Nombre     | Boca Abajo ?                                                                               |
+| ---------- | ------------------------------------------------------------------------------------------ |
+| Japonés    | まっさかさま                                                                                     |
+| Tipo       | Siniestro                                                                                  |
+| Código     | STW07-003                                                                                  |
+| Pokémon    | Gengar                                                                                     |
+| Energía    | {D}{D}                                                                                     |
+| Daño       | 20                                                                                         |
+| Efecto     |                                                                                            |
+| De pie     | En el próximo turno de tu rival, fija la dirección de su Charakoro a {hs}. |
+| Pino       |                                                                                            |
+| De espalda |                                                                                            |
+| Boca abajo |                                                                                            |
+| De lado    | En el próximo turno de tu rival, fija la dirección de su Charakoro a {hs}. |
 
-[Upside Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard03.webp)
+[Boca Abajo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard03.webp)
 
 #### Shadow Bind
 

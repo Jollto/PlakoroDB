@@ -19,7 +19,7 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Gnaw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard01.webp)
+[Roar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard01.webp)
 
 #### Impactrueno
 
@@ -38,30 +38,30 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
 
-[Thunder Shock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard02.webp)
+[Impactrueno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard02.webp)
 
-#### Electric Rush ?
+#### Asalto Eléctrico ?
 
-| Nombre     | Electric Rush ?                                                                                                        |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | エレキラッシュ                                                                                                                |
-| Tipo       | Eléctrico                                                                                                              |
-| Código     | STW04-003                                                                                                              |
-| Pokémon    | Pikachu                                                                                                                |
-| Energía    | {L}{L}                                                                                                                 |
-| Daño       | 20                                                                                                                     |
-| Efecto     | This attack's damage isn't affected by Weakness.                                                       |
-| De pie     | Use "Electric Rush" 1 more time. (Puede repetirse hasta que falle.) |
-| Pino       |                                                                                                                        |
-| De espalda | Use "Electric Rush" 1 more time. (Puede repetirse hasta que falle.) |
-| Boca abajo |                                                                                                                        |
-| De lado    |                                                                                                                        |
+| Nombre     | Asalto Eléctrico ?                                                                                                      |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | エレキラッシュ                                                                                                                 |
+| Tipo       | Eléctrico                                                                                                               |
+| Código     | STW04-003                                                                                                               |
+| Pokémon    | Pikachu                                                                                                                 |
+| Energía    | {L}{L}                                                                                                                  |
+| Daño       | 20                                                                                                                      |
+| Efecto     | El daño de este ataque no se ve afectado por Debilidad.                                                 |
+| De pie     | Usa "Asalto Eléctrico" 1 vez más. (Puede repetirse hasta que falle.) |
+| Pino       |                                                                                                                         |
+| De espalda | Usa "Asalto Eléctrico" 1 vez más. (Puede repetirse hasta que falle.) |
+| Boca abajo |                                                                                                                         |
+| De lado    |                                                                                                                         |
 
-[Electric Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard03.webp)
+[Asalto Eléctrico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard03.webp)
 
-#### Thunderbolt
+#### Rayo
 
-| Nombre     | Thunderbolt                                                                      |
+| Nombre     | Rayo                                                                             |
 | ---------- | -------------------------------------------------------------------------------- |
 | Japonés    | 10まんボルト                                                                          |
 | Tipo       | Eléctrico                                                                        |
@@ -76,11 +76,11 @@
 | Boca abajo | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 | De lado    | Este ataque hace 20 puntos de daño más.                          |
 
-[Thunderbolt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard04.webp)
+[Rayo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard04.webp)
 
-#### Thunder
+#### Trueno
 
-| Nombre     | Thunder                                                 |
+| Nombre     | Trueno                                                  |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | かみなり                                                    |
 | Tipo       | Eléctrico                                               |
@@ -95,11 +95,11 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Thunder](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard05.webp)
+[Rayo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard05.webp)
 
-#### Volt Tackle
+#### Placaje Eléctrico
 
-| Nombre     | Volt Tackle                                                     |
+| Nombre     | Placaje Eléctrico                                               |
 | ---------- | --------------------------------------------------------------- |
 | Japonés    | ボルテッカー                                                          |
 | Tipo       | Eléctrico                                                       |
@@ -114,7 +114,7 @@
 | Boca abajo | Este ataque hace 40 puntos de daño más.         |
 | De lado    |                                                                 |
 
-[Volt Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard06.webp)
+[Placaje Eléctrico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard06.webp)
 
 #### Cola Férrea
 
@@ -133,7 +133,7 @@
 | Boca abajo | Durante el próximo turno de tu rival, este Pokémon recibe 10 puntos menos de daño de los ataques. |
 | De lado    |                                                                                                                   |
 
-[Iron Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
+[Cola Férrea](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
 
 ### Promoción
 

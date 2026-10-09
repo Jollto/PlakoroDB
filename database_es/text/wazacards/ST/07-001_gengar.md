@@ -1,10 +1,10 @@
-## Gengar Cards
+## Cartas de Gengar
 
 ### Set de Inicio
 
-#### Suffocating Gas
+#### Gas Sofocante
 
-| Nombre     | Suffocating Gas                                         |
+| Nombre     | Gas Sofocante                                           |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ガスでつつむ                                                  |
 | Tipo       | Siniestro                                               |
@@ -19,7 +19,7 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 10 puntos de daño más. |
 
-[Suffocating Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard01.webp)
+[Gas Sofocante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard01.webp)
 
 #### Spooky Shot
 

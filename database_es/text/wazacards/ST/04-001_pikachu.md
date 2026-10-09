@@ -19,7 +19,7 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Roar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard01.webp)
+[Roer](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard01.webp)
 
 #### Impactrueno
 
@@ -95,7 +95,7 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Rayo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard05.webp)
+[Trueno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard05.webp)
 
 #### Placaje Eléctrico
 
@@ -137,9 +137,9 @@
 
 ### Promoción
 
-#### Critical Bolt ?
+#### Voltaje Crítico ?
 
-| Nombre     | Critical Bolt ?                                         |
+| Nombre     | Voltaje Crítico ?                                       |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | クリティカルボルト                                               |
 | Tipo       | Eléctrico                                               |
@@ -154,4 +154,4 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Critical Bolt](https://x.com/plakoro_pokepla/status/2082994699628150947/photo/1)
+[Voltaje Crítico](https://x.com/plakoro_pokepla/status/2082994699628150947/photo/1)

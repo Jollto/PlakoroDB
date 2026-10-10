@@ -21,9 +21,9 @@
 
 [Ice Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard01.webp)
 
-#### Frozen Blade ?
+#### Freezing Blade ?
 
-| Name      | Frozen Blade ?                                                                  |
+| Name      | Freezing Blade ?                                                                |
 | --------- | ------------------------------------------------------------------------------- |
 | Japanese  | いてつくやいば                                                                         |
 | Type      | Water                                                                           |
@@ -38,7 +38,7 @@
 | Down      |                                                                                 |
 | Sideways  | On your opponent's next turn, they cannot roll their Charakoro. |
 
-[Frozen Blade](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
+[Freezing Blade](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
 
 #### Blizzard Storm ?
 

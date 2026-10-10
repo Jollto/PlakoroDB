@@ -1,10 +1,10 @@
-## Altaria Cards
+## Cartas de Altaria
 
 ### Set de Inicio
 
-#### Peck
+#### Picotazo
 
-| Nombre     | Peck                                                    |
+| Nombre     | Picotazo                                                |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | つつく                                                     |
 | Tipo       | Volador                                                 |
@@ -19,26 +19,26 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Peck](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard01.webp)
+[Picotazo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard01.webp)
 
-#### Fluffy Flight ?
+#### Vuelo Suave ?
 
-| Nombre     | Fluffy Flight ?                                                                                                                                                                                  |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japonés    | ふわふわひこう                                                                                                                                                                                          |
-| Tipo       | Volador                                                                                                                                                                                          |
-| Código     | STW10-002                                                                                                                                                                                        |
-| Pokémon    | Altaria                                                                                                                                                                                          |
-| Energía    | {Y}{Y}                                                                                                                                                                                           |
-| Daño       | 20                                                                                                                                                                                               |
-| Efecto     |                                                                                                                                                                                                  |
-| De pie     | On the opponent's next turn, if the charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
-| Pino       |                                                                                                                                                                                                  |
-| De espalda |                                                                                                                                                                                                  |
-| Boca abajo |                                                                                                                                                                                                  |
-| De lado    | On the opponent's next turn, if the charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
+| Nombre     | Vuelo Suave ?                                                                                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | ふわふわひこう                                                                                                                                                                               |
+| Tipo       | Volador                                                                                                                                                                               |
+| Código     | STW10-002                                                                                                                                                                             |
+| Pokémon    | Altaria                                                                                                                                                                               |
+| Energía    | {Y}{Y}                                                                                                                                                                                |
+| Daño       | 20                                                                                                                                                                                    |
+| Efecto     |                                                                                                                                                                                       |
+| De pie     | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (Aún te afectan otros efectos.) |
+| Pino       |                                                                                                                                                                                       |
+| De espalda |                                                                                                                                                                                       |
+| Boca abajo |                                                                                                                                                                                       |
+| De lado    | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (Aún te afectan otros efectos.) |
 
-[Fluffy Flight](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
+[Vuelo Suave](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 
 #### Respiro
 
@@ -57,7 +57,7 @@
 | Boca abajo |                                                             |
 | De lado    | Cura 20 puntos de daño más de este Pokémon. |
 
-[Roost](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard03.webp)
+[Respiro](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard03.webp)
 
 #### Golpe Aéreo
 
@@ -76,30 +76,30 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Aerial Ace](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard04.webp)
+[Golpe Aéreo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard04.webp)
 
 #### Vuelo
 
-| Nombre     | Vuelo                                                                                                                                                                              |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | そらをとぶ                                                                                                                                                                              |
-| Tipo       | Volador                                                                                                                                                                            |
-| Código     | STW10-005                                                                                                                                                                          |
-| Pokémon    | Altaria                                                                                                                                                                            |
-| Energía    | {Y}{Y}{Y}                                                                                                                                                                          |
-| Daño       | 40                                                                                                                                                                                 |
-| Efecto     |                                                                                                                                                                                    |
-| De pie     | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. (You are still affected by other effects.) |
-| Pino       | Este ataque no hace nada.                                                                                                                                          |
-| De espalda | Este ataque no hace nada.                                                                                                                                          |
-| Boca abajo | Este ataque no hace nada.                                                                                                                                          |
-| De lado    | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. (You are still affected by other effects.) |
+| Nombre     | Vuelo                                                                                                                                                                   |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | そらをとぶ                                                                                                                                                                   |
+| Tipo       | Volador                                                                                                                                                                 |
+| Código     | STW10-005                                                                                                                                                               |
+| Pokémon    | Altaria                                                                                                                                                                 |
+| Energía    | {Y}{Y}{Y}                                                                                                                                                               |
+| Daño       | 40                                                                                                                                                                      |
+| Efecto     |                                                                                                                                                                         |
+| De pie     | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. (Aún te afectan otros efectos.) |
+| Pino       | Este ataque no hace nada.                                                                                                                               |
+| De espalda | Este ataque no hace nada.                                                                                                                               |
+| Boca abajo | Este ataque no hace nada.                                                                                                                               |
+| De lado    | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. (Aún te afectan otros efectos.) |
 
-[Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
+[Vuelo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
 
-#### Sky Attack
+#### Ataque Aéreo
 
-| Nombre     | Sky Attack                                                                       |
+| Nombre     | Ataque Aéreo                                                                     |
 | ---------- | -------------------------------------------------------------------------------- |
 | Japonés    | ゴッドバード                                                                           |
 | Tipo       | Volador                                                                          |
@@ -108,31 +108,31 @@
 | Energía    | {Y}{Y}{Y}{Y}                                                                     |
 | Daño       | 30                                                                               |
 | Efecto     |                                                                                  |
-| De pie     | This attack does 50 more damage.                                 |
+| De pie     | Este ataque hace 50 puntos de daño más.                          |
 | Pino       | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De espalda | This attack does 50 more damage.                                 |
+| De espalda | Este ataque hace 50 puntos de daño más.                          |
 | Boca abajo | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 | De lado    |                                                                                  |
 
-[Sky Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard06.webp)
+[Ataque Aéreo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard06.webp)
 
-#### Moonblast
+#### Fuerza Lunar
 
-| Nombre     | Moonblast                                                                       |
-| ---------- | ------------------------------------------------------------------------------- |
-| Japonés    | ムーンフォース                                                                         |
-| Tipo       | Psíquico                                                                        |
-| Código     | STW10-007                                                                       |
-| Pokémon    | Altaria                                                                         |
-| Energía    | {P}{C}{C}{C}                                                                    |
-| Daño       | 30                                                                              |
-| Efecto     |                                                                                 |
-| De pie     | If the opponent is a {N} type, this attack does 40 more damage. |
-| Pino       |                                                                                 |
-| De espalda |                                                                                 |
-| Boca abajo |                                                                                 |
-| De lado    | If the opponent is a {N} type, this attack does 40 more damage. |
+| Nombre     | Fuerza Lunar                                                                        |
+| ---------- | ----------------------------------------------------------------------------------- |
+| Japonés    | ムーンフォース                                                                             |
+| Tipo       | Psíquico                                                                            |
+| Código     | STW10-007                                                                           |
+| Pokémon    | Altaria                                                                             |
+| Energía    | {P}{C}{C}{C}                                                                        |
+| Daño       | 30                                                                                  |
+| Efecto     |                                                                                     |
+| De pie     | Si el rival es de tipo {N}, este ataque hace 40 puntos de daño más. |
+| Pino       |                                                                                     |
+| De espalda |                                                                                     |
+| Boca abajo |                                                                                     |
+| De lado    | Si el rival es de tipo {N}, este ataque hace 40 puntos de daño más. |
 
-[Moonblast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)
+[Fuerza Lunar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)
 
 

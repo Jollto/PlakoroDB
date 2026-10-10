@@ -59,9 +59,9 @@
 
 [Boca Abajo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard03.webp)
 
-#### Shadow Bind
+#### Atadura Sombría
 
-| Nombre     | Shadow Bind                                                                      |
+| Nombre     | Atadura Sombría                                                                  |
 | ---------- | -------------------------------------------------------------------------------- |
 | Japonés    | かげしばり                                                                            |
 | Tipo       | Siniestro                                                                        |
@@ -76,11 +76,11 @@
 | Boca abajo |                                                                                  |
 | De lado    | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
 
-[Shadow Bind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard04.webp)
+[Atadura Sombría](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard04.webp)
 
-#### Sludge Bomb
+#### Bomba Lodo
 
-| Nombre     | Sludge Bomb                                             |
+| Nombre     | Bomba Lodo                                              |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ヘドロばくだん                                                 |
 | Tipo       | Siniestro                                               |
@@ -95,30 +95,30 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
 
-[Sludge Bomb](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard05.webp)
+[Bomba Lodo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard05.webp)
 
-#### Phantom Trick ?
+#### Truco Fantasmal ?
 
-| Nombre     | Phantom Trick ?                                                                                                                              |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | ファントムトリック                                                                                                                                    |
-| Tipo       | Siniestro                                                                                                                                    |
-| Código     | STW07-006                                                                                                                                    |
-| Pokémon    | Gengar                                                                                                                                       |
-| Energía    | {D}{D}{D}{D}                                                                                                                                 |
-| Daño       | 10                                                                                                                                           |
-| Efecto     |                                                                                                                                              |
-| De pie     | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
-| Pino       | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
-| De espalda | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
-| Boca abajo | Your opponent also rolls their Charakoro 3 times. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
-| De lado    |                                                                                                                                              |
+| Nombre     | Truco Fantasmal ?                                                                                                                         |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | ファントムトリック                                                                                                                                 |
+| Tipo       | Siniestro                                                                                                                                 |
+| Código     | STW07-006                                                                                                                                 |
+| Pokémon    | Gengar                                                                                                                                    |
+| Energía    | {D}{D}{D}{D}                                                                                                                              |
+| Daño       | 10                                                                                                                                        |
+| Efecto     |                                                                                                                                           |
+| De pie     | Tu oponente también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| Pino       | Tu oponente también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| De espalda | Tu oponente también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| Boca abajo | Tu oponente también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| De lado    |                                                                                                                                           |
 
-[Phantom Trick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard06.webp)
+[Truco Fantasmal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard06.webp)
 
-#### Psywave
+#### Psicoonda
 
-| Nombre     | Psywave                                                 |
+| Nombre     | Psicoonda                                               |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | サイコウェーブ                                                 |
 | Tipo       | Psíquico                                                |
@@ -133,13 +133,13 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Psywave](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard07.webp)
+[Psicoonda](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard07.webp)
 
 ### Promoción
 
-#### Night Lock ?
+#### Parálisis Nocturna ?
 
-| Nombre     | Night Lock ?                                                                                |
+| Nombre     | Parálisis Nocturna ?                                                                        |
 | ---------- | ------------------------------------------------------------------------------------------- |
 | Japonés    | ナイトロック                                                                                      |
 | Tipo       | Siniestro                                                                                   |
@@ -154,4 +154,4 @@
 | Boca abajo |                                                                                             |
 | De lado    |                                                                                             |
 
-[Night Lock](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img03.webp)
+[Parálisis Nocturna](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img03.webp)

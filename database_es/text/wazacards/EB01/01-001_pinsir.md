@@ -154,9 +154,9 @@
 
 [Carga Descuidada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
-#### Deadly Scissors ?
+#### Tijera Mortal ?
 
-| Nombre     | Deadly Scissors ?                                       |
+| Nombre     | Tijera Mortal ?                                         |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ひっさつばさみ                                                 |
 | Tipo       | Planta                                                  |
@@ -171,7 +171,7 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Deadly Scissors](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
+[Tijera Mortal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
 #### Sumisión
 

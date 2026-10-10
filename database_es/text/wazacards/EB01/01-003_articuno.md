@@ -21,9 +21,9 @@
 
 [Ala Gélida](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard01.webp)
 
-#### Hoja Heladora ?
+#### Freezing Blade ?
 
-| Nombre     | Hoja Heladora ?                                                                  |
+| Nombre     | Freezing Blade ?                                                                 |
 | ---------- | -------------------------------------------------------------------------------- |
 | Japonés    | いてつくやいば                                                                          |
 | Tipo       | Agua                                                                             |
@@ -38,7 +38,7 @@
 | Boca abajo |                                                                                  |
 | De lado    | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
 
-[Hoja Heladora](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
+[Freezing Blade](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
 
 #### Tormenta Ventisca ?
 

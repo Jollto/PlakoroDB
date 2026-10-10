@@ -154,9 +154,9 @@
 
 [Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
-#### Deadly Slice ?
+#### Deadly Scissors ?
 
-| Name      | Deadly Slice ?                                   |
+| Name      | Deadly Scissors ?                                |
 | --------- | ------------------------------------------------ |
 | Japanese  | ひっさつばさみ                                          |
 | Type      | Grass                                            |
@@ -171,7 +171,7 @@
 | Down      |                                                  |
 | Sideways  |                                                  |
 
-[Deadly Slice](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
+[Deadly Scissors](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
 #### Submission
 

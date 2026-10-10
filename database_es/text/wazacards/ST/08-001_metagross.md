@@ -1,10 +1,10 @@
-## Metagross Cards
+## Cartas de Metagross
 
 ### Set de Inicio
 
-#### Beam
+#### Transmisión
 
-| Nombre     | Beam                                                    |
+| Nombre     | Transmisión                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ビーム                                                     |
 | Tipo       | Acero                                                   |
@@ -19,11 +19,11 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Beam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard01.webp)
+[Transmisión](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard01.webp)
 
-#### Basic Calculation ?
+#### Operación Básica ?
 
-| Nombre     | Basic Calculation ?                                                                                                     |
+| Nombre     | Operación Básica ?                                                                                                      |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Japonés    | しそくえんざん                                                                                                                 |
 | Tipo       | Acero                                                                                                                   |

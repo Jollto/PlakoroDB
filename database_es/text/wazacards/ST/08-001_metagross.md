@@ -23,26 +23,26 @@
 
 #### Operación Básica ?
 
-| Nombre     | Operación Básica ?                                                                                                      |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | しそくえんざん                                                                                                                 |
-| Tipo       | Acero                                                                                                                   |
-| Código     | STW08-002                                                                                                               |
-| Pokémon    | Metagross                                                                                                               |
-| Energía    | {M}{M}                                                                                                                  |
-| Daño       | 20                                                                                                                      |
-| Efecto     |                                                                                                                         |
-| De pie     | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this move. |
-| Pino       |                                                                                                                         |
-| De espalda | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this move. |
-| Boca abajo |                                                                                                                         |
-| De lado    | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this move. |
+| Nombre     | Operación Básica ?                                                                                                                       |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | しそくえんざん                                                                                                                                  |
+| Tipo       | Acero                                                                                                                                    |
+| Código     | STW08-002                                                                                                                                |
+| Pokémon    | Metagross                                                                                                                                |
+| Energía    | {M}{M}                                                                                                                                   |
+| Daño       | 20                                                                                                                                       |
+| Efecto     |                                                                                                                                          |
+| De pie     | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este movimiento. |
+| Pino       |                                                                                                                                          |
+| De espalda | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este movimiento. |
+| Boca abajo |                                                                                                                                          |
+| De lado    | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este movimiento. |
 
-[Basic Calculation](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
+[Operación Básica](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
 
-#### Wide Press ?
+#### Vasta Prensa ?
 
-| Nombre     | Wide Press ?                                            |
+| Nombre     | Vasta Prensa ?                                          |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ワイドプレス                                                  |
 | Tipo       | Acero                                                   |
@@ -57,11 +57,11 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 30 puntos de daño más. |
 
-[Wide Press](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard03.webp)
+[Vasta Prensa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard03.webp)
 
-#### Straight Stamp ?
+#### Golpe Recto ?
 
-| Nombre     | Straight Stamp ?                                        |
+| Nombre     | Golpe Recto ?                                           |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ストレートスタンプ                                               |
 | Tipo       | Acero                                                   |
@@ -76,11 +76,11 @@
 | Boca abajo | Este ataque hace 20 puntos de daño más. |
 | De lado    |                                                         |
 
-[Straight Stamp](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard04.webp)
+[Golpe Recto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard04.webp)
 
-#### Meteor Mash
+#### Puño Meteoro
 
-| Nombre     | Meteor Mash                                             |
+| Nombre     | Puño Meteoro                                            |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | コメットパンチ                                                 |
 | Tipo       | Acero                                                   |
@@ -95,11 +95,11 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Meteor Mash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard05.webp)
+[Puño Meteoro](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard05.webp)
 
-#### Heavy Slam
+#### Cuerpo Pesado
 
-| Nombre     | Heavy Slam                                                                       |
+| Nombre     | Cuerpo Pesado                                                                    |
 | ---------- | -------------------------------------------------------------------------------- |
 | Japonés    | ヘビーボンバー                                                                          |
 | Tipo       | Acero                                                                            |
@@ -114,24 +114,24 @@
 | Boca abajo | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 | De lado    | Este ataque hace 40 puntos de daño más.                          |
 
-[Heavy Slam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard06.webp)
+[Cuerpo Pesado](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard06.webp)
 
-#### Explosion
+#### Explosión
 
-| Nombre     | Explosion                                                              |
-| ---------- | ---------------------------------------------------------------------- |
-| Japonés    | だいばくはつ                                                                 |
-| Tipo       | Normal                                                                 |
-| Código     | STW08-007                                                              |
-| Pokémon    | Metagross                                                              |
-| Energía    | {C}{C}{C}{C}{C}                                                        |
-| Daño       | 100                                                                    |
-| Efecto     | This Pokémon also does 120 damage to itself.           |
-| De pie     | Prevent the damage this move would do to your Pokémon. |
-| Pino       |                                                                        |
-| De espalda |                                                                        |
-| Boca abajo |                                                                        |
-| De lado    |                                                                        |
+| Nombre     | Explosión                                                                 |
+| ---------- | ------------------------------------------------------------------------- |
+| Japonés    | だいばくはつ                                                                    |
+| Tipo       | Normal                                                                    |
+| Código     | STW08-007                                                                 |
+| Pokémon    | Metagross                                                                 |
+| Energía    | {C}{C}{C}{C}{C}                                                           |
+| Daño       | 100                                                                       |
+| Efecto     | Este Pokémon también se hace 120 puntos de daño.          |
+| De pie     | Evita el daño que este movimiento causaría a tu Pokémon. |
+| Pino       |                                                                           |
+| De espalda |                                                                           |
+| Boca abajo |                                                                           |
+| De lado    |                                                                           |
 
 [Explosion](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)
 

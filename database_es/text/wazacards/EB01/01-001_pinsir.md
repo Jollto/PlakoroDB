@@ -21,9 +21,9 @@
 
 [Concentrar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
-#### Resist ?
+#### Resistir ?
 
-| Nombre     | Resist ?                                                                                                          |
+| Nombre     | Resistir ?                                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------------------------- |
 | Japonés    | たえる                                                                                                               |
 | Tipo       | Planta                                                                                                            |
@@ -38,11 +38,11 @@
 | Boca abajo | Reduce el daño recibido en 20 puntos adicionales.                                                 |
 | De lado    |                                                                                                                   |
 
-[Resist](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
+[Resistir](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 
-#### Horn Beat ?
+#### Golpe Cuerno ?
 
-| Nombre     | Horn Beat ?                                             |
+| Nombre     | Golpe Cuerno ?                                          |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | つのでたたく                                                  |
 | Tipo       | Planta                                                  |
@@ -57,7 +57,7 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 30 puntos de daño más. |
 
-[Horn Beat](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
+[Golpe Cuerno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
 
 #### Guillotina
 
@@ -97,9 +97,9 @@
 
 [Demolición](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
 
-#### Scissors Charge ?
+#### Carga Tijeras ?
 
-| Nombre     | Scissors Charge ?                                                                    |
+| Nombre     | Carga Tijeras ?                                                                      |
 | ---------- | ------------------------------------------------------------------------------------ |
 | Japonés    | チャージばさみ                                                                              |
 | Tipo       | Planta                                                                               |
@@ -114,7 +114,7 @@
 | Boca abajo |                                                                                      |
 | De lado    |                                                                                      |
 
-[Scissors Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
+[Carga Tijeras](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 
 #### Golpe Cólera ?
 
@@ -133,7 +133,7 @@
 | Boca abajo |                                                                                                                 |
 | De lado    | Durante tu último turno, si tu tirada de Enekoro falló, este ataque hace 40 puntos de daño más. |
 
-[Berserk Swing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
+[Golpe Cólera](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
 
 #### Carga Descuidada
 
@@ -154,9 +154,9 @@
 
 [Carga Descuidada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
-#### Deadly Slice ?
+#### Deadly Scissors ?
 
-| Nombre     | Deadly Slice ?                                          |
+| Nombre     | Deadly Scissors ?                                       |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ひっさつばさみ                                                 |
 | Tipo       | Planta                                                  |
@@ -171,7 +171,7 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Deadly Slice](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
+[Deadly Scissors](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
 #### Sumisión
 

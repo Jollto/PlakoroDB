@@ -76,7 +76,7 @@
 | Down      | This attack does 40 more damage.            |
 | Sideways  | This Pokémon also does 40 damage to itself. |
 
-[Flamethrower](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard04.webp)
+[Flare Blitz](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard04.webp)
 
 #### Hurricane
 

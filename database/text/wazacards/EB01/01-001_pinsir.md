@@ -21,9 +21,9 @@
 
 [Concentrate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
-#### Endure ?
+#### Resist ?
 
-| Name      | Endure ?                                                                          |
+| Name      | Resist ?                                                                          |
 | --------- | --------------------------------------------------------------------------------- |
 | Japanese  | たえる                                                                            |
 | Type      | Grass                                                                             |
@@ -38,11 +38,11 @@
 | Down      | Reduce damage taken by an additional 20.                                          |
 | Sideways  |                                                                                   |
 
-[Endure](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
+[Resist](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 
-#### Horn Attack ?
+#### Horn Beat ?
 
-| Name      | Horn Attack ?                    |
+| Name      | Horn Beat ?                      |
 | --------- | -------------------------------- |
 | Japanese  | つのでたたく                     |
 | Type      | Grass                            |
@@ -57,7 +57,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 30 more damage. |
 
-[Horn Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
+[Horn Beat](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
 
 #### Guillotine
 
@@ -133,7 +133,7 @@
 | Down      |                                                                                      |
 | Sideways  | During your last turn, if your Enekoro roll failed, this attack does 40 more damage. |
 
-[Pincer Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
+[Berserk Swing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
 
 #### Reckless Charge
 
@@ -154,9 +154,9 @@
 
 [Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
-#### Deadly Scissors ?
+#### Deadly Slice ?
 
-| Name      | Deadly Scissors ?                |
+| Name      | Deadly Slice ?                   |
 | --------- | -------------------------------- |
 | Japanese  | ひっさつばさみ                   |
 | Type      | Grass                            |
@@ -171,7 +171,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-[Deadly Scissors](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
+[Deadly Slice](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
 #### Submission
 

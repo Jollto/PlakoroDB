@@ -99,22 +99,22 @@
 
 #### Esfera Aural
 
-| Nombre     | Esfera Aural                                                                                  |
-| ---------- | --------------------------------------------------------------------------------------------- |
-| Japonés    | はどうだん                                                                                         |
-| Tipo       | Lucha                                                                                         |
-| Código     | STW09-006                                                                                     |
-| Pokémon    | Lucario                                                                                       |
-| Energía    | {F}{F}{F}{F}                                                                                  |
-| Daño       | 40                                                                                            |
-| Efecto     |                                                                                               |
-| De pie     | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
-| Pino       |                                                                                               |
-| De espalda | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
-| Boca abajo | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
-| De lado    |                                                                                               |
+| Nombre     | Esfera Aural                                                                                             |
+| ---------- | -------------------------------------------------------------------------------------------------------- |
+| Japonés    | はどうだん                                                                                                    |
+| Tipo       | Lucha                                                                                                    |
+| Código     | STW09-006                                                                                                |
+| Pokémon    | Lucario                                                                                                  |
+| Energía    | {F}{F}{F}{F}                                                                                             |
+| Daño       | 40                                                                                                       |
+| Efecto     |                                                                                                          |
+| De pie     | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 50 puntos de daño más. |
+| Pino       |                                                                                                          |
+| De espalda | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 50 puntos de daño más. |
+| Boca abajo | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 50 puntos de daño más. |
+| De lado    |                                                                                                          |
 
-[Aura Sphere](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard06.webp)
+[Esfera Aural](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard06.webp)
 
 #### Garra Metal
 
@@ -133,25 +133,25 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard07.webp)
+[Garra Metal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard07.webp)
 
 ### Promoción
 
-#### Vacuum Wave
+#### Onda Vacío
 
-| Nombre     | Vacuum Wave                                      |
-| ---------- | ------------------------------------------------ |
-| Japonés    | しんくうは                                            |
-| Tipo       | Lucha                                            |
-| Código     | PRW02-3-08                                       |
-| Pokémon    | Lucario                                          |
-| Energía    | {F}{F}{F}                                        |
-| Daño       | 20                                               |
-| Efecto     |                                                  |
-| De pie     | This attack does 50 more damage. |
-| Pino       |                                                  |
-| De espalda |                                                  |
-| Boca abajo |                                                  |
-| De lado    |                                                  |
+| Nombre     | Onda Vacío                                              |
+| ---------- | ------------------------------------------------------- |
+| Japonés    | しんくうは                                                   |
+| Tipo       | Lucha                                                   |
+| Código     | PRW02-3-08                                              |
+| Pokémon    | Lucario                                                 |
+| Energía    | {F}{F}{F}                                               |
+| Daño       | 20                                                      |
+| Efecto     |                                                         |
+| De pie     | Este ataque hace 50 puntos de daño más. |
+| Pino       |                                                         |
+| De espalda |                                                         |
+| Boca abajo |                                                         |
+| De lado    |                                                         |
 
-[Vacuum Wave](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img02.webp)
+[Onda Vacío](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img02.webp)

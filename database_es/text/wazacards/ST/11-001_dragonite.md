@@ -1,10 +1,10 @@
-## Dragonite Cards
+## Cartas de Dragonite
 
 ### Set de Inicio
 
-#### Dragon Pulse
+#### Pulso Dragón
 
-| Nombre     | Dragon Pulse                                                                     |
+| Nombre     | Pulso Dragón                                                                     |
 | ---------- | -------------------------------------------------------------------------------- |
 | Japonés    | りゅうのはどう                                                                          |
 | Tipo       | Dragón                                                                           |
@@ -19,11 +19,11 @@
 | Boca abajo | En tu próximo turno, reduce el número de Enekoro que tiras en 1. |
 | De lado    |                                                                                  |
 
-[Dragon Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard01.webp)
+[Pulso Dragón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard01.webp)
 
-#### Claw Slash
+#### Cuchillada Garra
 
-| Nombre     | Claw Slash                                              |
+| Nombre     | Cuchillada Garra                                        |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | ツメできりさく                                                 |
 | Tipo       | Dragón                                                  |
@@ -38,11 +38,11 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 20 puntos de daño más. |
 
-[Claw Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard02.webp)
+[Cuchillada Garra](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard02.webp)
 
-#### Wrack Down
+#### Desmoronar
 
-| Nombre     | Wrack Down                                              |
+| Nombre     | Desmoronar                                              |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | たたきつぶす                                                  |
 | Tipo       | Dragón                                                  |
@@ -57,11 +57,11 @@
 | Boca abajo | Este ataque hace 30 puntos de daño más. |
 | De lado    |                                                         |
 
-[Wrack Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard03.webp)
+[Desmoronar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard03.webp)
 
-#### Dragon Blast
+#### Sacudida Dragón
 
-| Nombre     | Dragon Blast                                            |
+| Nombre     | Sacudida Dragón                                         |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | まわしげり                                                   |
 | Tipo       | Dragón                                                  |
@@ -76,11 +76,11 @@
 | Boca abajo | Este ataque hace 40 puntos de daño más. |
 | De lado    |                                                         |
 
-[Dragon Blast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard04.webp)
+[Sacudida Dragón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard04.webp)
 
-#### Scale Press ?
+#### Plancha Escamas ?
 
-| Nombre     | Scale Press ?                                                                                                     |
+| Nombre     | Plancha Escamas ?                                                                                                 |
 | ---------- | ----------------------------------------------------------------------------------------------------------------- |
 | Japonés    | スケイルプレス                                                                                                           |
 | Tipo       | Agua                                                                                                              |
@@ -95,14 +95,14 @@
 | Boca abajo |                                                                                                                   |
 | De lado    |                                                                                                                   |
 
-[Scale Press](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
+[Plancha Escamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
 
-#### Hurricane Tail
+#### Cola Vendaval ?
 
-| Nombre     | Hurricane Tail                                                                                                 |
+| Nombre     | Cola Vendaval ?                                                                                                |
 | ---------- | -------------------------------------------------------------------------------------------------------------- |
 | Japonés    | ハリケーンテール                                                                                                       |
-| Tipo       | Lightning                                                                                                      |
+| Tipo       | Eléctrico                                                                                                      |
 | Código     | STW11-006                                                                                                      |
 | Pokémon    | Dragonite                                                                                                      |
 | Energía    | {L}{L}{C}{C}                                                                                                   |
@@ -114,11 +114,11 @@
 | Boca abajo |                                                                                                                |
 | De lado    | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 20 puntos de daño más. |
 
-[Hurricane Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard06.webp)
+[Cola Vendaval](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard06.webp)
 
-#### Extreme Speed
+#### Velocidad Extrema
 
-| Nombre     | Extreme Speed                                           |
+| Nombre     | Velocidad Extrema                                       |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | しんそく                                                    |
 | Tipo       | Normal                                                  |
@@ -133,4 +133,4 @@
 | Boca abajo |                                                         |
 | De lado    |                                                         |
 
-[Extreme Speed](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard07.webp)
+[Velocidad Extrema](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard07.webp)

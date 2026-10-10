@@ -133,13 +133,13 @@
 | Boca abajo |                                                                           |
 | De lado    |                                                                           |
 
-[Explosion](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)
+[Explosión](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)
 
 ### Promoción
 
-#### Steel Claw ?
+#### Garra Acero ?
 
-| Nombre     | Steel Claw ?                                            |
+| Nombre     | Garra Acero ?                                           |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | こうてつのツメ                                                 |
 | Tipo       | Acero                                                   |

@@ -1,10 +1,10 @@
-## Lucario Cards
+## Cartas de Lucario
 
 ### Set de Inicio
 
-#### Kick
+#### Patada
 
-| Nombre     | Kick                                                    |
+| Nombre     | Patada                                                  |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | キック                                                     |
 | Tipo       | Lucha                                                   |
@@ -19,11 +19,11 @@
 | Boca abajo | Este ataque hace 10 puntos de daño más. |
 | De lado    |                                                         |
 
-[Kick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard01.webp)
+[Patada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard01.webp)
 
-#### Force Palm
+#### Palmeo
 
-| Nombre     | Force Palm                                                                                  |
+| Nombre     | Palmeo                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------- |
 | Japonés    | はっけい                                                                                        |
 | Tipo       | Lucha                                                                                       |
@@ -38,30 +38,30 @@
 | Boca abajo |                                                                                             |
 | De lado    |                                                                                             |
 
-[Force Palm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard02.webp)
+[Palmeo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard02.webp)
 
-#### Aura Knuckle
+#### Nudillo Aural
 
-| Nombre     | Aura Knuckle                                                                                  |
-| ---------- | --------------------------------------------------------------------------------------------- |
-| Japonés    | はどうナックル                                                                                       |
-| Tipo       | Lucha                                                                                         |
-| Código     | STW09-003                                                                                     |
-| Pokémon    | Lucario                                                                                       |
-| Energía    | {F}{F}                                                                                        |
-| Daño       | 20                                                                                            |
-| Efecto     |                                                                                               |
-| De pie     | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
-| Pino       |                                                                                               |
-| De espalda | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
-| Boca abajo | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
-| De lado    |                                                                                               |
+| Nombre     | Nudillo Aural                                                                                            |
+| ---------- | -------------------------------------------------------------------------------------------------------- |
+| Japonés    | はどうナックル                                                                                                  |
+| Tipo       | Lucha                                                                                                    |
+| Código     | STW09-003                                                                                                |
+| Pokémon    | Lucario                                                                                                  |
+| Energía    | {F}{F}                                                                                                   |
+| Daño       | 20                                                                                                       |
+| Efecto     |                                                                                                          |
+| De pie     | Si este Pokémon tiene 80 o menos puntos de vida, este ataque hace 30 puntos de daño más. |
+| Pino       |                                                                                                          |
+| De espalda | Si este Pokémon tiene 80 o menos puntos de vida, este ataque hace 30 puntos de daño más. |
+| Boca abajo | Si este Pokémon tiene 80 o menos puntos de vida, este ataque hace 30 puntos de daño más. |
+| De lado    |                                                                                                          |
 
-[Aura Knuckle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard03.webp)
+[Nudillo Aural](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard03.webp)
 
-#### Rolling Kick
+#### Patada Giro
 
-| Nombre     | Rolling Kick                                            |
+| Nombre     | Patada Giro                                             |
 | ---------- | ------------------------------------------------------- |
 | Japonés    | まわしげり                                                   |
 | Tipo       | Lucha                                                   |
@@ -76,30 +76,30 @@
 | Boca abajo |                                                         |
 | De lado    | Este ataque hace 30 puntos de daño más. |
 
-[Rolling Kick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard04.webp)
+[Patada Giro](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard04.webp)
 
-#### Aura Jab ?
+#### Puya Aural ?
 
-| Nombre     | Aura Jab ?                                                                                                                                     |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | オーラづき                                                                                                                                          |
-| Tipo       | Lucha                                                                                                                                          |
-| Código     | STW09-005                                                                                                                                      |
-| Pokémon    | Lucario                                                                                                                                        |
-| Energía    | {F}{F}{F}                                                                                                                                      |
-| Daño       | 30                                                                                                                                             |
-| Efecto     |                                                                                                                                                |
-| De pie     | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Pino       |                                                                                                                                                |
-| De espalda | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Boca abajo |                                                                                                                                                |
-| De lado    | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Nombre     | Puya Aural ?                                                                                                                                                       |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Japonés    | オーラづき                                                                                                                                                              |
+| Tipo       | Lucha                                                                                                                                                              |
+| Código     | STW09-005                                                                                                                                                          |
+| Pokémon    | Lucario                                                                                                                                                            |
+| Energía    | {F}{F}{F}                                                                                                                                                          |
+| Daño       | 30                                                                                                                                                                 |
+| Efecto     |                                                                                                                                                                    |
+| De pie     | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
+| Pino       |                                                                                                                                                                    |
+| De espalda | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
+| Boca abajo |                                                                                                                                                                    |
+| De lado    | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
 
-[Aura Jab](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard05.webp)
+[Puya Aural](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard05.webp)
 
-#### Aura Sphere
+#### Esfera Aural
 
-| Nombre     | Aura Sphere                                                                                   |
+| Nombre     | Esfera Aural                                                                                  |
 | ---------- | --------------------------------------------------------------------------------------------- |
 | Japonés    | はどうだん                                                                                         |
 | Tipo       | Lucha                                                                                         |

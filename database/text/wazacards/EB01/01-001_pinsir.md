@@ -21,9 +21,9 @@
 
 [Concentrate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
-#### Bear ?
+#### Resist ?
 
-| Name      | Bear ?                                                                            |
+| Name      | Resist ?                                                                          |
 | --------- | --------------------------------------------------------------------------------- |
 | Japanese  | たえる                                                                            |
 | Type      | Grass                                                                             |
@@ -38,7 +38,7 @@
 | Down      | Reduce damage taken by an additional 20.                                          |
 | Sideways  |                                                                                   |
 
-[Bear](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
+[Resist](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 
 #### Horn Beat ?
 

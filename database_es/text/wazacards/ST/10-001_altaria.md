@@ -23,20 +23,20 @@
 
 #### Vuelo Suave ?
 
-| Nombre     | Vuelo Suave ?                                                                                                                                                                         |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés    | ふわふわひこう                                                                                                                                                                               |
-| Tipo       | Volador                                                                                                                                                                               |
-| Código     | STW10-002                                                                                                                                                                             |
-| Pokémon    | Altaria                                                                                                                                                                               |
-| Energía    | {Y}{Y}                                                                                                                                                                                |
-| Daño       | 20                                                                                                                                                                                    |
-| Efecto     |                                                                                                                                                                                       |
-| De pie     | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (Aún te afectan otros efectos.) |
-| Pino       |                                                                                                                                                                                       |
-| De espalda |                                                                                                                                                                                       |
-| Boca abajo |                                                                                                                                                                                       |
-| De lado    | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (Aún te afectan otros efectos.) |
+| Nombre     | Vuelo Suave ?                                                                                                                                                                        |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Japonés    | ふわふわひこう                                                                                                                                                                              |
+| Tipo       | Volador                                                                                                                                                                              |
+| Código     | STW10-002                                                                                                                                                                            |
+| Pokémon    | Altaria                                                                                                                                                                              |
+| Energía    | {Y}{Y}                                                                                                                                                                               |
+| Daño       | 20                                                                                                                                                                                   |
+| Efecto     |                                                                                                                                                                                      |
+| De pie     | En el próximo turno de tu rival, si el Charakoro cae en {s1}{s2}, no recibes daño de los ataques. (Aún te afectan otros efectos.) |
+| Pino       |                                                                                                                                                                                      |
+| De espalda |                                                                                                                                                                                      |
+| Boca abajo |                                                                                                                                                                                      |
+| De lado    | En el próximo turno de tu rival, si el Charakoro cae en {s1}{s2}, no recibes daño de los ataques. (Aún te afectan otros efectos.) |
 
 [Vuelo Suave](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 

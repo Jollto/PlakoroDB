@@ -102,7 +102,7 @@
 | Name      | Hurricane Tail                                                                                           |
 | --------- | -------------------------------------------------------------------------------------------------------- |
 | Japanese  | ハリケーンテール                                                                                                 |
-| Type      | Lightning                                                                                                |
+| Type      | Electric                                                                                                 |
 | Code      | STW11-006                                                                                                |
 | Pokémon   | Dragonite                                                                                                |
 | Energy    | {L}{L}{C}{C}                                                                                             |

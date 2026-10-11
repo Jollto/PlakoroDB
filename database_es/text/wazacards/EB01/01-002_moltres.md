@@ -76,7 +76,7 @@
 | Boca abajo | Este ataque hace 40 puntos de daño más.         |
 | De lado    | Este Pokémon también se hace 40 puntos de daño. |
 
-[Flare Blitz](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard04.webp)
+[Envite Ígneo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard04.webp)
 
 #### Vendaval
 

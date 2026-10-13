@@ -23,20 +23,20 @@
 
 #### Resistir ?
 
-| Nombre     | Resistir ?                                                                                        |
-| ---------- | ------------------------------------------------------------------------------------------------- |
-| Japonés    | たえる                                                                                            |
-| Tipo       | Planta                                                                                            |
-| Código     | EBW01-002                                                                                         |
-| Pokémon    | Pinsir                                                                                            |
-| Energía    | {G}{G}                                                                                            |
-| Daño       |                                                                                                   |
-| Efecto     | Durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
-| De pie     | Reduce el daño recibido en 20 puntos adicionales.                                                 |
-| Pino       |                                                                                                   |
-| De espalda | Reduce el daño recibido en 20 puntos adicionales.                                                 |
-| Boca abajo | Reduce el daño recibido en 20 puntos adicionales.                                                 |
-| De lado    |                                                                                                   |
+| Nombre     | Resistir ?                                                                                      |
+| ---------- | ----------------------------------------------------------------------------------------------- |
+| Japonés    | たえる                                                                                          |
+| Tipo       | Planta                                                                                          |
+| Código     | EBW01-002                                                                                       |
+| Pokémon    | Pinsir                                                                                          |
+| Energía    | {G}{G}                                                                                          |
+| Daño       |                                                                                                 |
+| Efecto     | Durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
+| De pie     | Reduce el daño recibido en 20 puntos adicionales.                                               |
+| Pino       |                                                                                                 |
+| De espalda | Reduce el daño recibido en 20 puntos adicionales.                                               |
+| Boca abajo | Reduce el daño recibido en 20 puntos adicionales.                                               |
+| De lado    |                                                                                                 |
 
 [Resistir](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 

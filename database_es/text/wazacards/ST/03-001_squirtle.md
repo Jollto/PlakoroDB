@@ -23,20 +23,20 @@
 
 #### Refugio
 
-| Nombre     | Refugio                                                                                                           |
-| ---------- | ----------------------------------------------------------------------------------------------------------------- |
-| Japonés    | からにこもる                                                                                                            |
-| Tipo       | Agua                                                                                                              |
-| Código     | STW03-002                                                                                                         |
-| Pokémon    | Squirtle                                                                                                          |
-| Energía    | {W}                                                                                                               |
-| Daño       |                                                                                                                   |
-| Efecto     | Durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
-| De pie     |                                                                                                                   |
-| Pino       |                                                                                                                   |
-| De espalda |                                                                                                                   |
-| Boca abajo | Cura 30 puntos de daño de este Pokémon.                                                           |
-| De lado    |                                                                                                                   |
+| Nombre     | Refugio                                                                                                         |
+| ---------- | --------------------------------------------------------------------------------------------------------------- |
+| Japonés    | からにこもる                                                                                                          |
+| Tipo       | Agua                                                                                                            |
+| Código     | STW03-002                                                                                                       |
+| Pokémon    | Squirtle                                                                                                        |
+| Energía    | {W}                                                                                                             |
+| Daño       |                                                                                                                 |
+| Efecto     | Durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
+| De pie     |                                                                                                                 |
+| Pino       |                                                                                                                 |
+| De espalda |                                                                                                                 |
+| Boca abajo | Cura 30 puntos de daño de este Pokémon.                                                         |
+| De lado    |                                                                                                                 |
 
 [Refugio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard02.webp)
 
@@ -61,20 +61,20 @@
 
 #### Ataque Caparazón
 
-| Nombre     | Ataque Caparazón                                                                                                  |
-| ---------- | ----------------------------------------------------------------------------------------------------------------- |
-| Japonés    | シェルアタック                                                                                                           |
-| Tipo       | Agua                                                                                                              |
-| Código     | STW03-004                                                                                                         |
-| Pokémon    | Squirtle                                                                                                          |
-| Energía    | {W}{W}{W}                                                                                                         |
-| Daño       | 30                                                                                                                |
-| Efecto     |                                                                                                                   |
-| De pie     | Durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
-| Pino       |                                                                                                                   |
-| De espalda | Durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
-| Boca abajo | Durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
-| De lado    |                                                                                                                   |
+| Nombre     | Ataque Caparazón                                                                                                |
+| ---------- | --------------------------------------------------------------------------------------------------------------- |
+| Japonés    | シェルアタック                                                                                                         |
+| Tipo       | Agua                                                                                                            |
+| Código     | STW03-004                                                                                                       |
+| Pokémon    | Squirtle                                                                                                        |
+| Energía    | {W}{W}{W}                                                                                                       |
+| Daño       | 30                                                                                                              |
+| Efecto     |                                                                                                                 |
+| De pie     | Durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
+| Pino       |                                                                                                                 |
+| De espalda | Durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
+| Boca abajo | Durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
+| De lado    |                                                                                                                 |
 
 [Ataque Caparazón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard04.webp)
 
@@ -139,19 +139,19 @@
 
 #### Coraza Dura ?
 
-| Nombre     | Coraza Dura ?                                                                                                     |
-| ---------- | ----------------------------------------------------------------------------------------------------------------- |
-| Japonés    | カチカチこうら                                                                                                           |
-| Tipo       | Agua                                                                                                              |
-| Código     | PRW01-3-08                                                                                                        |
-| Pokémon    | Squirtle                                                                                                          |
-| Energía    | {W}{W}{W}                                                                                                         |
-| Daño       | 20                                                                                                                |
-| Efecto     |                                                                                                                   |
-| De pie     |                                                                                                                   |
-| Pino       |                                                                                                                   |
-| De espalda |                                                                                                                   |
-| Boca abajo | Durante el próximo turno de tu rival, este Pokémon recibe 50 puntos menos de daño de los ataques. |
-| De lado    |                                                                                                                   |
+| Nombre     | Coraza Dura ?                                                                                                   |
+| ---------- | --------------------------------------------------------------------------------------------------------------- |
+| Japonés    | カチカチこうら                                                                                                         |
+| Tipo       | Agua                                                                                                            |
+| Código     | PRW01-3-08                                                                                                      |
+| Pokémon    | Squirtle                                                                                                        |
+| Energía    | {W}{W}{W}                                                                                                       |
+| Daño       | 20                                                                                                              |
+| Efecto     |                                                                                                                 |
+| De pie     |                                                                                                                 |
+| Pino       |                                                                                                                 |
+| De espalda |                                                                                                                 |
+| Boca abajo | Durante el próximo turno de tu rival, los ataques hacen 50 puntos de daño menos a este Pokémon. |
+| De lado    |                                                                                                                 |
 
 [Coraza Dura](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img03.webp)

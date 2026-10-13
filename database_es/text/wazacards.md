@@ -2,20 +2,20 @@
 
 ## Plantilla
 
-| Nombre     |   |
-| ---------- | - |
-| Japonés    |   |
-| Tipo       |   |
-| Código     |   |
-| Pokémon    |   |
-| Energía    |   |
-| Daño       |   |
-| Efecto     |   |
-| De pie     |   |
-| Pino       |   |
-| De espalda |   |
-| Boca abajo |   |
-| De lado    |   |
+| Nombre     |     |
+| ---------- | --- |
+| Japonés    |     |
+| Tipo       |     |
+| Código     |     |
+| Pokémon    |     |
+| Energía    |     |
+| Daño       |     |
+| Efecto     |     |
+| De pie     |     |
+| Pino       |     |
+| De espalda |     |
+| Boca abajo |     |
+| De lado    |     |
 
 ## Set de Inicio
 

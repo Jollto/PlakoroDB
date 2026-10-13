@@ -80,20 +80,20 @@
 
 #### Puya Aural ?
 
-| Nombre     | Puya Aural ?                                                                                                                                                       |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japonés    | オーラづき                                                                                                                                                              |
-| Tipo       | Lucha                                                                                                                                                              |
-| Código     | STW09-005                                                                                                                                                          |
-| Pokémon    | Lucario                                                                                                                                                            |
-| Energía    | {F}{F}{F}                                                                                                                                                          |
-| Daño       | 30                                                                                                                                                                 |
-| Efecto     |                                                                                                                                                                    |
-| De pie     | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
-| Pino       |                                                                                                                                                                    |
-| De espalda | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
-| Boca abajo |                                                                                                                                                                    |
-| De lado    | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, este Pokémon recibe 20 puntos menos de daño de los ataques. |
+| Nombre     | Puya Aural ?                                                                                                                                                     |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés    | オーラづき                                                                                                                                                            |
+| Tipo       | Lucha                                                                                                                                                            |
+| Código     | STW09-005                                                                                                                                                        |
+| Pokémon    | Lucario                                                                                                                                                          |
+| Energía    | {F}{F}{F}                                                                                                                                                        |
+| Daño       | 30                                                                                                                                                               |
+| Efecto     |                                                                                                                                                                  |
+| De pie     | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
+| Pino       |                                                                                                                                                                  |
+| De espalda | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
+| Boca abajo |                                                                                                                                                                  |
+| De lado    | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
 
 [Puya Aural](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard05.webp)
 

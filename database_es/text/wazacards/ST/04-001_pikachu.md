@@ -118,20 +118,20 @@
 
 #### Cola Férrea
 
-| Nombre     | Cola Férrea                                                                                                       |
-| ---------- | ----------------------------------------------------------------------------------------------------------------- |
-| Japonés    | アイアンテール                                                                                                           |
-| Tipo       | Acero                                                                                                             |
-| Código     | STW04-007                                                                                                         |
-| Pokémon    | Pikachu                                                                                                           |
-| Energía    | {M}                                                                                                               |
-| Daño       | 20                                                                                                                |
-| Efecto     |                                                                                                                   |
-| De pie     | Durante el próximo turno de tu rival, este Pokémon recibe 10 puntos menos de daño de los ataques. |
-| Pino       |                                                                                                                   |
-| De espalda | Durante el próximo turno de tu rival, este Pokémon recibe 10 puntos menos de daño de los ataques. |
-| Boca abajo | Durante el próximo turno de tu rival, este Pokémon recibe 10 puntos menos de daño de los ataques. |
-| De lado    |                                                                                                                   |
+| Nombre     | Cola Férrea                                                                                                     |
+| ---------- | --------------------------------------------------------------------------------------------------------------- |
+| Japonés    | アイアンテール                                                                                                         |
+| Tipo       | Acero                                                                                                           |
+| Código     | STW04-007                                                                                                       |
+| Pokémon    | Pikachu                                                                                                         |
+| Energía    | {M}                                                                                                             |
+| Daño       | 20                                                                                                              |
+| Efecto     |                                                                                                                 |
+| De pie     | Durante el próximo turno de tu rival, los ataques hacen 10 puntos de daño menos a este Pokémon. |
+| Pino       |                                                                                                                 |
+| De espalda | Durante el próximo turno de tu rival, los ataques hacen 10 puntos de daño menos a este Pokémon. |
+| Boca abajo | Durante el próximo turno de tu rival, los ataques hacen 10 puntos de daño menos a este Pokémon. |
+| De lado    |                                                                                                                 |
 
 [Cola Férrea](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
 

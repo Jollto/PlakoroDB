@@ -137,9 +137,9 @@
 
 ### Promoción
 
-#### Tormenta Aromática ?
+#### Tormenta Aroma ?
 
-| Nombre     | Tormenta Aromática ?                    |
+| Nombre     | Tormenta Aroma ?                        |
 | ---------- | --------------------------------------- |
 | Japonés    | アロマストーム                          |
 | Tipo       | Planta                                  |
@@ -154,4 +154,4 @@
 | Boca abajo |                                         |
 | De lado    |                                         |
 
-[Tormenta Aromática](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img01.webp)
+[Tormenta Aroma](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img01.webp)

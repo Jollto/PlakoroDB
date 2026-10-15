@@ -51,7 +51,7 @@ You can help by:
 
 And more important, translating the game to other languages! If you're fluent in a langnuage not being supported right now and you want to help, feel free to collaborate!
 
-Feel free to open an Issue or a discussion if you find something missing or want your language included, or make a Pull Request to add to the database! 
+Feel free to open an Issue or a discussion if you find something missing or want your language included, or make a Pull Request to add to the database!
 
 ### Translating
 
@@ -64,10 +64,11 @@ If your language is not supported yet, you can request a new language on crowdin
 If your language is supported, I will suggest starting the translation of the [symbols.md](./database/text/symbols.md) and the [move template from wazacards.md](./database/text/wazacards.md#template), and then feel free to translate the moves and the faq and other files that might exist in a future.
 
 To translate, you will have to follow this steps:
-    - Login to crowdin and join the project.
-    - Once in the dashboard, select the language you want to work with.
-    - Select the file you want to translate, and based on the current english translation, you will be able to write the translation.
-    - Once a translation is finished, you can submit the file for a review request, and a proofreader will check the translation before creating a Pull Request for GitHub.
+
+- Login to crowdin and join the project.
+- Once in the dashboard, select the language you want to work with.
+- Select the file you want to translate, and based on the current english translation, you will be able to write the translation.
+- Once a translation is finished, you can submit the file for a review request, and a proofreader will check the translation before creating a Pull Request for GitHub.
 
 If you also want to help more, you can ask to be a proofreader and help control new translations for whatever language you want.
 
@@ -82,22 +83,22 @@ This license does **not** apply to either Pokémon's and Plakoro's original artw
 ## Structure
 
 - [database](/database/) : where you should find what you're searching
-    - [cards](/database/cards/) : where to find the cards to print
-        - [characards](/database/cards/characards/) : character cards
-        - [wazacards](/database/cards/wazacards/)  : attack cards
-            - [ST](/database/cards/wazacards/ST/): starter set Pokémon
-                - one folder for each Pokémon
-            - [EB01](/database/cards/wazacards/EB01/) : expansion box 01 Pokémon
-                - one folder for each Pokémon
-        - [kits](/database/cards/kits/) : prints for each Pokémon with all its cards, plus the .tex files to make them. PDF size is A4, with cards 6cm * 3 cm.
-    - [text](/database/text/) : text translations
-        - [symbols.md](/database/text/symbols.md): symbols used by the game, reference here for keys
-        - [characards.md](/database/text/characards.md) : characards translation
-        - [wazacards.md](/database/text/wazacards.md) : link to files for all Pokémon, for easier access
-        - [wazacards](/database/text/wazacards/) : folder for the translated moves
-            - [ST](/database/text/wazacards/ST/): starter set Pokémon
-                - one file for each Pokémon, with all the moves it has avaiable
-            - [EB01](/database/text/wazacards/EB01) : expansion box 01 Pokémon
-                - one file for each Pokémon, with all the moves it has avaiable
-        - [korocards](/database/text/korocards/): files for the moves to import to Plakoro Card Maker
-        - [faq.md](/database/text/faq.md): Frequently Asked Questions, updated 01/09/2026
+  - [cards](/database/cards/) : where to find the cards to print
+    - [characards](/database/cards/characards/) : character cards
+    - [wazacards](/database/cards/wazacards/) : attack cards
+      - [ST](/database/cards/wazacards/ST/): starter set Pokémon
+        - one folder for each Pokémon
+      - [EB01](/database/cards/wazacards/EB01/) : expansion box 01 Pokémon
+        - one folder for each Pokémon
+    - [kits](/database/cards/kits/) : prints for each Pokémon with all its cards, plus the .tex files to make them. PDF size is A4, with cards 6cm \* 3 cm.
+  - [text](/database/text/) : text translations
+    - [symbols.md](/database/text/symbols.md): symbols used by the game, reference here for keys
+    - [characards.md](/database/text/characards.md) : characards translation
+    - [wazacards.md](/database/text/wazacards.md) : link to files for all Pokémon, for easier access
+    - [wazacards](/database/text/wazacards/) : folder for the translated moves
+      - [ST](/database/text/wazacards/ST/): starter set Pokémon
+        - one file for each Pokémon, with all the moves it has avaiable
+      - [EB01](/database/text/wazacards/EB01) : expansion box 01 Pokémon
+        - one file for each Pokémon, with all the moves it has avaiable
+    - [korocards](/database/text/korocards/): files for the moves to import to Plakoro Card Maker
+    - [faq.md](/database/text/faq.md): Frequently Asked Questions, updated 01/09/2026

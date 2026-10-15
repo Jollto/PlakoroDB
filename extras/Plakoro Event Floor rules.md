@@ -1,13 +1,16 @@
 # Event Floor Rules
+
 (A Request to Everyone)
 
 Let's all follow these rules so we can have fun and play safely together!
 
 ## ■ 1. To Everyone Participating in the Event
+
 - Remember to be polite and considerate toward your opponents and the staff, and have fun playing until the very end.
 - Follow the rules of the event and matches, and compete fairly and honorably.
 
 ## ■ 2. Items Used in Matches
+
 - Please ensure that your Character Chips and Energy Chips comply with the event rules (regulations).
 - Except for Energy Chips customized using officially released custom chips, modified or altered Character Chips and Energy Chips may not be permitted for use in the event.
 - Please store any items not being used in the match in your bag or similar container, and do not leave them on the table.
@@ -22,6 +25,7 @@ Let's all follow these rules so we can have fun and play safely together!
 - Throwing Is Prohibited: Do not take a back swing to throw them or slam them down forcefully, as this can break the Character or Energy Balls or hit people nearby, posing a safety hazard. Please refrain from doing this under any circumstances.
 
 ## ■ 4. Ending a Match
+
 - If the match time runs out, please continue the match until the player whose turn it is to go second has finished their turn.
 - After that, compare your HP; the player with the higher HP wins.
 - If your HP is tied, play rock-paper-scissors to determine the winner.

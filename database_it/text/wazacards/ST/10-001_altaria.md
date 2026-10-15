@@ -134,5 +134,3 @@
 | Sideways  | If the opponent is a {N} type, this attack does 40 more damage. |
 
 [Moonblast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)
-
-

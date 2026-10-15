@@ -134,5 +134,3 @@
 | De lado    | Si el rival es de tipo {N}, este ataque hace 40 puntos de daño más. |
 
 [Fuerza Lunar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)
-
-

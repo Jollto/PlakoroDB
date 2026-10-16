@@ -2,9 +2,9 @@
 
 ### Exploration Box 1
 
-#### Concentrate ?
+#### Focus ?
 
-| Name      | Concentrate ?                                                                    |
+| Name      | Focus ?                                                                          |
 | --------- | -------------------------------------------------------------------------------- |
 | Japanese  | しゅうちゅう                                                                           |
 | Type      | Grass                                                                            |
@@ -19,7 +19,7 @@
 | Down      |                                                                                  |
 | Sideways  | On your next turn, increase the number of Enekoro you roll by 2. |
 
-[Concentrate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
+[Focus](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
 #### Resist ?
 

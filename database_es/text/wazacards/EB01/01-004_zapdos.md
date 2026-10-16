@@ -78,9 +78,9 @@
 
 [Golpe Aéreo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard04.webp)
 
-#### Crackling Wing ?
+#### Ala Chispeante ?
 
-| Nombre      | Crackling Wing ?                                        |
+| Nombre      | Ala Chispeante ?                                        |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | バリバリウイング                                                |
 | Tipo        | Volador                                                 |
@@ -95,7 +95,7 @@
 | Boca abajo  |                                                         |
 | De lado     | Este ataque hace 40 puntos de daño más. |
 
-[Crackling Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
+[Ala Chispeante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
 
 #### Doble Trueno ?
 

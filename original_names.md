@@ -10,7 +10,7 @@ Original translations for moves, due to being new Pokémon moves, or moves for o
 
 | Code       | Japanese             | English            | Spanish              |
 | ---------- | -------------------- | ------------------ | -------------------- |
-| EBW01-001  | しゅうちゅう         | Concentrate        | Concentrar           |
+| EBW01-001  | しゅうちゅう         | Focus              | Concentrar           |
 | EBW01-002  | たえる               | Resist             | Resistir             |
 | EBW01-003  | つのでたたく         | _Horn Beat_        | Golpe Cuerno         |
 | EBW01-006  | チャージばさみ       | _Scissors Charge_  | _Carga Tijeras_      |

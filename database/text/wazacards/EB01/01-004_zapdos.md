@@ -78,9 +78,9 @@
 
 [Aerial Ace](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard04.webp)
 
-#### Crushing Wing ?
+#### Crackling Wing ?
 
-| Name      | Crushing Wing ?                  |
+| Name      | Crackling Wing ?                 |
 | --------- | -------------------------------- |
 | Japanese  | バリバリウイング                 |
 | Type      | Flying                           |
@@ -95,7 +95,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 40 more damage. |
 
-[Crushing Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
+[Crackling Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
 
 #### Dual Thunder ?
 

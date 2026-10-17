@@ -2,9 +2,9 @@
 
 ### Caja de Exploración 1
 
-#### Focus ?
+#### Concentración ?
 
-| Nombre      | Focus ?                                                                              |
+| Nombre      | Concentración ?                                                                      |
 | ----------- | ------------------------------------------------------------------------------------ |
 | Japonés     | しゅうちゅう                                                                               |
 | Tipo        | Planta                                                                               |
@@ -19,7 +19,7 @@
 | Boca abajo  |                                                                                      |
 | De lado     | En tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
 
-[Focus](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
+[Concentración](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
 #### Resistir ?
 

@@ -13,7 +13,7 @@ The player rolling the Enekoro chooses which one to add.
 All the Energy revealed during this process counts as the Energy produced this turn.  
 If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.
 
-R: [Leech Seed](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
+R: [Drenadoras](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
 
 #### 2
 
@@ -22,7 +22,7 @@ In this case, can I raise its HP to 160?
 
 A: No, you cannot. Bulbasaur's max HP is 120.
 
-R: [Giga Drain](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)
+R: [Gigadrenado](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)
 
 #### 3
 
@@ -32,7 +32,7 @@ In this case, who wins or loses?
 A: You lose.  
 If both Pokémon lose all their HP at the same time, the player who used the move loses.
 
-R: [Reckless Charge](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-005.png)
+R: [Carga Descuidada](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-005.png)
 
 #### 4
 
@@ -46,7 +46,7 @@ Next, choose two of the rolled Enekoro and roll them again.
 All the Energy revealed during this process counts as the Energy produced this turn.  
 The player rolling the Enekoro chooses which one to add to increase the number of Enekoro.
 
-R: [Heat Up](/database_es/cards/wazacards/ST/02-001_charmander/STW02-002.png)
+R: [Calentar](/database_es/cards/wazacards/ST/02-001_charmander/STW02-002.png)
 
 #### 5
 
@@ -56,7 +56,7 @@ In this case, how much damage do I deal to my opponent?
 
 A: 70 damage (base 20 + 10 \* 5 fire energy).
 
-R: [Flare Storm](/database_es/cards/wazacards/ST/02-001_charmander/STW02-005.png)
+R: [Tormenta de Llamas](/database_es/cards/wazacards/ST/02-001_charmander/STW02-005.png)
 
 #### 6
 
@@ -67,7 +67,7 @@ In this case, how much damage do I take?
 
 A: 0 damage.
 
-R: [Shell Attack](/database_es/cards/wazacards/ST/03-001_squirtle/STW03-004.png), [Vine Whip](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)
+R: [Ataque Caparazón](/database_es/cards/wazacards/ST/03-001_squirtle/STW03-004.png), [Látigo Cepa](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)
 
 #### 7
 
@@ -77,7 +77,7 @@ In this case, how much damage do I take?
 
 A: 10 damage.
 
-R: [Shell Attack](/database_es/cards/wazacards/ST/03-001_squirtle/STW03-004.png), [Vine Whip](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)
+R: [Ataque Caparazón](/database_es/cards/wazacards/ST/03-001_squirtle/STW03-004.png), [Látigo Cepa](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)
 
 #### 8
 
@@ -87,7 +87,7 @@ How is the effect "Use "Electric Rush" 1 more time. (Can be repeated until it fa
 A: Roll the Enekoro and Charakoro again to attempt "Electric Rush".  
 Repeat this until you fail either the Enekoro or Charakoro rolls.
 
-R: [Electric Rush](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
+R: [Asalto Eléctrico](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
 #### 9
 
@@ -98,7 +98,7 @@ Also, who chooses which Enekoro to reduce?
 A: Choose any one of your three Enekoro and roll it.  
 The player rolling the Enekoro chooses which one to reduce.
 
-R: [Thunderbolt](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-004.png)
+R: [Rayo](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-004.png)
 
 #### 10
 
@@ -108,7 +108,7 @@ In this case, who wins or loses?
 A: You lose.  
 If both Pokémon lose all their HP at the same time, the player who used the move loses.
 
-R: [Volt Tackle](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-006.png)
+R: [Placaje Eléctrico](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-006.png)
 
 #### 11
 
@@ -119,7 +119,7 @@ When I use "Electric Rush" for the second time in a row, how many Enekoro do I h
 A: 2 Enekoro.  
 Even if you continue to succeed, the number of Enekoro you can roll remains at 2.
 
-R: [Electric Rush](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-003.png), [Leech Seed](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
+R: [Asalto Eléctrico](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-003.png), [Drenadoras](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
 
 #### 12
 
@@ -129,7 +129,7 @@ When I use "Electric Rush" for the second time in a row, how many Enekoro can I 
 A: 2 Enekoro.  
 Even if you continue to succeed, the number of Enekoro you can roll remains at 2.
 
-R: [Electric Rush](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
+R: [Asalto Eléctrico](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
 #### 13
 
@@ -139,7 +139,7 @@ In this case, how much damage will I deal to my opponent?
 
 A: 30 damage.
 
-R: [Take Down](/database_es/cards/wazacards/ST/05-001_eevee/STW05-003.png)
+R: [Derribo](/database_es/cards/wazacards/ST/05-001_eevee/STW05-003.png)
 
 #### 14
 
@@ -148,7 +148,7 @@ How many energies of which type do I need to succeed?
 
 A: This move succeeds as long as you have 5 energies - any type will do.
 
-R: [Best Dash](/database_es/cards/wazacards/ST/05-001_eevee/STW05-005.png)
+R: [Mejor Carrera](/database_es/cards/wazacards/ST/05-001_eevee/STW05-005.png)
 
 #### 15
 
@@ -158,7 +158,7 @@ In this case, who wins or loses?
 A: You lose.  
 If both Pokémon lose all their HP at the same time, the player who used the move loses.
 
-R: [Take Down](/database_es/cards/wazacards/ST/05-001_eevee/STW05-003.png)
+R: [Derribo](/database_es/cards/wazacards/ST/05-001_eevee/STW05-003.png)
 
 #### 16
 
@@ -169,7 +169,7 @@ In this case, how much damage will I deal to my opponent?
 A: 30 damage.  
 Since the number of the most common Energy type is 1, 1x10 = 10 damage is added.
 
-R: [Psychic](/database_es/cards/wazacards/ST/06-001_mew/STW06-006.png)
+R: [Psíquico](/database_es/cards/wazacards/ST/06-001_mew/STW06-006.png)
 
 #### 17
 
@@ -181,7 +181,7 @@ A: 20 damage.
 The damage listed on the opponent's last-chosen move is 10 damage.  
 Because the Charakoro effect of "Reflection" allows you to deal double that amount, the damage is 10x2 = 20 damage.
 
-R: [Reflection](/database_es/cards/wazacards/ST/06-001_mew/STW06-007.png), [Gnaw](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-001.png)
+R: [Rebote](/database_es/cards/wazacards/ST/06-001_mew/STW06-007.png), [Roer](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-001.png)
 
 #### 18
 
@@ -194,7 +194,7 @@ All the Energy revealed during this process counts as the Energy produced this t
 If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.  
 The player rolling the Enekoro chooses which one to add.
 
-R: [Scissors Charge](/database_es/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)
+R: [Carga Tijeras](/database_es/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)
 
 #### 19
 
@@ -206,7 +206,7 @@ A: No, you cannot.
 As the Enekoro roll failed, the move fails.  
 In this case, the Charakoro check is not carried out, and the turn ends.
 
-R: [Guillotine](/database_es/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)
+R: [Guillotina](/database_es/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)
 
 #### 20
 
@@ -216,7 +216,7 @@ In this case, who wins or loses?
 A: You lose.  
 If both Pokémon lose all their HP at the same time, the player who used the move loses.
 
-R: [Fire Wing](/database_es/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)
+R: [Ala Ígnea](/database_es/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)
 
 #### 21
 
@@ -226,7 +226,7 @@ Who decides which Enekoro to remove?
 A: The opponent.  
 The player who rolls the Enekoro decides which one to remove.
 
-R: [Ice Wing](/database_es/cards/wazacards/EB01/01-003_articuno/EBW01-021.png)
+R: [Ala Gélida](/database_es/cards/wazacards/EB01/01-003_articuno/EBW01-021.png)
 
 #### 22
 
@@ -236,7 +236,7 @@ In this case, how many Enekoro can I roll on my next turn?
 
 A: 3 Enekoro.
 
-R: [Cold Breath](/database_es/cards/wazacards/EB01/01-003_articuno/EBW01-028.png), [Heat Up](/database_es/cards/wazacards/ST/02-001_charmander/STW02-002.png)
+R: [Aliento Frío](/database_es/cards/wazacards/EB01/01-003_articuno/EBW01-028.png), [Calentar](/database_es/cards/wazacards/ST/02-001_charmander/STW02-002.png)
 
 #### 23
 
@@ -246,7 +246,7 @@ How is the effect "Reroll your Charakoro. (Can be repeated until it fails.)" app
 A: Roll the Charakoro until a result other than {st}{ba}{do} appears.  
 Inflict damage on your opponent's Pokémon equal to the number of times {st}{ba}{do} appeared multiplied by 30, plus the base 30.
 
-R: [Thunder Chain](/database_es/cards/wazacards/EB01/01-004_zapdos/EBW01-039.png)
+R: [Cadena de Rayos](/database_es/cards/wazacards/EB01/01-004_zapdos/EBW01-039.png)
 
 #### 24
 
@@ -257,7 +257,7 @@ In this case, how much damage do I take?
 A: 0 damage.  
 Each time you take a hit from a move, you can reduce the damage you take by 30.
 
-R: [Rock Wall](/database_es/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Electric Rush](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
+R: [Muro de Rocas](/database_es/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Asalto Eléctrico](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
 #### 25
 
@@ -268,7 +268,7 @@ In this case, how much damage do I take?
 A: 40 damage.  
 You can subtract 30 from the total damage dealt by "Volt Rush".
 
-R: [Rock Wall](/database_es/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Volt Rush](/database_es/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)
+R: [Muro de Rocas](/database_es/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Electrofuria](/database_es/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)
 
 #### 26
 
@@ -278,7 +278,7 @@ On my next turn, if I succeed at both the Enekoro and Charakoro rolls for Grimer
 
 A: Yes, you can.
 
-R: [Poison Gas](/database_es/cards/wazacards/EB01/01-006_grimer/EBW01-051.png), [Toxic Blast](/database_es/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)
+R: [Gas Venenoso](/database_es/cards/wazacards/EB01/01-006_grimer/EBW01-051.png), [Chorro Tóxico](/database_es/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)
 
 #### 27
 
@@ -288,7 +288,7 @@ On my next turn, if I succeed at the Enekoro and Charakoro rolls for Grimer's mo
 
 A: Yes, you can.
 
-R: [Harassment Venom](/database_es/cards/wazacards/EB01/01-006_grimer/EBW01-060.png), [Electric Rush](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
+R: [Veneno Hostil](/database_es/cards/wazacards/EB01/01-006_grimer/EBW01-060.png), [Asalto Eléctrico](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
 #### 28
 
@@ -298,7 +298,7 @@ In this case, can I deal additional damage?
 A: No, you cannot.  
 You can only deal additional damage via the Charakoro effect of "Aura Knuckle" when HP is 80 or less.
 
-R: [Aura Knuckle](/database_es/cards/wazacards/ST/09-001_lucario/STW09-003.png)
+R: [Nudillo Aural](/database_es/cards/wazacards/ST/09-001_lucario/STW09-003.png)
 
 #### 29
 
@@ -308,7 +308,7 @@ How is the effect "On the opponent's next turn, set the direction of their Chara
 A: On the opponent's next turn, after the opponent rolls the Charakoro, they set it to {ht}.  
 This ensures that even if the opponent rolls the Charakoro multiple times on their next turn, all Charakoro will be set to {ht}.
 
-R: [Upside Down](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png)
+R: [Boca Abajo](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png)
 
 #### 30
 
@@ -319,7 +319,7 @@ In this case, what will be the orientation of the Charakoro the opponent rolls o
 A: On the next turn, all the Charakoro the opponent rolls will be {ht}.  
 As a result, all "Dual Thunder" Charakoro checks will fail.
 
-R: [Upside Down](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png), [Dual Thunder](/database_es/cards/wazacards/EB01/01-004_zapdos/EBW01-036.png)
+R: [Boca Abajo](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png), [Doble Trueno](/database_es/cards/wazacards/EB01/01-004_zapdos/EBW01-036.png)
 
 #### 31
 
@@ -329,7 +329,7 @@ In this case, what will be the orientation of the Charakoro I roll on my next tu
 
 A: Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will be {ht}.
 
-R: [Basic Calculation](/database_es/cards/wazacards/ST/08-001_metagross/STW08-002.png), [Upside Down](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png)
+R: [Operación Básica](/database_es/cards/wazacards/ST/08-001_metagross/STW08-002.png), [Boca Abajo](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png)
 
 #### 32
 
@@ -339,7 +339,7 @@ In this case, what will be the orientation of the Charakoro I roll on my next tu
 
 A: Due to the "Shadow Bind" Charakoro effect, you will be unable to roll the Charakoro.
 
-R: [Basic Calculation](/database_es/cards/wazacards/ST/08-001_metagross/STW08-002.png), [Shadow Bind](/database_es/cards/wazacards/ST/07-001_gengar/STW07-004.png)
+R: [Operación Básica](/database_es/cards/wazacards/ST/08-001_metagross/STW08-002.png), [Atadura Sombría](/database_es/cards/wazacards/ST/07-001_gengar/STW07-004.png)
 
 #### 33
 
@@ -349,7 +349,7 @@ In this case, who wins or loses?
 A: You lose.  
 If both Pokémon lose all their HP at the same time, the player who used the move loses.
 
-R: [Explosion](/database_es/cards/wazacards/ST/08-001_metagross/STW08-007.png)
+R: [Explosión](/database_es/cards/wazacards/ST/08-001_metagross/STW08-007.png)
 
 ## About the Basic Rules
 

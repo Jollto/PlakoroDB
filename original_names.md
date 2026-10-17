@@ -10,7 +10,7 @@ Original translations for moves, due to being new Pokémon moves, or moves for o
 
 | Code       | Japanese             | English            | Spanish              |
 | ---------- | -------------------- | ------------------ | -------------------- |
-| EBW01-001  | しゅうちゅう         | Concentrate        | Concentrar           |
+| EBW01-001  | しゅうちゅう         | Focus              | Concentrar           |
 | EBW01-002  | たえる               | Resist             | Resistir             |
 | EBW01-003  | つのでたたく         | _Horn Beat_        | Golpe Cuerno         |
 | EBW01-006  | チャージばさみ       | _Scissors Charge_  | _Carga Tijeras_      |
@@ -22,7 +22,7 @@ Original translations for moves, due to being new Pokémon moves, or moves for o
 | EBW01-026  | フリーズダイブ       | Freeze Dive        | Picada Helada        |
 | EBW01-031  | でんじフラッシュ     | _Thunder Flash_    | _Trueno Destello_    |
 | EBW01-033  | ボルトラッシュ       | Volt Rush          | Electrofuria         |
-| EBW01-035  | バリバリウイング     | Crushing Wing      | Ala Trituradora      |
+| EBW01-035  | バリバリウイング     | ~~Crackling Wing~~ | ~~Ala Chispeante~~   |
 | EBW01-036  | ダブルサンダー       | Dual Thunder       | Doble Trueno         |
 | EBW01-037  | エレキアロー         | Electroarrow       | Electroflecha        |
 | EBW01-039  | サンダーチェイン     | Thunder Chain      | _Cadena de Rayos_    |

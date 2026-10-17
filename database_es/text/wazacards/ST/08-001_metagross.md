@@ -4,110 +4,110 @@
 
 #### Transmisión
 
-| Nombre      | Transmisión                                             |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | ビーム                                                     |
-| Tipo        | Acero                                                   |
-| Código      | STW08-001                                               |
-| Pokémon     | Metagross                                               |
-| Energía     | {M}                                                     |
-| Daño        | 10                                                      |
-| Efecto      |                                                         |
+| Nombre      | Transmisión                             |
+| ----------- | --------------------------------------- |
+| Japonés     | ビーム                                  |
+| Tipo        | Acero                                   |
+| Código      | STW08-001                               |
+| Pokémon     | Metagross                               |
+| Energía     | {M}                                     |
+| Daño        | 10                                      |
+| Efecto      |                                         |
 | De pie      | Este ataque hace 20 puntos de daño más. |
-| De cabeza   |                                                         |
+| De cabeza   |                                         |
 | Boca arriba | Este ataque hace 20 puntos de daño más. |
-| Boca abajo  |                                                         |
-| De lado     |                                                         |
+| Boca abajo  |                                         |
+| De lado     |                                         |
 
 [Transmisión](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard01.webp)
 
 #### Operación Básica ?
 
-| Nombre      | Operación Básica ?                                                                                                                       |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | しそくえんざん                                                                                                                                  |
-| Tipo        | Acero                                                                                                                                    |
-| Código      | STW08-002                                                                                                                                |
-| Pokémon     | Metagross                                                                                                                                |
-| Energía     | {M}{M}                                                                                                                                   |
-| Daño        | 20                                                                                                                                       |
-| Efecto      |                                                                                                                                          |
+| Nombre      | Operación Básica ?                                                                                                       |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Japonés     | しそくえんざん                                                                                                           |
+| Tipo        | Acero                                                                                                                    |
+| Código      | STW08-002                                                                                                                |
+| Pokémon     | Metagross                                                                                                                |
+| Energía     | {M}{M}                                                                                                                   |
+| Daño        | 20                                                                                                                       |
+| Efecto      |                                                                                                                          |
 | De pie      | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este movimiento. |
-| De cabeza   |                                                                                                                                          |
+| De cabeza   |                                                                                                                          |
 | Boca arriba | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este movimiento. |
-| Boca abajo  |                                                                                                                                          |
+| Boca abajo  |                                                                                                                          |
 | De lado     | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este movimiento. |
 
 [Operación Básica](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
 
 #### Vasta Prensa ?
 
-| Nombre      | Vasta Prensa ?                                          |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | ワイドプレス                                                  |
-| Tipo        | Acero                                                   |
-| Código      | STW08-003                                               |
-| Pokémon     | Metagross                                               |
-| Energía     | {M}{M}                                                  |
-| Daño        | 20                                                      |
-| Efecto      |                                                         |
-| De pie      |                                                         |
-| De cabeza   |                                                         |
-| Boca arriba |                                                         |
-| Boca abajo  |                                                         |
+| Nombre      | Vasta Prensa ?                          |
+| ----------- | --------------------------------------- |
+| Japonés     | ワイドプレス                            |
+| Tipo        | Acero                                   |
+| Código      | STW08-003                               |
+| Pokémon     | Metagross                               |
+| Energía     | {M}{M}                                  |
+| Daño        | 20                                      |
+| Efecto      |                                         |
+| De pie      |                                         |
+| De cabeza   |                                         |
+| Boca arriba |                                         |
+| Boca abajo  |                                         |
 | De lado     | Este ataque hace 30 puntos de daño más. |
 
 [Vasta Prensa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard03.webp)
 
 #### Golpe Recto ?
 
-| Nombre      | Golpe Recto ?                                           |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | ストレートスタンプ                                               |
-| Tipo        | Acero                                                   |
-| Código      | STW08-004                                               |
-| Pokémon     | Metagross                                               |
-| Energía     | {M}{M}{M}                                               |
-| Daño        | 30                                                      |
-| Efecto      |                                                         |
+| Nombre      | Golpe Recto ?                           |
+| ----------- | --------------------------------------- |
+| Japonés     | ストレートスタンプ                      |
+| Tipo        | Acero                                   |
+| Código      | STW08-004                               |
+| Pokémon     | Metagross                               |
+| Energía     | {M}{M}{M}                               |
+| Daño        | 30                                      |
+| Efecto      |                                         |
 | De pie      | Este ataque hace 20 puntos de daño más. |
-| De cabeza   |                                                         |
+| De cabeza   |                                         |
 | Boca arriba | Este ataque hace 20 puntos de daño más. |
 | Boca abajo  | Este ataque hace 20 puntos de daño más. |
-| De lado     |                                                         |
+| De lado     |                                         |
 
 [Golpe Recto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard04.webp)
 
 #### Puño Meteoro
 
-| Nombre      | Puño Meteoro                                            |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | コメットパンチ                                                 |
-| Tipo        | Acero                                                   |
-| Código      | STW08-005                                               |
-| Pokémon     | Metagross                                               |
-| Energía     | {M}{M}{M}                                               |
-| Daño        | 20                                                      |
-| Efecto      |                                                         |
+| Nombre      | Puño Meteoro                            |
+| ----------- | --------------------------------------- |
+| Japonés     | コメットパンチ                          |
+| Tipo        | Acero                                   |
+| Código      | STW08-005                               |
+| Pokémon     | Metagross                               |
+| Energía     | {M}{M}{M}                               |
+| Daño        | 20                                      |
+| Efecto      |                                         |
 | De pie      | Este ataque hace 40 puntos de daño más. |
-| De cabeza   |                                                         |
+| De cabeza   |                                         |
 | Boca arriba | Este ataque hace 40 puntos de daño más. |
-| Boca abajo  |                                                         |
-| De lado     |                                                         |
+| Boca abajo  |                                         |
+| De lado     |                                         |
 
 [Puño Meteoro](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard05.webp)
 
 #### Cuerpo Pesado
 
-| Nombre      | Cuerpo Pesado                                                                    |
-| ----------- | -------------------------------------------------------------------------------- |
-| Japonés     | ヘビーボンバー                                                                          |
-| Tipo        | Acero                                                                            |
-| Código      | STW08-006                                                                        |
-| Pokémon     | Metagross                                                                        |
-| Energía     | {M}{M}{M}{M}                                                                     |
-| Daño        | 40                                                                               |
-| Efecto      |                                                                                  |
+| Nombre      | Cuerpo Pesado                                                    |
+| ----------- | ---------------------------------------------------------------- |
+| Japonés     | ヘビーボンバー                                                   |
+| Tipo        | Acero                                                            |
+| Código      | STW08-006                                                        |
+| Pokémon     | Metagross                                                        |
+| Energía     | {M}{M}{M}{M}                                                     |
+| Daño        | 40                                                               |
+| Efecto      |                                                                  |
 | De pie      | Este ataque hace 40 puntos de daño más.                          |
 | De cabeza   | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 | Boca arriba | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
@@ -118,20 +118,20 @@
 
 #### Explosión
 
-| Nombre      | Explosión                                                                 |
-| ----------- | ------------------------------------------------------------------------- |
-| Japonés     | だいばくはつ                                                                    |
-| Tipo        | Normal                                                                    |
-| Código      | STW08-007                                                                 |
-| Pokémon     | Metagross                                                                 |
-| Energía     | {C}{C}{C}{C}{C}                                                           |
-| Daño        | 100                                                                       |
-| Efecto      | Este Pokémon también se hace 120 puntos de daño.          |
-| De pie      | Evita el daño que este movimiento causaría a tu Pokémon. |
-| De cabeza   |                                                                           |
-| Boca arriba |                                                                           |
-| Boca abajo  |                                                                           |
-| De lado     |                                                                           |
+| Nombre      | Explosión                                                |
+| ----------- | -------------------------------------------------------- |
+| Japonés     | だいばくはつ                                             |
+| Tipo        | Normal                                                   |
+| Código      | STW08-007                                                |
+| Pokémon     | Metagross                                                |
+| Energía     | {C}{C}{C}{C}{C}                                          |
+| Daño        | 100                                                      |
+| Efecto      | Este Pokémon también se hace 120 puntos de daño.         |
+| De pie      | Evita el daño que este movimiento causaría a tu Pokémon. |
+| De cabeza   |                                                          |
+| Boca arriba |                                                          |
+| Boca abajo  |                                                          |
+| De lado     |                                                          |
 
 [Explosión](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)
 
@@ -139,19 +139,19 @@
 
 #### Garra Acero ?
 
-| Nombre      | Garra Acero ?                                           |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | こうてつのツメ                                                 |
-| Tipo        | Acero                                                   |
-| Código      | PRW02-2-08                                              |
-| Pokémon     | Metagross                                               |
-| Energía     | {M}                                                     |
-| Daño        | 10                                                      |
-| Efecto      |                                                         |
+| Nombre      | Garra Acero ?                           |
+| ----------- | --------------------------------------- |
+| Japonés     | こうてつのツメ                          |
+| Tipo        | Acero                                   |
+| Código      | PRW02-2-08                              |
+| Pokémon     | Metagross                               |
+| Energía     | {M}                                     |
+| Daño        | 10                                      |
+| Efecto      |                                         |
 | De pie      | Este ataque hace 30 puntos de daño más. |
-| De cabeza   |                                                         |
-| Boca arriba |                                                         |
-| Boca abajo  |                                                         |
-| De lado     |                                                         |
+| De cabeza   |                                         |
+| Boca arriba |                                         |
+| Boca abajo  |                                         |
+| De lado     |                                         |
 
 [Garra Acero](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img04.webp)

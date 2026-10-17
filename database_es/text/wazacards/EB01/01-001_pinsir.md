@@ -4,190 +4,190 @@
 
 #### Focus ?
 
-| Nombre      | Focus ?                                                                              |
-| ----------- | ------------------------------------------------------------------------------------ |
-| Japonés     | しゅうちゅう                                                                               |
-| Tipo        | Planta                                                                               |
-| Código      | EBW01-001                                                                            |
-| Pokémon     | Pinsir                                                                               |
-| Energía     | {G}                                                                                  |
-| Daño        |                                                                                      |
-| Efecto      |                                                                                      |
+| Nombre      | Focus ?                                                              |
+| ----------- | -------------------------------------------------------------------- |
+| Japonés     | しゅうちゅう                                                         |
+| Tipo        | Planta                                                               |
+| Código      | EBW01-001                                                            |
+| Pokémon     | Pinsir                                                               |
+| Energía     | {G}                                                                  |
+| Daño        |                                                                      |
+| Efecto      |                                                                      |
 | De pie      | En tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
-| De cabeza   |                                                                                      |
-| Boca arriba |                                                                                      |
-| Boca abajo  |                                                                                      |
+| De cabeza   |                                                                      |
+| Boca arriba |                                                                      |
+| Boca abajo  |                                                                      |
 | De lado     | En tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
 
 [Focus](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
 #### Resistir ?
 
-| Nombre      | Resistir ?                                                                                                      |
-| ----------- | --------------------------------------------------------------------------------------------------------------- |
-| Japonés     | たえる                                                                                                             |
-| Tipo        | Planta                                                                                                          |
-| Código      | EBW01-002                                                                                                       |
-| Pokémon     | Pinsir                                                                                                          |
-| Energía     | {G}{G}                                                                                                          |
-| Daño        |                                                                                                                 |
+| Nombre      | Resistir ?                                                                                      |
+| ----------- | ----------------------------------------------------------------------------------------------- |
+| Japonés     | たえる                                                                                          |
+| Tipo        | Planta                                                                                          |
+| Código      | EBW01-002                                                                                       |
+| Pokémon     | Pinsir                                                                                          |
+| Energía     | {G}{G}                                                                                          |
+| Daño        |                                                                                                 |
 | Efecto      | Durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
 | De pie      | Reduce el daño recibido en 20 puntos adicionales.                                               |
-| De cabeza   |                                                                                                                 |
+| De cabeza   |                                                                                                 |
 | Boca arriba | Reduce el daño recibido en 20 puntos adicionales.                                               |
 | Boca abajo  | Reduce el daño recibido en 20 puntos adicionales.                                               |
-| De lado     |                                                                                                                 |
+| De lado     |                                                                                                 |
 
 [Resistir](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 
 #### Golpe Cuerno ?
 
-| Nombre      | Golpe Cuerno ?                                          |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | つのでたたく                                                  |
-| Tipo        | Planta                                                  |
-| Código      | EBW01-003                                               |
-| Pokémon     | Pinsir                                                  |
-| Energía     | {G}{G}{G}                                               |
-| Daño        | 20                                                      |
-| Efecto      |                                                         |
+| Nombre      | Golpe Cuerno ?                          |
+| ----------- | --------------------------------------- |
+| Japonés     | つのでたたく                            |
+| Tipo        | Planta                                  |
+| Código      | EBW01-003                               |
+| Pokémon     | Pinsir                                  |
+| Energía     | {G}{G}{G}                               |
+| Daño        | 20                                      |
+| Efecto      |                                         |
 | De pie      | Este ataque hace 30 puntos de daño más. |
-| De cabeza   |                                                         |
-| Boca arriba |                                                         |
-| Boca abajo  |                                                         |
+| De cabeza   |                                         |
+| Boca arriba |                                         |
+| Boca abajo  |                                         |
 | De lado     | Este ataque hace 30 puntos de daño más. |
 
 [Golpe Cuerno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
 
 #### Guillotina
 
-| Nombre      | Guillotina                                           |
-| ----------- | ---------------------------------------------------- |
-| Japonés     | ハサミギロチン                                              |
-| Tipo        | Normal                                               |
-| Código      | EBW01-004                                            |
-| Pokémon     | Pinsir                                               |
-| Energía     | {G}{G}{G}{G}{G}                                      |
-| Daño        |                                                      |
-| Efecto      |                                                      |
+| Nombre      | Guillotina                           |
+| ----------- | ------------------------------------ |
+| Japonés     | ハサミギロチン                       |
+| Tipo        | Normal                               |
+| Código      | EBW01-004                            |
+| Pokémon     | Pinsir                               |
+| Energía     | {G}{G}{G}{G}{G}                      |
+| Daño        |                                      |
+| Efecto      |                                      |
 | De pie      | Este ataque hace 150 puntos de daño. |
-| De cabeza   |                                                      |
-| Boca arriba |                                                      |
-| Boca abajo  |                                                      |
-| De lado     |                                                      |
+| De cabeza   |                                      |
+| Boca arriba |                                      |
+| Boca abajo  |                                      |
+| De lado     |                                      |
 
 [Guillotina](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard04.webp)
 
 #### Demolición
 
-| Nombre      | Demolición                                              |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | かわらわり                                                   |
-| Tipo        | Lucha                                                   |
-| Código      | EBW01-005                                               |
-| Pokémon     | Pinsir                                                  |
-| Energía     | {F}                                                     |
-| Daño        | 20                                                      |
-| Efecto      |                                                         |
+| Nombre      | Demolición                              |
+| ----------- | --------------------------------------- |
+| Japonés     | かわらわり                              |
+| Tipo        | Lucha                                   |
+| Código      | EBW01-005                               |
+| Pokémon     | Pinsir                                  |
+| Energía     | {F}                                     |
+| Daño        | 20                                      |
+| Efecto      |                                         |
 | De pie      | Este ataque hace 20 puntos de daño más. |
-| De cabeza   |                                                         |
+| De cabeza   |                                         |
 | Boca arriba | Este ataque hace 20 puntos de daño más. |
-| Boca abajo  |                                                         |
-| De lado     |                                                         |
+| Boca abajo  |                                         |
+| De lado     |                                         |
 
 [Demolición](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
 
 #### Carga Tijeras ?
 
-| Nombre      | Carga Tijeras ?                                                                      |
-| ----------- | ------------------------------------------------------------------------------------ |
-| Japonés     | チャージばさみ                                                                              |
-| Tipo        | Planta                                                                               |
-| Código      | EBW01-006                                                                            |
-| Pokémon     | Pinsir                                                                               |
-| Energía     | {G}{G}                                                                               |
-| Daño        | 20                                                                                   |
-| Efecto      |                                                                                      |
+| Nombre      | Carga Tijeras ?                                                      |
+| ----------- | -------------------------------------------------------------------- |
+| Japonés     | チャージばさみ                                                       |
+| Tipo        | Planta                                                               |
+| Código      | EBW01-006                                                            |
+| Pokémon     | Pinsir                                                               |
+| Energía     | {G}{G}                                                               |
+| Daño        | 20                                                                   |
+| Efecto      |                                                                      |
 | De pie      | En tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
-| De cabeza   |                                                                                      |
+| De cabeza   |                                                                      |
 | Boca arriba | En tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
-| Boca abajo  |                                                                                      |
-| De lado     |                                                                                      |
+| Boca abajo  |                                                                      |
+| De lado     |                                                                      |
 
 [Carga Tijeras](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 
 #### Golpe Cólera ?
 
-| Nombre      | Golpe Cólera ?                                                                                                  |
-| ----------- | --------------------------------------------------------------------------------------------------------------- |
-| Japonés     | ぎゃくじょうスイング                                                                                                      |
-| Tipo        | Planta                                                                                                          |
-| Código      | EBW01-007                                                                                                       |
-| Pokémon     | Pinsir                                                                                                          |
-| Energía     | {G}{G}{G}                                                                                                       |
-| Daño        | 10                                                                                                              |
-| Efecto      |                                                                                                                 |
+| Nombre      | Golpe Cólera ?                                                                                  |
+| ----------- | ----------------------------------------------------------------------------------------------- |
+| Japonés     | ぎゃくじょうスイング                                                                            |
+| Tipo        | Planta                                                                                          |
+| Código      | EBW01-007                                                                                       |
+| Pokémon     | Pinsir                                                                                          |
+| Energía     | {G}{G}{G}                                                                                       |
+| Daño        | 10                                                                                              |
+| Efecto      |                                                                                                 |
 | De pie      | Durante tu último turno, si tu tirada de Enekoro falló, este ataque hace 40 puntos de daño más. |
-| De cabeza   |                                                                                                                 |
-| Boca arriba |                                                                                                                 |
-| Boca abajo  |                                                                                                                 |
+| De cabeza   |                                                                                                 |
+| Boca arriba |                                                                                                 |
+| Boca abajo  |                                                                                                 |
 | De lado     | Durante tu último turno, si tu tirada de Enekoro falló, este ataque hace 40 puntos de daño más. |
 
 [Golpe Cólera](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
 
 #### Carga Descuidada
 
-| Nombre      | Carga Descuidada                                                |
-| ----------- | --------------------------------------------------------------- |
-| Japonés     | とつげき                                                            |
-| Tipo        | Planta                                                          |
-| Código      | EBW01-008                                                       |
-| Pokémon     | Pinsir                                                          |
-| Energía     | {G}{G}{G}                                                       |
-| Daño        | 30                                                              |
-| Efecto      |                                                                 |
+| Nombre      | Carga Descuidada                                |
+| ----------- | ----------------------------------------------- |
+| Japonés     | とつげき                                        |
+| Tipo        | Planta                                          |
+| Código      | EBW01-008                                       |
+| Pokémon     | Pinsir                                          |
+| Energía     | {G}{G}{G}                                       |
+| Daño        | 30                                              |
+| Efecto      |                                                 |
 | De pie      | Este ataque hace 20 puntos de daño más.         |
 | De cabeza   | Este Pokémon también se hace 20 puntos de daño. |
 | Boca arriba | Este ataque hace 20 puntos de daño más.         |
 | Boca abajo  | Este Pokémon también se hace 20 puntos de daño. |
-| De lado     |                                                                 |
+| De lado     |                                                 |
 
 [Carga Descuidada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
 #### Tijera Mortal ?
 
-| Nombre      | Tijera Mortal ?                                         |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | ひっさつばさみ                                                 |
-| Tipo        | Planta                                                  |
-| Código      | EBW01-009                                               |
-| Pokémon     | Pinsir                                                  |
-| Energía     | {G}{G}{G}{G}                                            |
-| Daño        | 20                                                      |
-| Efecto      |                                                         |
+| Nombre      | Tijera Mortal ?                         |
+| ----------- | --------------------------------------- |
+| Japonés     | ひっさつばさみ                          |
+| Tipo        | Planta                                  |
+| Código      | EBW01-009                               |
+| Pokémon     | Pinsir                                  |
+| Energía     | {G}{G}{G}{G}                            |
+| Daño        | 20                                      |
+| Efecto      |                                         |
 | De pie      | Este ataque hace 80 puntos de daño más. |
-| De cabeza   |                                                         |
-| Boca arriba |                                                         |
-| Boca abajo  |                                                         |
-| De lado     |                                                         |
+| De cabeza   |                                         |
+| Boca arriba |                                         |
+| Boca abajo  |                                         |
+| De lado     |                                         |
 
 [Tijera Mortal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
 #### Sumisión
 
-| Nombre      | Sumisión                                                        |
-| ----------- | --------------------------------------------------------------- |
-| Japonés     | じごくぐるま                                                          |
-| Tipo        | Lucha                                                           |
-| Código      | EBW01-010                                                       |
-| Pokémon     | Pinsir                                                          |
-| Energía     | {F}{C}{C}{C}                                                    |
-| Daño        | 30                                                              |
+| Nombre      | Sumisión                                        |
+| ----------- | ----------------------------------------------- |
+| Japonés     | じごくぐるま                                    |
+| Tipo        | Lucha                                           |
+| Código      | EBW01-010                                       |
+| Pokémon     | Pinsir                                          |
+| Energía     | {F}{C}{C}{C}                                    |
+| Daño        | 30                                              |
 | Efecto      | Este Pokémon también se hace 20 puntos de daño. |
 | De pie      | Este ataque hace 30 puntos de daño más.         |
 | De cabeza   | Este ataque hace 30 puntos de daño más.         |
 | Boca arriba | Este ataque hace 30 puntos de daño más.         |
 | Boca abajo  | Este ataque hace 30 puntos de daño más.         |
-| De lado     |                                                                 |
+| De lado     |                                                 |
 
 [Sumisión](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)

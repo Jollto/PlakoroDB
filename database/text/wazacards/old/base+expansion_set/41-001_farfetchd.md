@@ -2,7 +2,7 @@
 
 https://w.atwiki.jp/purakoro/pages/35.html
 
-### Basic Set
+### Base Set
 
 #### Peck
 

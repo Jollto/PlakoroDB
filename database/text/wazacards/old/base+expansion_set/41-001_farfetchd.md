@@ -193,17 +193,17 @@ https://w.atwiki.jp/purakoro/pages/35.html
 
 #### Desperate Slash ?
 
-| Name      | Desperate Slash ?                                          |
-| --------- | ---------------------------------------------------------- |
-| Japanese  | すてみぎり                                                 |
-| Type      | Normal                                                     |
-| Code      | OGW41-012                                                  |
-| Pokémon   | Farfetch'd                                                 |
-| Energy    | {Y}{Y}{Y}{Y}                                               |
-| Damage    | 50                                                         |
-| Effect    | If this move fails, this Pokémon does 30 damage to itself. |
-| Standing  | This attack does 20 more damage.                           |
-| Handstand | This attack does 20 less damage.                           |
-| Back      |                                                            |
-| Down      |                                                            |
-| Sideways  |                                                            |
+| Name      | Desperate Slash ?                                            |
+| --------- | ------------------------------------------------------------ |
+| Japanese  | すてみぎり                                                   |
+| Type      | Normal                                                       |
+| Code      | OGW41-012                                                    |
+| Pokémon   | Farfetch'd                                                   |
+| Energy    | {Y}{Y}{Y}{Y}                                                 |
+| Damage    | 50                                                           |
+| Effect    | If this attack fails, this Pokémon does 30 damage to itself. |
+| Standing  | This attack does 20 more damage.                             |
+| Handstand | This attack does 20 less damage.                             |
+| Back      |                                                              |
+| Down      |                                                              |
+| Sideways  |                                                              |

@@ -23,20 +23,20 @@
 
 #### Operación Básica ?
 
-| Nombre      | Operación Básica ?                                                                                                       |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Japonés     | しそくえんざん                                                                                                           |
-| Tipo        | Acero                                                                                                                    |
-| Código      | STW08-002                                                                                                                |
-| Pokémon     | Metagross                                                                                                                |
-| Energía     | {M}{M}                                                                                                                   |
-| Daño        | 20                                                                                                                       |
-| Efecto      |                                                                                                                          |
-| De pie      | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este movimiento. |
-| De cabeza   |                                                                                                                          |
-| Boca arriba | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este movimiento. |
-| Boca abajo  |                                                                                                                          |
-| De lado     | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este movimiento. |
+| Nombre      | Operación Básica ?                                                                                                   |
+| ----------- | -------------------------------------------------------------------------------------------------------------------- |
+| Japonés     | しそくえんざん                                                                                                       |
+| Tipo        | Acero                                                                                                                |
+| Código      | STW08-002                                                                                                            |
+| Pokémon     | Metagross                                                                                                            |
+| Energía     | {M}{M}                                                                                                               |
+| Daño        | 20                                                                                                                   |
+| Efecto      |                                                                                                                      |
+| De pie      | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este ataque. |
+| De cabeza   |                                                                                                                      |
+| Boca arriba | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este ataque. |
+| Boca abajo  |                                                                                                                      |
+| De lado     | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este ataque. |
 
 [Operación Básica](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
 
@@ -118,20 +118,20 @@
 
 #### Explosión
 
-| Nombre      | Explosión                                                |
-| ----------- | -------------------------------------------------------- |
-| Japonés     | だいばくはつ                                             |
-| Tipo        | Normal                                                   |
-| Código      | STW08-007                                                |
-| Pokémon     | Metagross                                                |
-| Energía     | {C}{C}{C}{C}{C}                                          |
-| Daño        | 100                                                      |
-| Efecto      | Este Pokémon también se hace 120 puntos de daño.         |
-| De pie      | Evita el daño que este movimiento causaría a tu Pokémon. |
-| De cabeza   |                                                          |
-| Boca arriba |                                                          |
-| Boca abajo  |                                                          |
-| De lado     |                                                          |
+| Nombre      | Explosión                                            |
+| ----------- | ---------------------------------------------------- |
+| Japonés     | だいばくはつ                                         |
+| Tipo        | Normal                                               |
+| Código      | STW08-007                                            |
+| Pokémon     | Metagross                                            |
+| Energía     | {C}{C}{C}{C}{C}                                      |
+| Daño        | 100                                                  |
+| Efecto      | Este Pokémon también se hace 120 puntos de daño.     |
+| De pie      | Evita el daño que este ataque causaría a tu Pokémon. |
+| De cabeza   |                                                      |
+| Boca arriba |                                                      |
+| Boca abajo  |                                                      |
+| De lado     |                                                      |
 
 [Explosión](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)
 

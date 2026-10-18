@@ -23,20 +23,20 @@
 
 #### Basic Calculation ?
 
-| Name      | Basic Calculation ?                                                                                     |
-| --------- | ------------------------------------------------------------------------------------------------------- |
-| Japanese  | しそくえんざん                                                                                          |
-| Type      | Steel                                                                                                   |
-| Code      | STW08-002                                                                                               |
-| Pokémon   | Metagross                                                                                               |
-| Energy    | {M}{M}                                                                                                  |
-| Damage    | 20                                                                                                      |
-| Effect    |                                                                                                         |
-| Standing  | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this move. |
-| Handstand |                                                                                                         |
-| Back      | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this move. |
-| Down      |                                                                                                         |
-| Sideways  | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this move. |
+| Name      | Basic Calculation ?                                                                                       |
+| --------- | --------------------------------------------------------------------------------------------------------- |
+| Japanese  | しそくえんざん                                                                                            |
+| Type      | Steel                                                                                                     |
+| Code      | STW08-002                                                                                                 |
+| Pokémon   | Metagross                                                                                                 |
+| Energy    | {M}{M}                                                                                                    |
+| Damage    | 20                                                                                                        |
+| Effect    |                                                                                                           |
+| Standing  | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this attack. |
+| Handstand |                                                                                                           |
+| Back      | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this attack. |
+| Down      |                                                                                                           |
+| Sideways  | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this attack. |
 
 [Basic Calculation](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
 
@@ -118,20 +118,20 @@
 
 #### Explosion
 
-| Name      | Explosion                                              |
-| --------- | ------------------------------------------------------ |
-| Japanese  | だいばくはつ                                           |
-| Type      | Normal                                                 |
-| Code      | STW08-007                                              |
-| Pokémon   | Metagross                                              |
-| Energy    | {C}{C}{C}{C}{C}                                        |
-| Damage    | 100                                                    |
-| Effect    | This Pokémon also does 120 damage to itself.           |
-| Standing  | Prevent the damage this move would do to your Pokémon. |
-| Handstand |                                                        |
-| Back      |                                                        |
-| Down      |                                                        |
-| Sideways  |                                                        |
+| Name      | Explosion                                                |
+| --------- | -------------------------------------------------------- |
+| Japanese  | だいばくはつ                                             |
+| Type      | Normal                                                   |
+| Code      | STW08-007                                                |
+| Pokémon   | Metagross                                                |
+| Energy    | {C}{C}{C}{C}{C}                                          |
+| Damage    | 100                                                      |
+| Effect    | This Pokémon also does 120 damage to itself.             |
+| Standing  | Prevent the damage this attack would do to your Pokémon. |
+| Handstand |                                                          |
+| Back      |                                                          |
+| Down      |                                                          |
+| Sideways  |                                                          |
 
 [Explosion](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)
 

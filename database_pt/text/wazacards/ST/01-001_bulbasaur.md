@@ -80,20 +80,20 @@
 
 #### Carga Indomável
 
-| Nome            | Carga Indomável                                         |
-| --------------- | ------------------------------------------------------- |
-| Japonês         | とつげき                                                    |
-| Tipo            | Planta                                                  |
-| Código          | STW01-005                                               |
-| Pokémon         | Bulbasaur                                               |
-| Energia         | {G}{G}{G}                                               |
-| Dano            | 30                                                      |
-| Efeito          |                                                         |
-| Em pé           | Este ataque causa 40 pontos de dano a mais.             |
-| De ponta-cabeça | Este Pokémon também causa 30 pontos de dano a si mesmo. |
-| De costas       | Este ataque causa 40 pontos de dano a mais.             |
-| De bruços       | Este Pokémon também causa 30 pontos de dano a si mesmo. |
-| De lado         |                                                         |
+| Nome            | Carga Indomável                                  |
+| --------------- | ------------------------------------------------ |
+| Japonês         | とつげき                                             |
+| Tipo            | Planta                                           |
+| Código          | STW01-005                                        |
+| Pokémon         | Bulbasaur                                        |
+| Energia         | {G}{G}{G}                                        |
+| Dano            | 30                                               |
+| Efeito          |                                                  |
+| Em pé           | Este ataque causa 40 pontos de dano a mais.      |
+| De ponta-cabeça | Este Pokémon causa 30 pontos de dano a si mesmo. |
+| De costas       | Este ataque causa 40 pontos de dano a mais.      |
+| De bruços       | Este Pokémon causa 30 pontos de dano a si mesmo. |
+| De lado         |                                                  |
 
 [Carga Indomável](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard05.webp)
 

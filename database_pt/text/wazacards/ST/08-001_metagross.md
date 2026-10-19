@@ -23,20 +23,20 @@
 
 #### Quatro Operações ?
 
-| Nome            | Quatro Operações ?                                                                               |
-| --------------- | ------------------------------------------------------------------------------------------------ |
-| Japonês         | しそくえんざん                                                                                          |
-| Tipo            | Aço                                                                                              |
-| Código          | STW08-002                                                                                        |
-| Pokémon         | Metagross                                                                                        |
-| Energia         | {M}{M}                                                                                           |
-| Dano            | 20                                                                                               |
-| Efeito          |                                                                                                  |
-| Em pé           | No seu próximo turno, a orientação do seu Charakoro passa a ser a mesma que saiu com este golpe. |
-| De ponta-cabeça |                                                                                                  |
-| De costas       | No seu próximo turno, a orientação do seu Charakoro passa a ser a mesma que saiu com este golpe. |
-| De bruços       |                                                                                                  |
-| De lado         | No seu próximo turno, a orientação do seu Charakoro passa a ser a mesma que saiu com este golpe. |
+| Nome            | Quatro Operações ?                                                                                |
+| --------------- | ------------------------------------------------------------------------------------------------- |
+| Japonês         | しそくえんざん                                                                                           |
+| Tipo            | Aço                                                                                               |
+| Código          | STW08-002                                                                                         |
+| Pokémon         | Metagross                                                                                         |
+| Energia         | {M}{M}                                                                                            |
+| Dano            | 20                                                                                                |
+| Efeito          |                                                                                                   |
+| Em pé           | No seu próximo turno, a orientação do seu Charakoro passa a ser a mesma que saiu com este ataque. |
+| De ponta-cabeça |                                                                                                   |
+| De costas       | No seu próximo turno, a orientação do seu Charakoro passa a ser a mesma que saiu com este ataque. |
+| De bruços       |                                                                                                   |
+| De lado         | No seu próximo turno, a orientação do seu Charakoro passa a ser a mesma que saiu com este ataque. |
 
 [Quatro Operações](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
 
@@ -118,20 +118,20 @@
 
 #### Explosão
 
-| Nome            | Explosão                                                 |
-| --------------- | -------------------------------------------------------- |
-| Japonês         | だいばくはつ                                                   |
-| Tipo            | Normal                                                   |
-| Código          | STW08-007                                                |
-| Pokémon         | Metagross                                                |
-| Energia         | {C}{C}{C}{C}{C}                                          |
-| Dano            | 100                                                      |
-| Efeito          | Este Pokémon também causa 120 pontos de dano a si mesmo. |
-| Em pé           | Evite o dano que este golpe causaria ao seu Pokémon.     |
-| De ponta-cabeça |                                                          |
-| De costas       |                                                          |
-| De bruços       |                                                          |
-| De lado         |                                                          |
+| Nome            | Explosão                                              |
+| --------------- | ----------------------------------------------------- |
+| Japonês         | だいばくはつ                                                |
+| Tipo            | Normal                                                |
+| Código          | STW08-007                                             |
+| Pokémon         | Metagross                                             |
+| Energia         | {C}{C}{C}{C}{C}                                       |
+| Dano            | 100                                                   |
+| Efeito          | Este Pokémon causa 120 pontos de dano a si mesmo.     |
+| Em pé           | Evite o dano que este ataque causaria ao seu Pokémon. |
+| De ponta-cabeça |                                                       |
+| De costas       |                                                       |
+| De bruços       |                                                       |
+| De lado         |                                                       |
 
 [Explosão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)
 

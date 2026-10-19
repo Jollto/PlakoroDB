@@ -137,20 +137,20 @@
 
 #### Investida de Lodo ?
 
-| Nome            | Investida de Lodo ?                                     |
-| --------------- | ------------------------------------------------------- |
-| Japonês         | ヘドロタックル                                                 |
-| Tipo            | Sombrio                                                 |
-| Código          | EBW01-059                                               |
-| Pokémon         | Grimer                                                  |
-| Energia         | {D}{D}{D}                                               |
-| Dano            | 20                                                      |
-| Efeito          |                                                         |
-| Em pé           | Este ataque causa 40 pontos de dano a mais.             |
-| De ponta-cabeça | Este Pokémon também causa 20 pontos de dano a si mesmo. |
-| De costas       | Este Pokémon também causa 20 pontos de dano a si mesmo. |
-| De bruços       | Este Pokémon também causa 20 pontos de dano a si mesmo. |
-| De lado         | Este ataque causa 40 pontos de dano a mais.             |
+| Nome            | Investida de Lodo ?                              |
+| --------------- | ------------------------------------------------ |
+| Japonês         | ヘドロタックル                                          |
+| Tipo            | Sombrio                                          |
+| Código          | EBW01-059                                        |
+| Pokémon         | Grimer                                           |
+| Energia         | {D}{D}{D}                                        |
+| Dano            | 20                                               |
+| Efeito          |                                                  |
+| Em pé           | Este ataque causa 40 pontos de dano a mais.      |
+| De ponta-cabeça | Este Pokémon causa 20 pontos de dano a si mesmo. |
+| De costas       | Este Pokémon causa 20 pontos de dano a si mesmo. |
+| De bruços       | Este Pokémon causa 20 pontos de dano a si mesmo. |
+| De lado         | Este ataque causa 40 pontos de dano a mais.      |
 
 [Investida de Lodo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard09.webp)
 

@@ -4,20 +4,20 @@
 
 #### Asa de Fogo
 
-| Nome            | Asa de Fogo                                             |
-| --------------- | ------------------------------------------------------- |
-| Japonês         | ほのおのつばさ                                                 |
-| Tipo            | Fogo                                                    |
-| Código          | EBW01-011                                               |
-| Pokémon         | Moltres                                                 |
-| Energia         | {R}{R}                                                  |
-| Dano            | 30                                                      |
-| Efeito          |                                                         |
-| Em pé           | Este ataque causa 30 pontos de dano a mais.             |
-| De ponta-cabeça |                                                         |
-| De costas       | Este ataque causa 30 pontos de dano a mais.             |
-| De bruços       |                                                         |
-| De lado         | Este Pokémon também causa 20 pontos de dano a si mesmo. |
+| Nome            | Asa de Fogo                                      |
+| --------------- | ------------------------------------------------ |
+| Japonês         | ほのおのつばさ                                          |
+| Tipo            | Fogo                                             |
+| Código          | EBW01-011                                        |
+| Pokémon         | Moltres                                          |
+| Energia         | {R}{R}                                           |
+| Dano            | 30                                               |
+| Efeito          |                                                  |
+| Em pé           | Este ataque causa 30 pontos de dano a mais.      |
+| De ponta-cabeça |                                                  |
+| De costas       | Este ataque causa 30 pontos de dano a mais.      |
+| De bruços       |                                                  |
+| De lado         | Este Pokémon causa 20 pontos de dano a si mesmo. |
 
 [Asa de Fogo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard01.webp)
 
@@ -61,20 +61,20 @@
 
 #### Blitz de Labaredas
 
-| Nome            | Blitz de Labaredas                                      |
-| --------------- | ------------------------------------------------------- |
-| Japonês         | フレアドライブ                                                 |
-| Tipo            | Fogo                                                    |
-| Código          | EBW01-014                                               |
-| Pokémon         | Moltres                                                 |
-| Energia         | {R}{R}{R}{R}{R}                                         |
-| Dano            | 50                                                      |
-| Efeito          |                                                         |
-| Em pé           | Este ataque causa 40 pontos de dano a mais.             |
-| De ponta-cabeça | Este Pokémon também causa 40 pontos de dano a si mesmo. |
-| De costas       | Este ataque causa 40 pontos de dano a mais.             |
-| De bruços       | Este ataque causa 40 pontos de dano a mais.             |
-| De lado         | Este Pokémon também causa 40 pontos de dano a si mesmo. |
+| Nome            | Blitz de Labaredas                               |
+| --------------- | ------------------------------------------------ |
+| Japonês         | フレアドライブ                                          |
+| Tipo            | Fogo                                             |
+| Código          | EBW01-014                                        |
+| Pokémon         | Moltres                                          |
+| Energia         | {R}{R}{R}{R}{R}                                  |
+| Dano            | 50                                               |
+| Efeito          |                                                  |
+| Em pé           | Este ataque causa 40 pontos de dano a mais.      |
+| De ponta-cabeça | Este Pokémon causa 40 pontos de dano a si mesmo. |
+| De costas       | Este ataque causa 40 pontos de dano a mais.      |
+| De bruços       | Este ataque causa 40 pontos de dano a mais.      |
+| De lado         | Este Pokémon causa 40 pontos de dano a si mesmo. |
 
 [Blitz de Labaredas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard04.webp)
 
@@ -118,20 +118,20 @@
 
 #### Bafo de Calor
 
-| Nome            | Bafo de Calor                                           |
-| --------------- | ------------------------------------------------------- |
-| Japonês         | ヒートブレス                                                  |
-| Tipo            | Fogo                                                    |
-| Código          | EBW01-017                                               |
-| Pokémon         | Moltres                                                 |
-| Energia         | {R}{R}{R}                                               |
-| Dano            | 40                                                      |
-| Efeito          |                                                         |
-| Em pé           | Este ataque causa 40 pontos de dano a mais.             |
-| De ponta-cabeça | Este Pokémon também causa 30 pontos de dano a si mesmo. |
-| De costas       | Este ataque causa 40 pontos de dano a mais.             |
-| De bruços       | Este Pokémon também causa 30 pontos de dano a si mesmo. |
-| De lado         |                                                         |
+| Nome            | Bafo de Calor                                    |
+| --------------- | ------------------------------------------------ |
+| Japonês         | ヒートブレス                                           |
+| Tipo            | Fogo                                             |
+| Código          | EBW01-017                                        |
+| Pokémon         | Moltres                                          |
+| Energia         | {R}{R}{R}                                        |
+| Dano            | 40                                               |
+| Efeito          |                                                  |
+| Em pé           | Este ataque causa 40 pontos de dano a mais.      |
+| De ponta-cabeça | Este Pokémon causa 30 pontos de dano a si mesmo. |
+| De costas       | Este ataque causa 40 pontos de dano a mais.      |
+| De bruços       | Este Pokémon causa 30 pontos de dano a si mesmo. |
+| De lado         |                                                  |
 
 [Bafo de Calor](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard07.webp)
 

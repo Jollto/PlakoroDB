@@ -137,20 +137,20 @@
 
 #### Carga Indomável
 
-| Nome            | Carga Indomável                                         |
-| --------------- | ------------------------------------------------------- |
-| Japonês         | とつげき                                                    |
-| Tipo            | Planta                                                  |
-| Código          | EBW01-008                                               |
-| Pokémon         | Pinsir                                                  |
-| Energia         | {G}{G}{G}                                               |
-| Dano            | 30                                                      |
-| Efeito          |                                                         |
-| Em pé           | Este ataque causa 20 pontos de dano a mais.             |
-| De ponta-cabeça | Este Pokémon também causa 20 pontos de dano a si mesmo. |
-| De costas       | Este ataque causa 20 pontos de dano a mais.             |
-| De bruços       | Este Pokémon também causa 20 pontos de dano a si mesmo. |
-| De lado         |                                                         |
+| Nome            | Carga Indomável                                  |
+| --------------- | ------------------------------------------------ |
+| Japonês         | とつげき                                             |
+| Tipo            | Planta                                           |
+| Código          | EBW01-008                                        |
+| Pokémon         | Pinsir                                           |
+| Energia         | {G}{G}{G}                                        |
+| Dano            | 30                                               |
+| Efeito          |                                                  |
+| Em pé           | Este ataque causa 20 pontos de dano a mais.      |
+| De ponta-cabeça | Este Pokémon causa 20 pontos de dano a si mesmo. |
+| De costas       | Este ataque causa 20 pontos de dano a mais.      |
+| De bruços       | Este Pokémon causa 20 pontos de dano a si mesmo. |
+| De lado         |                                                  |
 
 [Carga Indomável](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
@@ -175,19 +175,19 @@
 
 #### Submissão
 
-| Nome            | Submissão                                               |
-| --------------- | ------------------------------------------------------- |
-| Japonês         | じごくぐるま                                                  |
-| Tipo            | Lutador                                                 |
-| Código          | EBW01-010                                               |
-| Pokémon         | Pinsir                                                  |
-| Energia         | {F}{C}{C}{C}                                            |
-| Dano            | 30                                                      |
-| Efeito          | Este Pokémon também causa 20 pontos de dano a si mesmo. |
-| Em pé           | Este ataque causa 30 pontos de dano a mais.             |
-| De ponta-cabeça | Este ataque causa 30 pontos de dano a mais.             |
-| De costas       | Este ataque causa 30 pontos de dano a mais.             |
-| De bruços       | Este ataque causa 30 pontos de dano a mais.             |
-| De lado         |                                                         |
+| Nome            | Submissão                                        |
+| --------------- | ------------------------------------------------ |
+| Japonês         | じごくぐるま                                           |
+| Tipo            | Lutador                                          |
+| Código          | EBW01-010                                        |
+| Pokémon         | Pinsir                                           |
+| Energia         | {F}{C}{C}{C}                                     |
+| Dano            | 30                                               |
+| Efeito          | Este Pokémon causa 20 pontos de dano a si mesmo. |
+| Em pé           | Este ataque causa 30 pontos de dano a mais.      |
+| De ponta-cabeça | Este ataque causa 30 pontos de dano a mais.      |
+| De costas       | Este ataque causa 30 pontos de dano a mais.      |
+| De bruços       | Este ataque causa 30 pontos de dano a mais.      |
+| De lado         |                                                  |
 
 [Submissão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)

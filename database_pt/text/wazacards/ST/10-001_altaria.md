@@ -134,5 +134,3 @@
 | De lado         | Se o oponente for do tipo {N}, este ataque causa 40 pontos de dano a mais. |
 
 [Explosão Lunar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)
-
-

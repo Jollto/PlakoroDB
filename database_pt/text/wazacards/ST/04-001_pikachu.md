@@ -99,20 +99,20 @@
 
 #### Investida Trovão
 
-| Nome            | Investida Trovão                                        |
-| --------------- | ------------------------------------------------------- |
-| Japonês         | ボルテッカー                                                  |
-| Tipo            | Elétrico                                                |
-| Código          | STW04-006                                               |
-| Pokémon         | Pikachu                                                 |
-| Energia         | {L}{L}{L}{L}                                            |
-| Dano            | 40                                                      |
-| Efeito          | Este Pokémon também causa 30 pontos de dano a si mesmo. |
-| Em pé           | Este ataque causa 40 pontos de dano a mais.             |
-| De ponta-cabeça |                                                         |
-| De costas       | Este ataque causa 40 pontos de dano a mais.             |
-| De bruços       | Este ataque causa 40 pontos de dano a mais.             |
-| De lado         |                                                         |
+| Nome            | Investida Trovão                                 |
+| --------------- | ------------------------------------------------ |
+| Japonês         | ボルテッカー                                           |
+| Tipo            | Elétrico                                         |
+| Código          | STW04-006                                        |
+| Pokémon         | Pikachu                                          |
+| Energia         | {L}{L}{L}{L}                                     |
+| Dano            | 40                                               |
+| Efeito          | Este Pokémon causa 30 pontos de dano a si mesmo. |
+| Em pé           | Este ataque causa 40 pontos de dano a mais.      |
+| De ponta-cabeça |                                                  |
+| De costas       | Este ataque causa 40 pontos de dano a mais.      |
+| De bruços       | Este ataque causa 40 pontos de dano a mais.      |
+| De lado         |                                                  |
 
 [Investida Trovão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard06.webp)
 

@@ -126,7 +126,7 @@
 | Pokémon   | Metagross                                                                |
 | Energy    | {C}{C}{C}{C}{C}                                                          |
 | Damage    | 100                                                                      |
-| Effect    | This Pokémon also does 120 damage to itself.             |
+| Effect    | This Pokémon does 120 damage to itself.                  |
 | Standing  | Prevent the damage this attack would do to your Pokémon. |
 | Handstand |                                                                          |
 | Back      |                                                                          |

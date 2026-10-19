@@ -4,133 +4,133 @@
 
 #### Látigo Cepa
 
-| Nombre      | Látigo Cepa                                             |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | つるのムチ                                                   |
-| Tipo        | Planta                                                  |
-| Código      | STW01-001                                               |
-| Pokémon     | Bulbasaur                                               |
-| Energía     | {G}                                                     |
-| Daño        | 10                                                      |
-| Efecto      |                                                         |
+| Nombre      | Látigo Cepa                             |
+| ----------- | --------------------------------------- |
+| Japonés     | つるのムチ                              |
+| Tipo        | Planta                                  |
+| Código      | STW01-001                               |
+| Pokémon     | Bulbasaur                               |
+| Energía     | {G}                                     |
+| Daño        | 10                                      |
+| Efecto      |                                         |
 | De pie      | Este ataque hace 20 puntos de daño más. |
-| De cabeza   |                                                         |
+| De cabeza   |                                         |
 | Boca arriba | Este ataque hace 20 puntos de daño más. |
 | Boca abajo  | Este ataque hace 20 puntos de daño más. |
-| De lado     |                                                         |
+| De lado     |                                         |
 
 [Látigo Cepa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard01.webp)
 
 #### Hoja Afilada
 
-| Nombre      | Hoja Afilada                                            |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | はっぱカッター                                                 |
-| Tipo        | Planta                                                  |
-| Código      | STW01-002                                               |
-| Pokémon     | Bulbasaur                                               |
-| Energía     | {G}{G}                                                  |
-| Daño        | 20                                                      |
-| Efecto      |                                                         |
+| Nombre      | Hoja Afilada                            |
+| ----------- | --------------------------------------- |
+| Japonés     | はっぱカッター                          |
+| Tipo        | Planta                                  |
+| Código      | STW01-002                               |
+| Pokémon     | Bulbasaur                               |
+| Energía     | {G}{G}                                  |
+| Daño        | 20                                      |
+| Efecto      |                                         |
 | De pie      | Este ataque hace 20 puntos de daño más. |
-| De cabeza   |                                                         |
-| Boca arriba |                                                         |
-| Boca abajo  |                                                         |
+| De cabeza   |                                         |
+| Boca arriba |                                         |
+| Boca abajo  |                                         |
 | De lado     | Este ataque hace 20 puntos de daño más. |
 
 [Hoja Afilada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard02.webp)
 
 #### Drenadoras
 
-| Nombre      | Drenadoras                                                                                                                                                                       |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | やどりぎのタネ                                                                                                                                                                          |
-| Tipo        | Planta                                                                                                                                                                           |
-| Código      | STW01-003                                                                                                                                                                        |
-| Pokémon     | Bulbasaur                                                                                                                                                                        |
-| Energía     | {G}{G}                                                                                                                                                                           |
-| Daño        | 10                                                                                                                                                                               |
-| Efecto      |                                                                                                                                                                                  |
+| Nombre      | Drenadoras                                                                                                                                       |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Japonés     | やどりぎのタネ                                                                                                                                   |
+| Tipo        | Planta                                                                                                                                           |
+| Código      | STW01-003                                                                                                                                        |
+| Pokémon     | Bulbasaur                                                                                                                                        |
+| Energía     | {G}{G}                                                                                                                                           |
+| Daño        | 10                                                                                                                                               |
+| Efecto      |                                                                                                                                                  |
 | De pie      | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. En tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
-| De cabeza   |                                                                                                                                                                                  |
+| De cabeza   |                                                                                                                                                  |
 | Boca arriba | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. En tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
-| Boca abajo  |                                                                                                                                                                                  |
+| Boca abajo  |                                                                                                                                                  |
 | De lado     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. En tu próximo turno, incrementa el número de Enekoro que tiras en 1. |
 
 [Drenadoras](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard03.webp)
 
 #### Hierba Lazo
 
-| Nombre      | Hierba Lazo                                                                                                               |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | くさむすび                                                                                                                     |
-| Tipo        | Planta                                                                                                                    |
-| Código      | STW01-004                                                                                                                 |
-| Pokémon     | Bulbasaur                                                                                                                 |
-| Energía     | {G}{G}{G}                                                                                                                 |
-| Daño        | 30                                                                                                                        |
-| Efecto      |                                                                                                                           |
+| Nombre      | Hierba Lazo                                                                               |
+| ----------- | ----------------------------------------------------------------------------------------- |
+| Japonés     | くさむすび                                                                                |
+| Tipo        | Planta                                                                                    |
+| Código      | STW01-004                                                                                 |
+| Pokémon     | Bulbasaur                                                                                 |
+| Energía     | {G}{G}{G}                                                                                 |
+| Daño        | 30                                                                                        |
+| Efecto      |                                                                                           |
 | De pie      | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar este ataque. |
-| De cabeza   |                                                                                                                           |
+| De cabeza   |                                                                                           |
 | Boca arriba | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar este ataque. |
 | Boca abajo  | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar este ataque. |
-| De lado     |                                                                                                                           |
+| De lado     |                                                                                           |
 
 [Hierba Lazo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard04.webp)
 
 #### Carga Descuidada
 
-| Nombre      | Carga Descuidada                                        |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | とつげき                                                    |
-| Tipo        | Planta                                                  |
-| Código      | STW01-005                                               |
-| Pokémon     | Bulbasaur                                               |
-| Energía     | {G}{G}{G}                                               |
-| Daño        | 30                                                      |
-| Efecto      |                                                         |
+| Nombre      | Carga Descuidada                        |
+| ----------- | --------------------------------------- |
+| Japonés     | とつげき                                |
+| Tipo        | Planta                                  |
+| Código      | STW01-005                               |
+| Pokémon     | Bulbasaur                               |
+| Energía     | {G}{G}{G}                               |
+| Daño        | 30                                      |
+| Efecto      |                                         |
 | De pie      | Este ataque hace 40 puntos de daño más. |
 | De cabeza   | This Pokémon does 30 damage to itself.  |
 | Boca arriba | Este ataque hace 40 puntos de daño más. |
 | Boca abajo  | This Pokémon does 30 damage to itself.  |
-| De lado     |                                                         |
+| De lado     |                                         |
 
 [Carga Descuidada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard05.webp)
 
 #### Gigadrenado
 
-| Nombre      | Gigadrenado                                             |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | ギガドレイン                                                  |
-| Tipo        | Planta                                                  |
-| Código      | STW01-006                                               |
-| Pokémon     | Bulbasaur                                               |
-| Energía     | {G}{G}{G}{G}                                            |
-| Daño        | 40                                                      |
-| Efecto      |                                                         |
+| Nombre      | Gigadrenado                             |
+| ----------- | --------------------------------------- |
+| Japonés     | ギガドレイン                            |
+| Tipo        | Planta                                  |
+| Código      | STW01-006                               |
+| Pokémon     | Bulbasaur                               |
+| Energía     | {G}{G}{G}{G}                            |
+| Daño        | 40                                      |
+| Efecto      |                                         |
 | De pie      | Cura 40 puntos de daño de este Pokémon. |
-| De cabeza   |                                                         |
-| Boca arriba |                                                         |
-| Boca abajo  |                                                         |
+| De cabeza   |                                         |
+| Boca arriba |                                         |
+| Boca abajo  |                                         |
 | De lado     | Cura 40 puntos de daño de este Pokémon. |
 
 [Gigadrenado](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard06.webp)
 
 #### Bomba Ácida
 
-| Nombre      | Bomba Ácida                                             |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | アシッドボム                                                  |
-| Tipo        | Siniestro                                               |
-| Código      | STW01-007                                               |
-| Pokémon     | Bulbasaur                                               |
-| Energía     | {D}{C}{C}                                               |
-| Daño        | 10                                                      |
-| Efecto      |                                                         |
+| Nombre      | Bomba Ácida                             |
+| ----------- | --------------------------------------- |
+| Japonés     | アシッドボム                            |
+| Tipo        | Siniestro                               |
+| Código      | STW01-007                               |
+| Pokémon     | Bulbasaur                               |
+| Energía     | {D}{C}{C}                               |
+| Daño        | 10                                      |
+| Efecto      |                                         |
 | De pie      | Este ataque hace 20 puntos de daño más. |
-| De cabeza   |                                                         |
-| Boca arriba |                                                         |
-| Boca abajo  |                                                         |
+| De cabeza   |                                         |
+| Boca arriba |                                         |
+| Boca abajo  |                                         |
 | De lado     | Este ataque hace 20 puntos de daño más. |
 
 [Bomba Ácida](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard07.webp)
@@ -139,19 +139,19 @@
 
 #### Tormenta Aroma ?
 
-| Nombre      | Tormenta Aroma ?                                        |
-| ----------- | ------------------------------------------------------- |
-| Japonés     | アロマストーム                                                 |
-| Tipo        | Planta                                                  |
-| Código      | PRW01-1-08                                              |
-| Pokémon     | Bulbasaur                                               |
-| Energía     | {G}{G}{G}{G}                                            |
-| Daño        | 30                                                      |
-| Efecto      |                                                         |
+| Nombre      | Tormenta Aroma ?                        |
+| ----------- | --------------------------------------- |
+| Japonés     | アロマストーム                          |
+| Tipo        | Planta                                  |
+| Código      | PRW01-1-08                              |
+| Pokémon     | Bulbasaur                               |
+| Energía     | {G}{G}{G}{G}                            |
+| Daño        | 30                                      |
+| Efecto      |                                         |
 | De pie      | Cura 50 puntos de daño de este Pokémon. |
-| De cabeza   |                                                         |
-| Boca arriba |                                                         |
-| Boca abajo  |                                                         |
-| De lado     |                                                         |
+| De cabeza   |                                         |
+| Boca arriba |                                         |
+| Boca abajo  |                                         |
+| De lado     |                                         |
 
 [Tormenta Aroma](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img01.webp)

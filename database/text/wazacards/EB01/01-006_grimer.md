@@ -137,20 +137,20 @@
 
 #### Sludge Tackle ?
 
-| Name      | Sludge Tackle ?                             |
-| --------- | ------------------------------------------- |
-| Japanese  | ヘドロタックル                              |
-| Type      | Dark                                        |
-| Code      | EBW01-059                                   |
-| Pokémon   | Grimer                                      |
-| Energy    | {D}{D}{D}                                   |
-| Damage    | 20                                          |
-| Effect    |                                             |
-| Standing  | This attack does 40 more damage.            |
-| Handstand | This Pokémon also does 20 damage to itself. |
-| Back      | This Pokémon also does 20 damage to itself. |
-| Down      | This Pokémon also does 20 damage to itself. |
-| Sideways  | This attack does 40 more damage.            |
+| Name      | Sludge Tackle ?                        |
+| --------- | -------------------------------------- |
+| Japanese  | ヘドロタックル                         |
+| Type      | Dark                                   |
+| Code      | EBW01-059                              |
+| Pokémon   | Grimer                                 |
+| Energy    | {D}{D}{D}                              |
+| Damage    | 20                                     |
+| Effect    |                                        |
+| Standing  | This attack does 40 more damage.       |
+| Handstand | This Pokémon does 20 damage to itself. |
+| Back      | This Pokémon does 20 damage to itself. |
+| Down      | This Pokémon does 20 damage to itself. |
+| Sideways  | This attack does 40 more damage.       |
 
 [Sludge Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard09.webp)
 

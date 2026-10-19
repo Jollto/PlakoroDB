@@ -126,7 +126,7 @@
 | Pokémon     | Metagross                                                                |
 | Energía     | {C}{C}{C}{C}{C}                                                          |
 | Daño        | 100                                                                      |
-| Efecto      | Este Pokémon también se hace 120 puntos de daño.         |
+| Efecto      | This Pokémon does 120 damage to itself.                  |
 | De pie      | Prevent the damage this attack would do to your Pokémon. |
 | De cabeza   |                                                                          |
 | Boca arriba |                                                                          |

@@ -137,20 +137,20 @@
 
 #### Carga Descuidada
 
-| Nombre      | Carga Descuidada                                |
-| ----------- | ----------------------------------------------- |
-| Japonés     | とつげき                                        |
-| Tipo        | Planta                                          |
-| Código      | EBW01-008                                       |
-| Pokémon     | Pinsir                                          |
-| Energía     | {G}{G}{G}                                       |
-| Daño        | 30                                              |
-| Efecto      |                                                 |
-| De pie      | Este ataque hace 20 puntos de daño más.         |
-| De cabeza   | Este Pokémon también se hace 20 puntos de daño. |
-| Boca arriba | Este ataque hace 20 puntos de daño más.         |
-| Boca abajo  | Este Pokémon también se hace 20 puntos de daño. |
-| De lado     |                                                 |
+| Nombre      | Carga Descuidada                        |
+| ----------- | --------------------------------------- |
+| Japonés     | とつげき                                |
+| Tipo        | Planta                                  |
+| Código      | EBW01-008                               |
+| Pokémon     | Pinsir                                  |
+| Energía     | {G}{G}{G}                               |
+| Daño        | 30                                      |
+| Efecto      |                                         |
+| De pie      | Este ataque hace 20 puntos de daño más. |
+| De cabeza   | Este Pokémon se hace 20 puntos de daño. |
+| Boca arriba | Este ataque hace 20 puntos de daño más. |
+| Boca abajo  | Este Pokémon se hace 20 puntos de daño. |
+| De lado     |                                         |
 
 [Carga Descuidada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
@@ -175,19 +175,19 @@
 
 #### Sumisión
 
-| Nombre      | Sumisión                                        |
-| ----------- | ----------------------------------------------- |
-| Japonés     | じごくぐるま                                    |
-| Tipo        | Lucha                                           |
-| Código      | EBW01-010                                       |
-| Pokémon     | Pinsir                                          |
-| Energía     | {F}{C}{C}{C}                                    |
-| Daño        | 30                                              |
-| Efecto      | Este Pokémon también se hace 20 puntos de daño. |
-| De pie      | Este ataque hace 30 puntos de daño más.         |
-| De cabeza   | Este ataque hace 30 puntos de daño más.         |
-| Boca arriba | Este ataque hace 30 puntos de daño más.         |
-| Boca abajo  | Este ataque hace 30 puntos de daño más.         |
-| De lado     |                                                 |
+| Nombre      | Sumisión                                |
+| ----------- | --------------------------------------- |
+| Japonés     | じごくぐるま                            |
+| Tipo        | Lucha                                   |
+| Código      | EBW01-010                               |
+| Pokémon     | Pinsir                                  |
+| Energía     | {F}{C}{C}{C}                            |
+| Daño        | 30                                      |
+| Efecto      | Este Pokémon se hace 20 puntos de daño. |
+| De pie      | Este ataque hace 30 puntos de daño más. |
+| De cabeza   | Este ataque hace 30 puntos de daño más. |
+| Boca arriba | Este ataque hace 30 puntos de daño más. |
+| Boca abajo  | Este ataque hace 30 puntos de daño más. |
+| De lado     |                                         |
 
 [Sumisión](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)

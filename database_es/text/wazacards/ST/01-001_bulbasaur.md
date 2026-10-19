@@ -80,20 +80,20 @@
 
 #### Carga Descuidada
 
-| Nombre      | Carga Descuidada                                |
-| ----------- | ----------------------------------------------- |
-| Japonés     | とつげき                                        |
-| Tipo        | Planta                                          |
-| Código      | STW01-005                                       |
-| Pokémon     | Bulbasaur                                       |
-| Energía     | {G}{G}{G}                                       |
-| Daño        | 30                                              |
-| Efecto      |                                                 |
-| De pie      | Este ataque hace 40 puntos de daño más.         |
-| De cabeza   | Este Pokémon también se hace 30 puntos de daño. |
-| Boca arriba | Este ataque hace 40 puntos de daño más.         |
-| Boca abajo  | Este Pokémon también se hace 30 puntos de daño. |
-| De lado     |                                                 |
+| Nombre      | Carga Descuidada                        |
+| ----------- | --------------------------------------- |
+| Japonés     | とつげき                                |
+| Tipo        | Planta                                  |
+| Código      | STW01-005                               |
+| Pokémon     | Bulbasaur                               |
+| Energía     | {G}{G}{G}                               |
+| Daño        | 30                                      |
+| Efecto      |                                         |
+| De pie      | Este ataque hace 40 puntos de daño más. |
+| De cabeza   | Este Pokémon se hace 30 puntos de daño. |
+| Boca arriba | Este ataque hace 40 puntos de daño más. |
+| Boca abajo  | Este Pokémon se hace 30 puntos de daño. |
+| De lado     |                                         |
 
 [Carga Descuidada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard05.webp)
 

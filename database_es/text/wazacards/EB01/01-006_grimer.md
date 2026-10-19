@@ -137,20 +137,20 @@
 
 #### Placaje Venenoso ?
 
-| Nombre      | Placaje Venenoso ?                              |
-| ----------- | ----------------------------------------------- |
-| Japonés     | ヘドロタックル                                  |
-| Tipo        | Siniestro                                       |
-| Código      | EBW01-059                                       |
-| Pokémon     | Grimer                                          |
-| Energía     | {D}{D}{D}                                       |
-| Daño        | 20                                              |
-| Efecto      |                                                 |
-| De pie      | Este ataque hace 40 puntos de daño más.         |
-| De cabeza   | Este Pokémon también se hace 20 puntos de daño. |
-| Boca arriba | Este Pokémon también se hace 20 puntos de daño. |
-| Boca abajo  | Este Pokémon también se hace 20 puntos de daño. |
-| De lado     | Este ataque hace 40 puntos de daño más.         |
+| Nombre      | Placaje Venenoso ?                      |
+| ----------- | --------------------------------------- |
+| Japonés     | ヘドロタックル                          |
+| Tipo        | Siniestro                               |
+| Código      | EBW01-059                               |
+| Pokémon     | Grimer                                  |
+| Energía     | {D}{D}{D}                               |
+| Daño        | 20                                      |
+| Efecto      |                                         |
+| De pie      | Este ataque hace 40 puntos de daño más. |
+| De cabeza   | Este Pokémon se hace 20 puntos de daño. |
+| Boca arriba | Este Pokémon se hace 20 puntos de daño. |
+| Boca abajo  | Este Pokémon se hace 20 puntos de daño. |
+| De lado     | Este ataque hace 40 puntos de daño más. |
 
 [Placaje Venenoso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard09.webp)
 

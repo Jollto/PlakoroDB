@@ -33,10 +33,6 @@ Translated cards are generated for personal and community use using [**u/Leonart
 
 These cards are provided to make the translation easier to read and reference.
 
-## Missing Content
-
-If you notice missing cards (including promotional cards, alternate prints, or corrected versions), feel free to open an Issue with as much information as possible.
-
 ## Contributing
 
 Contributions are welcome!
@@ -45,13 +41,15 @@ You can help by:
 
 - reporting translation mistakes
 - suggesting more accurate terminology
-- adding missing cards
+- adding missing cards (including promotional cards, alternate prints, or corrected versions)
 - improving wording or formatting
 - providing official translation references when available
 
 And more important, translating the game to other languages! If you're fluent in a langnuage not being supported right now and you want to help, feel free to collaborate!
 
 Feel free to open an Issue or a discussion if you find something missing or want your language included, or make a Pull Request to add to the database!
+
+You can also contact me via discord, by joining [Plakoro Community discord](https://discord.gg/mpVeVj4Ujx). It's a growing community where you will find other people to play with, help with rules, buying, and also me, translating cards there and sharing news.
 
 ### Translating
 

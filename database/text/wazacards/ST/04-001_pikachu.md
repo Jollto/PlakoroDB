@@ -99,20 +99,20 @@
 
 #### Volt Tackle
 
-| Name      | Volt Tackle                                 |
-| --------- | ------------------------------------------- |
-| Japanese  | ボルテッカー                                |
-| Type      | Electric                                    |
-| Code      | STW04-006                                   |
-| Pokémon   | Pikachu                                     |
-| Energy    | {L}{L}{L}{L}                                |
-| Damage    | 40                                          |
-| Effect    | This Pokémon also does 30 damage to itself. |
-| Standing  | This attack does 40 more damage.            |
-| Handstand |                                             |
-| Back      | This attack does 40 more damage.            |
-| Down      | This attack does 40 more damage.            |
-| Sideways  |                                             |
+| Name      | Volt Tackle                            |
+| --------- | -------------------------------------- |
+| Japanese  | ボルテッカー                           |
+| Type      | Electric                               |
+| Code      | STW04-006                              |
+| Pokémon   | Pikachu                                |
+| Energy    | {L}{L}{L}{L}                           |
+| Damage    | 40                                     |
+| Effect    | This Pokémon does 30 damage to itself. |
+| Standing  | This attack does 40 more damage.       |
+| Handstand |                                        |
+| Back      | This attack does 40 more damage.       |
+| Down      | This attack does 40 more damage.       |
+| Sideways  |                                        |
 
 [Volt Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard06.webp)
 

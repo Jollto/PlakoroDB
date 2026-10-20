@@ -4,20 +4,20 @@
 
 #### Fire Wing
 
-| Name      | Fire Wing                                   |
-| --------- | ------------------------------------------- |
-| Japanese  | ほのおのつばさ                              |
-| Type      | Fire                                        |
-| Code      | EBW01-011                                   |
-| Pokémon   | Moltres                                     |
-| Energy    | {R}{R}                                      |
-| Damage    | 30                                          |
-| Effect    |                                             |
-| Standing  | This attack does 30 more damage.            |
-| Handstand |                                             |
-| Back      | This attack does 30 more damage.            |
-| Down      |                                             |
-| Sideways  | This Pokémon also does 20 damage to itself. |
+| Name      | Fire Wing                              |
+| --------- | -------------------------------------- |
+| Japanese  | ほのおのつばさ                         |
+| Type      | Fire                                   |
+| Code      | EBW01-011                              |
+| Pokémon   | Moltres                                |
+| Energy    | {R}{R}                                 |
+| Damage    | 30                                     |
+| Effect    |                                        |
+| Standing  | This attack does 30 more damage.       |
+| Handstand |                                        |
+| Back      | This attack does 30 more damage.       |
+| Down      |                                        |
+| Sideways  | This Pokémon does 20 damage to itself. |
 
 [Fire Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard01.webp)
 
@@ -61,20 +61,20 @@
 
 #### Flare Blitz
 
-| Name      | Flare Blitz                                 |
-| --------- | ------------------------------------------- |
-| Japanese  | フレアドライブ                              |
-| Type      | Fire                                        |
-| Code      | EBW01-014                                   |
-| Pokémon   | Moltres                                     |
-| Energy    | {R}{R}{R}{R}{R}                             |
-| Damage    | 50                                          |
-| Effect    |                                             |
-| Standing  | This attack does 40 more damage.            |
-| Handstand | This Pokémon also does 40 damage to itself. |
-| Back      | This attack does 40 more damage.            |
-| Down      | This attack does 40 more damage.            |
-| Sideways  | This Pokémon also does 40 damage to itself. |
+| Name      | Flare Blitz                            |
+| --------- | -------------------------------------- |
+| Japanese  | フレアドライブ                         |
+| Type      | Fire                                   |
+| Code      | EBW01-014                              |
+| Pokémon   | Moltres                                |
+| Energy    | {R}{R}{R}{R}{R}                        |
+| Damage    | 50                                     |
+| Effect    |                                        |
+| Standing  | This attack does 40 more damage.       |
+| Handstand | This Pokémon does 40 damage to itself. |
+| Back      | This attack does 40 more damage.       |
+| Down      | This attack does 40 more damage.       |
+| Sideways  | This Pokémon does 40 damage to itself. |
 
 [Flare Blitz](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard04.webp)
 
@@ -118,20 +118,20 @@
 
 #### Heat Breath
 
-| Name      | Heat Breath                                 |
-| --------- | ------------------------------------------- |
-| Japanese  | ヒートブレス                                |
-| Type      | Fire                                        |
-| Code      | EBW01-017                                   |
-| Pokémon   | Moltres                                     |
-| Energy    | {R}{R}{R}                                   |
-| Damage    | 40                                          |
-| Effect    |                                             |
-| Standing  | This attack does 40 more damage.            |
-| Handstand | This Pokémon also does 30 damage to itself. |
-| Back      | This attack does 40 more damage.            |
-| Down      | This Pokémon also does 30 damage to itself. |
-| Sideways  |                                             |
+| Name      | Heat Breath                            |
+| --------- | -------------------------------------- |
+| Japanese  | ヒートブレス                           |
+| Type      | Fire                                   |
+| Code      | EBW01-017                              |
+| Pokémon   | Moltres                                |
+| Energy    | {R}{R}{R}                              |
+| Damage    | 40                                     |
+| Effect    |                                        |
+| Standing  | This attack does 40 more damage.       |
+| Handstand | This Pokémon does 30 damage to itself. |
+| Back      | This attack does 40 more damage.       |
+| Down      | This Pokémon does 30 damage to itself. |
+| Sideways  |                                        |
 
 [Heat Breath](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard07.webp)
 

@@ -4,20 +4,20 @@
 
 #### Ala Ígnea
 
-| Nombre      | Ala Ígnea                                       |
-| ----------- | ----------------------------------------------- |
-| Japonés     | ほのおのつばさ                                  |
-| Tipo        | Fuego                                           |
-| Código      | EBW01-011                                       |
-| Pokémon     | Moltres                                         |
-| Energía     | {R}{R}                                          |
-| Daño        | 30                                              |
-| Efecto      |                                                 |
-| De pie      | Este ataque hace 30 puntos de daño más.         |
-| De cabeza   |                                                 |
-| Boca arriba | Este ataque hace 30 puntos de daño más.         |
-| Boca abajo  |                                                 |
-| De lado     | Este Pokémon también se hace 20 puntos de daño. |
+| Nombre      | Ala Ígnea                               |
+| ----------- | --------------------------------------- |
+| Japonés     | ほのおのつばさ                          |
+| Tipo        | Fuego                                   |
+| Código      | EBW01-011                               |
+| Pokémon     | Moltres                                 |
+| Energía     | {R}{R}                                  |
+| Daño        | 30                                      |
+| Efecto      |                                         |
+| De pie      | Este ataque hace 30 puntos de daño más. |
+| De cabeza   |                                         |
+| Boca arriba | Este ataque hace 30 puntos de daño más. |
+| Boca abajo  |                                         |
+| De lado     | Este Pokémon se hace 20 puntos de daño. |
 
 [Ala Ígnea](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard01.webp)
 
@@ -61,20 +61,20 @@
 
 #### Envite Ígneo
 
-| Nombre      | Envite Ígneo                                    |
-| ----------- | ----------------------------------------------- |
-| Japonés     | フレアドライブ                                  |
-| Tipo        | Fuego                                           |
-| Código      | EBW01-014                                       |
-| Pokémon     | Moltres                                         |
-| Energía     | {R}{R}{R}{R}{R}                                 |
-| Daño        | 50                                              |
-| Efecto      |                                                 |
-| De pie      | Este ataque hace 40 puntos de daño más.         |
-| De cabeza   | Este Pokémon también se hace 40 puntos de daño. |
-| Boca arriba | Este ataque hace 40 puntos de daño más.         |
-| Boca abajo  | Este ataque hace 40 puntos de daño más.         |
-| De lado     | Este Pokémon también se hace 40 puntos de daño. |
+| Nombre      | Envite Ígneo                            |
+| ----------- | --------------------------------------- |
+| Japonés     | フレアドライブ                          |
+| Tipo        | Fuego                                   |
+| Código      | EBW01-014                               |
+| Pokémon     | Moltres                                 |
+| Energía     | {R}{R}{R}{R}{R}                         |
+| Daño        | 50                                      |
+| Efecto      |                                         |
+| De pie      | Este ataque hace 40 puntos de daño más. |
+| De cabeza   | Este Pokémon se hace 40 puntos de daño. |
+| Boca arriba | Este ataque hace 40 puntos de daño más. |
+| Boca abajo  | Este ataque hace 40 puntos de daño más. |
+| De lado     | Este Pokémon se hace 40 puntos de daño. |
 
 [Envite Ígneo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard04.webp)
 
@@ -118,20 +118,20 @@
 
 #### Aliento Ardiente
 
-| Nombre      | Aliento Ardiente                                |
-| ----------- | ----------------------------------------------- |
-| Japonés     | ヒートブレス                                    |
-| Tipo        | Fuego                                           |
-| Código      | EBW01-017                                       |
-| Pokémon     | Moltres                                         |
-| Energía     | {R}{R}{R}                                       |
-| Daño        | 40                                              |
-| Efecto      |                                                 |
-| De pie      | Este ataque hace 40 puntos de daño más.         |
-| De cabeza   | Este Pokémon también se hace 30 puntos de daño. |
-| Boca arriba | Este ataque hace 40 puntos de daño más.         |
-| Boca abajo  | Este Pokémon también se hace 30 puntos de daño. |
-| De lado     |                                                 |
+| Nombre      | Aliento Ardiente                        |
+| ----------- | --------------------------------------- |
+| Japonés     | ヒートブレス                            |
+| Tipo        | Fuego                                   |
+| Código      | EBW01-017                               |
+| Pokémon     | Moltres                                 |
+| Energía     | {R}{R}{R}                               |
+| Daño        | 40                                      |
+| Efecto      |                                         |
+| De pie      | Este ataque hace 40 puntos de daño más. |
+| De cabeza   | Este Pokémon se hace 30 puntos de daño. |
+| Boca arriba | Este ataque hace 40 puntos de daño más. |
+| Boca abajo  | Este Pokémon se hace 30 puntos de daño. |
+| De lado     |                                         |
 
 [Aliento Ardiente](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard07.webp)
 

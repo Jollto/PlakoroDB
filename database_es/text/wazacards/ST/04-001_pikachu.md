@@ -99,20 +99,20 @@
 
 #### Placaje Eléctrico
 
-| Nombre      | Placaje Eléctrico                               |
-| ----------- | ----------------------------------------------- |
-| Japonés     | ボルテッカー                                    |
-| Tipo        | Eléctrico                                       |
-| Código      | STW04-006                                       |
-| Pokémon     | Pikachu                                         |
-| Energía     | {L}{L}{L}{L}                                    |
-| Daño        | 40                                              |
-| Efecto      | Este Pokémon también se hace 30 puntos de daño. |
-| De pie      | Este ataque hace 40 puntos de daño más.         |
-| De cabeza   |                                                 |
-| Boca arriba | Este ataque hace 40 puntos de daño más.         |
-| Boca abajo  | Este ataque hace 40 puntos de daño más.         |
-| De lado     |                                                 |
+| Nombre      | Placaje Eléctrico                       |
+| ----------- | --------------------------------------- |
+| Japonés     | ボルテッカー                            |
+| Tipo        | Eléctrico                               |
+| Código      | STW04-006                               |
+| Pokémon     | Pikachu                                 |
+| Energía     | {L}{L}{L}{L}                            |
+| Daño        | 40                                      |
+| Efecto      | Este Pokémon se hace 30 puntos de daño. |
+| De pie      | Este ataque hace 40 puntos de daño más. |
+| De cabeza   |                                         |
+| Boca arriba | Este ataque hace 40 puntos de daño más. |
+| Boca abajo  | Este ataque hace 40 puntos de daño más. |
+| De lado     |                                         |
 
 [Placaje Eléctrico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard06.webp)
 

@@ -137,20 +137,20 @@
 
 #### Reckless Charge
 
-| Name      | Reckless Charge                             |
-| --------- | ------------------------------------------- |
-| Japanese  | とつげき                                    |
-| Type      | Grass                                       |
-| Code      | EBW01-008                                   |
-| Pokémon   | Pinsir                                      |
-| Energy    | {G}{G}{G}                                   |
-| Damage    | 30                                          |
-| Effect    |                                             |
-| Standing  | This attack does 20 more damage.            |
-| Handstand | This Pokémon also does 20 damage to itself. |
-| Back      | This attack does 20 more damage.            |
-| Down      | This Pokémon also does 20 damage to itself. |
-| Sideways  |                                             |
+| Name      | Reckless Charge                        |
+| --------- | -------------------------------------- |
+| Japanese  | とつげき                               |
+| Type      | Grass                                  |
+| Code      | EBW01-008                              |
+| Pokémon   | Pinsir                                 |
+| Energy    | {G}{G}{G}                              |
+| Damage    | 30                                     |
+| Effect    |                                        |
+| Standing  | This attack does 20 more damage.       |
+| Handstand | This Pokémon does 20 damage to itself. |
+| Back      | This attack does 20 more damage.       |
+| Down      | This Pokémon does 20 damage to itself. |
+| Sideways  |                                        |
 
 [Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
@@ -175,19 +175,19 @@
 
 #### Submission
 
-| Name      | Submission                                  |
-| --------- | ------------------------------------------- |
-| Japanese  | じごくぐるま                                |
-| Type      | Fighting                                    |
-| Code      | EBW01-010                                   |
-| Pokémon   | Pinsir                                      |
-| Energy    | {F}{C}{C}{C}                                |
-| Damage    | 30                                          |
-| Effect    | This Pokémon also does 20 damage to itself. |
-| Standing  | This attack does 30 more damage.            |
-| Handstand | This attack does 30 more damage.            |
-| Back      | This attack does 30 more damage.            |
-| Down      | This attack does 30 more damage.            |
-| Sideways  |                                             |
+| Name      | Submission                             |
+| --------- | -------------------------------------- |
+| Japanese  | じごくぐるま                           |
+| Type      | Fighting                               |
+| Code      | EBW01-010                              |
+| Pokémon   | Pinsir                                 |
+| Energy    | {F}{C}{C}{C}                           |
+| Damage    | 30                                     |
+| Effect    | This Pokémon does 20 damage to itself. |
+| Standing  | This attack does 30 more damage.       |
+| Handstand | This attack does 30 more damage.       |
+| Back      | This attack does 30 more damage.       |
+| Down      | This attack does 30 more damage.       |
+| Sideways  |                                        |
 
 [Submission](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)

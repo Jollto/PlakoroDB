@@ -80,20 +80,20 @@
 
 #### Reckless Charge
 
-| Name      | Reckless Charge                             |
-| --------- | ------------------------------------------- |
-| Japanese  | とつげき                                    |
-| Type      | Grass                                       |
-| Code      | STW01-005                                   |
-| Pokémon   | Bulbasaur                                   |
-| Energy    | {G}{G}{G}                                   |
-| Damage    | 30                                          |
-| Effect    |                                             |
-| Standing  | This attack does 40 more damage.            |
-| Handstand | This Pokémon also does 30 damage to itself. |
-| Back      | This attack does 40 more damage.            |
-| Down      | This Pokémon also does 30 damage to itself. |
-| Sideways  |                                             |
+| Name      | Reckless Charge                        |
+| --------- | -------------------------------------- |
+| Japanese  | とつげき                               |
+| Type      | Grass                                  |
+| Code      | STW01-005                              |
+| Pokémon   | Bulbasaur                              |
+| Energy    | {G}{G}{G}                              |
+| Damage    | 30                                     |
+| Effect    |                                        |
+| Standing  | This attack does 40 more damage.       |
+| Handstand | This Pokémon does 30 damage to itself. |
+| Back      | This attack does 40 more damage.       |
+| Down      | This Pokémon does 30 damage to itself. |
+| Sideways  |                                        |
 
 [Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard05.webp)
 

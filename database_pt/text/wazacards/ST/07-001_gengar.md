@@ -6,7 +6,7 @@
 
 | Nome            | Gás Asfixiante                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | ガスでつつむ                                      |
+| Japonês         | ガスでつつむ                                |
 | Tipo            | Sombrio                                     |
 | Código          | STW07-001                                   |
 | Pokémon         | Gengar                                      |
@@ -25,7 +25,7 @@
 
 | Nome            | Tiro Assustador                             |
 | --------------- | ------------------------------------------- |
-| Japonês         | ホロウショット                                     |
+| Japonês         | ホロウショット                              |
 | Tipo            | Sombrio                                     |
 | Código          | STW07-002                                   |
 | Pokémon         | Gengar                                      |
@@ -44,7 +44,7 @@
 
 | Nome            | De Ponta-Cabeça ?                                                                  |
 | --------------- | ---------------------------------------------------------------------------------- |
-| Japonês         | まっさかさま                                                                             |
+| Japonês         | まっさかさま                                                                       |
 | Tipo            | Sombrio                                                                            |
 | Código          | STW07-003                                                                          |
 | Pokémon         | Gengar                                                                             |
@@ -63,7 +63,7 @@
 
 | Nome            | Aprisionamento Sombrio                                            |
 | --------------- | ----------------------------------------------------------------- |
-| Japonês         | かげしばり                                                             |
+| Japonês         | かげしばり                                                        |
 | Tipo            | Sombrio                                                           |
 | Código          | STW07-004                                                         |
 | Pokémon         | Gengar                                                            |
@@ -82,7 +82,7 @@
 
 | Nome            | Bomba de Lodo                               |
 | --------------- | ------------------------------------------- |
-| Japonês         | ヘドロばくだん                                     |
+| Japonês         | ヘドロばくだん                              |
 | Tipo            | Sombrio                                     |
 | Código          | STW07-005                                   |
 | Pokémon         | Gengar                                      |
@@ -101,7 +101,7 @@
 
 | Nome            | Truque Fantasma ?                                                                                                  |
 | --------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Japonês         | ファントムトリック                                                                                                          |
+| Japonês         | ファントムトリック                                                                                                 |
 | Tipo            | Sombrio                                                                                                            |
 | Código          | STW07-006                                                                                                          |
 | Pokémon         | Gengar                                                                                                             |
@@ -120,7 +120,7 @@
 
 | Nome            | Onda Psíquica                               |
 | --------------- | ------------------------------------------- |
-| Japonês         | サイコウェーブ                                     |
+| Japonês         | サイコウェーブ                              |
 | Tipo            | Psíquico                                    |
 | Código          | STW07-007                                   |
 | Pokémon         | Gengar                                      |
@@ -141,7 +141,7 @@
 
 | Nome            | Tranca Noturna ?                                          |
 | --------------- | --------------------------------------------------------- |
-| Japonês         | ナイトロック                                                    |
+| Japonês         | ナイトロック                                              |
 | Tipo            | Sombrio                                                   |
 | Código          | PRW02-1-08                                                |
 | Pokémon         | Gengar                                                    |

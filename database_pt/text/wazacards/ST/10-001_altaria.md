@@ -6,7 +6,7 @@
 
 | Nome            | Bicada                                      |
 | --------------- | ------------------------------------------- |
-| Japonês         | つつく                                         |
+| Japonês         | つつく                                      |
 | Tipo            | Voador                                      |
 | Código          | STW10-001                                   |
 | Pokémon         | Altaria                                     |
@@ -25,7 +25,7 @@
 
 | Nome            | Voo Fofinho ?                                                                                                                                |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | ふわふわひこう                                                                                                                                      |
+| Japonês         | ふわふわひこう                                                                                                                               |
 | Tipo            | Voador                                                                                                                                       |
 | Código          | STW10-002                                                                                                                                    |
 | Pokémon         | Altaria                                                                                                                                      |
@@ -44,7 +44,7 @@
 
 | Nome            | Poleiro                                      |
 | --------------- | -------------------------------------------- |
-| Japonês         | はねやすめ                                        |
+| Japonês         | はねやすめ                                   |
 | Tipo            | Voador                                       |
 | Código          | STW10-003                                    |
 | Pokémon         | Altaria                                      |
@@ -63,7 +63,7 @@
 
 | Nome            | Ás dos Ares                                 |
 | --------------- | ------------------------------------------- |
-| Japonês         | つばめがえし                                      |
+| Japonês         | つばめがえし                                |
 | Tipo            | Voador                                      |
 | Código          | STW10-004                                   |
 | Pokémon         | Altaria                                     |
@@ -80,20 +80,20 @@
 
 #### Voar
 
-| Nome            | Voar                                                                                                                 |
-| --------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | そらをとぶ                                                                                                                |
-| Tipo            | Voador                                                                                                               |
-| Código          | STW10-005                                                                                                            |
-| Pokémon         | Altaria                                                                                                              |
-| Energia         | {Y}{Y}{Y}                                                                                                            |
-| Dano            | 40                                                                                                                   |
-| Efeito          |                                                                                                                      |
-| Em pé           | No próximo turno do seu oponente, este Pokémon não recebe dano de ataques. (Ele ainda é afetado por outros efeitos.) |
-| De ponta-cabeça | Este ataque não faz nada.                                                                                            |
-| De costas       | Este ataque não faz nada.                                                                                            |
-| De bruços       | Este ataque não faz nada.                                                                                            |
-| De lado         | No próximo turno do seu oponente, este Pokémon não recebe dano de ataques. (Ele ainda é afetado por outros efeitos.) |
+| Nome            | Voar                                                                                                                  |
+| --------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Japonês         | そらをとぶ                                                                                                            |
+| Tipo            | Voador                                                                                                                |
+| Código          | STW10-005                                                                                                             |
+| Pokémon         | Altaria                                                                                                               |
+| Energia         | {Y}{Y}{Y}                                                                                                             |
+| Dano            | 40                                                                                                                    |
+| Efeito          |                                                                                                                       |
+| Em pé           | No próximo turno do seu oponente, este Pokémon não recebe dano de ataques. (Você ainda é afetado por outros efeitos.) |
+| De ponta-cabeça | Este ataque não faz nada.                                                                                             |
+| De costas       | Este ataque não faz nada.                                                                                             |
+| De bruços       | Este ataque não faz nada.                                                                                             |
+| De lado         | No próximo turno do seu oponente, este Pokémon não recebe dano de ataques. (Você ainda é afetado por outros efeitos.) |
 
 [Voar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
 
@@ -101,7 +101,7 @@
 
 | Nome            | Ataque do Céu                                      |
 | --------------- | -------------------------------------------------- |
-| Japonês         | ゴッドバード                                             |
+| Japonês         | ゴッドバード                                       |
 | Tipo            | Voador                                             |
 | Código          | STW10-006                                          |
 | Pokémon         | Altaria                                            |
@@ -120,7 +120,7 @@
 
 | Nome            | Explosão Lunar                                                             |
 | --------------- | -------------------------------------------------------------------------- |
-| Japonês         | ムーンフォース                                                                    |
+| Japonês         | ムーンフォース                                                             |
 | Tipo            | Psíquico                                                                   |
 | Código          | STW10-007                                                                  |
 | Pokémon         | Altaria                                                                    |

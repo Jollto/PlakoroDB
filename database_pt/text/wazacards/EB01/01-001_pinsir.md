@@ -6,7 +6,7 @@
 
 | Nome            | Concentração ?                                    |
 | --------------- | ------------------------------------------------- |
-| Japonês         | しゅうちゅう                                            |
+| Japonês         | しゅうちゅう                                      |
 | Tipo            | Planta                                            |
 | Código          | EBW01-001                                         |
 | Pokémon         | Pinsir                                            |
@@ -25,7 +25,7 @@
 
 | Nome            | Resistência ?                                                                               |
 | --------------- | ------------------------------------------------------------------------------------------- |
-| Japonês         | たえる                                                                                         |
+| Japonês         | たえる                                                                                      |
 | Tipo            | Planta                                                                                      |
 | Código          | EBW01-002                                                                                   |
 | Pokémon         | Pinsir                                                                                      |
@@ -44,7 +44,7 @@
 
 | Nome            | Pancada de Chifre ?                         |
 | --------------- | ------------------------------------------- |
-| Japonês         | つのでたたく                                      |
+| Japonês         | つのでたたく                                |
 | Tipo            | Planta                                      |
 | Código          | EBW01-003                                   |
 | Pokémon         | Pinsir                                      |
@@ -63,7 +63,7 @@
 
 | Nome            | Guilhotina                            |
 | --------------- | ------------------------------------- |
-| Japonês         | ハサミギロチン                               |
+| Japonês         | ハサミギロチン                        |
 | Tipo            | Normal                                |
 | Código          | EBW01-004                             |
 | Pokémon         | Pinsir                                |
@@ -82,7 +82,7 @@
 
 | Nome            | Quebra-telha                                |
 | --------------- | ------------------------------------------- |
-| Japonês         | かわらわり                                       |
+| Japonês         | かわらわり                                  |
 | Tipo            | Lutador                                     |
 | Código          | EBW01-005                                   |
 | Pokémon         | Pinsir                                      |
@@ -101,7 +101,7 @@
 
 | Nome            | Investida de Pinças ?                             |
 | --------------- | ------------------------------------------------- |
-| Japonês         | チャージばさみ                                           |
+| Japonês         | チャージばさみ                                    |
 | Tipo            | Planta                                            |
 | Código          | EBW01-006                                         |
 | Pokémon         | Pinsir                                            |
@@ -120,7 +120,7 @@
 
 | Nome            | Giro Enfurecido ?                                                                                     |
 | --------------- | ----------------------------------------------------------------------------------------------------- |
-| Japonês         | ぎゃくじょうスイング                                                                                            |
+| Japonês         | ぎゃくじょうスイング                                                                                  |
 | Tipo            | Planta                                                                                                |
 | Código          | EBW01-007                                                                                             |
 | Pokémon         | Pinsir                                                                                                |
@@ -139,7 +139,7 @@
 
 | Nome            | Carga Indomável                                  |
 | --------------- | ------------------------------------------------ |
-| Japonês         | とつげき                                             |
+| Japonês         | とつげき                                         |
 | Tipo            | Planta                                           |
 | Código          | EBW01-008                                        |
 | Pokémon         | Pinsir                                           |
@@ -158,7 +158,7 @@
 
 | Nome            | Pinça Fatal ?                               |
 | --------------- | ------------------------------------------- |
-| Japonês         | ひっさつばさみ                                     |
+| Japonês         | ひっさつばさみ                              |
 | Tipo            | Planta                                      |
 | Código          | EBW01-009                                   |
 | Pokémon         | Pinsir                                      |
@@ -177,7 +177,7 @@
 
 | Nome            | Submissão                                        |
 | --------------- | ------------------------------------------------ |
-| Japonês         | じごくぐるま                                           |
+| Japonês         | じごくぐるま                                     |
 | Tipo            | Lutador                                          |
 | Código          | EBW01-010                                        |
 | Pokémon         | Pinsir                                           |

@@ -6,7 +6,7 @@
 
 | Nome            | Feixe                                       |
 | --------------- | ------------------------------------------- |
-| Japonês         | ビーム                                         |
+| Japonês         | ビーム                                      |
 | Tipo            | Aço                                         |
 | Código          | STW08-001                                   |
 | Pokémon         | Metagross                                   |
@@ -25,7 +25,7 @@
 
 | Nome            | Quatro Operações ?                                                                                |
 | --------------- | ------------------------------------------------------------------------------------------------- |
-| Japonês         | しそくえんざん                                                                                           |
+| Japonês         | しそくえんざん                                                                                    |
 | Tipo            | Aço                                                                                               |
 | Código          | STW08-002                                                                                         |
 | Pokémon         | Metagross                                                                                         |
@@ -44,7 +44,7 @@
 
 | Nome            | Prensa Ampla ?                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | ワイドプレス                                      |
+| Japonês         | ワイドプレス                                |
 | Tipo            | Aço                                         |
 | Código          | STW08-003                                   |
 | Pokémon         | Metagross                                   |
@@ -63,7 +63,7 @@
 
 | Nome            | Pisão Direto ?                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | ストレートスタンプ                                   |
+| Japonês         | ストレートスタンプ                          |
 | Tipo            | Aço                                         |
 | Código          | STW08-004                                   |
 | Pokémon         | Metagross                                   |
@@ -82,7 +82,7 @@
 
 | Nome            | Meteoro Esmagador                           |
 | --------------- | ------------------------------------------- |
-| Japonês         | コメットパンチ                                     |
+| Japonês         | コメットパンチ                              |
 | Tipo            | Aço                                         |
 | Código          | STW08-005                                   |
 | Pokémon         | Metagross                                   |
@@ -101,7 +101,7 @@
 
 | Nome            | Golpe Pesado                                       |
 | --------------- | -------------------------------------------------- |
-| Japonês         | ヘビーボンバー                                            |
+| Japonês         | ヘビーボンバー                                     |
 | Tipo            | Aço                                                |
 | Código          | STW08-006                                          |
 | Pokémon         | Metagross                                          |
@@ -120,7 +120,7 @@
 
 | Nome            | Explosão                                              |
 | --------------- | ----------------------------------------------------- |
-| Japonês         | だいばくはつ                                                |
+| Japonês         | だいばくはつ                                          |
 | Tipo            | Normal                                                |
 | Código          | STW08-007                                             |
 | Pokémon         | Metagross                                             |
@@ -141,7 +141,7 @@
 
 | Nome            | Garra de Aço ?                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | こうてつのツメ                                     |
+| Japonês         | こうてつのツメ                              |
 | Tipo            | Aço                                         |
 | Código          | PRW02-2-08                                  |
 | Pokémon         | Metagross                                   |

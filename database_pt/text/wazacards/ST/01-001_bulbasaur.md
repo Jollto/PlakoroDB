@@ -6,7 +6,7 @@
 
 | Nome            | Chicote de Vinha                            |
 | --------------- | ------------------------------------------- |
-| Japonês         | つるのムチ                                       |
+| Japonês         | つるのムチ                                  |
 | Tipo            | Planta                                      |
 | Código          | STW01-001                                   |
 | Pokémon         | Bulbasaur                                   |
@@ -25,7 +25,7 @@
 
 | Nome            | Folha Navalha                               |
 | --------------- | ------------------------------------------- |
-| Japonês         | はっぱカッター                                     |
+| Japonês         | はっぱカッター                              |
 | Tipo            | Planta                                      |
 | Código          | STW01-002                                   |
 | Pokémon         | Bulbasaur                                   |
@@ -44,7 +44,7 @@
 
 | Nome            | Semente Sanguessuga                                                                                         |
 | --------------- | ----------------------------------------------------------------------------------------------------------- |
-| Japonês         | やどりぎのタネ                                                                                                     |
+| Japonês         | やどりぎのタネ                                                                                              |
 | Tipo            | Planta                                                                                                      |
 | Código          | STW01-003                                                                                                   |
 | Pokémon         | Bulbasaur                                                                                                   |
@@ -63,7 +63,7 @@
 
 | Nome            | Nó de Grama                                                                                           |
 | --------------- | ----------------------------------------------------------------------------------------------------- |
-| Japonês         | くさむすび                                                                                                 |
+| Japonês         | くさむすび                                                                                            |
 | Tipo            | Planta                                                                                                |
 | Código          | STW01-004                                                                                             |
 | Pokémon         | Bulbasaur                                                                                             |
@@ -82,7 +82,7 @@
 
 | Nome            | Carga Indomável                                  |
 | --------------- | ------------------------------------------------ |
-| Japonês         | とつげき                                             |
+| Japonês         | とつげき                                         |
 | Tipo            | Planta                                           |
 | Código          | STW01-005                                        |
 | Pokémon         | Bulbasaur                                        |
@@ -101,7 +101,7 @@
 
 | Nome            | Gigadreno                             |
 | --------------- | ------------------------------------- |
-| Japonês         | ギガドレイン                                |
+| Japonês         | ギガドレイン                          |
 | Tipo            | Planta                                |
 | Código          | STW01-006                             |
 | Pokémon         | Bulbasaur                             |
@@ -120,7 +120,7 @@
 
 | Nome            | Spray Ácido                                 |
 | --------------- | ------------------------------------------- |
-| Japonês         | アシッドボム                                      |
+| Japonês         | アシッドボム                                |
 | Tipo            | Sombrio                                     |
 | Código          | STW01-007                                   |
 | Pokémon         | Bulbasaur                                   |
@@ -141,7 +141,7 @@
 
 | Nome            | Tempestade Aromática ?                |
 | --------------- | ------------------------------------- |
-| Japonês         | アロマストーム                               |
+| Japonês         | アロマストーム                        |
 | Tipo            | Planta                                |
 | Código          | PRW01-1-08                            |
 | Pokémon         | Bulbasaur                             |

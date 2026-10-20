@@ -6,7 +6,7 @@
 
 | Nome            | Brasa                                       |
 | --------------- | ------------------------------------------- |
-| Japonês         | ひのこ                                         |
+| Japonês         | ひのこ                                      |
 | Tipo            | Fogo                                        |
 | Código          | STW02-001                                   |
 | Pokémon         | Charmander                                  |
@@ -25,7 +25,7 @@
 
 | Nome            | Aquecimento ?                                     |
 | --------------- | ------------------------------------------------- |
-| Japonês         | ヒートアップ                                            |
+| Japonês         | ヒートアップ                                      |
 | Tipo            | Fogo                                              |
 | Código          | STW02-002                                         |
 | Pokémon         | Charmander                                        |
@@ -44,7 +44,7 @@
 
 | Nome            | Lança-chamas                                       |
 | --------------- | -------------------------------------------------- |
-| Japonês         | かえんほうしゃ                                            |
+| Japonês         | かえんほうしゃ                                     |
 | Tipo            | Fogo                                               |
 | Código          | STW02-003                                          |
 | Pokémon         | Charmander                                         |
@@ -63,7 +63,7 @@
 
 | Nome            | Presas de Fogo                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | ほのおのキバ                                      |
+| Japonês         | ほのおのキバ                                |
 | Tipo            | Fogo                                        |
 | Código          | STW02-004                                   |
 | Pokémon         | Charmander                                  |
@@ -82,7 +82,7 @@
 
 | Nome            | Tempestade de Chamas ?                                               |
 | --------------- | -------------------------------------------------------------------- |
-| Japonês         | フレアストーム                                                              |
+| Japonês         | フレアストーム                                                       |
 | Tipo            | Fogo                                                                 |
 | Código          | STW02-005                                                            |
 | Pokémon         | Charmander                                                           |
@@ -101,7 +101,7 @@
 
 | Nome            | Soco Trovoada                               |
 | --------------- | ------------------------------------------- |
-| Japonês         | かみなりパンチ                                     |
+| Japonês         | かみなりパンチ                              |
 | Tipo            | Elétrico                                    |
 | Código          | STW02-006                                   |
 | Pokémon         | Charmander                                  |
@@ -120,7 +120,7 @@
 
 | Nome            | Garra de Metal                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | メタルクロー                                      |
+| Japonês         | メタルクロー                                |
 | Tipo            | Aço                                         |
 | Código          | STW02-007                                   |
 | Pokémon         | Charmander                                  |
@@ -141,7 +141,7 @@
 
 | Nome            | Chama Crescente ?                                  |
 | --------------- | -------------------------------------------------- |
-| Japonês         | フレイムアップ                                            |
+| Japonês         | フレイムアップ                                     |
 | Tipo            | Fogo                                               |
 | Código          | PRW01-2-08                                         |
 | Pokémon         | Charmander                                         |

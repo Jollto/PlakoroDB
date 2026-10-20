@@ -9,16 +9,16 @@ Q: He lanzado con éxito las tiradas de Enekoro y Charakoro para el movimiento d
 
 A: Primero, tira 3 Enekoro.  
 Luego, elige cualquiera de los Enekoro tirados y lánzalo de nuevo.  
-The player rolling the Enekoro chooses which one to add.  
-All the Energy revealed during this process counts as the Energy produced this turn.  
-If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.
+El jugador que tira los Enekoros elige cuál añadir.  
+Todas las Energías reveladas durante este proceso cuentan como Energía producida este turno.  
+Si tienes 4 o más Enekoros, puedes añadir cualquier Enekoro de tu elección y tirarlos todos al mismo tiempo.
 
 R: [Drenadoras](/database_es/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
 
 #### 2
 
-Q: When Bulbasaur's HP was 120, I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Giga Drain".  
-In this case, can I raise its HP to 160?
+Q: Cuando el HP de Bulbasaur era 120, lanzé con éxito las tiradas de Enekoro y Charakoro para el movimiento de Bulbasaur "Gigadrenado".  
+En este caso, ¿puedo subir su HP a 160?
 
 A: No, no puedes. El HP máximo de Bulbasaur es 120.
 
@@ -43,7 +43,7 @@ Also, who chooses which Enekoro to add?
 A: Primero, tira 3 Enekoro.  
 Next, choose two of the rolled Enekoro and roll them again.  
 (If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.)  
-All the Energy revealed during this process counts as the Energy produced this turn.  
+Todas las Energías reveladas durante este proceso cuentan como Energía producida este turno.  
 The player rolling the Enekoro chooses which one to add to increase the number of Enekoro.
 
 R: [Calentar](/database_es/cards/wazacards/ST/02-001_charmander/STW02-002.png)
@@ -190,9 +190,9 @@ Q: I successfully passed the Enekoro and Charakoro rolls for Pinsir's move "Scis
 Also, who gets to choose which Enekoro to add?
 
 A: After rolling 3 Enekoro, choose any one of them and roll it again.  
-All the Energy revealed during this process counts as the Energy produced this turn.  
-If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.  
-The player rolling the Enekoro chooses which one to add.
+Todas las Energías reveladas durante este proceso cuentan como Energía producida este turno.  
+Si tienes 4 o más Enekoros, puedes añadir cualquier Enekoro de tu elección y tirarlos todos al mismo tiempo.  
+El jugador que tira los Enekoros elige cuál añadir.
 
 R: [Carga Tijeras](/database_es/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)
 
@@ -390,8 +390,8 @@ If you can't, reattach the chip after performing the Enekoro check.
 Q: I need to roll a large number of Enekoro due to a move's effect or similar reason. How should I roll them in this case?
 
 A: After rolling 3 Enekoro, select a number of Enekoro from among them equal to the number you want to roll additionally, and roll them again.  
-All the Energy revealed during this process counts as the Energy produced this turn.  
-If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.
+Todas las Energías reveladas durante este proceso cuentan como Energía producida este turno.  
+Si tienes 4 o más Enekoros, puedes añadir cualquier Enekoro de tu elección y tirarlos todos al mismo tiempo.
 
 #### 7
 

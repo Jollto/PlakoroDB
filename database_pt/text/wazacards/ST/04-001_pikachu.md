@@ -6,7 +6,7 @@
 
 | Nome            | Roída                                       |
 | --------------- | ------------------------------------------- |
-| Japonês         | かじる                                         |
+| Japonês         | かじる                                      |
 | Tipo            | Elétrico                                    |
 | Código          | STW04-001                                   |
 | Pokémon         | Pikachu                                     |
@@ -25,7 +25,7 @@
 
 | Nome            | Trovoada de Choques                         |
 | --------------- | ------------------------------------------- |
-| Japonês         | でんきショック                                     |
+| Japonês         | でんきショック                              |
 | Tipo            | Elétrico                                    |
 | Código          | STW04-002                                   |
 | Pokémon         | Pikachu                                     |
@@ -44,7 +44,7 @@
 
 | Nome            | Investida Elétrica ?                                                 |
 | --------------- | -------------------------------------------------------------------- |
-| Japonês         | エレキラッシュ                                                              |
+| Japonês         | エレキラッシュ                                                       |
 | Tipo            | Elétrico                                                             |
 | Código          | STW04-003                                                            |
 | Pokémon         | Pikachu                                                              |
@@ -63,7 +63,7 @@
 
 | Nome            | Relâmpago                                          |
 | --------------- | -------------------------------------------------- |
-| Japonês         | 10まんボルト                                            |
+| Japonês         | 10まんボルト                                       |
 | Tipo            | Elétrico                                           |
 | Código          | STW04-004                                          |
 | Pokémon         | Pikachu                                            |
@@ -82,7 +82,7 @@
 
 | Nome            | Trovão                                      |
 | --------------- | ------------------------------------------- |
-| Japonês         | かみなり                                        |
+| Japonês         | かみなり                                    |
 | Tipo            | Elétrico                                    |
 | Código          | STW04-005                                   |
 | Pokémon         | Pikachu                                     |
@@ -101,7 +101,7 @@
 
 | Nome            | Investida Trovão                                 |
 | --------------- | ------------------------------------------------ |
-| Japonês         | ボルテッカー                                           |
+| Japonês         | ボルテッカー                                     |
 | Tipo            | Elétrico                                         |
 | Código          | STW04-006                                        |
 | Pokémon         | Pikachu                                          |
@@ -120,7 +120,7 @@
 
 | Nome            | Cauda de Ferro                                                                              |
 | --------------- | ------------------------------------------------------------------------------------------- |
-| Japonês         | アイアンテール                                                                                     |
+| Japonês         | アイアンテール                                                                              |
 | Tipo            | Aço                                                                                         |
 | Código          | STW04-007                                                                                   |
 | Pokémon         | Pikachu                                                                                     |
@@ -141,7 +141,7 @@
 
 | Nome            | Raio Crítico ?                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | クリティカルボルト                                   |
+| Japonês         | クリティカルボルト                          |
 | Tipo            | Elétrico                                    |
 | Código          | PRW01-008                                   |
 | Pokémon         | Pikachu                                     |

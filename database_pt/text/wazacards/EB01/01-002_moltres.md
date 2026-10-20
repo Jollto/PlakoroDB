@@ -6,7 +6,7 @@
 
 | Nome            | Asa de Fogo                                      |
 | --------------- | ------------------------------------------------ |
-| Japonês         | ほのおのつばさ                                          |
+| Japonês         | ほのおのつばさ                                   |
 | Tipo            | Fogo                                             |
 | Código          | EBW01-011                                        |
 | Pokémon         | Moltres                                          |
@@ -25,7 +25,7 @@
 
 | Nome            | Onda de Calor                               |
 | --------------- | ------------------------------------------- |
-| Japonês         | ねっぷう                                        |
+| Japonês         | ねっぷう                                    |
 | Tipo            | Fogo                                        |
 | Código          | EBW01-012                                   |
 | Pokémon         | Moltres                                     |
@@ -44,7 +44,7 @@
 
 | Nome            | Lança-chamas                                       |
 | --------------- | -------------------------------------------------- |
-| Japonês         | かえんほうしゃ                                            |
+| Japonês         | かえんほうしゃ                                     |
 | Tipo            | Fogo                                               |
 | Código          | EBW01-013                                          |
 | Pokémon         | Moltres                                            |
@@ -63,7 +63,7 @@
 
 | Nome            | Blitz de Labaredas                               |
 | --------------- | ------------------------------------------------ |
-| Japonês         | フレアドライブ                                          |
+| Japonês         | フレアドライブ                                   |
 | Tipo            | Fogo                                             |
 | Código          | EBW01-014                                        |
 | Pokémon         | Moltres                                          |
@@ -82,7 +82,7 @@
 
 | Nome            | Furacão                                     |
 | --------------- | ------------------------------------------- |
-| Japonês         | ぼうふう                                        |
+| Japonês         | ぼうふう                                    |
 | Tipo            | Voador                                      |
 | Código          | EBW01-015                                   |
 | Pokémon         | Moltres                                     |
@@ -101,7 +101,7 @@
 
 | Nome            | Chama Furacão                                      |
 | --------------- | -------------------------------------------------- |
-| Japonês         | ほのおのうず                                             |
+| Japonês         | ほのおのうず                                       |
 | Tipo            | Fogo                                               |
 | Código          | EBW01-016                                          |
 | Pokémon         | Moltres                                            |
@@ -120,7 +120,7 @@
 
 | Nome            | Bafo de Calor                                    |
 | --------------- | ------------------------------------------------ |
-| Japonês         | ヒートブレス                                           |
+| Japonês         | ヒートブレス                                     |
 | Tipo            | Fogo                                             |
 | Código          | EBW01-017                                        |
 | Pokémon         | Moltres                                          |
@@ -139,7 +139,7 @@
 
 | Nome            | Chama Final               |
 | --------------- | ------------------------- |
-| Japonês         | もえつきる                     |
+| Japonês         | もえつきる                |
 | Tipo            | Fogo                      |
 | Código          | EBW01-018                 |
 | Pokémon         | Moltres                   |
@@ -158,7 +158,7 @@
 
 | Nome            | Investida Alada ?                           |
 | --------------- | ------------------------------------------- |
-| Japonês         | ウイングラッシュ                                    |
+| Japonês         | ウイングラッシュ                            |
 | Tipo            | Voador                                      |
 | Código          | EBW01-019                                   |
 | Pokémon         | Moltres                                     |
@@ -177,7 +177,7 @@
 
 | Nome            | Voar                                                                       |
 | --------------- | -------------------------------------------------------------------------- |
-| Japonês         | そらをとぶ                                                                      |
+| Japonês         | そらをとぶ                                                                 |
 | Tipo            | Voador                                                                     |
 | Código          | EBW01-020                                                                  |
 | Pokémon         | Moltres                                                                    |

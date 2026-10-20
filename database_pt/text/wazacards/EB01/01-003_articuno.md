@@ -6,7 +6,7 @@
 
 | Nome            | Asa de Gelo                                               |
 | --------------- | --------------------------------------------------------- |
-| Japonês         | アイスウイング                                                   |
+| Japonês         | アイスウイング                                            |
 | Tipo            | Água                                                      |
 | Código          | EBW01-021                                                 |
 | Pokémon         | Articuno                                                  |
@@ -25,7 +25,7 @@
 
 | Nome            | Lâmina Congelante ?                                               |
 | --------------- | ----------------------------------------------------------------- |
-| Japonês         | いてつくやいば                                                           |
+| Japonês         | いてつくやいば                                                    |
 | Tipo            | Água                                                              |
 | Código          | EBW01-022                                                         |
 | Pokémon         | Articuno                                                          |
@@ -44,7 +44,7 @@
 
 | Nome            | Tempestade de Nevasca ?                     |
 | --------------- | ------------------------------------------- |
-| Japonês         | ブリザードストーム                                   |
+| Japonês         | ブリザードストーム                          |
 | Tipo            | Água                                        |
 | Código          | EBW01-023                                   |
 | Pokémon         | Articuno                                    |
@@ -63,7 +63,7 @@
 
 | Nome            | Cortador de Ar                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | エアカッター                                      |
+| Japonês         | エアカッター                                |
 | Tipo            | Voador                                      |
 | Código          | EBW01-024                                   |
 | Pokémon         | Articuno                                    |
@@ -82,7 +82,7 @@
 
 | Nome            | Poleiro                                      |
 | --------------- | -------------------------------------------- |
-| Japonês         | はねやすめ                                        |
+| Japonês         | はねやすめ                                   |
 | Tipo            | Voador                                       |
 | Código          | EBW01-025                                    |
 | Pokémon         | Articuno                                     |
@@ -101,7 +101,7 @@
 
 | Nome            | Mergulho Congelante ?                       |
 | --------------- | ------------------------------------------- |
-| Japonês         | フリーズダイブ                                     |
+| Japonês         | フリーズダイブ                              |
 | Tipo            | Água                                        |
 | Código          | EBW01-026                                   |
 | Pokémon         | Articuno                                    |
@@ -120,7 +120,7 @@
 
 | Nome            | Disparo de Gelo                             |
 | --------------- | ------------------------------------------- |
-| Japonês         | アイスショット                                     |
+| Japonês         | アイスショット                              |
 | Tipo            | Água                                        |
 | Código          | EBW01-027                                   |
 | Pokémon         | Articuno                                    |
@@ -139,7 +139,7 @@
 
 | Nome            | Respiração Fria                                           |
 | --------------- | --------------------------------------------------------- |
-| Japonês         | コールドブレス                                                   |
+| Japonês         | コールドブレス                                            |
 | Tipo            | Água                                                      |
 | Código          | EBW01-028                                                 |
 | Pokémon         | Articuno                                                  |
@@ -156,20 +156,20 @@
 
 #### Frio Extremo
 
-| Nome            | Frio Extremo                                                                           |
-| --------------- | -------------------------------------------------------------------------------------- |
-| Japonês         | ぜったいれいど                                                                                |
-| Tipo            | Água                                                                                   |
-| Código          | EBW01-029                                                                              |
-| Pokémon         | Articuno                                                                               |
-| Energia         | {W}{W}{W}{W}                                                                           |
-| Dano            | 40                                                                                     |
-| Efeito          |                                                                                        |
-| Em pé           | No próximo turno do oponente, ele rola 2 Enekoro a menos e não pode rolar o Charakoro. |
-| De ponta-cabeça |                                                                                        |
-| De costas       | No próximo turno do oponente, ele rola 2 Enekoro a menos e não pode rolar o Charakoro. |
-| De bruços       |                                                                                        |
-| De lado         |                                                                                        |
+| Nome            | Frio Extremo                                                                              |
+| --------------- | ----------------------------------------------------------------------------------------- |
+| Japonês         | ぜったいれいど                                                                            |
+| Tipo            | Água                                                                                      |
+| Código          | EBW01-029                                                                                 |
+| Pokémon         | Articuno                                                                                  |
+| Energia         | {W}{W}{W}{W}                                                                              |
+| Dano            | 40                                                                                        |
+| Efeito          |                                                                                           |
+| Em pé           | No próximo turno do oponente, ele rola 2 Enekoro a menos. Ele não pode rolar o Charakoro. |
+| De ponta-cabeça |                                                                                           |
+| De costas       | No próximo turno do oponente, ele rola 2 Enekoro a menos. Ele não pode rolar o Charakoro. |
+| De bruços       |                                                                                           |
+| De lado         |                                                                                           |
 
 [Frio Extremo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
 
@@ -177,7 +177,7 @@
 
 | Nome            | Voar                                                                       |
 | --------------- | -------------------------------------------------------------------------- |
-| Japonês         | そらをとぶ                                                                      |
+| Japonês         | そらをとぶ                                                                 |
 | Tipo            | Voador                                                                     |
 | Código          | EBW01-030                                                                  |
 | Pokémon         | Articuno                                                                   |

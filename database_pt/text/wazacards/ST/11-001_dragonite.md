@@ -6,7 +6,7 @@
 
 | Nome            | Pulso do Dragão                                    |
 | --------------- | -------------------------------------------------- |
-| Japonês         | りゅうのはどう                                            |
+| Japonês         | りゅうのはどう                                     |
 | Tipo            | Dragão                                             |
 | Código          | STW11-001                                          |
 | Pokémon         | Dragonite                                          |
@@ -25,7 +25,7 @@
 
 | Nome            | Golpe de Garra                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | ツメできりさく                                     |
+| Japonês         | ツメできりさく                              |
 | Tipo            | Dragão                                      |
 | Código          | STW11-002                                   |
 | Pokémon         | Dragonite                                   |
@@ -44,7 +44,7 @@
 
 | Nome            | Desmoronar                                  |
 | --------------- | ------------------------------------------- |
-| Japonês         | たたきつぶす                                      |
+| Japonês         | たたきつぶす                                |
 | Tipo            | Dragão                                      |
 | Código          | STW11-003                                   |
 | Pokémon         | Dragonite                                   |
@@ -63,7 +63,7 @@
 
 | Nome            | Explosão do Dragão                          |
 | --------------- | ------------------------------------------- |
-| Japonês         | まわしげり                                       |
+| Japonês         | まわしげり                                  |
 | Tipo            | Dragão                                      |
 | Código          | STW11-004                                   |
 | Pokémon         | Dragonite                                   |
@@ -82,7 +82,7 @@
 
 | Nome            | Prensa de Escamas ?                                                                         |
 | --------------- | ------------------------------------------------------------------------------------------- |
-| Japonês         | スケイルプレス                                                                                     |
+| Japonês         | スケイルプレス                                                                              |
 | Tipo            | Água                                                                                        |
 | Código          | STW11-005                                                                                   |
 | Pokémon         | Dragonite                                                                                   |
@@ -101,7 +101,7 @@
 
 | Nome            | Cauda Furacão ?                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------- |
-| Japonês         | ハリケーンテール                                                                                                 |
+| Japonês         | ハリケーンテール                                                                                         |
 | Tipo            | Elétrico                                                                                                 |
 | Código          | STW11-006                                                                                                |
 | Pokémon         | Dragonite                                                                                                |
@@ -120,7 +120,7 @@
 
 | Nome            | Velocidade Extrema                          |
 | --------------- | ------------------------------------------- |
-| Japonês         | しんそく                                        |
+| Japonês         | しんそく                                    |
 | Tipo            | Normal                                      |
 | Código          | STW11-007                                   |
 | Pokémon         | Dragonite                                   |

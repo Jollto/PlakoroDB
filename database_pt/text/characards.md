@@ -4,9 +4,9 @@
 
 | Nome     |     |
 | -------- | --- |
-| Tipo     |
-| Código   |
-| Fraqueza |
+| Tipo     |     |
+| Código   |     |
+| Fraqueza |     |
 | PS       | 120 |
 
 ## Starter Set
@@ -26,9 +26,9 @@
 
 | Nome     | Charmander |
 | -------- | ---------- |
-| Tipo     | Fogo      |
+| Tipo     | Fogo       |
 | Código   | STC02-001  |
-| Fraqueza | Água      |
+| Fraqueza | Água       |
 | PS       | 120        |
 
 [Charmander](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_characard.webp)

@@ -95,8 +95,8 @@ P: Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Relâmpago" do
 Como funciona o efeito "No seu próximo turno, você rola 2 Enekoro a menos"?  
 Além disso, quem escolhe quais Enekoro serão removidos?
 
-R: Escolha qualquer um dos seus três Enekoro e role-o.  
-O jogador que rola os Enekoro escolhe quais serão removidos.
+R: O oponente.  
+O jogador que rola os Enekoro decide qual deles será removido.
 
 Ref.: [Relâmpago](/database/cards/wazacards/ST/04-001_pikachu/STW04-004.png)
 
@@ -223,8 +223,9 @@ Ref.: [Asa de Fogo](/database/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)
 P: Por causa do efeito de Charakoro do golpe "Asa de Gelo" do Articuno, o oponente precisa rolar um Enekoro a menos no próximo turno dele.  
 Quem decide qual Enekoro será removido?
 
-R: O oponente.  
-O jogador que rola os Enekoro decide qual deles será removido.
+A: The opponent.  
+R: Escolha qualquer um dos seus três Enekoro e role-o.  
+O jogador que rola os Enekoro escolhe quais serão removidos.
 
 Ref.: [Asa de Gelo](/database/cards/wazacards/EB01/01-003_articuno/EBW01-021.png)
 

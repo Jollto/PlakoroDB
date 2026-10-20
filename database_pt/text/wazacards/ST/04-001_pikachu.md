@@ -2,9 +2,9 @@
 
 ### Starter Set
 
-#### Gnaw
+#### Roída
 
-| Nome            | Gnaw                                                        |
+| Nome            | Roída                                                       |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | かじる                                                         |
 | Tipo            | Elétrico                                                    |
@@ -40,9 +40,9 @@
 
 [Trovoada de Choques](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard02.webp)
 
-#### Electric Rush ?
+#### Investida Elétrica ?
 
-| Nome            | Electric Rush ?                                                                                                         |
+| Nome            | Investida Elétrica ?                                                                                                    |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Japonês         | エレキラッシュ                                                                                                                 |
 | Tipo            | Elétrico                                                                                                                |
@@ -59,9 +59,9 @@
 
 [Investida Elétrica](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard03.webp)
 
-#### Thunderbolt
+#### Relâmpago
 
-| Nome            | Thunderbolt                                                        |
+| Nome            | Relâmpago                                                          |
 | --------------- | ------------------------------------------------------------------ |
 | Japonês         | 10まんボルト                                                            |
 | Tipo            | Elétrico                                                           |
@@ -97,9 +97,9 @@
 
 [Trovão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard05.webp)
 
-#### Volt Tackle
+#### Investida Trovão
 
-| Nome            | Volt Tackle                                                      |
+| Nome            | Investida Trovão                                                 |
 | --------------- | ---------------------------------------------------------------- |
 | Japonês         | ボルテッカー                                                           |
 | Tipo            | Elétrico                                                         |
@@ -137,9 +137,9 @@
 
 ### Promo
 
-#### Critical Bolt ?
+#### Raio Crítico ?
 
-| Nome            | Critical Bolt ?                                             |
+| Nome            | Raio Crítico ?                                              |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | クリティカルボルト                                                   |
 | Tipo            | Elétrico                                                    |

@@ -21,9 +21,9 @@
 
 [Pulso do Dragão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard01.webp)
 
-#### Claw Slash
+#### Golpe de Garra
 
-| Nome            | Claw Slash                                                  |
+| Nome            | Golpe de Garra                                              |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | ツメできりさく                                                     |
 | Tipo            | Dragão                                                      |
@@ -40,9 +40,9 @@
 
 [Golpe de Garra](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard02.webp)
 
-#### Wrack Down
+#### Desmoronar
 
-| Nome            | Wrack Down                                                  |
+| Nome            | Desmoronar                                                  |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | たたきつぶす                                                      |
 | Tipo            | Dragão                                                      |
@@ -97,9 +97,9 @@
 
 [Prensa de Escamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
 
-#### Hurricane Tail
+#### Cauda Furacão ?
 
-| Nome            | Hurricane Tail                                                                                                           |
+| Nome            | Cauda Furacão ?                                                                                                          |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Japonês         | ハリケーンテール                                                                                                                 |
 | Tipo            | Elétrico                                                                                                                 |

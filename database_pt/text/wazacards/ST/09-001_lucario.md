@@ -59,9 +59,9 @@
 
 [Punho de Aura](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard03.webp)
 
-#### Rolling Kick
+#### Chute Giratório ?
 
-| Nome            | Rolling Kick                                                |
+| Nome            | Chute Giratório ?                                           |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | まわしげり                                                       |
 | Tipo            | Lutador                                                     |

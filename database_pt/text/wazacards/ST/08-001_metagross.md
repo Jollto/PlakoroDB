@@ -2,9 +2,9 @@
 
 ### Starter Set
 
-#### Beam
+#### Feixe
 
-| Nome            | Beam                                                        |
+| Nome            | Feixe                                                       |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | ビーム                                                         |
 | Tipo            | Aço                                                         |
@@ -21,9 +21,9 @@
 
 [Feixe](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard01.webp)
 
-#### Basic Calculation ?
+#### Quatro Operações ?
 
-| Nome            | Basic Calculation ?                                                                                               |
+| Nome            | Quatro Operações ?                                                                                                |
 | --------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Japonês         | しそくえんざん                                                                                                           |
 | Tipo            | Aço                                                                                                               |
@@ -59,9 +59,9 @@
 
 [Prensa Ampla](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard03.webp)
 
-#### Straight Stamp ?
+#### Pisão Direto ?
 
-| Nome            | Straight Stamp ?                                            |
+| Nome            | Pisão Direto ?                                              |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | ストレートスタンプ                                                   |
 | Tipo            | Aço                                                         |

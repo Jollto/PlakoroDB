@@ -137,22 +137,22 @@
 | Down      |           |
 | Sideways  |           |
 
-####
+#### Dragon Burst
 
-| Name      |           |
-| --------- | --------- |
-| Japanese  |           |
-| Type      |           |
-| Code      | EBW02-049 |
-| Pokémon   | Rayquaza  |
-| Energy    |           |
-| Damage    |           |
-| Effect    |           |
-| Standing  |           |
-| Handstand |           |
-| Back      |           |
-| Down      |           |
-| Sideways  |           |
+| Name      | Dragon Burst                                             |
+| --------- | -------------------------------------------------------- |
+| Japanese  | ドラゴンバースト                                         |
+| Type      | Dragon                                                   |
+| Code      | EBW02-049                                                |
+| Pokémon   | Rayquaza                                                 |
+| Energy    | {R}{C}{C}{C}                                             |
+| Damage    | 10                                                       |
+| Effect    |                                                          |
+| Standing  | This attack does 20 damage for each {L} energy produced. |
+| Handstand |                                                          |
+| Back      | This attack does 20 damage for each {L} energy produced. |
+| Down      |                                                          |
+| Sideways  |                                                          |
 
 ####
 

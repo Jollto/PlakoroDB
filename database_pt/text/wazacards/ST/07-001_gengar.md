@@ -40,9 +40,9 @@
 
 [Tiro Assustador](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard02.webp)
 
-#### Upside Down ?
+#### De Ponta-Cabeça ?
 
-| Nome            | Upside Down ?                                                                                      |
+| Nome            | De Ponta-Cabeça ?                                                                                  |
 | --------------- | -------------------------------------------------------------------------------------------------- |
 | Japonês         | まっさかさま                                                                                             |
 | Tipo            | Sombrio                                                                                            |
@@ -59,9 +59,9 @@
 
 [De Ponta-Cabeça](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard03.webp)
 
-#### Shadow Bind
+#### Aprisionamento Sombrio
 
-| Nome            | Shadow Bind                                                                       |
+| Nome            | Aprisionamento Sombrio                                                            |
 | --------------- | --------------------------------------------------------------------------------- |
 | Japonês         | かげしばり                                                                             |
 | Tipo            | Sombrio                                                                           |
@@ -116,9 +116,9 @@
 
 [Truque Fantasma](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard06.webp)
 
-#### Psywave
+#### Onda Psíquica
 
-| Nome            | Psywave                                                     |
+| Nome            | Onda Psíquica                                               |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | サイコウェーブ                                                     |
 | Tipo            | Psíquico                                                    |

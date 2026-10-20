@@ -2,9 +2,9 @@
 
 ### Starter Set
 
-#### Water Gun
+#### Revólver d'Água
 
-| Nome            | Water Gun                                                   |
+| Nome            | Revólver d'Água                                             |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | みずでっぽう                                                      |
 | Tipo            | Água                                                        |
@@ -59,9 +59,9 @@
 
 [Pulso d'Água](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard03.webp)
 
-#### Shell Attack
+#### Ataque Carapaça
 
-| Nome            | Shell Attack                                                                                                |
+| Nome            | Ataque Carapaça                                                                                             |
 | --------------- | ----------------------------------------------------------------------------------------------------------- |
 | Japonês         | シェルアタック                                                                                                     |
 | Tipo            | Água                                                                                                        |
@@ -78,9 +78,9 @@
 
 [Ataque Carapaça](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard04.webp)
 
-#### Bubble Beam
+#### Jato de Bolhas
 
-| Nome            | Bubble Beam                                                               |
+| Nome            | Jato de Bolhas                                                            |
 | --------------- | ------------------------------------------------------------------------- |
 | Japonês         | バブルこうせん                                                                   |
 | Tipo            | Água                                                                      |
@@ -137,9 +137,9 @@
 
 ### Promo
 
-#### Hard Shell ?
+#### Carapaça Rígida ?
 
-| Nome            | Hard Shell ?                                                                                                |
+| Nome            | Carapaça Rígida ?                                                                                           |
 | --------------- | ----------------------------------------------------------------------------------------------------------- |
 | Japonês         | カチカチこうら                                                                                                     |
 | Tipo            | Água                                                                                                        |

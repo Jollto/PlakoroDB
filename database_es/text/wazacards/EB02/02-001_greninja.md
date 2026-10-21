@@ -1,10 +1,10 @@
-## Greninja Cards
+## Cartas de Greninja
 
-### Exploration Box 2
+### Caja de Exploración 2
 
-#### Waterfall
+#### Cascada
 
-| Nombre      | Waterfall                                               |
+| Nombre      | Cascada                                                 |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | たきのぼり                                                   |
 | Tipo        | Agua                                                    |
@@ -19,49 +19,49 @@
 | Boca abajo  | Este ataque hace 20 puntos de daño más. |
 | De lado     |                                                         |
 
-[Waterfall](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard01.webp)
+[Cascada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard01.webp)
 
-#### Shifting Slash ?
+#### Tajo Cambiante ?
 
-| Nombre      | Shifting Slash ?                                                                                                                                  |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | へんげぎり                                                                                                                                             |
-| Tipo        | Agua                                                                                                                                              |
-| Código      | EBW02-002                                                                                                                                         |
-| Pokémon     | Greninja                                                                                                                                          |
-| Energía     | {W}{W}                                                                                                                                            |
-| Daño        | 20                                                                                                                                                |
-| Efecto      |                                                                                                                                                   |
-| De pie      | Choose 1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.) |
-| De cabeza   |                                                                                                                                                   |
-| Boca arriba | Choose 1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.) |
-| Boca abajo  |                                                                                                                                                   |
-| De lado     | Choose 1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.) |
+| Nombre      | Tajo Cambiante ?                                                                                                                           |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Japonés     | へんげぎり                                                                                                                                      |
+| Tipo        | Agua                                                                                                                                       |
+| Código      | EBW02-002                                                                                                                                  |
+| Pokémon     | Greninja                                                                                                                                   |
+| Energía     | {W}{W}                                                                                                                                     |
+| Daño        | 20                                                                                                                                         |
+| Efecto      |                                                                                                                                            |
+| De pie      | Elige 1 de tus Enekoro y cambia todos los chips que quieras. (Usa chips que ya tengas.) |
+| De cabeza   |                                                                                                                                            |
+| Boca arriba | Elige 1 de tus Enekoro y cambia todos los chips que quieras. (Usa chips que ya tengas.) |
+| Boca abajo  |                                                                                                                                            |
+| De lado     | Elige 1 de tus Enekoro y cambia todos los chips que quieras. (Usa chips que ya tengas.) |
 
-[Shifting Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard02.webp)
+[Tajo Cambiante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard02.webp)
 
-#### Water Shuriken
+#### Shuriken de Agua
 
-| Nombre      | Water Shuriken                                                                                           |
-| ----------- | -------------------------------------------------------------------------------------------------------- |
-| Japonés     | みずしゅりけん                                                                                                  |
-| Tipo        | Agua                                                                                                     |
-| Código      | EBW02-003                                                                                                |
-| Pokémon     | Greninja                                                                                                 |
-| Energía     | {W}{W}{W}                                                                                                |
-| Daño        |                                                                                                          |
-| Efecto      | Tira tu Charakoro 3 veces.                                                               |
-| De pie      | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| De cabeza   |                                                                                                          |
-| Boca arriba |                                                                                                          |
-| Boca abajo  |                                                                                                          |
-| De lado     | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
+| Nombre      | Shuriken de Agua                                                                                             |
+| ----------- | ------------------------------------------------------------------------------------------------------------ |
+| Japonés     | みずしゅりけん                                                                                                      |
+| Tipo        | Agua                                                                                                         |
+| Código      | EBW02-003                                                                                                    |
+| Pokémon     | Greninja                                                                                                     |
+| Energía     | {W}{W}{W}                                                                                                    |
+| Daño        |                                                                                                              |
+| Efecto      | Tira tu Charakoro 3 veces.                                                                   |
+| De pie      | Cada vez que el Charakoro caiga bien en este ataque, este ataque hace 20 puntos de daño más. |
+| De cabeza   |                                                                                                              |
+| Boca arriba |                                                                                                              |
+| Boca abajo  |                                                                                                              |
+| De lado     | Cada vez que el Charakoro caiga bien en este ataque, este ataque hace 20 puntos de daño más. |
 
-[Water Shuriken](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard03.webp)
+[Shuriken de Agua](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard03.webp)
 
-#### Shadow Sneak
+#### Sombra Vil
 
-| Nombre      | Shadow Sneak                                            |
+| Nombre      | Sombra Vil                                              |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | かげうち                                                    |
 | Tipo        | Psíquico                                                |
@@ -76,11 +76,11 @@
 | Boca abajo  |                                                         |
 | De lado     |                                                         |
 
-[Shadow Sneak](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard04.webp)
+[Sombra Vil](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard04.webp)
 
-#### Night Slash
+#### Tajo Umbrío
 
-| Nombre      | Night Slash                                             |
+| Nombre      | Tajo Umbrío                                             |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | つじぎり                                                    |
 | Tipo        | Siniestro                                               |
@@ -95,7 +95,7 @@
 | Boca abajo  | Este ataque hace 30 puntos de daño más. |
 | De lado     |                                                         |
 
-[Night Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard05.webp)
+[Tajo Umbrío](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard05.webp)
 
 #### Pistola Agua
 
@@ -116,9 +116,9 @@
 
 [Pistola Agua](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard06.webp)
 
-#### Mist Slash
+#### Golpe Niebla
 
-| Nombre      | Mist Slash                                              |
+| Nombre      | Golpe Niebla                                            |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | かすみぎり                                                   |
 | Tipo        | Agua                                                    |
@@ -133,30 +133,30 @@
 | Boca abajo  |                                                         |
 | De lado     |                                                         |
 
-[Mist Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard07.webp)
+[Golpe Niebla](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard07.webp)
 
-#### Clone Jutsu ?
+#### Clon Jutsu ?
 
-| Nombre      | Clone Jutsu ?                                                                                            |
-| ----------- | -------------------------------------------------------------------------------------------------------- |
-| Japonés     | ぶんしんのじゅつ                                                                                                 |
-| Tipo        | Agua                                                                                                     |
-| Código      | EBW02-008                                                                                                |
-| Pokémon     | Greninja                                                                                                 |
-| Energía     | {W}{W}{W}{W}                                                                                             |
-| Daño        |                                                                                                          |
-| Efecto      | Tira tu Charakoro 2 veces.                                                               |
-| De pie      | Each time the Charakoro roll succeeds with this attack, this attack does 40 more damage. |
-| De cabeza   |                                                                                                          |
-| Boca arriba |                                                                                                          |
-| Boca abajo  |                                                                                                          |
-| De lado     | Each time the Charakoro roll succeeds with this attack, this attack does 40 more damage. |
+| Nombre      | Clon Jutsu ?                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------------ |
+| Japonés     | ぶんしんのじゅつ                                                                                                     |
+| Tipo        | Agua                                                                                                         |
+| Código      | EBW02-008                                                                                                    |
+| Pokémon     | Greninja                                                                                                     |
+| Energía     | {W}{W}{W}{W}                                                                                                 |
+| Daño        |                                                                                                              |
+| Efecto      | Tira tu Charakoro 2 veces.                                                                   |
+| De pie      | Cada vez que el Charakoro caiga bien en este ataque, este ataque hace 40 puntos de daño más. |
+| De cabeza   |                                                                                                              |
+| Boca arriba |                                                                                                              |
+| Boca abajo  |                                                                                                              |
+| De lado     | Cada vez que el Charakoro caiga bien en este ataque, este ataque hace 40 puntos de daño más. |
 
-[Clone Jutsu](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard08.webp)
+[Clon Jutsu](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard08.webp)
 
-#### Trailblaze
+#### Abrecaminos
 
-| Nombre      | Trailblaze                                              |
+| Nombre      | Abrecaminos                                             |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | くさわけ                                                    |
 | Tipo        | Planta                                                  |
@@ -171,11 +171,11 @@
 | Boca abajo  |                                                         |
 | De lado     |                                                         |
 
-[Trailblaze](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard09.webp)
+[Abrecaminos](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard09.webp)
 
-#### Low Kick
+#### Patada Baja
 
-| Nombre      | Low Kick                                                |
+| Nombre      | Patada Baja                                             |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | けたぐり                                                    |
 | Tipo        | Lucha                                                   |
@@ -190,4 +190,4 @@
 | Boca abajo  |                                                         |
 | De lado     | Este ataque hace 20 puntos de daño más. |
 
-[Low Kick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard10.webp)
+[Patada Baja](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard10.webp)

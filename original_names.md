@@ -56,3 +56,16 @@ Original translations for moves, due to being new Pokémon moves, or moves for o
 | STW10-002  | ふわふわひこう       | Fluffy Flight      | Vuelo                | Voo Fofinho           |
 | STW11-005  | スケイルプレス       | _Scale Press_      | _Plancha Escamas_    | Prensa de Escamas     |
 | STW11-006  | ハリケーンテール     | **Hurricane Tail** | Cola Vendaval        | Cauda Furacão         |
+| EBW02-002  | へんげぎり           | _Shifting Slash_   |
+| EBW02-008  | ぶんしんのじゅつ     | Clone Jutsu        |
+| EBW02-013  | ハンマーストライク   | Hammer Strike      |
+| EBW02-019  | ワイルドスタンプ     | Wild Stamp         |
+| EBW02-020  | ワンダーインパクト   | _Strange Impact_   |
+| EBW02-021  | ツメでひっかく       | Nail Scratch       |
+| EBW02-026  | ダーククロー         | Dark Claw          |
+| EBW02-029  | ジュエルフラッシュ   | Jewel Flash        |
+| EBW02-033  | タイラントシールド   | Tyrant Shield      |
+| EBW02-037  | こうてつボディ       | Steel Body         |
+| EBW02-038  | パワフルスチール     | _Powerful Steel_   |
+| EBW02-044  | げきりんランページ   | _Wild Rampage_     |
+| EBW02-052  | チャンスタックル     | Chance Tackle      |

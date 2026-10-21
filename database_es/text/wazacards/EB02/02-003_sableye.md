@@ -1,10 +1,10 @@
-## Sableye Cards
+## Cartas de Sableye
 
-### Exploration Box 2
+### Caja de Exploración 2
 
-#### Nail Scratch ?
+#### Arañazo Garfa ?
 
-| Nombre      | Nail Scratch ?                                          |
+| Nombre      | Arañazo Garfa ?                                         |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | ツメでひっかく                                                 |
 | Tipo        | Siniestro                                               |
@@ -19,11 +19,11 @@
 | Boca abajo  | Este ataque hace 10 puntos de daño más. |
 | De lado     |                                                         |
 
-[Nail Scratch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard01.webp)
+[Arañazo Garfa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard01.webp)
 
-#### Feint Attack
+#### Finta
 
-| Nombre      | Feint Attack                                            |
+| Nombre      | Finta                                                   |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | だましうち                                                   |
 | Tipo        | Siniestro                                               |
@@ -38,26 +38,26 @@
 | Boca abajo  | Este ataque hace 20 puntos de daño más. |
 | De lado     |                                                         |
 
-[Feint Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard02.webp)
+[Finta](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard02.webp)
 
-#### Dig It Up
+#### Socavar
 
-| Nombre      | Dig It Up                                                                                                                                                                     |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | ほりかえす                                                                                                                                                                         |
-| Tipo        | Siniestro                                                                                                                                                                     |
-| Código      | EBW02-023                                                                                                                                                                     |
-| Pokémon     | Sableye                                                                                                                                                                       |
-| Energía     | {D}{D}                                                                                                                                                                        |
-| Daño        | 30                                                                                                                                                                            |
-| Efecto      |                                                                                                                                                                               |
-| De pie      | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| De cabeza   |                                                                                                                                                                               |
-| Boca arriba | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| Boca abajo  |                                                                                                                                                                               |
-| De lado     | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Nombre      | Socavar                                                                                                                                                                          |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés     | ほりかえす                                                                                                                                                                            |
+| Tipo        | Siniestro                                                                                                                                                                        |
+| Código      | EBW02-023                                                                                                                                                                        |
+| Pokémon     | Sableye                                                                                                                                                                          |
+| Energía     | {D}{D}                                                                                                                                                                           |
+| Daño        | 30                                                                                                                                                                               |
+| Efecto      |                                                                                                                                                                                  |
+| De pie      | En el próximo turno de tu rival, elige 1 Enekoro rodado, and have them roll them again. (You choose which Enekoro to reroll.) |
+| De cabeza   |                                                                                                                                                                                  |
+| Boca arriba | En el próximo turno de tu rival, elige 1 Enekoro rodado, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Boca abajo  |                                                                                                                                                                                  |
+| De lado     | En el próximo turno de tu rival, elige 1 Enekoro rodado, and have them roll them again. (You choose which Enekoro to reroll.) |
 
-[Dig It Up](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard03.webp)
+[Socavar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard03.webp)
 
 #### Instigate
 
@@ -156,20 +156,20 @@
 
 #### Jewel Flash ?
 
-| Nombre      | Jewel Flash ?                                                                                                                                                                 |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | ジュエルフラッシュ                                                                                                                                                                     |
-| Tipo        | Siniestro                                                                                                                                                                     |
-| Código      | EBW02-029                                                                                                                                                                     |
-| Pokémon     | Sableye                                                                                                                                                                       |
-| Energía     | {D}{D}{D}{D}                                                                                                                                                                  |
-| Daño        | 50                                                                                                                                                                            |
-| Efecto      |                                                                                                                                                                               |
-| De pie      | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| De cabeza   |                                                                                                                                                                               |
-| Boca arriba | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| Boca abajo  |                                                                                                                                                                               |
-| De lado     | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Nombre      | Jewel Flash ?                                                                                                                                                                     |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés     | ジュエルフラッシュ                                                                                                                                                                         |
+| Tipo        | Siniestro                                                                                                                                                                         |
+| Código      | EBW02-029                                                                                                                                                                         |
+| Pokémon     | Sableye                                                                                                                                                                           |
+| Energía     | {D}{D}{D}{D}                                                                                                                                                                      |
+| Daño        | 50                                                                                                                                                                                |
+| Efecto      |                                                                                                                                                                                   |
+| De pie      | En el próximo turno de tu rival, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| De cabeza   |                                                                                                                                                                                   |
+| Boca arriba | En el próximo turno de tu rival, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Boca abajo  |                                                                                                                                                                                   |
+| De lado     | En el próximo turno de tu rival, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
 
 [Jewel Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
 

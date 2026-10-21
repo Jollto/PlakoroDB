@@ -1,10 +1,10 @@
-## Tinkatink Cards
+## Cartas de Tinkatink
 
-### Exploration Box 2
+### Caja de Exploración 2
 
-#### Beat
+#### Toque
 
-| Nombre      | Beat                                                    |
+| Nombre      | Toque                                                   |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | たたく                                                     |
 | Tipo        | Psíquico                                                |
@@ -19,11 +19,11 @@
 | Boca abajo  |                                                         |
 | De lado     |                                                         |
 
-[Beat](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard01.webp)
+[Toque](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard01.webp)
 
-#### Fairy Wind
+#### Viento Feérico
 
-| Nombre      | Fairy Wind                                              |
+| Nombre      | Viento Feérico                                          |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | ようせいのかぜ                                                 |
 | Tipo        | Psíquico                                                |
@@ -38,11 +38,11 @@
 | Boca abajo  |                                                         |
 | De lado     | Este ataque hace 30 puntos de daño más. |
 
-[Fairy Wind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard02.webp)
+[Viento Feérico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard02.webp)
 
-#### Hammer Strike ?
+#### Golpe Martillo ?
 
-| Nombre      | Hammer Strike ?                                                                |
+| Nombre      | Golpe Martillo ?                                                               |
 | ----------- | ------------------------------------------------------------------------------ |
 | Japonés     | ハンマーストライク                                                                      |
 | Tipo        | Psíquico                                                                       |
@@ -57,26 +57,26 @@
 | Boca abajo  | Este ataque hace 60 puntos de daño más.                        |
 | De lado     | On your next turn, reduce the number of Enekoro you roll by 2. |
 
-[Hammer Strike](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
+[Golpe Martillo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
 
-#### Play Rough
+#### Carantoña
 
-| Nombre      | Play Rough                                                                                |
-| ----------- | ----------------------------------------------------------------------------------------- |
-| Japonés     | じゃれつく                                                                                     |
-| Tipo        | Psíquico                                                                                  |
-| Código      | EBW02-014                                                                                 |
-| Pokémon     | Tinkatink                                                                                 |
-| Energía     | {P}{P}{P}{P}                                                                              |
-| Daño        | 10                                                                                        |
-| Efecto      | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| De pie      | Este ataque hace 40 puntos de daño más.                                   |
-| De cabeza   |                                                                                           |
-| Boca arriba |                                                                                           |
-| Boca abajo  |                                                                                           |
-| De lado     | Este ataque hace 40 puntos de daño más.                                   |
+| Nombre      | Carantoña                                                                                     |
+| ----------- | --------------------------------------------------------------------------------------------- |
+| Japonés     | じゃれつく                                                                                         |
+| Tipo        | Psíquico                                                                                      |
+| Código      | EBW02-014                                                                                     |
+| Pokémon     | Tinkatink                                                                                     |
+| Energía     | {P}{P}{P}{P}                                                                                  |
+| Daño        | 10                                                                                            |
+| Efecto      | En el próximo turno de tu rival, reduce the number of Enekoro they roll by 1. |
+| De pie      | Este ataque hace 40 puntos de daño más.                                       |
+| De cabeza   |                                                                                               |
+| Boca arriba |                                                                                               |
+| Boca abajo  |                                                                                               |
+| De lado     | Este ataque hace 40 puntos de daño más.                                       |
 
-[Play Rough](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard04.webp)
+[Carantoña](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard04.webp)
 
 #### Garra Metal
 
@@ -97,9 +97,9 @@
 
 [Garra Metal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard05.webp)
 
-#### Corkscrew Punch
+#### Puño Tirabuzón
 
-| Nombre      | Corkscrew Punch                                         |
+| Nombre      | Puño Tirabuzón                                          |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | どつく                                                     |
 | Tipo        | Psíquico                                                |
@@ -114,11 +114,11 @@
 | Boca abajo  |                                                         |
 | De lado     | Este ataque hace 10 puntos de daño más. |
 
-[Corkscrew Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard06.webp)
+[Puño Tirabuzón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard06.webp)
 
-#### Draining Kiss
+#### Beso Drenaje
 
-| Nombre      | Draining Kiss                                           |
+| Nombre      | Beso Drenaje                                            |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | ドレインキッス                                                 |
 | Tipo        | Psíquico                                                |
@@ -133,11 +133,11 @@
 | Boca abajo  |                                                         |
 | De lado     |                                                         |
 
-[Draining Kiss](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard07.webp)
+[Beso Drenaje](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard07.webp)
 
-#### Wail
+#### Sollozo
 
-| Nombre      | Wail                                                    |
+| Nombre      | Sollozo                                                 |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | なきわめく                                                   |
 | Tipo        | Psíquico                                                |
@@ -152,11 +152,11 @@
 | Boca abajo  |                                                         |
 | De lado     | Este ataque hace 30 puntos de daño más. |
 
-[Wail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard08.webp)
+[Sollozo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard08.webp)
 
-#### Wild Stamp ?
+#### Golpe Salvaje ?
 
-| Nombre      | Wild Stamp ?                                            |
+| Nombre      | Golpe Salvaje ?                                         |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | ワイルドスタンプ                                                |
 | Tipo        | Psíquico                                                |
@@ -171,11 +171,11 @@
 | Boca abajo  | Este Pokémon se hace 30 puntos de daño. |
 | De lado     | Este ataque hace 50 puntos de daño más. |
 
-[Wild Stamp](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
+[Golpe Salvaje](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
 
-#### Strange Impact ?
+#### Impacto Extraño ?
 
-| Nombre      | Strange Impact ?                                        |
+| Nombre      | Impacto Extraño ?                                       |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | ワンダーインパクト                                               |
 | Tipo        | Psíquico                                                |
@@ -190,4 +190,4 @@
 | Boca abajo  | Este ataque hace 60 puntos de daño más. |
 | De lado     |                                                         |
 
-[Strange Impact](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard10.webp)
+[Impacto Extraño](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard10.webp)

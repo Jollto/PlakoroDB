@@ -59,9 +59,9 @@
 
 [Breaking Swipe](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
 
-####
+#### Wild Rampage ?
 
-| Name      |                                  |
+| Name      | Wild Rampage ?                   |
 | --------- | -------------------------------- |
 | Japanese  | げきりんランページ               |
 | Type      | Dragon                           |
@@ -76,7 +76,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
+[Wild Rampage](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
 
 #### Dragon Flame
 

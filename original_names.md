@@ -8,51 +8,51 @@ Original translations for moves, due to being new Pokémon moves, or moves for o
 
 ## Translation Table
 
-| Code       | Japanese             | English            | Spanish              |
-| ---------- | -------------------- | ------------------ | -------------------- |
-| EBW01-001  | しゅうちゅう         | Focus              | Concentrar           |
-| EBW01-002  | たえる               | Resist             | Resistir             |
-| EBW01-003  | つのでたたく         | _Horn Beat_        | Golpe Cuerno         |
-| EBW01-006  | チャージばさみ       | _Scissors Charge_  | _Carga Tijeras_      |
-| EBW01-007  | ぎゃくじょうスイング | Berserk Swing      | Golpe Cólera         |
-| EBW01-009  | ひっさつばさみ       | _Deadly Scissors_  | Tijera Mortal        |
-| EBW01-019  | ウイングラッシュ     | Wing Rush          | Ala Rápida           |
-| EBW01-022  | いてつくやいば       | Freezing Blade     | Hoja Heladora        |
-| EBW01-023  | ブリザードストーム   | Blizzard Storm     | _Tormenta Ventisca_  |
-| EBW01-026  | フリーズダイブ       | Freeze Dive        | Picada Helada        |
-| EBW01-031  | でんじフラッシュ     | _Thunder Flash_    | _Trueno Destello_    |
-| EBW01-033  | ボルトラッシュ       | Volt Rush          | Electrofuria         |
-| EBW01-035  | バリバリウイング     | ~~Crackling Wing~~ | ~~Ala Chispeante~~   |
-| EBW01-036  | ダブルサンダー       | Dual Thunder       | Doble Trueno         |
-| EBW01-037  | エレキアロー         | Electroarrow       | Electroflecha        |
-| EBW01-039  | サンダーチェイン     | Thunder Chain      | _Cadena de Rayos_    |
-| EBW01-044  | ハードインパクト     | _Hard Impact_      | _Impacto Duro_       |
-| EBW01-049  | がんせきバリア       | Rock Barrier       | Barrera de Roca      |
-| EBW01-052  | ベトベトなげ         | Sludge Toss        | Lanzamiento Lodo     |
-| EBW01-053  | どくどくヒール       | Toxic Heal         | Cura Tóxica          |
-| EBW01-054  | ヘドロでかこむ       | _Sludge Ring_      | _Anillo Lodo_        |
-| EBW01-055  | ベノムパンチ         | Venom Punch        | Puño Tóxico          |
-| EBW01-057  | ベノムスリップ       | _Venom Slip_       | Corte Venenoso       |
-| EBW01-058  | どくどくボンバー     | Toxic Blast        | Chorro Tóxico        |
-| EBW01-059  | ヘドロタックル       | _Sludge Tackle_    | Placaje Venenoso     |
-| EBW01-060  | いやがらせベノム     | _Harassment Venom_ | _Veneno Hostil_      |
-| PRW01-1-08 | アロマストーム       | Aroma Storm        | Tormenta Aroma       |
-| STW02-002  | ヒートアップ         | **Heat Up**        | Calentar             |
-| PRW01-2-08 | フレイムアップ       | Flame Up           | Avivar               |
-| STW03-006  | ハイドロアンガー     | Hydro Rage         | Hidrofuria           |
-| PRW01-3-08 | カチカチこうら       | Hard Shell         | Coraza Dura          |
-| STW04-003  | エレキラッシュ       | Electric Rush      | Asalto Eléctrico     |
-| PRW01-008  | クリティカルボルト   | _Critical Bolt_    | _Voltaje Crítico_    |
-| PRW02-008  | ねころぶ             | **Roll Over**      | Tumbarse             |
-| STW06-007  | リフレクション       | _Reflection_       | _Rebote_             |
-| STW07-003  | まっさかさま         | _Upside Down_      | _Boca Abajo_         |
-| STW07-006  | ファントムトリック   | Phantom Trick      | Truco Fantasmal      |
-| PRW02-1-08 | ナイトロック         | _Night Lock_       | _Parálisis Nocturna_ |
-| STW08-002  | しそくえんざん       | Basic Calculation  | Operación Básica     |
-| STW08-003  | ワイドプレス         | Wide Press         | _Vasta Prensa_       |
-| STW08-004  | ストレートスタンプ   | _Straight Stamp_   | _Golpe Recto_        |
-| PRW02-2-08 | こうてつのツメ       | Steel Claw         | Garra Acero          |
-| STW09-005  | オーラづき           | Aura Jab           | Puya Aural           |
-| STW10-002  | ふわふわひこう       | Fluffy Flight      | Vuelo                |
-| STW11-005  | スケイルプレス       | _Scale Press_      | _Plancha Escamas_    |
-| STW11-006  | ハリケーンテール     | **Hurricane Tail** | Cola Vendaval        |
+| Code       | Japanese             | English            | Spanish              | Portuguese            |
+| ---------- | -------------------- | ------------------ | -------------------- | --------------------- |
+| EBW01-001  | しゅうちゅう         | Focus              | Concentrar           | Concentração          |
+| EBW01-002  | たえる               | Resist             | Resistir             | Resistência           |
+| EBW01-003  | つのでたたく         | _Horn Beat_        | Golpe Cuerno         | Pancada de Chifre     |
+| EBW01-006  | チャージばさみ       | _Scissors Charge_  | _Carga Tijeras_      | Investida de Pinças   |
+| EBW01-007  | ぎゃくじょうスイング | Berserk Swing      | Golpe Cólera         | Giro Enfurecido       |
+| EBW01-009  | ひっさつばさみ       | _Deadly Scissors_  | Tijera Mortal        | Pinça Fatal           |
+| EBW01-019  | ウイングラッシュ     | Wing Rush          | Ala Rápida           | Investida Alada       |
+| EBW01-022  | いてつくやいば       | Freezing Blade     | Hoja Heladora        | Lâmina Congelante     |
+| EBW01-023  | ブリザードストーム   | Blizzard Storm     | _Tormenta Ventisca_  | Tempestade de Nevasca |
+| EBW01-026  | フリーズダイブ       | Freeze Dive        | Picada Helada        | Mergulho Congelante   |
+| EBW01-031  | でんじフラッシュ     | _Thunder Flash_    | _Trueno Destello_    | Flash Eletromagnético |
+| EBW01-033  | ボルトラッシュ       | Volt Rush          | Electrofuria         | Investida Voltaica    |
+| EBW01-035  | バリバリウイング     | ~~Crackling Wing~~ | ~~Ala Chispeante~~   | Asa Crepitante        |
+| EBW01-036  | ダブルサンダー       | Dual Thunder       | Doble Trueno         | Trovão Duplo          |
+| EBW01-037  | エレキアロー         | Electroarrow       | Electroflecha        | Flecha Elétrica       |
+| EBW01-039  | サンダーチェイン     | Thunder Chain      | _Cadena de Rayos_    | Corrente de Trovão    |
+| EBW01-044  | ハードインパクト     | _Hard Impact_      | _Impacto Duro_       | Impacto Duro          |
+| EBW01-049  | がんせきバリア       | Rock Barrier       | Barrera de Roca      | Barreira Rochosa      |
+| EBW01-052  | ベトベトなげ         | Sludge Toss        | Lanzamiento Lodo     | Arremesso Pegajoso    |
+| EBW01-053  | どくどくヒール       | Toxic Heal         | Cura Tóxica          | Cura Tóxica           |
+| EBW01-054  | ヘドロでかこむ       | _Sludge Ring_      | _Anillo Lodo_        | Cerco de Lodo         |
+| EBW01-055  | ベノムパンチ         | Venom Punch        | Puño Tóxico          | Soco Peçonhento       |
+| EBW01-057  | ベノムスリップ       | _Venom Slip_       | Corte Venenoso       | Escorregão Peçonhento |
+| EBW01-058  | どくどくボンバー     | Toxic Blast        | Chorro Tóxico        | Bomba Tóxica          |
+| EBW01-059  | ヘドロタックル       | _Sludge Tackle_    | Placaje Venenoso     | Investida de Lodo     |
+| EBW01-060  | いやがらせベノム     | _Harassment Venom_ | _Veneno Hostil_      | Veneno Importuno      |
+| PRW01-1-08 | アロマストーム       | Aroma Storm        | Tormenta Aroma       | Tempestade Aromática  |
+| STW02-002  | ヒートアップ         | **Heat Up**        | Calentar             | Aquecimento           |
+| PRW01-2-08 | フレイムアップ       | Flame Up           | Avivar               | Chama Crescente       |
+| STW03-006  | ハイドロアンガー     | Hydro Rage         | Hidrofuria           | Hidrofúria            |
+| PRW01-3-08 | カチカチこうら       | Hard Shell         | Coraza Dura          | Carapaça Rígida       |
+| STW04-003  | エレキラッシュ       | Electric Rush      | Asalto Eléctrico     | Investida Elétrica    |
+| PRW01-008  | クリティカルボルト   | _Critical Bolt_    | _Voltaje Crítico_    | Raio Crítico          |
+| PRW02-008  | ねころぶ             | **Roll Over**      | Tumbarse             | Deitar-se             |
+| STW06-007  | リフレクション       | _Reflection_       | _Rebote_             | Reflexão              |
+| STW07-003  | まっさかさま         | _Upside Down_      | _Boca Abajo_         | De Ponta-Cabeça       |
+| STW07-006  | ファントムトリック   | Phantom Trick      | Truco Fantasmal      | Truque Fantasma       |
+| PRW02-1-08 | ナイトロック         | _Night Lock_       | _Parálisis Nocturna_ | Tranca Noturna        |
+| STW08-002  | しそくえんざん       | Basic Calculation  | Operación Básica     | Quatro Operações      |
+| STW08-003  | ワイドプレス         | Wide Press         | _Vasta Prensa_       | Prensa Ampla          |
+| STW08-004  | ストレートスタンプ   | _Straight Stamp_   | _Golpe Recto_        | Pisão Direto          |
+| PRW02-2-08 | こうてつのツメ       | Steel Claw         | Garra Acero          | Garra de Aço          |
+| STW09-005  | オーラづき           | Aura Jab           | Puya Aural           | **Soco Aura**         |
+| STW10-002  | ふわふわひこう       | Fluffy Flight      | Vuelo                | Voo Fofinho           |
+| STW11-005  | スケイルプレス       | _Scale Press_      | _Plancha Escamas_    | Prensa de Escamas     |
+| STW11-006  | ハリケーンテール     | **Hurricane Tail** | Cola Vendaval        | Cauda Furacão         |

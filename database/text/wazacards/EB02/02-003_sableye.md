@@ -4,190 +4,190 @@
 
 ####
 
-| Name      |                  |
-| --------- | ---------------- |
-| Japanese  | ツメでひっかく   |
-| Type      |                  |
-| Code      | EBW02-021        |
-| Pokémon   | Sableye          |
-| Energy    |                  |
-| Damage    |                  |
-| Effect    |                  |
-| Standing  | 10ダメージ追加。 |
-| Handstand |                  |
-| Back      | 10ダメージ追加。 |
-| Down      | 10ダメージ追加。 |
-| Sideways  |                  |
+| Name      |                                  |
+| --------- | -------------------------------- |
+| Japanese  | ツメでひっかく                   |
+| Type      | Dark                             |
+| Code      | EBW02-021                        |
+| Pokémon   | Sableye                          |
+| Energy    | {D}                              |
+| Damage    | 10                               |
+| Effect    |                                  |
+| Standing  | This attack does 10 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 10 more damage. |
+| Down      | This attack does 10 more damage. |
+| Sideways  |                                  |
 
 [](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard01.webp)
 
-####
+#### Feint Attack
 
-| Name      |                  |
-| --------- | ---------------- |
-| Japanese  | だましうち       |
-| Type      |                  |
-| Code      | EBW02-022        |
-| Pokémon   | Sableye          |
-| Energy    |                  |
-| Damage    |                  |
-| Effect    |                  |
-| Standing  | 20ダメージ追加。 |
-| Handstand |                  |
-| Back      |                  |
-| Down      | 20ダメージ追加。 |
-| Sideways  |                  |
+| Name      | Feint Attack                     |
+| --------- | -------------------------------- |
+| Japanese  | だましうち                       |
+| Type      | Dark                             |
+| Code      | EBW02-022                        |
+| Pokémon   | Sableye                          |
+| Energy    | {D}{D}                           |
+| Damage    | 20                               |
+| Effect    |                                  |
+| Standing  | This attack does 20 more damage. |
+| Handstand |                                  |
+| Back      |                                  |
+| Down      | This attack does 20 more damage. |
+| Sideways  |                                  |
 
-[]()
-
-####
-
-| Name      |                                                                                               |
-| --------- | --------------------------------------------------------------------------------------------- |
-| Japanese  | ほりかえす                                                                                    |
-| Type      |                                                                                               |
-| Code      | EBW02-023                                                                                     |
-| Pokémon   | Sableye                                                                                       |
-| Energy    |                                                                                               |
-| Damage    |                                                                                               |
-| Effect    |                                                                                               |
-| Standing  | 次の相手のワザで振ったエネコロを1個選び、振りなおさせる。（振りなおすエネコロは自分が選ぶ。） |
-| Handstand |                                                                                               |
-| Back      | 次の相手のワザで振ったエネコロを1個選び、振りなおさせる。（振りなおすエネコロは自分が選ぶ。） |
-| Down      |                                                                                               |
-| Sideways  | 次の相手のワザで振ったエネコロを1個選び、振りなおさせる。（振りなおすエネコロは自分が選ぶ。） |
-
-[]()
+[Feint Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard02.webp)
 
 ####
 
-| Name      |                                            |
-| --------- | ------------------------------------------ |
-| Japanese  | そそのかす                                 |
-| Type      |                                            |
-| Code      | EBW02-024                                  |
-| Pokémon   | Sableye                                    |
-| Energy    |                                            |
-| Damage    |                                            |
-| Effect    |                                            |
-| Standing  | 次の相手の番、相手が使うワザは自分が選ぶ。 |
-| Handstand |                                            |
-| Back      |                                            |
-| Down      |                                            |
-| Sideways  | 次の相手の番、相手が使うワザは自分が選ぶ。 |
+| Name      |                                                                                                                            |
+| --------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Japanese  | ほりかえす                                                                                                                 |
+| Type      | Dark                                                                                                                       |
+| Code      | EBW02-023                                                                                                                  |
+| Pokémon   | Sableye                                                                                                                    |
+| Energy    | {D}{D}                                                                                                                     |
+| Damage    | 30                                                                                                                         |
+| Effect    |                                                                                                                            |
+| Standing  | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Handstand |                                                                                                                            |
+| Back      | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Down      |                                                                                                                            |
+| Sideways  | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
 
-[]()
-
-####
-
-| Name      |                  |
-| --------- | ---------------- |
-| Japanese  | こごえるかぜ     |
-| Type      |                  |
-| Code      | EBW02-025        |
-| Pokémon   | Sableye          |
-| Energy    |                  |
-| Damage    |                  |
-| Effect    |                  |
-| Standing  | 20ダメージ追加。 |
-| Handstand |                  |
-| Back      | 20ダメージ追加。 |
-| Down      |                  |
-| Sideways  |                  |
-
-[]()
+[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard03.webp)
 
 ####
 
-| Name      |                  |
-| --------- | ---------------- |
-| Japanese  | ダーククロー     |
-| Type      |                  |
-| Code      | EBW02-026        |
-| Pokémon   | Sableye          |
-| Energy    |                  |
-| Damage    |                  |
-| Effect    |                  |
-| Standing  | 30ダメージ追加。 |
-| Handstand |                  |
-| Back      |                  |
-| Down      |                  |
-| Sideways  |                  |
+| Name      |                                                                                    |
+| --------- | ---------------------------------------------------------------------------------- |
+| Japanese  | そそのかす                                                                         |
+| Type      | Dark                                                                               |
+| Code      | EBW02-024                                                                          |
+| Pokémon   | Sableye                                                                            |
+| Energy    | {D}{D}{D}                                                                          |
+| Damage    | 20                                                                                 |
+| Effect    |                                                                                    |
+| Standing  | Choose 1 of your opponent's attacks. During their next turn, they use this attack. |
+| Handstand |                                                                                    |
+| Back      |                                                                                    |
+| Down      |                                                                                    |
+| Sideways  | Choose 1 of your opponent's attacks. During their next turn, they use this attack. |
 
-[]()
+[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
 
-####
+#### Icy Wind
 
-| Name      |                                                    |
-| --------- | -------------------------------------------------- |
-| Japanese  | ころばす                                           |
-| Type      |                                                    |
-| Code      | EBW02-027                                          |
-| Pokémon   | Sableye                                            |
-| Energy    |                                                    |
-| Damage    |                                                    |
-| Effect    |                                                    |
-| Standing  | 次の相手の番、相手のキャラコロの向きを{do}にする。 |
-| Handstand |                                                    |
-| Back      | 次の相手の番、相手のキャラコロの向きを{do}にする。 |
-| Down      | 次の相手の番、相手のキャラコロの向きを{do}にする。 |
-| Sideways  |                                                    |
+| Name      | Icy Wind                         |
+| --------- | -------------------------------- |
+| Japanese  | こごえるかぜ                     |
+| Type      | Water                            |
+| Code      | EBW02-025                        |
+| Pokémon   | Sableye                          |
+| Energy    | {W}                              |
+| Damage    | 20                               |
+| Effect    |                                  |
+| Standing  | This attack does 20 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 20 more damage. |
+| Down      |                                  |
+| Sideways  |                                  |
 
-[]()
-
-####
-
-| Name      |                  |
-| --------- | ---------------- |
-| Japanese  | あくのはどう     |
-| Type      |                  |
-| Code      | EBW02-028        |
-| Pokémon   | Sableye          |
-| Energy    |                  |
-| Damage    |                  |
-| Effect    |                  |
-| Standing  | 30ダメージ追加。 |
-| Handstand |                  |
-| Back      | 30ダメージ追加。 |
-| Down      |                  |
-| Sideways  |                  |
-
-[]()
+[Icy Wind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard05.webp)
 
 ####
 
-| Name      |                                                                                               |
-| --------- | --------------------------------------------------------------------------------------------- |
-| Japanese  | ジュエルフラッシュ                                                                            |
-| Type      |                                                                                               |
-| Code      | EBW02-029                                                                                     |
-| Pokémon   | Sableye                                                                                       |
-| Energy    |                                                                                               |
-| Damage    |                                                                                               |
-| Effect    |                                                                                               |
-| Standing  | 次の相手のワザで振ったエネコロを2個選び、振りなおさせる。（振りなおすエネコロは自分が選ぶ。） |
-| Handstand |                                                                                               |
-| Back      | 次の相手のワザで振ったエネコロを2個選び、振りなおさせる。（振りなおすエネコロは自分が選ぶ。） |
-| Down      |                                                                                               |
-| Sideways  | 次の相手のワザで振ったエネコロを2個選び、振りなおさせる。（振りなおすエネコロは自分が選ぶ。） |
+| Name      |                                  |
+| --------- | -------------------------------- |
+| Japanese  | ダーククロー                     |
+| Type      | Dark                             |
+| Code      | EBW02-026                        |
+| Pokémon   | Sableye                          |
+| Energy    | {D}                              |
+| Damage    | 10                               |
+| Effect    |                                  |
+| Standing  | This attack does 30 more damage. |
+| Handstand |                                  |
+| Back      |                                  |
+| Down      |                                  |
+| Sideways  |                                  |
 
-[]()
+[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard06.webp)
 
 ####
 
-| Name      |                  |
-| --------- | ---------------- |
-| Japanese  | サイケこうせん   |
-| Type      |                  |
-| Code      | EBW02-030        |
-| Pokémon   | Sableye          |
-| Energy    |                  |
-| Damage    |                  |
-| Effect    |                  |
-| Standing  | 20ダメージ追加。 |
-| Handstand |                  |
-| Back      | 20ダメージ追加。 |
-| Down      |                  |
-| Sideways  |                  |
+| Name      |                                                                             |
+| --------- | --------------------------------------------------------------------------- |
+| Japanese  | ころばす                                                                    |
+| Type      | Dark                                                                        |
+| Code      | EBW02-027                                                                   |
+| Pokémon   | Sableye                                                                     |
+| Energy    | {D}{D}                                                                      |
+| Damage    | 20                                                                          |
+| Effect    |                                                                             |
+| Standing  | On your opponent's next turn, set the direction of their Charakoro to {do}. |
+| Handstand |                                                                             |
+| Back      | On your opponent's next turn, set the direction of their Charakoro to {do}. |
+| Down      | On your opponent's next turn, set the direction of their Charakoro to {do}. |
+| Sideways  |                                                                             |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard10.webp)
+[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard07.webp)
+
+#### Dark Pulse
+
+| Name      | Dark Pulse                       |
+| --------- | -------------------------------- |
+| Japanese  | あくのはどう                     |
+| Type      | Dark                             |
+| Code      | EBW02-028                        |
+| Pokémon   | Sableye                          |
+| Energy    | {D}{D}{D}                        |
+| Damage    | 20                               |
+| Effect    |                                  |
+| Standing  | This attack does 30 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 30 more damage. |
+| Down      |                                  |
+| Sideways  |                                  |
+
+[Dark Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard08.webp)
+
+####
+
+| Name      |                                                                                                                            |
+| --------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Japanese  | ジュエルフラッシュ                                                                                                         |
+| Type      | Dark                                                                                                                       |
+| Code      | EBW02-029                                                                                                                  |
+| Pokémon   | Sableye                                                                                                                    |
+| Energy    | {D}{D}{D}{D}                                                                                                               |
+| Damage    | 50                                                                                                                         |
+| Effect    |                                                                                                                            |
+| Standing  | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Handstand |                                                                                                                            |
+| Back      | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Down      |                                                                                                                            |
+| Sideways  | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+
+[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
+
+#### Psybeam
+
+| Name      | Psybeam                          |
+| --------- | -------------------------------- |
+| Japanese  | サイケこうせん                   |
+| Type      | Psychic                          |
+| Code      | EBW02-030                        |
+| Pokémon   | Sableye                          |
+| Energy    | {P}{P}                           |
+| Damage    | 30                               |
+| Effect    |                                  |
+| Standing  | This attack does 20 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 20 more damage. |
+| Down      |                                  |
+| Sideways  |                                  |
+
+[Psybeam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard10.webp)

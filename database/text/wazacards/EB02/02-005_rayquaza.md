@@ -4,155 +4,155 @@
 
 ####
 
-| Name      |                  |
-| --------- | ---------------- |
-| Japanese  | ひきさく         |
-| Type      |                  |
-| Code      | EBW02-041        |
-| Pokémon   | Rayquaza         |
-| Energy    |                  |
-| Damage    |                  |
-| Effect    |                  |
-| Standing  | 10ダメージ追加。 |
-| Handstand |                  |
-| Back      |                  |
-| Down      |                  |
-| Sideways  | 10ダメージ追加。 |
+| Name      |                                  |
+| --------- | -------------------------------- |
+| Japanese  | ひきさく                         |
+| Type      | Dragon                           |
+| Code      | EBW02-041                        |
+| Pokémon   | Rayquaza                         |
+| Energy    | {R}                              |
+| Damage    | 20                               |
+| Effect    |                                  |
+| Standing  | This attack does 10 more damage. |
+| Handstand |                                  |
+| Back      |                                  |
+| Down      |                                  |
+| Sideways  | This attack does 10 more damage. |
 
 [](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard01.webp)
 
-####
+#### Dragon Pulse
 
-| Name      |                                                   |
-| --------- | ------------------------------------------------- |
-| Japanese  | りゅうのはどう                                    |
-| Type      |                                                   |
-| Code      | EBW02-042                                         |
-| Pokémon   | Rayquaza                                          |
-| Energy    |                                                   |
-| Damage    |                                                   |
-| Effect    |                                                   |
-| Standing  | 30ダメージ追加。                                  |
-| Handstand | 次の自分の番、自分の振るエネコロを2個少なくする。 |
-| Back      | 30ダメージ追加。                                  |
-| Down      | 次の自分の番、自分の振るエネコロを2個少なくする。 |
-| Sideways  |                                                   |
+| Name      | Dragon Pulse                                                   |
+| --------- | -------------------------------------------------------------- |
+| Japanese  | りゅうのはどう                                                 |
+| Type      | Dragon                                                         |
+| Code      | EBW02-042                                                      |
+| Pokémon   | Rayquaza                                                       |
+| Energy    | {R}{R}                                                         |
+| Damage    | 30                                                             |
+| Effect    |                                                                |
+| Standing  | This attack does 30 more damage.                               |
+| Handstand | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Back      | This attack does 30 more damage.                               |
+| Down      | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Sideways  |                                                                |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard02.webp)
+[Dragon Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard02.webp)
 
-####
+#### Breaking Swipe
 
-| Name      |                                                   |
-| --------- | ------------------------------------------------- |
-| Japanese  | ワイドブレイカー                                  |
-| Type      |                                                   |
-| Code      | EBW02-043                                         |
-| Pokémon   | Rayquaza                                          |
-| Energy    |                                                   |
-| Damage    |                                                   |
-| Effect    |                                                   |
-| Standing  |                                                   |
-| Handstand |                                                   |
-| Back      |                                                   |
-| Down      |                                                   |
-| Sideways  | 次の相手の番、相手の振るエネコロを1個少なくする。 |
+| Name      | Breaking Swipe                                                            |
+| --------- | ------------------------------------------------------------------------- |
+| Japanese  | ワイドブレイカー                                                          |
+| Type      | Dragon                                                                    |
+| Code      | EBW02-043                                                                 |
+| Pokémon   | Rayquaza                                                                  |
+| Energy    | {R}{R}{L}                                                                 |
+| Damage    | 30                                                                        |
+| Effect    |                                                                           |
+| Standing  |                                                                           |
+| Handstand |                                                                           |
+| Back      |                                                                           |
+| Down      |                                                                           |
+| Sideways  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
-
-####
-
-| Name      |                    |
-| --------- | ------------------ |
-| Japanese  | げきりんランページ |
-| Type      |                    |
-| Code      | EBW02-044          |
-| Pokémon   | Rayquaza           |
-| Energy    |                    |
-| Damage    |                    |
-| Effect    |                    |
-| Standing  | 60ダメージ追加。   |
-| Handstand |                    |
-| Back      | 60ダメージ追加。   |
-| Down      |                    |
-| Sideways  |                    |
-
-[]()
+[Breaking Swipe](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
 
 ####
 
-| Name      |                              |
-| --------- | ---------------------------- |
-| Japanese  | ドラゴンフレイム             |
-| Type      |                              |
-| Code      | EBW02-045                    |
-| Pokémon   | Rayquaza                     |
-| Energy    |                              |
-| Damage    |                              |
-| Effect    |                              |
-| Standing  | 30ダメージ追加。             |
-| Handstand | このポケモンにも30ダメージ。 |
-| Back      | このポケモンにも30ダメージ。 |
-| Down      | このポケモンにも30ダメージ。 |
-| Sideways  | 30ダメージ追加。             |
+| Name      |                                  |
+| --------- | -------------------------------- |
+| Japanese  | げきりんランページ               |
+| Type      | Dragon                           |
+| Code      | EBW02-044                        |
+| Pokémon   | Rayquaza                         |
+| Energy    | {R}{R}{R}{L}{L}                  |
+| Damage    | 60                               |
+| Effect    |                                  |
+| Standing  | This attack does 60 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 60 more damage. |
+| Down      |                                  |
+| Sideways  |                                  |
 
-[]()
-
-####
-
-| Name      |                  |
-| --------- | ---------------- |
-| Japanese  | たつまき         |
-| Type      |                  |
-| Code      | EBW02-046        |
-| Pokémon   | Rayquaza         |
-| Energy    |                  |
-| Damage    |                  |
-| Effect    |                  |
-| Standing  | 10ダメージ追加。 |
-| Handstand |                  |
-| Back      | 10ダメージ追加。 |
-| Down      |                  |
-| Sideways  | 10ダメージ追加。 |
-
-[]()
+[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
 
 ####
 
-| Name      |                  |
-| --------- | ---------------- |
-| Japanese  | ドラゴンクロー   |
-| Type      |                  |
-| Code      | EBW02-047        |
-| Pokémon   | Rayquaza         |
-| Energy    |                  |
-| Damage    |                  |
-| Effect    |                  |
-| Standing  | 30ダメージ追加。 |
-| Handstand |                  |
-| Back      | 30ダメージ追加。 |
-| Down      |                  |
-| Sideways  |                  |
+| Name      |                                        |
+| --------- | -------------------------------------- |
+| Japanese  | ドラゴンフレイム                       |
+| Type      | Fire                                   |
+| Code      | EBW02-045                              |
+| Pokémon   | Rayquaza                               |
+| Energy    | {R}{R}{C}{C}                           |
+| Damage    | 40                                     |
+| Effect    |                                        |
+| Standing  | This attack does 30 more damage.       |
+| Handstand | This Pokémon does 30 damage to itself. |
+| Back      | This Pokémon does 30 damage to itself. |
+| Down      | This Pokémon does 30 damage to itself. |
+| Sideways  | This attack does 30 more damage.       |
 
-[]()
+[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
 
-####
+#### Twister
 
-| Name      |                  |
-| --------- | ---------------- |
-| Japanese  | ドラゴンテール   |
-| Type      |                  |
-| Code      | EBW02-048        |
-| Pokémon   | Rayquaza         |
-| Energy    |                  |
-| Damage    |                  |
-| Effect    |                  |
-| Standing  | 20ダメージ追加。 |
-| Handstand |                  |
-| Back      |                  |
-| Down      |                  |
-| Sideways  | 20ダメージ追加。 |
+| Name      | Twister                          |
+| --------- | -------------------------------- |
+| Japanese  | たつまき                         |
+| Type      | Dragon                           |
+| Code      | EBW02-046                        |
+| Pokémon   | Rayquaza                         |
+| Energy    | {L}                              |
+| Damage    | 10                               |
+| Effect    |                                  |
+| Standing  | This attack does 10 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 10 more damage. |
+| Down      |                                  |
+| Sideways  | This attack does 10 more damage. |
 
-[]()
+[Twister](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard06.webp)
+
+#### Dragon Claw
+
+| Name      | Dragon Claw                      |
+| --------- | -------------------------------- |
+| Japanese  | ドラゴンクロー                   |
+| Type      | Dragon                           |
+| Code      | EBW02-047                        |
+| Pokémon   | Rayquaza                         |
+| Energy    | {R}{L}                           |
+| Damage    | 20                               |
+| Effect    |                                  |
+| Standing  | This attack does 30 more damage. |
+| Handstand |                                  |
+| Back      | This attack does 30 more damage. |
+| Down      |                                  |
+| Sideways  |                                  |
+
+[Dragon Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard07.webp)
+
+#### Dragon Tail
+
+| Name      | Dragon Tail                      |
+| --------- | -------------------------------- |
+| Japanese  | ドラゴンテール                   |
+| Type      | Dragon                           |
+| Code      | EBW02-048                        |
+| Pokémon   | Rayquaza                         |
+| Energy    | {R}{L}{L}                        |
+| Damage    | 30                               |
+| Effect    |                                  |
+| Standing  | This attack does 20 more damage. |
+| Handstand |                                  |
+| Back      |                                  |
+| Down      |                                  |
+| Sideways  | This attack does 20 more damage. |
+
+[Dragon Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard08.webp)
 
 #### Dragon Burst
 
@@ -171,21 +171,23 @@
 | Down      |                                                          |
 | Sideways  |                                                          |
 
-[]()
+[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
 
-####
+#### Thunder
 
-| Name      |                  |
-| --------- | ---------------- |
-| Japanese  | かみなり         |
-| Type      |                  |
-| Code      | EBW02-050        |
-| Pokémon   | Rayquaza         |
-| Energy    |                  |
-| Damage    |                  |
-| Effect    |                  |
-| Standing  | 60ダメージ追加。 |
-| Handstand |                  |
-| Back      |                  |
-| Down      |                  |
-| Sideways  |                  |
+| Name      | Thunder                          |
+| --------- | -------------------------------- |
+| Japanese  | かみなり                         |
+| Type      | Electric                         |
+| Code      | EBW02-050                        |
+| Pokémon   | Rayquaza                         |
+| Energy    | {L}{L}{L}                        |
+| Damage    | 30                               |
+| Effect    |                                  |
+| Standing  | This attack does 60 more damage. |
+| Handstand |                                  |
+| Back      |                                  |
+| Down      |                                  |
+| Sideways  |                                  |
+
+[Thunder](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard10.webp)

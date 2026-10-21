@@ -40,9 +40,9 @@
 
 [Steel Headbutt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
 
-####
+#### Tyrant Shield ?
 
-| Name      |                                                                                                                    |
+| Name      | Tyrant Shield ?                                                                                                    |
 | --------- | ------------------------------------------------------------------------------------------------------------------ |
 | Japanese  | タイラントシールド                                                                                                 |
 | Type      | Steel                                                                                                              |
@@ -57,7 +57,7 @@
 | Down      | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
 | Sideways  |                                                                                                                    |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
+[Tyrant Shield](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
 
 #### Reckless Charge
 
@@ -116,9 +116,9 @@
 
 [Ram](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard06.webp)
 
-####
+#### Steel Body ?
 
-| Name      |                                                                                                                    |
+| Name      | Steel Body ?                                                                                                       |
 | --------- | ------------------------------------------------------------------------------------------------------------------ |
 | Japanese  | こうてつボディ                                                                                                     |
 | Type      | Steel                                                                                                              |
@@ -133,11 +133,11 @@
 | Down      |                                                                                                                    |
 | Sideways  | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard07.webp)
+[Steel Body](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard07.webp)
 
-####
+#### Powerful Steel ?
 
-| Name      |                                                                                                                 |
+| Name      | Powerful Steel ?                                                                                                |
 | --------- | --------------------------------------------------------------------------------------------------------------- |
 | Japanese  | パワフルスチール                                                                                                |
 | Type      | Steel                                                                                                           |
@@ -152,7 +152,7 @@
 | Down      |                                                                                                                 |
 | Sideways  | If this Pokémon was not damaged by an attack during your opponent's last turn, this attack does 40 more damage. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
+[Powerful Steel](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
 
 #### Iron Head
 

@@ -1,4 +1,4 @@
-## Aggron Cards
+## Cartas de Aggron
 
 ### Caja de Exploración 2
 

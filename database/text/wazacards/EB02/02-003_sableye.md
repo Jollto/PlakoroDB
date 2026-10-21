@@ -2,9 +2,9 @@
 
 ### Exploration Box 2
 
-####
+#### Nail Scratch ?
 
-| Name      |                                  |
+| Name      | Nail Scratch ?                   |
 | --------- | -------------------------------- |
 | Japanese  | ツメでひっかく                   |
 | Type      | Dark                             |
@@ -19,7 +19,7 @@
 | Down      | This attack does 10 more damage. |
 | Sideways  |                                  |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard01.webp)
+[Nail Scratch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard01.webp)
 
 #### Feint Attack
 
@@ -32,8 +32,8 @@
 | Energy    | {D}{D}                           |
 | Damage    | 20                               |
 | Effect    |                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                  |
+| Standing  |                                  |
+| Handstand | This attack does 20 more damage. |
 | Back      |                                  |
 | Down      | This attack does 20 more damage. |
 | Sideways  |                                  |
@@ -97,9 +97,9 @@
 
 [Icy Wind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard05.webp)
 
-####
+#### Dark Claw ?
 
-| Name      |                                  |
+| Name      | Dark Claw ?                      |
 | --------- | -------------------------------- |
 | Japanese  | ダーククロー                     |
 | Type      | Dark                             |
@@ -114,7 +114,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard06.webp)
+[Dark Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard06.webp)
 
 #### Trip Over
 
@@ -154,9 +154,9 @@
 
 [Dark Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard08.webp)
 
-####
+#### Jewel Flash ?
 
-| Name      |                                                                                                                            |
+| Name      | Jewel Flash ?                                                                                                              |
 | --------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Japanese  | ジュエルフラッシュ                                                                                                         |
 | Type      | Dark                                                                                                                       |
@@ -171,7 +171,7 @@
 | Down      |                                                                                                                            |
 | Sideways  | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
+[Jewel Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
 
 #### Psybeam
 

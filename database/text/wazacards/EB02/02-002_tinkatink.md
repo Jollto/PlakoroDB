@@ -40,9 +40,9 @@
 
 [Fairy Wind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard02.webp)
 
-####
+#### Hammer Strike ?
 
-| Name      |                                                                |
+| Name      | Hammer Strike ?                                                |
 | --------- | -------------------------------------------------------------- |
 | Japanese  | ハンマーストライク                                             |
 | Type      | Psychic                                                        |
@@ -57,7 +57,7 @@
 | Down      | This attack does 60 more damage.                               |
 | Sideways  | On your next turn, reduce the number of Enekoro you roll by 2. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
+[Hammer Strike](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
 
 #### Play Rough
 
@@ -154,9 +154,9 @@
 
 [Wail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard08.webp)
 
-####
+#### Wild Stamp ?
 
-| Name      |                                        |
+| Name      | Wild Stamp ?                           |
 | --------- | -------------------------------------- |
 | Japanese  | ワイルドスタンプ                       |
 | Type      | Psychic                                |
@@ -171,11 +171,11 @@
 | Down      | This Pokémon does 30 damage to itself. |
 | Sideways  | This attack does 50 more damage.       |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
+[Wild Stamp](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
 
-####
+#### Strange Impact ?
 
-| Name      |                                  |
+| Name      | Strange Impact ?                 |
 | --------- | -------------------------------- |
 | Japanese  | ワンダーインパクト               |
 | Type      | Psychic                          |
@@ -190,4 +190,4 @@
 | Down      | This attack does 60 more damage. |
 | Sideways  |                                  |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard10.webp)
+[Strange Impact](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard10.webp)

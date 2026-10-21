@@ -116,9 +116,9 @@
 
 [Water Gun](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard06.webp)
 
-####
+#### Mist Slash
 
-| Name      |                                  |
+| Name      | Mist Slash                       |
 | --------- | -------------------------------- |
 | Japanese  | かすみぎり                       |
 | Type      | Water                            |
@@ -133,7 +133,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard07.webp)
+[Mist Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard07.webp)
 
 ####
 

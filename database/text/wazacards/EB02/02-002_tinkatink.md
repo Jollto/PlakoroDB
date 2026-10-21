@@ -2,9 +2,9 @@
 
 ### Exploration Box 2
 
-####
+#### Beat
 
-| Name      |                                  |
+| Name      | Beat                             |
 | --------- | -------------------------------- |
 | Japanese  | たたく                           |
 | Type      | Psychic                          |
@@ -19,7 +19,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard01.webp)
+[Beat](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard01.webp)
 
 #### Fairy Wind
 
@@ -97,9 +97,9 @@
 
 [Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard05.webp)
 
-####
+#### Corkscrew Punch
 
-| Name      |                                  |
+| Name      | Corkscrew Punch                  |
 | --------- | -------------------------------- |
 | Japanese  | どつく                           |
 | Type      | Psychic                          |
@@ -114,7 +114,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 10 more damage. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard06.webp)
+[Corkscrew Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard06.webp)
 
 #### Draining Kiss
 
@@ -135,9 +135,9 @@
 
 [Draining Kiss](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard07.webp)
 
-####
+#### Wail
 
-| Name      |                                  |
+| Name      | Wail                             |
 | --------- | -------------------------------- |
 | Japanese  | なきわめく                       |
 | Type      | Psychic                          |
@@ -152,7 +152,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 30 more damage. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard08.webp)
+[Wail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard08.webp)
 
 ####
 

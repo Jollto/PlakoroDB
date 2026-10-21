@@ -21,9 +21,9 @@
 
 [Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard01.webp)
 
-####
+#### Steel Headbutt
 
-| Name      |                                  |
+| Name      | Steel Headbutt                   |
 | --------- | -------------------------------- |
 | Japanese  | はがねのずつき                   |
 | Type      | Steel                            |
@@ -38,7 +38,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 20 more damage. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
+[Steel Headbutt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
 
 ####
 
@@ -59,9 +59,9 @@
 
 [](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
 
-####
+#### Reckless Charge
 
-| Name      |                                        |
+| Name      | Reckless Charge                        |
 | --------- | -------------------------------------- |
 | Japanese  | とつげき                               |
 | Type      | Steel                                  |
@@ -76,7 +76,7 @@
 | Down      | This Pokémon does 40 damage to itself. |
 | Sideways  |                                        |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard04.webp)
+[Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard04.webp)
 
 #### Rock Tomb
 
@@ -97,9 +97,9 @@
 
 [Rock Tomb](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard05.webp)
 
-####
+#### Ram
 
-| Name      |                                  |
+| Name      | Ram                              |
 | --------- | -------------------------------- |
 | Japanese  | ぶつかる                         |
 | Type      | Steel                            |
@@ -114,7 +114,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 10 more damage. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard06.webp)
+[Ram](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard06.webp)
 
 ####
 

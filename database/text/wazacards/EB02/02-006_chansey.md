@@ -40,9 +40,9 @@
 
 [](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard02.webp)
 
-####
+#### Curve Strike
 
-| Name      |                                  |
+| Name      | Curve Strike                     |
 | --------- | -------------------------------- |
 | Japanese  | まるまるアタック                 |
 | Type      | Normal                           |
@@ -57,11 +57,11 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard03.webp)
+[Curve Strike](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard03.webp)
 
-####
+#### Drain Slap
 
-| Name      |                                   |
+| Name      | Drain Slap                        |
 | --------- | --------------------------------- |
 | Japanese  | ドレインビンタ                    |
 | Type      | Normal                            |
@@ -76,7 +76,7 @@
 | Down      |                                   |
 | Sideways  |                                   |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard04.webp)
+[Drain Slap](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard04.webp)
 
 #### Shadow Ball
 
@@ -97,9 +97,9 @@
 
 [Shadow Ball](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard05.webp)
 
-####
+#### Smack
 
-| Name      |                                  |
+| Name      | Smack                            |
 | --------- | -------------------------------- |
 | Japanese  | ひらてうち                       |
 | Type      | Normal                           |
@@ -114,7 +114,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard06.webp)
+[Smack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard06.webp)
 
 #### Soft-Boiled
 
@@ -135,9 +135,9 @@
 
 [Soft-Boiled](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard07.webp)
 
-####
+#### Lucky Punch
 
-| Name      |                                                        |
+| Name      | Lucky Punch                                            |
 | --------- | ------------------------------------------------------ |
 | Japanese  | ラッキーパンチ                                         |
 | Type      | Normal                                                 |
@@ -152,11 +152,11 @@
 | Down      |                                                        |
 | Sideways  |                                                        |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard08.webp)
+[Lucky Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard08.webp)
 
-####
+#### Hammer In
 
-| Name      |                                  |
+| Name      | Hammer In                        |
 | --------- | -------------------------------- |
 | Japanese  | ぶちかます                       |
 | Type      | Normal                           |
@@ -171,7 +171,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard09.webp)
+[Hammer In](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard09.webp)
 
 #### Flamethrower
 

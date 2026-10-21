@@ -2,9 +2,9 @@
 
 ### Exploration Box 2
 
-####
+#### Shred
 
-| Name      |                                  |
+| Name      | Shred                            |
 | --------- | -------------------------------- |
 | Japanese  | ひきさく                         |
 | Type      | Dragon                           |
@@ -19,7 +19,7 @@
 | Down      |                                  |
 | Sideways  | This attack does 10 more damage. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard01.webp)
+[Shred](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard01.webp)
 
 #### Dragon Pulse
 
@@ -78,9 +78,9 @@
 
 [](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
 
-####
+#### Dragon Flame
 
-| Name      |                                        |
+| Name      | Dragon Flame                           |
 | --------- | -------------------------------------- |
 | Japanese  | ドラゴンフレイム                       |
 | Type      | Fire                                   |
@@ -95,7 +95,7 @@
 | Down      | This Pokémon does 30 damage to itself. |
 | Sideways  | This attack does 30 more damage.       |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
+[Dragon Flame](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
 
 #### Twister
 

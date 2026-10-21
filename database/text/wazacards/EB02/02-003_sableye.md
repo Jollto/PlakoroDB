@@ -40,9 +40,9 @@
 
 [Feint Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard02.webp)
 
-####
+#### Dig It Up
 
-| Name      |                                                                                                                            |
+| Name      | Dig It Up                                                                                                                  |
 | --------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Japanese  | ほりかえす                                                                                                                 |
 | Type      | Dark                                                                                                                       |
@@ -57,11 +57,11 @@
 | Down      |                                                                                                                            |
 | Sideways  | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard03.webp)
+[Dig It Up](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard03.webp)
 
-####
+#### Instigate
 
-| Name      |                                                                                    |
+| Name      | Instigate                                                                          |
 | --------- | ---------------------------------------------------------------------------------- |
 | Japanese  | そそのかす                                                                         |
 | Type      | Dark                                                                               |
@@ -76,7 +76,7 @@
 | Down      |                                                                                    |
 | Sideways  | Choose 1 of your opponent's attacks. During their next turn, they use this attack. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
+[Instigate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
 
 #### Icy Wind
 
@@ -116,9 +116,9 @@
 
 [](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard06.webp)
 
-####
+#### Trip Over
 
-| Name      |                                                                             |
+| Name      | Trip Over                                                                   |
 | --------- | --------------------------------------------------------------------------- |
 | Japanese  | ころばす                                                                    |
 | Type      | Dark                                                                        |
@@ -133,7 +133,7 @@
 | Down      | On your opponent's next turn, set the direction of their Charakoro to {do}. |
 | Sideways  |                                                                             |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard07.webp)
+[Trip Over](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard07.webp)
 
 #### Dark Pulse
 

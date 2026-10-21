@@ -21,24 +21,24 @@
 
 [Pound](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard01.webp)
 
-####
+#### Chance Tackle ?
 
-| Name      |                                                        |
-| --------- | ------------------------------------------------------ |
-| Japanese  | チャンスタックル                                       |
-| Type      | Normal                                                 |
-| Code      | EBW02-052                                              |
-| Pokémon   | Chansey                                                |
-| Energy    | {Y}{Y}                                                 |
-| Damage    | 20                                                     |
-| Effect    | On your next turn, you can reroll your Charakoro once. |
-| Standing  | You can reroll it twice, not just once.                |
-| Handstand |                                                        |
-| Back      |                                                        |
-| Down      |                                                        |
-| Sideways  |                                                        |
+| Name      | Chance Tackle ?                                   |
+| --------- | ------------------------------------------------- |
+| Japanese  | チャンスタックル                                  |
+| Type      | Normal                                            |
+| Code      | EBW02-052                                         |
+| Pokémon   | Chansey                                           |
+| Energy    | {Y}{Y}                                            |
+| Damage    | 20                                                |
+| Effect    | On your next turn, you can reroll your Charakoro. |
+| Standing  | You can reroll it twice, not just once.           |
+| Handstand |                                                   |
+| Back      |                                                   |
+| Down      |                                                   |
+| Sideways  |                                                   |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard02.webp)
+[Chance Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard02.webp)
 
 #### Curve Strike
 
@@ -137,20 +137,20 @@
 
 #### Lucky Punch
 
-| Name      | Lucky Punch                                            |
-| --------- | ------------------------------------------------------ |
-| Japanese  | ラッキーパンチ                                         |
-| Type      | Normal                                                 |
-| Code      | EBW02-058                                              |
-| Pokémon   | Chansey                                                |
-| Energy    | {Y}{Y}{Y}                                              |
-| Damage    | 30                                                     |
-| Effect    |                                                        |
-| Standing  | On your next turn, you can reroll your Charakoro once. |
-| Handstand |                                                        |
-| Back      |                                                        |
-| Down      |                                                        |
-| Sideways  |                                                        |
+| Name      | Lucky Punch                                       |
+| --------- | ------------------------------------------------- |
+| Japanese  | ラッキーパンチ                                    |
+| Type      | Normal                                            |
+| Code      | EBW02-058                                         |
+| Pokémon   | Chansey                                           |
+| Energy    | {Y}{Y}{Y}                                         |
+| Damage    | 30                                                |
+| Effect    |                                                   |
+| Standing  | On your next turn, you can reroll your Charakoro. |
+| Handstand |                                                   |
+| Back      |                                                   |
+| Down      |                                                   |
+| Sideways  |                                                   |
 
 [Lucky Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard08.webp)
 

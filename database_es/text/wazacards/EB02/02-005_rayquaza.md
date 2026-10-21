@@ -1,6 +1,6 @@
 ## Rayquaza Cards
 
-### Exploration Box 2
+### Caja de Exploración 2
 
 #### Shred
 
@@ -42,20 +42,20 @@
 
 #### Breaking Swipe
 
-| Nombre      | Breaking Swipe                                                                            |
-| ----------- | ----------------------------------------------------------------------------------------- |
-| Japonés     | ワイドブレイカー                                                                                  |
-| Tipo        | Dragón                                                                                    |
-| Código      | EBW02-043                                                                                 |
-| Pokémon     | Rayquaza                                                                                  |
-| Energía     | {R}{R}{L}                                                                                 |
-| Daño        | 30                                                                                        |
-| Efecto      |                                                                                           |
-| De pie      |                                                                                           |
-| De cabeza   |                                                                                           |
-| Boca arriba |                                                                                           |
-| Boca abajo  |                                                                                           |
-| De lado     | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Nombre      | Breaking Swipe                                                                                |
+| ----------- | --------------------------------------------------------------------------------------------- |
+| Japonés     | ワイドブレイカー                                                                                      |
+| Tipo        | Dragón                                                                                        |
+| Código      | EBW02-043                                                                                     |
+| Pokémon     | Rayquaza                                                                                      |
+| Energía     | {R}{R}{L}                                                                                     |
+| Daño        | 30                                                                                            |
+| Efecto      |                                                                                               |
+| De pie      |                                                                                               |
+| De cabeza   |                                                                                               |
+| Boca arriba |                                                                                               |
+| Boca abajo  |                                                                                               |
+| De lado     | En el próximo turno de tu rival, reduce the number of Enekoro they roll by 1. |
 
 [Breaking Swipe](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
 

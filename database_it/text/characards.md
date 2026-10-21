@@ -119,6 +119,8 @@
 | Weakness | Water     |
 | HP       | 120       |
 
+[Altaria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_characard.webp)
+
 ### [Dragonite](../cards/characards/STC11-001_dragonite.png)
 
 | Name     | Dragonite |
@@ -127,6 +129,8 @@
 | Code     | STC11-001 |
 | Weakness | Dragon    |
 | HP       | 120       |
+
+[Dragonite](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_characard.webp)
 
 ## Exploration Box 1
 
@@ -195,3 +199,71 @@
 | HP       | 120       |
 
 [Grimer](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_characard.webp)
+
+## Exploration Box 1
+
+### Greninja
+
+| Name     | Greninja  |
+| -------- | --------- |
+| Type     | Water     |
+| Code     | EBC02-001 |
+| Weakness | Grass     |
+| HP       | 120       |
+
+[Greninja](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_characard.webp)
+
+### Tinkatink
+
+| Name     | Tinkatink |
+| -------- | --------- |
+| Type     | Psychic   |
+| Code     | EBC02-002 |
+| Weakness | Fire      |
+| HP       | 120       |
+
+[Tinkatink](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_characard.webp)
+
+### Sableye
+
+| Name     | Sableye   |
+| -------- | --------- |
+| Type     | Dark      |
+| Code     | EBC02-003 |
+| Weakness | Psychic   |
+| HP       | 120       |
+
+[Sableye](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_characard.webp)
+
+### Aggron
+
+| Name     | Aggron    |
+| -------- | --------- |
+| Type     | Steel     |
+| Code     | EBC02-004 |
+| Weakness | Fighting  |
+| HP       | 120       |
+
+[Aggron](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_characard.webp)
+
+### Rayquaza
+
+| Name     | Rayquaza  |
+| -------- | --------- |
+| Type     | Dragon    |
+| Code     | EBC02-005 |
+| Weakness | Dragon    |
+| HP       | 120       |
+
+[Rayquaza](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_characard.webp)
+
+### Chansey
+
+| Name     | Chansey   |
+| -------- | --------- |
+| Type     | Normal    |
+| Code     | EBC02-006 |
+| Weakness | Fighting  |
+| HP       | 120       |
+
+[Chansey](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_characard.webp)

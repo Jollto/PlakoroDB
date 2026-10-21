@@ -1,6 +1,6 @@
 ## Aggron Cards
 
-### Exploration Box 2
+### Caja de Exploración 2
 
 #### Garra Metal
 
@@ -80,20 +80,20 @@
 
 #### Rock Tomb
 
-| Nombre      | Rock Tomb                                                                                 |
-| ----------- | ----------------------------------------------------------------------------------------- |
-| Japonés     | がんせきふうじ                                                                                   |
-| Tipo        | Lucha                                                                                     |
-| Código      | EBW02-035                                                                                 |
-| Pokémon     | Aggron                                                                                    |
-| Energía     | {F}{C}{C}{C}                                                                              |
-| Daño        | 30                                                                                        |
-| Efecto      |                                                                                           |
-| De pie      | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| De cabeza   |                                                                                           |
-| Boca arriba | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Boca abajo  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| De lado     |                                                                                           |
+| Nombre      | Rock Tomb                                                                                     |
+| ----------- | --------------------------------------------------------------------------------------------- |
+| Japonés     | がんせきふうじ                                                                                       |
+| Tipo        | Lucha                                                                                         |
+| Código      | EBW02-035                                                                                     |
+| Pokémon     | Aggron                                                                                        |
+| Energía     | {F}{C}{C}{C}                                                                                  |
+| Daño        | 30                                                                                            |
+| Efecto      |                                                                                               |
+| De pie      | En el próximo turno de tu rival, reduce the number of Enekoro they roll by 1. |
+| De cabeza   |                                                                                               |
+| Boca arriba | En el próximo turno de tu rival, reduce the number of Enekoro they roll by 1. |
+| Boca abajo  | En el próximo turno de tu rival, reduce the number of Enekoro they roll by 1. |
+| De lado     |                                                                                               |
 
 [Rock Tomb](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard05.webp)
 
@@ -137,20 +137,20 @@
 
 #### Powerful Steel ?
 
-| Nombre      | Powerful Steel ?                                                                                                                |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | パワフルスチール                                                                                                                        |
-| Tipo        | Acero                                                                                                                           |
-| Código      | EBW02-038                                                                                                                       |
-| Pokémon     | Aggron                                                                                                                          |
-| Energía     | {M}{M}{M}                                                                                                                       |
-| Daño        | 20                                                                                                                              |
-| Efecto      |                                                                                                                                 |
-| De pie      | If this Pokémon was not damaged by an attack during your opponent's last turn, this attack does 40 more damage. |
-| De cabeza   |                                                                                                                                 |
-| Boca arriba |                                                                                                                                 |
-| Boca abajo  |                                                                                                                                 |
-| De lado     | If this Pokémon was not damaged by an attack during your opponent's last turn, this attack does 40 more damage. |
+| Nombre      | Powerful Steel ?                                                                                                                       |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés     | パワフルスチール                                                                                                                               |
+| Tipo        | Acero                                                                                                                                  |
+| Código      | EBW02-038                                                                                                                              |
+| Pokémon     | Aggron                                                                                                                                 |
+| Energía     | {M}{M}{M}                                                                                                                              |
+| Daño        | 20                                                                                                                                     |
+| Efecto      |                                                                                                                                        |
+| De pie      | If this Pokémon was not damaged by an attack during your opponent's last turn, este ataque hace 40 puntos de daño más. |
+| De cabeza   |                                                                                                                                        |
+| Boca arriba |                                                                                                                                        |
+| Boca abajo  |                                                                                                                                        |
+| De lado     | If this Pokémon was not damaged by an attack during your opponent's last turn, este ataque hace 40 puntos de daño más. |
 
 [Powerful Steel](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
 

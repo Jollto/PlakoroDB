@@ -21,9 +21,9 @@
 
 [Waterfall](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard01.webp)
 
-####
+#### Shifting Slash ?
 
-| Name      |                                                                                                |
+| Name      | Shifting Slash ?                                                                               |
 | --------- | ---------------------------------------------------------------------------------------------- |
 | Japanese  | へんげぎり                                                                                     |
 | Type      | Water                                                                                          |
@@ -38,7 +38,7 @@
 | Down      |                                                                                                |
 | Sideways  | Choose 1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.) |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard02.webp)
+[Shifting Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard02.webp)
 
 #### Water Shuriken
 

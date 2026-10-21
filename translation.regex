@@ -1,8 +1,5 @@
 ## Common ones
 
-このワザでキャラコロが成功するたび、(\d+)ダメージ追加。
-Each time the Charakoro roll succeeds with this attack, this attack does $1 more damage.
-
 (\d+)ダメージ追加。
 This attack does $1 more damage.
 
@@ -34,6 +31,9 @@ Heal $1 more damage from this Pokémon.
 
 ## Strange ones
 
+このワザでキャラコロが成功するたび、
+Each time the Charakoro roll succeeds with this attack, 
+
 自分のエネコロを(\d+)個選び、カスタムチップを好きなだけつけ替える。（自分の持っているカスタムチップを使う。）
 Choose $1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.)
 
@@ -45,3 +45,23 @@ Choose 1 of your opponent's attacks. During their next turn, they use this attac
 
 次の相手の番、相手のキャラコロの向きを(.+)にする。
 On your opponent's next turn, set the direction of their Charakoro to $1.
+
+次の相手の番、このポケモンが受けるダメージが(\d+)以下なら、そのダメージを受けない。
+During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is $1 or less.
+
+前の相手の番、このポケモンがワザのダメージを受けていないなら、
+If this Pokémon was not damaged by an attack during your opponent's last turn, 
+
+このポケモンのHPをすべて回復する。
+Heal all damage from this Pokémon.
+
+次の自分の番、キャラコロを1回振りなおせる。
+On your next turn, you can reroll your Charakoro once.
+
+1回ではなく2回振りなおせる。
+You can reroll it twice, not just once.
+
+## Fixes
+
+, T
+, t

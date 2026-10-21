@@ -42,20 +42,20 @@
 
 ####
 
-| Name      |                                                                                  |
-| --------- | -------------------------------------------------------------------------------- |
-| Japanese  | タイラントシールド                                                               |
-| Type      | Steel                                                                            |
-| Code      | EBW02-033                                                                        |
-| Pokémon   | Aggron                                                                           |
-| Energy    | {M}{M}{M}                                                                        |
-| Damage    | 30                                                                               |
-| Effect    |                                                                                  |
-| Standing  | 次の相手の番、このポケモンが受けるダメージが40以下なら、そのダメージを受けない。 |
-| Handstand |                                                                                  |
-| Back      | 次の相手の番、このポケモンが受けるダメージが40以下なら、そのダメージを受けない。 |
-| Down      | 次の相手の番、このポケモンが受けるダメージが40以下なら、そのダメージを受けない。 |
-| Sideways  |                                                                                  |
+| Name      |                                                                                                                    |
+| --------- | ------------------------------------------------------------------------------------------------------------------ |
+| Japanese  | タイラントシールド                                                                                                 |
+| Type      | Steel                                                                                                              |
+| Code      | EBW02-033                                                                                                          |
+| Pokémon   | Aggron                                                                                                             |
+| Energy    | {M}{M}{M}                                                                                                          |
+| Damage    | 30                                                                                                                 |
+| Effect    |                                                                                                                    |
+| Standing  | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
+| Handstand |                                                                                                                    |
+| Back      | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
+| Down      | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
+| Sideways  |                                                                                                                    |
 
 [](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
 
@@ -118,39 +118,39 @@
 
 ####
 
-| Name      |                                                                                  |
-| --------- | -------------------------------------------------------------------------------- |
-| Japanese  | こうてつボディ                                                                   |
-| Type      | Steel                                                                            |
-| Code      | EBW02-037                                                                        |
-| Pokémon   | Aggron                                                                           |
-| Energy    | {M}{M}                                                                           |
-| Damage    | 20                                                                               |
-| Effect    |                                                                                  |
-| Standing  | 次の相手の番、このポケモンが受けるダメージが30以下なら、そのダメージを受けない。 |
-| Handstand |                                                                                  |
-| Back      | 次の相手の番、このポケモンが受けるダメージが30以下なら、そのダメージを受けない。 |
-| Down      |                                                                                  |
-| Sideways  | 次の相手の番、このポケモンが受けるダメージが30以下なら、そのダメージを受けない。 |
+| Name      |                                                                                                                    |
+| --------- | ------------------------------------------------------------------------------------------------------------------ |
+| Japanese  | こうてつボディ                                                                                                     |
+| Type      | Steel                                                                                                              |
+| Code      | EBW02-037                                                                                                          |
+| Pokémon   | Aggron                                                                                                             |
+| Energy    | {M}{M}                                                                                                             |
+| Damage    | 20                                                                                                                 |
+| Effect    |                                                                                                                    |
+| Standing  | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
+| Handstand |                                                                                                                    |
+| Back      | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
+| Down      |                                                                                                                    |
+| Sideways  | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
 
 [](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard07.webp)
 
 ####
 
-| Name      |                                                                                                |
-| --------- | ---------------------------------------------------------------------------------------------- |
-| Japanese  | パワフルスチール                                                                               |
-| Type      | Steel                                                                                          |
-| Code      | EBW02-038                                                                                      |
-| Pokémon   | Aggron                                                                                         |
-| Energy    | {M}{M}{M}                                                                                      |
-| Damage    | 20                                                                                             |
-| Effect    |                                                                                                |
-| Standing  | 前の相手の番、このポケモンがワザのダメージを受けていないなら、This attack does 40 more damage. |
-| Handstand |                                                                                                |
-| Back      |                                                                                                |
-| Down      |                                                                                                |
-| Sideways  | 前の相手の番、このポケモンがワザのダメージを受けていないなら、This attack does 40 more damage. |
+| Name      |                                                                                                                 |
+| --------- | --------------------------------------------------------------------------------------------------------------- |
+| Japanese  | パワフルスチール                                                                                                |
+| Type      | Steel                                                                                                           |
+| Code      | EBW02-038                                                                                                       |
+| Pokémon   | Aggron                                                                                                          |
+| Energy    | {M}{M}{M}                                                                                                       |
+| Damage    | 20                                                                                                              |
+| Effect    |                                                                                                                 |
+| Standing  | If this Pokémon was not damaged by an attack during your opponent's last turn, this attack does 40 more damage. |
+| Handstand |                                                                                                                 |
+| Back      |                                                                                                                 |
+| Down      |                                                                                                                 |
+| Sideways  | If this Pokémon was not damaged by an attack during your opponent's last turn, this attack does 40 more damage. |
 
 [](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
 

@@ -1,6 +1,6 @@
 ## Chansey Cards
 
-### Exploration Box 2
+### Caja de Exploración 2
 
 #### Pound
 

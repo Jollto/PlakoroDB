@@ -135,9 +135,9 @@
 
 [Mist Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard07.webp)
 
-####
+#### Clone Jutsu ?
 
-| Name      |                                                                                          |
+| Name      | Clone Jutsu                                                                              |
 | --------- | ---------------------------------------------------------------------------------------- |
 | Japanese  | ぶんしんのじゅつ                                                                         |
 | Type      | Water                                                                                    |
@@ -152,7 +152,7 @@
 | Down      |                                                                                          |
 | Sideways  | Each time the Charakoro roll succeeds with this attack, this attack does 40 more damage. |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard08.webp)
+[Clone Jutsu](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard08.webp)
 
 #### Trailblaze
 

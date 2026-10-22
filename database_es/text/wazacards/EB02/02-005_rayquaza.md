@@ -59,9 +59,9 @@
 
 [Vasto Impacto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
 
-#### Desmadre Salvaje ?
+#### Estampida Salvaje ?
 
-| Nombre      | Desmadre Salvaje ?                                      |
+| Nombre      | Estampida Salvaje ?                                     |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | げきりんランページ                                               |
 | Tipo        | Dragón                                                  |
@@ -76,11 +76,11 @@
 | Boca abajo  |                                                         |
 | De lado     |                                                         |
 
-[Desmadre Salvaje](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
+[Estampida Salvaje](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
 
-#### Dragon Flame
+#### Llama Dragón ?
 
-| Nombre      | Dragon Flame                                            |
+| Nombre      | Llama Dragón ?                                          |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | ドラゴンフレイム                                                |
 | Tipo        | Fuego                                                   |
@@ -95,11 +95,11 @@
 | Boca abajo  | Este Pokémon se hace 30 puntos de daño. |
 | De lado     | Este ataque hace 30 puntos de daño más. |
 
-[Dragon Flame](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
+[Llama Dragón ?](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
 
-#### Twister
+#### Ciclón
 
-| Nombre      | Twister                                                 |
+| Nombre      | Ciclón                                                  |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | たつまき                                                    |
 | Tipo        | Dragón                                                  |
@@ -114,11 +114,11 @@
 | Boca abajo  |                                                         |
 | De lado     | Este ataque hace 10 puntos de daño más. |
 
-[Twister](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard06.webp)
+[Ciclón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard06.webp)
 
-#### Dragon Claw
+#### Garra Dragón
 
-| Nombre      | Dragon Claw                                             |
+| Nombre      | Garra Dragón                                            |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | ドラゴンクロー                                                 |
 | Tipo        | Dragón                                                  |
@@ -133,11 +133,11 @@
 | Boca abajo  |                                                         |
 | De lado     |                                                         |
 
-[Dragon Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard07.webp)
+[Garra Dragón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard07.webp)
 
-#### Dragon Tail
+#### Cola Dragón
 
-| Nombre      | Dragon Tail                                             |
+| Nombre      | Cola Dragón                                             |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | ドラゴンテール                                                 |
 | Tipo        | Dragón                                                  |
@@ -152,26 +152,26 @@
 | Boca abajo  |                                                         |
 | De lado     | Este ataque hace 20 puntos de daño más. |
 
-[Dragon Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard08.webp)
+[Cola Dragón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard08.webp)
 
-#### Dragon Burst
+#### Explosión Dragón
 
-| Nombre      | Dragon Burst                                                             |
-| ----------- | ------------------------------------------------------------------------ |
-| Japonés     | ドラゴンバースト                                                                 |
-| Tipo        | Dragón                                                                   |
-| Código      | EBW02-049                                                                |
-| Pokémon     | Rayquaza                                                                 |
-| Energía     | {R}{C}{C}{C}                                                             |
-| Daño        | 10                                                                       |
-| Efecto      |                                                                          |
-| De pie      | This attack does 20 damage for each {L} energy produced. |
-| De cabeza   |                                                                          |
-| Boca arriba | This attack does 20 damage for each {L} energy produced. |
-| Boca abajo  |                                                                          |
-| De lado     |                                                                          |
+| Nombre      | Explosión Dragón                                                                   |
+| ----------- | ---------------------------------------------------------------------------------- |
+| Japonés     | ドラゴンバースト                                                                           |
+| Tipo        | Dragón                                                                             |
+| Código      | EBW02-049                                                                          |
+| Pokémon     | Rayquaza                                                                           |
+| Energía     | {R}{C}{C}{C}                                                                       |
+| Daño        | 10                                                                                 |
+| Efecto      |                                                                                    |
+| De pie      | Este ataque hace 20 puntos de daño por cada energía {L} producida. |
+| De cabeza   |                                                                                    |
+| Boca arriba | Este ataque hace 20 puntos de daño por cada energía {L} producida. |
+| Boca abajo  |                                                                                    |
+| De lado     |                                                                                    |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
+[Explosión Dragón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
 
 #### Trueno
 

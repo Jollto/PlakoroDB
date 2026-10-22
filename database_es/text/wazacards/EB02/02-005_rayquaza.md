@@ -1,10 +1,10 @@
-## Rayquaza Cards
+## Cartas de Rayquaza
 
 ### Caja de Exploración 2
 
-#### Shred
+#### Hacer Trizas
 
-| Nombre      | Shred                                                   |
+| Nombre      | Hacer Trizas                                            |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | ひきさく                                                    |
 | Tipo        | Dragón                                                  |
@@ -19,49 +19,49 @@
 | Boca abajo  |                                                         |
 | De lado     | Este ataque hace 10 puntos de daño más. |
 
-[Shred](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard01.webp)
+[Hacer Trizas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard01.webp)
 
 #### Pulso Dragón
 
-| Nombre      | Pulso Dragón                                                                   |
-| ----------- | ------------------------------------------------------------------------------ |
-| Japonés     | りゅうのはどう                                                                        |
-| Tipo        | Dragón                                                                         |
-| Código      | EBW02-042                                                                      |
-| Pokémon     | Rayquaza                                                                       |
-| Energía     | {R}{R}                                                                         |
-| Daño        | 30                                                                             |
-| Efecto      |                                                                                |
-| De pie      | Este ataque hace 30 puntos de daño más.                        |
-| De cabeza   | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Boca arriba | Este ataque hace 30 puntos de daño más.                        |
-| Boca abajo  | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De lado     |                                                                                |
+| Nombre      | Pulso Dragón                                                                     |
+| ----------- | -------------------------------------------------------------------------------- |
+| Japonés     | りゅうのはどう                                                                          |
+| Tipo        | Dragón                                                                           |
+| Código      | EBW02-042                                                                        |
+| Pokémon     | Rayquaza                                                                         |
+| Energía     | {R}{R}                                                                           |
+| Daño        | 30                                                                               |
+| Efecto      |                                                                                  |
+| De pie      | Este ataque hace 30 puntos de daño más.                          |
+| De cabeza   | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| Boca arriba | Este ataque hace 30 puntos de daño más.                          |
+| Boca abajo  | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| De lado     |                                                                                  |
 
 [Pulso Dragón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard02.webp)
 
-#### Breaking Swipe
+#### Vasto Impacto
 
-| Nombre      | Breaking Swipe                                                                                |
-| ----------- | --------------------------------------------------------------------------------------------- |
-| Japonés     | ワイドブレイカー                                                                                      |
-| Tipo        | Dragón                                                                                        |
-| Código      | EBW02-043                                                                                     |
-| Pokémon     | Rayquaza                                                                                      |
-| Energía     | {R}{R}{L}                                                                                     |
-| Daño        | 30                                                                                            |
-| Efecto      |                                                                                               |
-| De pie      |                                                                                               |
-| De cabeza   |                                                                                               |
-| Boca arriba |                                                                                               |
-| Boca abajo  |                                                                                               |
-| De lado     | En el próximo turno de tu rival, reduce the number of Enekoro they roll by 1. |
+| Nombre      | Vasto Impacto                                                                               |
+| ----------- | ------------------------------------------------------------------------------------------- |
+| Japonés     | ワイドブレイカー                                                                                    |
+| Tipo        | Dragón                                                                                      |
+| Código      | EBW02-043                                                                                   |
+| Pokémon     | Rayquaza                                                                                    |
+| Energía     | {R}{R}{L}                                                                                   |
+| Daño        | 30                                                                                          |
+| Efecto      |                                                                                             |
+| De pie      |                                                                                             |
+| De cabeza   |                                                                                             |
+| Boca arriba |                                                                                             |
+| Boca abajo  |                                                                                             |
+| De lado     | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
 
-[Breaking Swipe](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
+[Vasto Impacto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
 
-#### Wild Rampage ?
+#### Desmadre Salvaje ?
 
-| Nombre      | Wild Rampage ?                                          |
+| Nombre      | Desmadre Salvaje ?                                      |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | げきりんランページ                                               |
 | Tipo        | Dragón                                                  |
@@ -76,7 +76,7 @@
 | Boca abajo  |                                                         |
 | De lado     |                                                         |
 
-[Wild Rampage](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
+[Desmadre Salvaje](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
 
 #### Dragon Flame
 

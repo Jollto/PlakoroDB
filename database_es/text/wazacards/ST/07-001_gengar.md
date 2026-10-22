@@ -99,20 +99,20 @@
 
 #### Truco Fantasmal ?
 
-| Nombre      | Truco Fantasmal ?                                                                                         |
-| ----------- | --------------------------------------------------------------------------------------------------------- |
-| Japonés     | ファントムトリック                                                                                        |
-| Tipo        | Siniestro                                                                                                 |
-| Código      | STW07-006                                                                                                 |
-| Pokémon     | Gengar                                                                                                    |
-| Energía     | {D}{D}{D}{D}                                                                                              |
-| Daño        | 10                                                                                                        |
-| Efecto      |                                                                                                           |
-| De pie      | Tu oponente también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
-| De cabeza   | Tu oponente también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
-| Boca arriba | Tu oponente también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
-| Boca abajo  | Tu oponente también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
-| De lado     |                                                                                                           |
+| Nombre      | Truco Fantasmal ?                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------------------ |
+| Japonés     | ファントムトリック                                                                                     |
+| Tipo        | Siniestro                                                                                              |
+| Código      | STW07-006                                                                                              |
+| Pokémon     | Gengar                                                                                                 |
+| Energía     | {D}{D}{D}{D}                                                                                           |
+| Daño        | 10                                                                                                     |
+| Efecto      |                                                                                                        |
+| De pie      | Tu rival también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| De cabeza   | Tu rival también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| Boca arriba | Tu rival también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| Boca abajo  | Tu rival también tira su Charakoro 3 veces. Por cada {hs}{do}, este ataque hace 40 puntos de daño más. |
+| De lado     |                                                                                                        |
 
 [Truco Fantasmal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard06.webp)
 

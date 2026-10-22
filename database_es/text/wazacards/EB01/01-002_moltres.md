@@ -175,19 +175,19 @@
 
 #### Vuelo
 
-| Nombre      | Vuelo                                                                                |
-| ----------- | ------------------------------------------------------------------------------------ |
-| Japonés     | そらをとぶ                                                                           |
-| Tipo        | Volador                                                                              |
-| Código      | EBW01-020                                                                            |
-| Pokémon     | Moltres                                                                              |
-| Energía     | {Y}{C}{C}                                                                            |
-| Daño        | 30                                                                                   |
-| Efecto      |                                                                                      |
-| De pie      | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. |
-| De cabeza   | Este ataque no hace nada.                                                            |
-| Boca arriba | Este ataque no hace nada.                                                            |
-| Boca abajo  | Este ataque no hace nada.                                                            |
-| De lado     | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. |
+| Nombre      | Vuelo                                                                             |
+| ----------- | --------------------------------------------------------------------------------- |
+| Japonés     | そらをとぶ                                                                        |
+| Tipo        | Volador                                                                           |
+| Código      | EBW01-020                                                                         |
+| Pokémon     | Moltres                                                                           |
+| Energía     | {Y}{C}{C}                                                                         |
+| Daño        | 30                                                                                |
+| Efecto      |                                                                                   |
+| De pie      | Durante el próximo turno de tu rival, este Pokémon no recibe daño de los ataques. |
+| De cabeza   | Este ataque no hace nada.                                                         |
+| Boca arriba | Este ataque no hace nada.                                                         |
+| Boca abajo  | Este ataque no hace nada.                                                         |
+| De lado     | Durante el próximo turno de tu rival, este Pokémon no recibe daño de los ataques. |
 
 [Vuelo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard10.webp)

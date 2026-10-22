@@ -119,6 +119,8 @@
 | Debilidad | Agua      |
 | HP        | 120       |
 
+[Altaria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_characard.webp)
+
 ### [Dragonite](../cards/characards/STC11-001_dragonite.png)
 
 | Nombre    | Dragonite |
@@ -127,6 +129,8 @@
 | Código    | STC11-001 |
 | Debilidad | Dragón    |
 | HP        | 120       |
+
+[Dragonite](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_characard.webp)
 
 ## Caja de Exploración 1
 
@@ -195,3 +199,71 @@
 | HP        | 120       |
 
 [Grimer](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_characard.webp)
+
+## Caja de Exploración 1
+
+### Greninja
+
+| Nombre    | Greninja  |
+| --------- | --------- |
+| Tipo      | Agua      |
+| Código    | EBC02-001 |
+| Debilidad | Planta    |
+| HP        | 120       |
+
+[Greninja](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_characard.webp)
+
+### Tinkatink
+
+| Nombre    | Tinkatink |
+| --------- | --------- |
+| Tipo      | Psíquico  |
+| Código    | EBC02-002 |
+| Debilidad | Fuego     |
+| HP        | 120       |
+
+[Tinkatink](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_characard.webp)
+
+### Sableye
+
+| Nombre    | Sableye   |
+| --------- | --------- |
+| Tipo      | Siniestro |
+| Código    | EBC02-003 |
+| Debilidad | Psíquico  |
+| HP        | 120       |
+
+[Sableye](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_characard.webp)
+
+### Aggron
+
+| Nombre    | Aggron    |
+| --------- | --------- |
+| Tipo      | Acero     |
+| Código    | EBC02-004 |
+| Debilidad | Lucha     |
+| HP        | 120       |
+
+[Aggron](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_characard.webp)
+
+### Rayquaza
+
+| Nombre    | Rayquaza  |
+| --------- | --------- |
+| Tipo      | Dragón    |
+| Código    | EBC02-005 |
+| Debilidad | Dragón    |
+| HP        | 120       |
+
+[Rayquaza](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_characard.webp)
+
+### Chansey
+
+| Nombre    | Chansey   |
+| --------- | --------- |
+| Tipo      | Normal    |
+| Código    | EBC02-006 |
+| Debilidad | Lucha     |
+| HP        | 120       |
+
+[Chansey](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_characard.webp)

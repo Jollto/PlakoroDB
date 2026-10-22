@@ -42,20 +42,20 @@
 
 #### Socavar
 
-| Nombre      | Socavar                                                                                                                |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | ほりかえす                                                                                                             |
-| Tipo        | Siniestro                                                                                                              |
-| Código      | EBW02-023                                                                                                              |
-| Pokémon     | Sableye                                                                                                                |
-| Energía     | {D}{D}                                                                                                                 |
-| Daño        | 30                                                                                                                     |
-| Efecto      |                                                                                                                        |
-| De pie      | En el próximo turno de tu rival, elige 1 Enekoro lanzados, y hazlos rodar de nuevo. (Tú eliges qué Enekoros relanzar.) |
-| De cabeza   |                                                                                                                        |
-| Boca arriba | En el próximo turno de tu rival, elige 1 Enekoro lanzados, y hazlos rodar de nuevo. (Tú eliges qué Enekoros relanzar.) |
-| Boca abajo  |                                                                                                                        |
-| De lado     | En el próximo turno de tu rival, elige 1 Enekoro lanzados, y hazlos rodar de nuevo. (Tú eliges qué Enekoros relanzar.) |
+| Nombre      | Socavar                                                                                                           |
+| ----------- | ----------------------------------------------------------------------------------------------------------------- |
+| Japonés     | ほりかえす                                                                                                        |
+| Tipo        | Siniestro                                                                                                         |
+| Código      | EBW02-023                                                                                                         |
+| Pokémon     | Sableye                                                                                                           |
+| Energía     | {D}{D}                                                                                                            |
+| Daño        | 30                                                                                                                |
+| Efecto      |                                                                                                                   |
+| De pie      | En el próximo turno de tu rival, elige 1 Enekoro lanzados, y tiralos de nuevo. (Tú eliges qué Enekoros relanzar.) |
+| De cabeza   |                                                                                                                   |
+| Boca arriba | En el próximo turno de tu rival, elige 1 Enekoro lanzados, y tiralos de nuevo. (Tú eliges qué Enekoros relanzar.) |
+| Boca abajo  |                                                                                                                   |
+| De lado     | En el próximo turno de tu rival, elige 1 Enekoro lanzados, y tiralos de nuevo. (Tú eliges qué Enekoros relanzar.) |
 
 [Socavar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard03.webp)
 
@@ -156,20 +156,20 @@
 
 #### Joya Destello ?
 
-| Nombre      | Joya Destello ?                                                                                                        |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | ジュエルフラッシュ                                                                                                     |
-| Tipo        | Siniestro                                                                                                              |
-| Código      | EBW02-029                                                                                                              |
-| Pokémon     | Sableye                                                                                                                |
-| Energía     | {D}{D}{D}{D}                                                                                                           |
-| Daño        | 50                                                                                                                     |
-| Efecto      |                                                                                                                        |
-| De pie      | En el próximo turno de tu rival, elige 2 Enekoro lanzados, y hazlos rodar de nuevo. (Tú eliges qué Enekoros relanzar.) |
-| De cabeza   |                                                                                                                        |
-| Boca arriba | En el próximo turno de tu rival, elige 2 Enekoro lanzados, y hazlos rodar de nuevo. (Tú eliges qué Enekoros relanzar.) |
-| Boca abajo  |                                                                                                                        |
-| De lado     | En el próximo turno de tu rival, elige 2 Enekoro lanzados, y hazlos rodar de nuevo. (Tú eliges qué Enekoros relanzar.) |
+| Nombre      | Joya Destello ?                                                                                                   |
+| ----------- | ----------------------------------------------------------------------------------------------------------------- |
+| Japonés     | ジュエルフラッシュ                                                                                                |
+| Tipo        | Siniestro                                                                                                         |
+| Código      | EBW02-029                                                                                                         |
+| Pokémon     | Sableye                                                                                                           |
+| Energía     | {D}{D}{D}{D}                                                                                                      |
+| Daño        | 50                                                                                                                |
+| Efecto      |                                                                                                                   |
+| De pie      | En el próximo turno de tu rival, elige 2 Enekoro lanzados, y tiralos de nuevo. (Tú eliges qué Enekoros relanzar.) |
+| De cabeza   |                                                                                                                   |
+| Boca arriba | En el próximo turno de tu rival, elige 2 Enekoro lanzados, y tiralos de nuevo. (Tú eliges qué Enekoros relanzar.) |
+| Boca abajo  |                                                                                                                   |
+| De lado     | En el próximo turno de tu rival, elige 2 Enekoro lanzados, y tiralos de nuevo. (Tú eliges qué Enekoros relanzar.) |
 
 [Joya Destello](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
 

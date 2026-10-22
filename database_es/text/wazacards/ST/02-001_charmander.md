@@ -80,20 +80,20 @@
 
 #### Tormenta de Llamas
 
-| Nombre      | Tormenta de Llamas                                                    |
-| ----------- | --------------------------------------------------------------------- |
-| Japonés     | フレアストーム                                                        |
-| Tipo        | Fuego                                                                 |
-| Código      | STW02-005                                                             |
-| Pokémon     | Charmander                                                            |
-| Energía     | {C}{C}{C}{C}{C}                                                       |
-| Daño        | 20                                                                    |
-| Efecto      |                                                                       |
-| De pie      | Este ataque inflige 10 puntos de daño por cada energía {R} producida. |
-| De cabeza   |                                                                       |
-| Boca arriba |                                                                       |
-| Boca abajo  |                                                                       |
-| De lado     | Este ataque inflige 10 puntos de daño por cada energía {R} producida. |
+| Nombre      | Tormenta de Llamas                                                 |
+| ----------- | ------------------------------------------------------------------ |
+| Japonés     | フレアストーム                                                     |
+| Tipo        | Fuego                                                              |
+| Código      | STW02-005                                                          |
+| Pokémon     | Charmander                                                         |
+| Energía     | {C}{C}{C}{C}{C}                                                    |
+| Daño        | 20                                                                 |
+| Efecto      |                                                                    |
+| De pie      | Este ataque hace 10 puntos de daño por cada energía {R} producida. |
+| De cabeza   |                                                                    |
+| Boca arriba |                                                                    |
+| Boca abajo  |                                                                    |
+| De lado     | Este ataque hace 10 puntos de daño por cada energía {R} producida. |
 
 [Tormenta de Llamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard05.webp)
 

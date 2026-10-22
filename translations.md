@@ -16,8 +16,9 @@ This Pokémon does $2 damage to itself.
 自分が追加で(\d+)ダメージ(受ける)?(。)?
 This Pokémon does $1 more damage to itself.
 
+次の番の相手のエネコロを1個へらす。
 (さらに)?(相手は次|次の相手)の番にふるエネコロを(\d)個へらす(。)?
-On the opponent's next turn, reduce the number of Enekoro they roll by $.
+On the opponent's next turn, reduce the number of Enekoro they roll by $3.
 
 追加で(\d+)ダメージ
 This attack does $1 more damage.
@@ -69,3 +70,9 @@ On your next turn, increase the number of Enekoro you roll by 1 for each {st} Ch
 
 1つ前の自分の番にワザ「(.+)」が成功していれば
 During your last turn, if this Pokémon's "$1" attack was successful,
+
+このワザは(\d+)回トライする。
+This attack may be used $1 times.
+
+出ている(.+)の数×(\d+)ダメージ
+This attack does $2 damage for each $1 energy produced.

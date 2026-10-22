@@ -93,167 +93,124 @@ https://w.atwiki.jp/purakoro/pages/96.html
 
 ####
 
-| Name      |            |
-| --------- | ---------- |
-| Japanese  |            |
-| Type      | Fire       |
-| Code      | OEW01-006  |
-| Pokémon   | Charmeleon |
-| Energy    |            |
-| Damage    |            |
-| Effect    |            |
-| Standing  |            |
-| Handstand |            |
-| Back      |            |
-| Down      |            |
-| Sideways  |            |
+| Name      |                                                                                    |
+| --------- | ---------------------------------------------------------------------------------- |
+| Japanese  | ファイヤーブレス                                                                   |
+| Type      | Fire                                                                               |
+| Code      | OEW01-006                                                                          |
+| Pokémon   | Charmeleon                                                                         |
+| Energy    | {R}{R}{R}{R}{R}                                                                    |
+| Damage    | 40                                                                                 |
+| Effect    | Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro. |
+| Standing  | Roll 12 Chibi Charakoros instead of 12.                                            |
+| Handstand | On your next turn, reduce the number of Enekoro you roll by 1.                     |
+| Back      |                                                                                    |
+| Down      |                                                                                    |
+| Sideways  |                                                                                    |
 
-<tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ファイヤーブレス</td>
-		<!--5-1--><td style="">{R}{R}{R}{R}{R}</td>
-		<!--5-2--><td style="">This attack does 40 damage.<br>Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
-		<!--5-3--><td style="">Standing：このワザでふるチビキャラコロを6個ではなく12個にする。</td>
-		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
+#### Evolution
 
-####
-
-| Name      |            |
-| --------- | ---------- |
-| Japanese  |            |
-| Type      | Fire       |
-| Code      | OEW01-007  |
-| Pokémon   | Charmeleon |
-| Energy    |            |
-| Damage    |            |
-| Effect    |            |
-| Standing  |            |
-| Handstand |            |
-| Back      |            |
-| Down      |            |
-| Sideways  |            |
-
-<tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">しんか</td>
-		<!--6-1--><td style="">{R}{R}{R}{R}</td>
-		<!--6-2--><td style="">リザードはリザードンに進化する。<br>Max HP becomes 160.Heal 20 damage from this Pokémon.<br>Roll 4 Enekoro while evolved.</td>
-		<!--6-3--><td style="">Standing・Back：Heal 10 more damage from this Pokémon.。</td>
-		<!--6-4--><td style="">なし</td></tr>
-</tbody>
+| Name      | Evolution                                                                                                  |
+| --------- | ---------------------------------------------------------------------------------------------------------- |
+| Japanese  | しんか                                                                                                     |
+| Type      | Fire                                                                                                       |
+| Code      | OEW01-007                                                                                                  |
+| Pokémon   | Charmeleon                                                                                                 |
+| Energy    | {R}{R}{R}{R}                                                                                               |
+| Damage    |                                                                                                            |
+| Effect    | Evolve into Charizard. Max HP becomes 160. Heal 20 damage from this Pokémon. Roll 4 Enekoro while evolved. |
+| Standing  | Heal 10 more damage from this Pokémon.                                                                     |
+| Handstand |                                                                                                            |
+| Back      | Heal 10 more damage from this Pokémon.                                                                     |
+| Down      |                                                                                                            |
+| Sideways  |                                                                                                            |
 
 ### Charizard's Cards
 
 ####
 
-| Name      |           |
-| --------- | --------- |
-| Japanese  |           |
-| Type      | Fire      |
-| Code      | OEW01-008 |
-| Pokémon   | Charizard |
-| Energy    |           |
-| Damage    |           |
-| Effect    |           |
-| Standing  |           |
-| Handstand |           |
-| Back      |           |
-| Down      |           |
-| Sideways  |           |
-
-<tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">ほうこう</td>
-		<!--1-1--><td style="">{R}{R}{R}</td>
-		<!--1-2--><td style="">Roll 6 Chibi Charakoros. On the opponent's next turn, reduce the number of Enekoro they roll by 1 for each {st} Chibi Charakoro.</td>
-		<!--1-3--><td style="">Standing・Back：This attack does 20 damage.</td>
-		<!--1-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
+| Name      |                                                                                                                                  |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Japanese  | ほうこう                                                                                                                         |
+| Type      | Fire                                                                                                                             |
+| Code      | OEW01-008                                                                                                                        |
+| Pokémon   | Charizard                                                                                                                        |
+| Energy    | {R}{R}{R}                                                                                                                        |
+| Damage    |                                                                                                                                  |
+| Effect    | Roll 6 Chibi Charakoros. On the opponent's next turn, reduce the number of Enekoro they roll by 1 for each {st} Chibi Charakoro. |
+| Standing  | This attack does 20 damage.                                                                                                      |
+| Handstand | On your next turn, reduce the number of Enekoro you roll by 1.                                                                   |
+| Back      | This attack does 20 damage.                                                                                                      |
+| Down      |                                                                                                                                  |
+| Sideways  |                                                                                                                                  |
 
 ####
 
-| Name      |           |
-| --------- | --------- |
-| Japanese  |           |
-| Type      | Fire      |
-| Code      | OEW01-009 |
-| Pokémon   | Charizard |
-| Energy    |           |
-| Damage    |           |
-| Effect    |           |
-| Standing  |           |
-| Handstand |           |
-| Back      |           |
-| Down      |           |
-| Sideways  |           |
-
-<tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ごうかのかぜ</td>
-		<!--2-1--><td style="">{R}{R}{R}</td>
-		<!--2-2--><td style="">Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
-		<!--2-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
+| Name      |                                                                                    |
+| --------- | ---------------------------------------------------------------------------------- |
+| Japanese  | ごうかのかぜ                                                                       |
+| Type      | Fire                                                                               |
+| Code      | OEW01-009                                                                          |
+| Pokémon   | Charizard                                                                          |
+| Energy    | {R}{R}{R}                                                                          |
+| Damage    |                                                                                    |
+| Effect    | Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro. |
+| Standing  | This attack does 20 more damage.                                                   |
+| Handstand | This Pokémon does 10 damage to itself.                                             |
+| Back      | This attack does 20 more damage.                                                   |
+| Down      |                                                                                    |
+| Sideways  |                                                                                    |
 
 ####
 
-| Name      |           |
-| --------- | --------- |
-| Japanese  |           |
-| Type      | Fire      |
-| Code      | OEW01-010 |
-| Pokémon   | Charizard |
-| Energy    |           |
-| Damage    |           |
-| Effect    |           |
-| Standing  |           |
-| Handstand |           |
-| Back      |           |
-| Down      |           |
-| Sideways  |           |
-
-<tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">くいちぎる</td>
-		<!--3-1--><td style="">{R}{R}{R}{R}</td>
-		<!--3-2--><td style="">This attack does 40 damage.</td>
-		<!--3-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
+| Name      |                                        |
+| --------- | -------------------------------------- |
+| Japanese  | くいちぎる                             |
+| Type      | Fire                                   |
+| Code      | OEW01-010                              |
+| Pokémon   | Charizard                              |
+| Energy    | {R}{R}{R}{R}                           |
+| Damage    | 40                                     |
+| Effect    |                                        |
+| Standing  | This attack does 20 more damage.       |
+| Handstand | This Pokémon does 20 damage to itself. |
+| Back      | This attack does 20 more damage.       |
+| Down      |                                        |
+| Sideways  |                                        |
 
 ####
 
-| Name      |           |
-| --------- | --------- |
-| Japanese  |           |
-| Type      | Fire      |
-| Code      | OEW01-011 |
-| Pokémon   | Charizard |
-| Energy    |           |
-| Damage    |           |
-| Effect    |           |
-| Standing  |           |
-| Handstand |           |
-| Back      |           |
-| Down      |           |
-| Sideways  |           |
-
-<tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ほのおのツメ</td>
-		<!--4-1--><td style="">{R}{R}{R}{R}</td>
-		<!--4-2--><td style="">This attack does 20 damage.<br>このワザは2回トライする。</td>
-		<!--4-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
-		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
+| Name      |                                                                |
+| --------- | -------------------------------------------------------------- |
+| Japanese  | ほのおのツメ                                                   |
+| Type      | Fire                                                           |
+| Code      | OEW01-011                                                      |
+| Pokémon   | Charizard                                                      |
+| Energy    | {R}{R}{R}{R}                                                   |
+| Damage    | 20                                                             |
+| Effect    | This attack may be used 2 times.                               |
+| Standing  | This attack does 10 more damage.                               |
+| Handstand | On your next turn, reduce the number of Enekoro you roll by 1. |
+| Back      | This attack does 10 more damage.                               |
+| Down      |                                                                |
+| Sideways  |                                                                |
 
 ####
 
-| Name      |           |
-| --------- | --------- |
-| Japanese  |           |
-| Type      | Fire      |
-| Code      | OEW01-012 |
-| Pokémon   | Charizard |
-| Energy    |           |
-| Damage    |           |
-| Effect    |           |
-| Standing  |           |
-| Handstand |           |
-| Back      |           |
-| Down      |           |
-| Sideways  |           |
-
-<tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ごうかのつばさ</td>
-		<!--5-1--><td style="">{R}{R}{R}{R}</td>
-		<!--5-2--><td style="">This attack does 20 damage.<br>Roll 8 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
-		<!--5-3--><td style="">Standing：次の番の相手のエネコロを1個へらす。</td>
-		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
+| Name      |                                                                                    |
+| --------- | ---------------------------------------------------------------------------------- |
+| Japanese  | ごうかのつばさ                                                                     |
+| Type      | Fire                                                                               |
+| Code      | OEW01-012                                                                          |
+| Pokémon   | Charizard                                                                          |
+| Energy    | {R}{R}{R}{R}                                                                       |
+| Damage    | 20                                                                                 |
+| Effect    | Roll 8 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro. |
+| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 1.          |
+| Handstand | On your next turn, reduce the number of Enekoro you roll by 1.                     |
+| Back      |                                                                                    |
+| Down      |                                                                                    |
+| Sideways  |                                                                                    |
 
 ####
 
@@ -274,47 +231,34 @@ https://w.atwiki.jp/purakoro/pages/96.html
 
 ####
 
-| Name      |           |
-| --------- | --------- |
-| Japanese  |           |
-| Type      | Fire      |
-| Code      | OEW01-014 |
-| Pokémon   | Charizard |
-| Energy    |           |
-| Damage    |           |
-| Effect    |           |
-| Standing  |           |
-| Handstand |           |
-| Back      |           |
-| Down      |           |
-| Sideways  |           |
-
-<tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">マグマのうず</td>
-		<!--7-1--><td style="">{R}{R}{R}{R}{R}</td>
-		<!--7-2--><td style="">出ている{R}の数×10ダメージ</td>
-		<!--7-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--7-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
+| Name      |                                                          |
+| --------- | -------------------------------------------------------- |
+| Japanese  | マグマのうず                                             |
+| Type      | Fire                                                     |
+| Code      | OEW01-014                                                |
+| Pokémon   | Charizard                                                |
+| Energy    | {R}{R}{R}{R}{R}                                          |
+| Damage    |                                                          |
+| Effect    | This attack does 10 damage for each {R} energy produced. |
+| Standing  | This attack does 20 more damage.                         |
+| Handstand | This Pokémon does 20 damage to itself.                   |
+| Back      | This attack does 20 more damage.                         |
+| Down      |                                                          |
+| Sideways  |                                                          |
 
 ####
 
-| Name      |           |
-| --------- | --------- |
-| Japanese  |           |
-| Type      | Fire      |
-| Code      | OEW01-015 |
-| Pokémon   | Charizard |
-| Energy    |           |
-| Damage    |           |
-| Effect    |           |
-| Standing  |           |
-| Handstand |           |
-| Back      |           |
-| Down      |           |
-| Sideways  |           |
-
-<tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">ヘルファイヤー</td>
-		<!--8-1--><td style="">{R}{R}{R}{R}{R}{R}{R}</td>
-		<!--8-2--><td style="">This attack does 100 damage.</td>
-		<!--8-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--8-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
-</tbody>
+| Name      |                                        |
+| --------- | -------------------------------------- |
+| Japanese  | ヘルファイヤー                         |
+| Type      | Fire                                   |
+| Code      | OEW01-015                              |
+| Pokémon   | Charizard                              |
+| Energy    | {R}{R}{R}{R}{R}{R}{R}                  |
+| Damage    | 100                                    |
+| Effect    |                                        |
+| Standing  | This attack does 20 more damage.       |
+| Handstand | This Pokémon does 10 damage to itself. |
+| Back      | This attack does 20 more damage.       |
+| Down      |                                        |
+| Sideways  |                                        |

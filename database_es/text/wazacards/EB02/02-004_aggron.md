@@ -40,9 +40,9 @@
 
 [Cabezazo de Acero](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
 
-#### Tyrant Shield ?
+#### Escudo Tirano ?
 
-| Nombre      | Tyrant Shield ?                                                                                                                    |
+| Nombre      | Escudo Tirano ?                                                                                                                    |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | Japonés     | タイラントシールド                                                                                                                          |
 | Tipo        | Acero                                                                                                                              |

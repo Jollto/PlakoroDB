@@ -40,9 +40,9 @@
 
 [Pulso do Dragão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard02.webp)
 
-#### Golpe Deslizante
+#### Impacto Vasto
 
-| Nome            | Golpe Deslizante                                                          |
+| Nome            | Impacto Vasto                                                             |
 | --------------- | ------------------------------------------------------------------------- |
 | Japonês         | ワイドブレイカー                                                                  |
 | Tipo            | Dragão                                                                    |
@@ -57,7 +57,7 @@
 | De bruços       |                                                                           |
 | De lado         | No próximo turno do oponente, ele rola 1 Enekoro a menos. |
 
-[Golpe Deslizante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
+[Impacto Vasto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
 
 #### Ultraje Feroz ?
 
@@ -171,7 +171,7 @@
 | De bruços       |                                                                                      |
 | De lado         |                                                                                      |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
+[Rajada do Dragão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
 
 #### Trovão
 

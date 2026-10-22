@@ -21,9 +21,9 @@
 
 [Garra Metal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard01.webp)
 
-#### Steel Headbutt
+#### Cabezazo de Acero
 
-| Nombre      | Steel Headbutt                                          |
+| Nombre      | Cabezazo de Acero                                       |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | はがねのずつき                                                 |
 | Tipo        | Acero                                                   |
@@ -38,7 +38,7 @@
 | Boca abajo  |                                                         |
 | De lado     | Este ataque hace 20 puntos de daño más. |
 
-[Steel Headbutt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
+[Cabezazo de Acero](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
 
 #### Tyrant Shield ?
 

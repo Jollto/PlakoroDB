@@ -42,22 +42,22 @@
 
 #### Escudo Tirano ?
 
-| Nombre      | Escudo Tirano ?                                                                                                                    |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | タイラントシールド                                                                                                                          |
-| Tipo        | Acero                                                                                                                              |
-| Código      | EBW02-033                                                                                                                          |
-| Pokémon     | Aggron                                                                                                                             |
-| Energía     | {M}{M}{M}                                                                                                                          |
-| Daño        | 30                                                                                                                                 |
-| Efecto      |                                                                                                                                    |
-| De pie      | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
-| De cabeza   |                                                                                                                                    |
-| Boca arriba | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
-| Boca abajo  | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
-| De lado     |                                                                                                                                    |
+| Nombre      | Escudo Tirano ?                                                                                                                                                                               |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés     | タイラントシールド                                                                                                                                                                                     |
+| Tipo        | Acero                                                                                                                                                                                         |
+| Código      | EBW02-033                                                                                                                                                                                     |
+| Pokémon     | Aggron                                                                                                                                                                                        |
+| Energía     | {M}{M}{M}                                                                                                                                                                                     |
+| Daño        | 30                                                                                                                                                                                            |
+| Efecto      |                                                                                                                                                                                               |
+| De pie      | Durante el próximo turno de tu rival, si este Pokémon resulta dañado por un ataque, evita el daño infligido por ese ataque a este Pokémon si el daño es de 40 puntos o menos. |
+| De cabeza   |                                                                                                                                                                                               |
+| Boca arriba | Durante el próximo turno de tu rival, si este Pokémon resulta dañado por un ataque, evita el daño infligido por ese ataque a este Pokémon si el daño es de 40 puntos o menos. |
+| Boca abajo  | Durante el próximo turno de tu rival, si este Pokémon resulta dañado por un ataque, evita el daño infligido por ese ataque a este Pokémon si el daño es de 40 puntos o menos. |
+| De lado     |                                                                                                                                                                                               |
 
-[Tyrant Shield](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
+[Escudo Tirano](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
 
 #### Carga Descuidada
 
@@ -78,24 +78,24 @@
 
 [Carga Descuidada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard04.webp)
 
-#### Rock Tomb
+#### Tumba Rocas
 
-| Nombre      | Rock Tomb                                                                                     |
-| ----------- | --------------------------------------------------------------------------------------------- |
-| Japonés     | がんせきふうじ                                                                                       |
-| Tipo        | Lucha                                                                                         |
-| Código      | EBW02-035                                                                                     |
-| Pokémon     | Aggron                                                                                        |
-| Energía     | {F}{C}{C}{C}                                                                                  |
-| Daño        | 30                                                                                            |
-| Efecto      |                                                                                               |
-| De pie      | En el próximo turno de tu rival, reduce the number of Enekoro they roll by 1. |
-| De cabeza   |                                                                                               |
-| Boca arriba | En el próximo turno de tu rival, reduce the number of Enekoro they roll by 1. |
-| Boca abajo  | En el próximo turno de tu rival, reduce the number of Enekoro they roll by 1. |
-| De lado     |                                                                                               |
+| Nombre      | Tumba Rocas                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------- |
+| Japonés     | がんせきふうじ                                                                                     |
+| Tipo        | Lucha                                                                                       |
+| Código      | EBW02-035                                                                                   |
+| Pokémon     | Aggron                                                                                      |
+| Energía     | {F}{C}{C}{C}                                                                                |
+| Daño        | 30                                                                                          |
+| Efecto      |                                                                                             |
+| De pie      | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
+| De cabeza   |                                                                                             |
+| Boca arriba | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
+| Boca abajo  | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
+| De lado     |                                                                                             |
 
-[Rock Tomb](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard05.webp)
+[Tumba Rocas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard05.webp)
 
 #### Apisonar
 
@@ -116,47 +116,47 @@
 
 [Apisonar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard06.webp)
 
-#### Steel Body ?
+#### Cuerpo Acero ?
 
-| Nombre      | Steel Body ?                                                                                                                       |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | こうてつボディ                                                                                                                            |
-| Tipo        | Acero                                                                                                                              |
-| Código      | EBW02-037                                                                                                                          |
-| Pokémon     | Aggron                                                                                                                             |
-| Energía     | {M}{M}                                                                                                                             |
-| Daño        | 20                                                                                                                                 |
-| Efecto      |                                                                                                                                    |
-| De pie      | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
-| De cabeza   |                                                                                                                                    |
-| Boca arriba | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
-| Boca abajo  |                                                                                                                                    |
-| De lado     | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
+| Nombre      | Cuerpo Acero ?                                                                                                                                                                                |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés     | こうてつボディ                                                                                                                                                                                       |
+| Tipo        | Acero                                                                                                                                                                                         |
+| Código      | EBW02-037                                                                                                                                                                                     |
+| Pokémon     | Aggron                                                                                                                                                                                        |
+| Energía     | {M}{M}                                                                                                                                                                                        |
+| Daño        | 20                                                                                                                                                                                            |
+| Efecto      |                                                                                                                                                                                               |
+| De pie      | Durante el próximo turno de tu rival, si este Pokémon resulta dañado por un ataque, evita el daño infligido por ese ataque a este Pokémon si el daño es de 30 puntos o menos. |
+| De cabeza   |                                                                                                                                                                                               |
+| Boca arriba | Durante el próximo turno de tu rival, si este Pokémon resulta dañado por un ataque, evita el daño infligido por ese ataque a este Pokémon si el daño es de 30 puntos o menos. |
+| Boca abajo  |                                                                                                                                                                                               |
+| De lado     | Durante el próximo turno de tu rival, si este Pokémon resulta dañado por un ataque, evita el daño infligido por ese ataque a este Pokémon si el daño es de 30 puntos o menos. |
 
-[Steel Body](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard07.webp)
+[Cuerpo Acero](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard07.webp)
 
-#### Powerful Steel ?
+#### Metal Poderoso ?
 
-| Nombre      | Powerful Steel ?                                                                                                                       |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | パワフルスチール                                                                                                                               |
-| Tipo        | Acero                                                                                                                                  |
-| Código      | EBW02-038                                                                                                                              |
-| Pokémon     | Aggron                                                                                                                                 |
-| Energía     | {M}{M}{M}                                                                                                                              |
-| Daño        | 20                                                                                                                                     |
-| Efecto      |                                                                                                                                        |
-| De pie      | If this Pokémon was not damaged by an attack during your opponent's last turn, este ataque hace 40 puntos de daño más. |
-| De cabeza   |                                                                                                                                        |
-| Boca arriba |                                                                                                                                        |
-| Boca abajo  |                                                                                                                                        |
-| De lado     | If this Pokémon was not damaged by an attack during your opponent's last turn, este ataque hace 40 puntos de daño más. |
+| Nombre      | Metal Poderoso ?                                                                                                                         |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés     | パワフルスチール                                                                                                                                 |
+| Tipo        | Acero                                                                                                                                    |
+| Código      | EBW02-038                                                                                                                                |
+| Pokémon     | Aggron                                                                                                                                   |
+| Energía     | {M}{M}{M}                                                                                                                                |
+| Daño        | 20                                                                                                                                       |
+| Efecto      |                                                                                                                                          |
+| De pie      | Si este Pokémon no fue dañado por un ataque durante el último turno de tu rival, este ataque hace 40 puntos de daño más. |
+| De cabeza   |                                                                                                                                          |
+| Boca arriba |                                                                                                                                          |
+| Boca abajo  |                                                                                                                                          |
+| De lado     | Si este Pokémon no fue dañado por un ataque durante el último turno de tu rival, este ataque hace 40 puntos de daño más. |
 
-[Powerful Steel](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
+[Metal Poderoso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
 
-#### Iron Head
+#### Cabeza de Hierro
 
-| Nombre      | Iron Head                                               |
+| Nombre      | Cabeza de Hierro                                        |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | アイアンヘッド                                                 |
 | Tipo        | Acero                                                   |
@@ -171,11 +171,11 @@
 | Boca abajo  | Este ataque hace 20 puntos de daño más. |
 | De lado     |                                                         |
 
-[Iron Head](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard09.webp)
+[Cabeza de Hierro](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard09.webp)
 
-#### Ice Punch
+#### Puño Hielo
 
-| Nombre      | Ice Punch                                               |
+| Nombre      | Puño Hielo                                              |
 | ----------- | ------------------------------------------------------- |
 | Japonés     | れいとうパンチ                                                 |
 | Tipo        | Agua                                                    |
@@ -190,4 +190,4 @@
 | Boca abajo  |                                                         |
 | De lado     | Este ataque hace 20 puntos de daño más. |
 
-[Ice Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard10.webp)
+[Puño Hielo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard10.webp)

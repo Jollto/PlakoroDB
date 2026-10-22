@@ -99,20 +99,20 @@
 
 #### Corte Venenoso ?
 
-| Nombre      | Corte Venenoso ?                                                                                                                           |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japonés     | ベノムスリップ                                                                                                                                    |
-| Tipo        | Siniestro                                                                                                                                  |
-| Código      | EBW01-057                                                                                                                                  |
-| Pokémon     | Grimer                                                                                                                                     |
-| Energía     | {D}{D}                                                                                                                                     |
-| Daño        | 20                                                                                                                                         |
-| Efecto      |                                                                                                                                            |
-| De pie      | Tu oponente también tira su Charakoro. Si cae en {hs}{do}{s1}{s2}, este ataque hace 20 puntos de daño más. |
-| De cabeza   |                                                                                                                                            |
-| Boca arriba | Tu oponente también tira su Charakoro. Si cae en {hs}{do}{s1}{s2}, este ataque hace 20 puntos de daño más. |
-| Boca abajo  |                                                                                                                                            |
-| De lado     | Tu oponente también tira su Charakoro. Si cae en {hs}{do}{s1}{s2}, este ataque hace 20 puntos de daño más. |
+| Nombre      | Corte Venenoso ?                                                                                                                        |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés     | ベノムスリップ                                                                                                                                 |
+| Tipo        | Siniestro                                                                                                                               |
+| Código      | EBW01-057                                                                                                                               |
+| Pokémon     | Grimer                                                                                                                                  |
+| Energía     | {D}{D}                                                                                                                                  |
+| Daño        | 20                                                                                                                                      |
+| Efecto      |                                                                                                                                         |
+| De pie      | Tu rival también tira su Charakoro. Si cae en {hs}{do}{s1}{s2}, este ataque hace 20 puntos de daño más. |
+| De cabeza   |                                                                                                                                         |
+| Boca arriba | Tu rival también tira su Charakoro. Si cae en {hs}{do}{s1}{s2}, este ataque hace 20 puntos de daño más. |
+| Boca abajo  |                                                                                                                                         |
+| De lado     | Tu rival también tira su Charakoro. Si cae en {hs}{do}{s1}{s2}, este ataque hace 20 puntos de daño más. |
 
 [Corte Venenoso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard07.webp)
 

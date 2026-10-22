@@ -1,10 +1,10 @@
-## Chansey Cards
+## Cartas de Chansey
 
 ### Exploration Box 2
 
-#### Pound
+#### Pancada
 
-| Nome            | Pound                                                       |
+| Nome            | Pancada                                                     |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | はたく                                                         |
 | Tipo            | Normal                                                      |
@@ -19,30 +19,30 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Pound](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard01.webp)
+[Pancada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard01.webp)
 
-#### Chance Tackle ?
+#### Investida Oportuna ?
 
-| Nome            | Chance Tackle ?                                                   |
-| --------------- | ----------------------------------------------------------------- |
-| Japonês         | チャンスタックル                                                          |
-| Tipo            | Normal                                                            |
-| Código          | EBW02-052                                                         |
-| Pokémon         | Chansey                                                           |
-| Energia         | {Y}{Y}                                                            |
-| Dano            | 20                                                                |
-| Efeito          | On your next turn, you can reroll your Charakoro. |
-| Em pé           | You can reroll it twice, not just once.           |
-| De ponta-cabeça |                                                                   |
-| De costas       |                                                                   |
-| De bruços       |                                                                   |
-| De lado         |                                                                   |
+| Nome            | Investida Oportuna ?                                                           |
+| --------------- | ------------------------------------------------------------------------------ |
+| Japonês         | チャンスタックル                                                                       |
+| Tipo            | Normal                                                                         |
+| Código          | EBW02-052                                                                      |
+| Pokémon         | Chansey                                                                        |
+| Energia         | {Y}{Y}                                                                         |
+| Dano            | 20                                                                             |
+| Efeito          | No seu próximo turno, você pode rolar o seu Charakoro de novo. |
+| Em pé           | Você pode rolá-lo de novo duas vezes, não apenas uma.          |
+| De ponta-cabeça |                                                                                |
+| De costas       |                                                                                |
+| De bruços       |                                                                                |
+| De lado         |                                                                                |
 
-[Chance Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard02.webp)
+[Investida Oportuna](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard02.webp)
 
-#### Curve Strike
+#### Batida Curva
 
-| Nome            | Curve Strike                                                |
+| Nome            | Batida Curva                                                |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | まるまるアタック                                                    |
 | Tipo            | Normal                                                      |
@@ -57,11 +57,11 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Curve Strike](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard03.webp)
+[Batida Curva](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard03.webp)
 
-#### Drain Slap
+#### Bofetada Drenagem
 
-| Nome            | Drain Slap                                            |
+| Nome            | Bofetada Drenagem                                     |
 | --------------- | ----------------------------------------------------- |
 | Japonês         | ドレインビンタ                                               |
 | Tipo            | Normal                                                |
@@ -76,11 +76,11 @@
 | De bruços       |                                                       |
 | De lado         |                                                       |
 
-[Drain Slap](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard04.webp)
+[Bofetada Drenagem](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard04.webp)
 
-#### Shadow Ball
+#### Bola Sombria
 
-| Nome            | Shadow Ball                                                 |
+| Nome            | Bola Sombria                                                |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | シャドーボール                                                     |
 | Tipo            | Psíquico                                                    |
@@ -95,11 +95,11 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Shadow Ball](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard05.webp)
+[Bola Sombria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard05.webp)
 
-#### Smack
+#### Estalo
 
-| Nome            | Smack                                                       |
+| Nome            | Estalo                                                      |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | ひらてうち                                                       |
 | Tipo            | Normal                                                      |
@@ -114,11 +114,11 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Smack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard06.webp)
+[Estalo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard06.webp)
 
-#### Soft-Boiled
+#### Cozidos
 
-| Nome            | Soft-Boiled                                           |
+| Nome            | Cozidos                                               |
 | --------------- | ----------------------------------------------------- |
 | Japonês         | タマゴうみ                                                 |
 | Tipo            | Normal                                                |
@@ -127,36 +127,36 @@
 | Energia         | {Y}{Y}                                                |
 | Dano            |                                                       |
 | Efeito          | Cure 20 pontos de dano deste Pokémon. |
-| Em pé           | Heal all damage from this Pokémon.    |
+| Em pé           | Cure todo o dano deste Pokémon.       |
 | De ponta-cabeça |                                                       |
 | De costas       |                                                       |
 | De bruços       |                                                       |
 | De lado         |                                                       |
 
-[Soft-Boiled](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard07.webp)
+[Cozidos](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard07.webp)
 
-#### Lucky Punch
+#### Soco da Sorte
 
-| Nome            | Lucky Punch                                                       |
-| --------------- | ----------------------------------------------------------------- |
-| Japonês         | ラッキーパンチ                                                           |
-| Tipo            | Normal                                                            |
-| Código          | EBW02-058                                                         |
-| Pokémon         | Chansey                                                           |
-| Energia         | {Y}{Y}{Y}                                                         |
-| Dano            | 30                                                                |
-| Efeito          |                                                                   |
-| Em pé           | On your next turn, you can reroll your Charakoro. |
-| De ponta-cabeça |                                                                   |
-| De costas       |                                                                   |
-| De bruços       |                                                                   |
-| De lado         |                                                                   |
+| Nome            | Soco da Sorte                                                                  |
+| --------------- | ------------------------------------------------------------------------------ |
+| Japonês         | ラッキーパンチ                                                                        |
+| Tipo            | Normal                                                                         |
+| Código          | EBW02-058                                                                      |
+| Pokémon         | Chansey                                                                        |
+| Energia         | {Y}{Y}{Y}                                                                      |
+| Dano            | 30                                                                             |
+| Efeito          |                                                                                |
+| Em pé           | No seu próximo turno, você pode rolar o seu Charakoro de novo. |
+| De ponta-cabeça |                                                                                |
+| De costas       |                                                                                |
+| De bruços       |                                                                                |
+| De lado         |                                                                                |
 
-[Lucky Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard08.webp)
+[Soco da Sorte](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard08.webp)
 
-#### Hammer In
+#### Martelada
 
-| Nome            | Hammer In                                                   |
+| Nome            | Martelada                                                   |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | ぶちかます                                                       |
 | Tipo            | Normal                                                      |
@@ -171,23 +171,23 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Hammer In](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard09.webp)
+[Martelada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard09.webp)
 
 #### Lança-chamas
 
-| Nome            | Lança-chamas                                                                   |
-| --------------- | ------------------------------------------------------------------------------ |
-| Japonês         | かえんほうしゃ                                                                        |
-| Tipo            | Fogo                                                                           |
-| Código          | EBW02-060                                                                      |
-| Pokémon         | Chansey                                                                        |
-| Energia         | {R}{C}{C}{C}                                                                   |
-| Dano            | 30                                                                             |
-| Efeito          |                                                                                |
-| Em pé           | Este ataque causa 30 pontos de dano a mais.                    |
-| De ponta-cabeça | On your next turn, reduce the number of Enekoro you roll by 1. |
-| De costas       |                                                                                |
-| De bruços       |                                                                                |
-| De lado         |                                                                                |
+| Nome            | Lança-chamas                                                       |
+| --------------- | ------------------------------------------------------------------ |
+| Japonês         | かえんほうしゃ                                                            |
+| Tipo            | Fogo                                                               |
+| Código          | EBW02-060                                                          |
+| Pokémon         | Chansey                                                            |
+| Energia         | {R}{C}{C}{C}                                                       |
+| Dano            | 30                                                                 |
+| Efeito          |                                                                    |
+| Em pé           | Este ataque causa 30 pontos de dano a mais.        |
+| De ponta-cabeça | No seu próximo turno, você rola 1 Enekoro a menos. |
+| De costas       |                                                                    |
+| De bruços       |                                                                    |
+| De lado         |                                                                    |
 
 [Lança-chamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard10.webp)

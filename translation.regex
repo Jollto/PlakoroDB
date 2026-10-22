@@ -1,0 +1,67 @@
+## Common ones
+
+(\d+)ダメージ追加。
+This attack does $1 more damage.
+
+このポケモンにも(\d+)ダメージ。
+This Pokémon does $1 damage to itself.
+
+このワザはキャラコロを合計(\d+)回振る。
+Roll your Charakoro $1 times.
+
+
+On your next turn, increase the number of Enekoro you roll by $1.
+
+次の自分の番、自分の振るエネコロを(\d+)個少なくする。
+On your next turn, reduce the number of Enekoro you roll by $1.
+
+次の相手の番、相手の振るエネコロを(\d+)個少なくする。
+On the opponent's next turn, reduce the number of Enekoro they roll by $1.
+
+このポケモンのHPを(\d+)回復する。
+Heal $1 damage from this Pokémon.
+
+
+Heal $1 more damage from this Pokémon.
+
+
+
+
+
+
+## Strange ones
+
+このワザでキャラコロが成功するたび、
+Each time the Charakoro roll succeeds with this attack, 
+
+自分のエネコロを(\d+)個選び、カスタムチップを好きなだけつけ替える。（自分の持っているカスタムチップを使う。）
+Choose $1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.)
+
+次の相手のワザで振ったエネコロを(\d+)個選び、振りなおさせる。（振りなおすエネコロは自分が選ぶ。）
+On the opponent's next turn, choose $1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.)
+
+次の相手の番、相手が使うワザは自分が選ぶ。
+Choose 1 of your opponent's attacks. During their next turn, they use this attack.
+
+次の相手の番、相手のキャラコロの向きを(.+)にする。
+On your opponent's next turn, set the direction of their Charakoro to $1.
+
+次の相手の番、このポケモンが受けるダメージが(\d+)以下なら、そのダメージを受けない。
+During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is $1 or less.
+
+前の相手の番、このポケモンがワザのダメージを受けていないなら、
+If this Pokémon was not damaged by an attack during your opponent's last turn, 
+
+このポケモンのHPをすべて回復する。
+Heal all damage from this Pokémon.
+
+次の自分の番、キャラコロを1回振りなおせる。
+On your next turn, you can reroll your Charakoro.
+
+1回ではなく2回振りなおせる。
+You can reroll it twice, not just once.
+
+## Fixes
+
+, T
+, t

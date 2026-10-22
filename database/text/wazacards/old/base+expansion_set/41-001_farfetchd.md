@@ -50,7 +50,7 @@ https://w.atwiki.jp/purakoro/pages/35.html
 | Damage    |                                                                  |
 | Effect    | On your next turn, increase the number of Enekoro you roll by 1. |
 | Standing  |                                                                  |
-| Handstand | This Pokémon also does 10 damage to itself.                      |
+| Handstand | This Pokémon does 10 damage to itself.                           |
 | Back      |                                                                  |
 | Down      |                                                                  |
 | Sideways  |                                                                  |
@@ -74,20 +74,20 @@ https://w.atwiki.jp/purakoro/pages/35.html
 
 #### Fury Attack
 
-| Name      | Fury Attack                                 |
-| --------- | ------------------------------------------- |
-| Japanese  | みだれづき                                  |
-| Type      | Normal                                      |
-| Code      | OGW41-005                                   |
-| Pokémon   | Farfetch'd                                  |
-| Energy    | {Y}{Y}{Y}                                   |
-| Damage    | 10                                          |
-| Effect    | This attack may be used 3 times.            |
-| Standing  | This attack does 10 more damage.            |
-| Handstand | This Pokémon also does 10 damage to itself. |
-| Back      |                                             |
-| Down      |                                             |
-| Sideways  |                                             |
+| Name      | Fury Attack                            |
+| --------- | -------------------------------------- |
+| Japanese  | みだれづき                             |
+| Type      | Normal                                 |
+| Code      | OGW41-005                              |
+| Pokémon   | Farfetch'd                             |
+| Energy    | {Y}{Y}{Y}                              |
+| Damage    | 10                                     |
+| Effect    | This attack may be used 3 times.       |
+| Standing  | This attack does 10 more damage.       |
+| Handstand | This Pokémon does 10 damage to itself. |
+| Back      |                                        |
+| Down      |                                        |
+| Sideways  |                                        |
 
 #### Pot Smash
 
@@ -101,27 +101,27 @@ https://w.atwiki.jp/purakoro/pages/35.html
 | Damage    | 30                                                                                                            |
 | Effect    | During your last turn, if this Pokémon's "Pot Polish" attack was successful, this attack does 10 more damage. |
 | Standing  |                                                                                                               |
-| Handstand | This Pokémon also does 10 damage to itself.                                                                   |
+| Handstand | This Pokémon does 10 damage to itself.                                                                        |
 | Back      |                                                                                                               |
 | Down      |                                                                                                               |
 | Sideways  |                                                                                                               |
 
 #### Pound
 
-| Name      | Pound                                       |
-| --------- | ------------------------------------------- |
-| Japanese  | はたく                                      |
-| Type      | Normal                                      |
-| Code      | OGW41-007                                   |
-| Pokémon   | Farfetch'd                                  |
-| Energy    | {Y}                                         |
-| Damage    | 10                                          |
-| Effect    |                                             |
-| Standing  |                                             |
-| Handstand | This Pokémon also does 10 damage to itself. |
-| Back      |                                             |
-| Down      |                                             |
-| Sideways  |                                             |
+| Name      | Pound                                  |
+| --------- | -------------------------------------- |
+| Japanese  | はたく                                 |
+| Type      | Normal                                 |
+| Code      | OGW41-007                              |
+| Pokémon   | Farfetch'd                             |
+| Energy    | {Y}                                    |
+| Damage    | 10                                     |
+| Effect    |                                        |
+| Standing  |                                        |
+| Handstand | This Pokémon does 10 damage to itself. |
+| Back      |                                        |
+| Down      |                                        |
+| Sideways  |                                        |
 
 #### Leek Pound ?
 

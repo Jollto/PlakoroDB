@@ -11,10 +11,10 @@ Back
 Down
 
 自分(にも|も|が)(\d+)ダメージ(受ける)?(。)?
-This Pokémon also does $2 damage to itself.
+This Pokémon does $2 damage to itself.
 
 自分が追加で(\d+)ダメージ(受ける)?(。)?
-This Pokémon also does $1 more damage to itself.
+This Pokémon does $1 more damage to itself.
 
 (さらに)?(相手は次|次の相手)の番にふるエネコロを(\d)個へらす(。)?
 On the opponent's next turn, reduce the number of Enekoro they roll by $.
@@ -47,7 +47,7 @@ Heal $2 more damage from this Pokémon.
 Max HP becomes $1.
 
 自分と相手がお互いにチビキャラコロを(\d+)個ずつふりあい、<br>自分が立った数×(\d+)ダメージを相手に与え、<br>相手が立った数×(\d+)のダメージを自分が受ける。
-You and your opponent each roll $1 Chibi Charakoros. This attack does $2 damage for each {st} Chibi Charakoro you rolled. This Pokémon also does $3 damage to itself for each {st} Chibi Charakoro your opponent rolled.
+You and your opponent each roll $1 Chibi Charakoros. This attack does $2 damage for each {st} Chibi Charakoro you rolled. This Pokémon does $3 damage to itself for each {st} Chibi Charakoro your opponent rolled.
 
 (さらに)?チビキャラコロを(\d+)個ふって、
 Roll $2 Chibi Charakoros.

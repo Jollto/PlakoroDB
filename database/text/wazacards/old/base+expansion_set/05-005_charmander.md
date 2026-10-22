@@ -126,27 +126,27 @@ https://w.atwiki.jp/purakoro/pages/88.html
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/151.html" title="拡張パック1.ヒトカゲ (1135d)">拡張パック1.ヒトカゲ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">タックル</td>
 		<!--5-1--><td style="">炎炎炎</td>
-		<!--5-2--><td style="">You and your opponent each roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro you rolled. This Pokémon also does 10 damage to itself for each {st} Chibi Charakoro your opponent rolled.</td>
+		<!--5-2--><td style="">You and your opponent each roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro you rolled. This Pokémon does 10 damage to itself for each {st} Chibi Charakoro your opponent rolled.</td>
 		<!--5-3--><td style="">Standing：This attack does 20 more damage.</td>
-		<!--5-4--><td style="">Handstand：This Pokémon also does 20 damage to itself.</td>
+		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/151.html" title="拡張パック1.ヒトカゲ (1135d)">拡張パック1.ヒトカゲ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style=""><a href="//w.atwiki.jp/purakoro/pages/97.html" title="ファイヤー (1012d)">ファイヤー</a>チャージ</td>
 		<!--6-1--><td style="">炎炎炎</td>
 		<!--6-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--6-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1 more.</td>
-		<!--6-4--><td style="">Handstand：This Pokémon also does 30 damage to itself.</td>
+		<!--6-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td>
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/151.html" title="拡張パック1.ヒトカゲ (1135d)">拡張パック1.ヒトカゲ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">ひのはしら</td>
 		<!--7-1--><td style="">炎炎炎炎</td>
 		<!--7-2--><td style="">This attack does 40 damage.</td>
 		<!--7-3--><td style="">Standing：This attack does 30 more damage.</td>
-		<!--7-4--><td style="">Handstand：This Pokémon also does 30 damage to itself.</td>
+		<!--7-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td>
 		<!--7-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/151.html" title="拡張パック1.ヒトカゲ (1135d)">拡張パック1.ヒトカゲ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">ほのおのしっぽ</td>
 		<!--8-1--><td style="">炎炎炎</td>
 		<!--8-2--><td style="">This attack does 30 damage.</td>
 		<!--8-3--><td style="">Standing：This attack does 20 more damage.</td>
-		<!--8-4--><td style="">Handstand：This Pokémon also does 10 damage to itself.</td>
+		<!--8-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--8-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1135d)">拡張パック1.ピカチュウ</a>他</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="">いかりのほのお</td>
 		<!--9-1--><td style="">炎炎炎炎</td>
@@ -182,20 +182,20 @@ https://w.atwiki.jp/purakoro/pages/88.html
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/88.html" title="ヒトカゲ (667d)">ヒトカゲ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">タックル</td>
 		<!--4-1--><td style="">炎炎炎</td>
-		<!--4-2--><td style="">You and your opponent each roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro you rolled. This Pokémon also does 10 damage to itself for each {st} Chibi Charakoro your opponent rolled.</td>
+		<!--4-2--><td style="">You and your opponent each roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro you rolled. This Pokémon does 10 damage to itself for each {st} Chibi Charakoro your opponent rolled.</td>
 		<!--4-3--><td style="">Standing：This attack does 20 more damage.</td>
-		<!--4-4--><td style="">Handstand：This Pokémon also does 20 damage to itself.</td>
+		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/88.html" title="ヒトカゲ (667d)">ヒトカゲ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style=""><a href="//w.atwiki.jp/purakoro/pages/97.html" title="ファイヤー (1013d)">ファイヤー</a>チャージ</td>
 		<!--5-1--><td style="">炎炎炎</td>
 		<!--5-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--5-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1 more.</td>
-		<!--5-4--><td style="">Handstand：This Pokémon also does 30 damage to itself.</td>
+		<!--5-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/88.html" title="ヒトカゲ (667d)">ヒトカゲ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ひのはしら</td>
 		<!--6-1--><td style="">炎炎炎炎</td>
 		<!--6-2--><td style="">This attack does 40 damage.</td>
 		<!--6-3--><td style="">Standing：This attack does 30 more damage.</td>
-		<!--6-4--><td style="">Handstand：This Pokémon also does 30 damage to itself.</td>
+		<!--6-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td>
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/88.html" title="ヒトカゲ (667d)">ヒトカゲ</a></td></tr>
 </tbody>

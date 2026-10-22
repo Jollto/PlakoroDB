@@ -52,7 +52,7 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Damage    |                                                                       |
 | Effect    | On your next turn, increase the number of Enekoro you roll by 1.      |
 | Standing  | On your next turn, increase the number of Enekoro you roll by 1 more. |
-| Handstand | This Pokémon also does 10 damage to itself.                           |
+| Handstand | This Pokémon does 10 damage to itself.                                |
 | Back      |                                                                       |
 | Down      |                                                                       |
 | Sideways  |                                                                       |
@@ -69,7 +69,7 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Damage    | 30                                                                                  |
 | Effect    |                                                                                     |
 | Standing  | Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro. |
-| Handstand | This Pokémon also does 20 damage to itself.                                         |
+| Handstand | This Pokémon does 20 damage to itself.                                              |
 | Back      | Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro. |
 | Down      |                                                                                     |
 | Sideways  |                                                                                     |
@@ -86,7 +86,7 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Damage    | 40                                                                                                            |
 | Effect    | During your last turn, if this Pokémon's "なぎはらう" attack was successful, this attack does 30 more damage. |
 | Standing  | Roll 8 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.                            |
-| Handstand | This Pokémon also does 20 damage to itself.                                                                   |
+| Handstand | This Pokémon does 20 damage to itself.                                                                        |
 | Back      | Roll 8 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.                            |
 | Down      |                                                                                                               |
 | Sideways  |                                                                                                               |
@@ -184,7 +184,7 @@ https://w.atwiki.jp/purakoro/pages/96.html
 		<!--2-1--><td style="">{R}{R}{R}</td>
 		<!--2-2--><td style="">Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--2-4--><td style="">Handstand：This Pokémon also does 10 damage to itself.</td></tr>
+		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 
 ####
 
@@ -207,7 +207,7 @@ https://w.atwiki.jp/purakoro/pages/96.html
 		<!--3-1--><td style="">{R}{R}{R}{R}</td>
 		<!--3-2--><td style="">This attack does 40 damage.</td>
 		<!--3-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--3-4--><td style="">Handstand：This Pokémon also does 20 damage to itself.</td></tr>
+		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 
 ####
 
@@ -267,7 +267,7 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Damage    |                                                                                                                          |
 | Effect    | Roll 12 Chibi Charakoros. On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro. |
 | Standing  | On your next turn, increase the number of Enekoro you roll by 1 more.                                                    |
-| Handstand | This Pokémon also does 10 damage to itself.                                                                              |
+| Handstand | This Pokémon does 10 damage to itself.                                                                                   |
 | Back      |                                                                                                                          |
 | Down      |                                                                                                                          |
 | Sideways  |                                                                                                                          |
@@ -293,7 +293,7 @@ https://w.atwiki.jp/purakoro/pages/96.html
 		<!--7-1--><td style="">{R}{R}{R}{R}{R}</td>
 		<!--7-2--><td style="">出ている{R}の数×10ダメージ</td>
 		<!--7-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--7-4--><td style="">Handstand：This Pokémon also does 20 damage to itself.</td></tr>
+		<!--7-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 
 ####
 
@@ -316,5 +316,5 @@ https://w.atwiki.jp/purakoro/pages/96.html
 		<!--8-1--><td style="">{R}{R}{R}{R}{R}{R}{R}</td>
 		<!--8-2--><td style="">This attack does 100 damage.</td>
 		<!--8-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--8-4--><td style="">Handstand：This Pokémon also does 10 damage to itself.</td></tr>
+		<!--8-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 </tbody>

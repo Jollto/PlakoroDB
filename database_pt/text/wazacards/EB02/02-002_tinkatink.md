@@ -1,10 +1,10 @@
-## Tinkatink Cards
+## Cartas de Tinkatink
 
 ### Exploration Box 2
 
-#### Beat
+#### Pulso
 
-| Nome            | Beat                                                        |
+| Nome            | Pulso                                                       |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | たたく                                                         |
 | Tipo            | Psíquico                                                    |
@@ -19,11 +19,11 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Beat](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard01.webp)
+[Pulso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard01.webp)
 
-#### Fairy Wind
+#### Vento de Fada
 
-| Nome            | Fairy Wind                                                  |
+| Nome            | Vento de Fada                                               |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | ようせいのかぜ                                                     |
 | Tipo            | Psíquico                                                    |
@@ -38,45 +38,45 @@
 | De bruços       |                                                             |
 | De lado         | Este ataque causa 30 pontos de dano a mais. |
 
-[Fairy Wind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard02.webp)
+[Vento de Fada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard02.webp)
 
-#### Hammer Strike ?
+#### Golpe de Martelo ?
 
-| Nome            | Hammer Strike ?                                                                |
-| --------------- | ------------------------------------------------------------------------------ |
-| Japonês         | ハンマーストライク                                                                      |
-| Tipo            | Psíquico                                                                       |
-| Código          | EBW02-013                                                                      |
-| Pokémon         | Tinkatink                                                                      |
-| Energia         | {P}{P}{P}                                                                      |
-| Dano            | 10                                                                             |
-| Efeito          |                                                                                |
-| Em pé           | Este ataque causa 60 pontos de dano a mais.                    |
-| De ponta-cabeça | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De costas       | Este ataque causa 60 pontos de dano a mais.                    |
-| De bruços       | Este ataque causa 60 pontos de dano a mais.                    |
-| De lado         | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Nome            | Golpe de Martelo ?                                                 |
+| --------------- | ------------------------------------------------------------------ |
+| Japonês         | ハンマーストライク                                                          |
+| Tipo            | Psíquico                                                           |
+| Código          | EBW02-013                                                          |
+| Pokémon         | Tinkatink                                                          |
+| Energia         | {P}{P}{P}                                                          |
+| Dano            | 10                                                                 |
+| Efeito          |                                                                    |
+| Em pé           | Este ataque causa 60 pontos de dano a mais.        |
+| De ponta-cabeça | No seu próximo turno, você rola 2 Enekoro a menos. |
+| De costas       | Este ataque causa 60 pontos de dano a mais.        |
+| De bruços       | Este ataque causa 60 pontos de dano a mais.        |
+| De lado         | No seu próximo turno, você rola 2 Enekoro a menos. |
 
-[Hammer Strike](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
+[Golpe de Martelo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
 
-#### Play Rough
+#### Jogo Duro
 
-| Nome            | Play Rough                                                                                |
-| --------------- | ----------------------------------------------------------------------------------------- |
-| Japonês         | じゃれつく                                                                                     |
-| Tipo            | Psíquico                                                                                  |
-| Código          | EBW02-014                                                                                 |
-| Pokémon         | Tinkatink                                                                                 |
-| Energia         | {P}{P}{P}{P}                                                                              |
-| Dano            | 10                                                                                        |
-| Efeito          | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Em pé           | Este ataque causa 40 pontos de dano a mais.                               |
-| De ponta-cabeça |                                                                                           |
-| De costas       |                                                                                           |
-| De bruços       |                                                                                           |
-| De lado         | Este ataque causa 40 pontos de dano a mais.                               |
+| Nome            | Jogo Duro                                                                 |
+| --------------- | ------------------------------------------------------------------------- |
+| Japonês         | じゃれつく                                                                     |
+| Tipo            | Psíquico                                                                  |
+| Código          | EBW02-014                                                                 |
+| Pokémon         | Tinkatink                                                                 |
+| Energia         | {P}{P}{P}{P}                                                              |
+| Dano            | 10                                                                        |
+| Efeito          | No próximo turno do oponente, ele rola 1 Enekoro a menos. |
+| Em pé           | Este ataque causa 40 pontos de dano a mais.               |
+| De ponta-cabeça |                                                                           |
+| De costas       |                                                                           |
+| De bruços       |                                                                           |
+| De lado         | Este ataque causa 40 pontos de dano a mais.               |
 
-[Play Rough](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard04.webp)
+[Jogo Duro](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard04.webp)
 
 #### Garra de Metal
 
@@ -97,9 +97,9 @@
 
 [Garra de Metal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard05.webp)
 
-#### Corkscrew Punch
+#### Soco Saca-rolha
 
-| Nome            | Corkscrew Punch                                             |
+| Nome            | Soco Saca-rolha                                             |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | どつく                                                         |
 | Tipo            | Psíquico                                                    |
@@ -114,11 +114,11 @@
 | De bruços       |                                                             |
 | De lado         | Este ataque causa 10 pontos de dano a mais. |
 
-[Corkscrew Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard06.webp)
+[Soco Saca-rolha](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard06.webp)
 
-#### Draining Kiss
+#### Beijo Drenante
 
-| Nome            | Draining Kiss                                               |
+| Nome            | Beijo Drenante                                              |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | ドレインキッス                                                     |
 | Tipo            | Psíquico                                                    |
@@ -133,11 +133,11 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Draining Kiss](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard07.webp)
+[Beijo Drenante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard07.webp)
 
-#### Wail
+#### Lastimar
 
-| Nome            | Wail                                                        |
+| Nome            | Lastimar                                                    |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | なきわめく                                                       |
 | Tipo            | Psíquico                                                    |
@@ -152,11 +152,11 @@
 | De bruços       |                                                             |
 | De lado         | Este ataque causa 30 pontos de dano a mais. |
 
-[Wail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard08.webp)
+[Lastimar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard08.webp)
 
-#### Wild Stamp ?
+#### Pisão Feroz ?
 
-| Nome            | Wild Stamp ?                                                     |
+| Nome            | Pisão Feroz ?                                                    |
 | --------------- | ---------------------------------------------------------------- |
 | Japonês         | ワイルドスタンプ                                                         |
 | Tipo            | Psíquico                                                         |
@@ -171,11 +171,11 @@
 | De bruços       | Este Pokémon causa 30 pontos de dano a si mesmo. |
 | De lado         | Este ataque causa 50 pontos de dano a mais.      |
 
-[Wild Stamp](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
+[Pisão Feroz](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
 
-#### Strange Impact ?
+#### Impacto Estranho ?
 
-| Nome            | Strange Impact ?                                            |
+| Nome            | Impacto Estranho ?                                          |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | ワンダーインパクト                                                   |
 | Tipo            | Psíquico                                                    |
@@ -190,4 +190,4 @@
 | De bruços       | Este ataque causa 60 pontos de dano a mais. |
 | De lado         |                                                             |
 
-[Strange Impact](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard10.webp)
+[Impacto Estranho](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard10.webp)

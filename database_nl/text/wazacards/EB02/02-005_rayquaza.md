@@ -171,7 +171,7 @@
 | Down      |                                                                          |
 | Sideways  |                                                                          |
 
-[](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
+[Dragon Burst](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
 
 #### Thunder
 

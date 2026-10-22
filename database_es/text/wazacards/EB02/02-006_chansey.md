@@ -23,20 +23,20 @@
 
 #### Chance Tackle ?
 
-| Nombre      | Chance Tackle ?                                                   |
-| ----------- | ----------------------------------------------------------------- |
-| Japonés     | チャンスタックル                                                          |
-| Tipo        | Normal                                                            |
-| Código      | EBW02-052                                                         |
-| Pokémon     | Chansey                                                           |
-| Energía     | {Y}{Y}                                                            |
-| Daño        | 20                                                                |
-| Efecto      | On your next turn, you can reroll your Charakoro. |
-| De pie      | You can reroll it twice, not just once.           |
-| De cabeza   |                                                                   |
-| Boca arriba |                                                                   |
-| Boca abajo  |                                                                   |
-| De lado     |                                                                   |
+| Nombre      | Chance Tackle ?                                                     |
+| ----------- | ------------------------------------------------------------------- |
+| Japonés     | チャンスタックル                                                            |
+| Tipo        | Normal                                                              |
+| Código      | EBW02-052                                                           |
+| Pokémon     | Chansey                                                             |
+| Energía     | {Y}{Y}                                                              |
+| Daño        | 20                                                                  |
+| Efecto      | En tu próximo turno, you can reroll your Charakoro. |
+| De pie      | You can reroll it twice, not just once.             |
+| De cabeza   |                                                                     |
+| Boca arriba |                                                                     |
+| Boca abajo  |                                                                     |
+| De lado     |                                                                     |
 
 [Chance Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard02.webp)
 
@@ -137,20 +137,20 @@
 
 #### Lucky Punch
 
-| Nombre      | Lucky Punch                                                       |
-| ----------- | ----------------------------------------------------------------- |
-| Japonés     | ラッキーパンチ                                                           |
-| Tipo        | Normal                                                            |
-| Código      | EBW02-058                                                         |
-| Pokémon     | Chansey                                                           |
-| Energía     | {Y}{Y}{Y}                                                         |
-| Daño        | 30                                                                |
-| Efecto      |                                                                   |
-| De pie      | On your next turn, you can reroll your Charakoro. |
-| De cabeza   |                                                                   |
-| Boca arriba |                                                                   |
-| Boca abajo  |                                                                   |
-| De lado     |                                                                   |
+| Nombre      | Lucky Punch                                                         |
+| ----------- | ------------------------------------------------------------------- |
+| Japonés     | ラッキーパンチ                                                             |
+| Tipo        | Normal                                                              |
+| Código      | EBW02-058                                                           |
+| Pokémon     | Chansey                                                             |
+| Energía     | {Y}{Y}{Y}                                                           |
+| Daño        | 30                                                                  |
+| Efecto      |                                                                     |
+| De pie      | En tu próximo turno, you can reroll your Charakoro. |
+| De cabeza   |                                                                     |
+| Boca arriba |                                                                     |
+| Boca abajo  |                                                                     |
+| De lado     |                                                                     |
 
 [Lucky Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard08.webp)
 
@@ -175,19 +175,19 @@
 
 #### Lanzallamas
 
-| Nombre      | Lanzallamas                                                                    |
-| ----------- | ------------------------------------------------------------------------------ |
-| Japonés     | かえんほうしゃ                                                                        |
-| Tipo        | Fuego                                                                          |
-| Código      | EBW02-060                                                                      |
-| Pokémon     | Chansey                                                                        |
-| Energía     | {R}{C}{C}{C}                                                                   |
-| Daño        | 30                                                                             |
-| Efecto      |                                                                                |
-| De pie      | Este ataque hace 30 puntos de daño más.                        |
-| De cabeza   | On your next turn, reduce the number of Enekoro you roll by 1. |
-| Boca arriba |                                                                                |
-| Boca abajo  |                                                                                |
-| De lado     |                                                                                |
+| Nombre      | Lanzallamas                                                                      |
+| ----------- | -------------------------------------------------------------------------------- |
+| Japonés     | かえんほうしゃ                                                                          |
+| Tipo        | Fuego                                                                            |
+| Código      | EBW02-060                                                                        |
+| Pokémon     | Chansey                                                                          |
+| Energía     | {R}{C}{C}{C}                                                                     |
+| Daño        | 30                                                                               |
+| Efecto      |                                                                                  |
+| De pie      | Este ataque hace 30 puntos de daño más.                          |
+| De cabeza   | En tu próximo turno, reduce the number of Enekoro you roll by 1. |
+| Boca arriba |                                                                                  |
+| Boca abajo  |                                                                                  |
+| De lado     |                                                                                  |
 
 [Lanzallamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard10.webp)

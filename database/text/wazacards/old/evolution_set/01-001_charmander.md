@@ -59,49 +59,37 @@ https://w.atwiki.jp/purakoro/pages/96.html
 
 ####
 
-| Name      |                                             |
-| --------- | ------------------------------------------- |
-| Japanese  | するどいツメ                                |
-| Type      | Fire                                        |
-| Code      | OEW01-004                                   |
-| Pokémon   | Charmeleon                                  |
-| Energy    | {R}{R}{R}                                   |
-| Damage    | 30                                          |
-| Effect    |                                             |
-| Standing  |                                             |
-| Handstand | This Pokémon also does 20 damage to itself. |
-| Back      |                                             |
-| Down      |                                             |
-| Sideways  |                                             |
-
-<tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style=""></td>
-		<!--3-1--><td style=""></td>
-		<!--3-2--><td style="">This attack does 30 damage.</td>
-		<!--3-3--><td style="">Standing・Back：チビキャラコロを12個ふって、立った数×10ダメージ</td>
-		<!--3-4--><td style="">Handstand：</td></tr>
+| Name      |                                                                                     |
+| --------- | ----------------------------------------------------------------------------------- |
+| Japanese  | するどいツメ                                                                        |
+| Type      | Fire                                                                                |
+| Code      | OEW01-004                                                                           |
+| Pokémon   | Charmeleon                                                                          |
+| Energy    | {R}{R}{R}                                                                           |
+| Damage    | 30                                                                                  |
+| Effect    |                                                                                     |
+| Standing  | Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro. |
+| Handstand | This Pokémon also does 20 damage to itself.                                         |
+| Back      | Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro. |
+| Down      |                                                                                     |
+| Sideways  |                                                                                     |
 
 ####
 
-| Name      |            |
-| --------- | ---------- |
-| Japanese  |            |
-| Type      | Fire       |
-| Code      | OEW01-005  |
-| Pokémon   | Charmeleon |
-| Energy    |            |
-| Damage    |            |
-| Effect    |            |
-| Standing  |            |
-| Handstand |            |
-| Back      |            |
-| Down      |            |
-| Sideways  |            |
-
-<tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">かじりつく</td>
-		<!--4-1--><td style="">{R}{R}{R}{R}</td>
-		<!--4-2--><td style="">This attack does 40 damage.<br>1つ前の自分の番にワザ「なぎはらう」が成功していればThis attack does 30 more damage.。</td>
-		<!--4-3--><td style="">Standing・Back：チビキャラコロを8個ふって、立った数×10ダメージ</td>
-		<!--4-4--><td style="">Handstand：This Pokémon also does 20 damage to itself.</td></tr>
+| Name      |                                                                                                               |
+| --------- | ------------------------------------------------------------------------------------------------------------- |
+| Japanese  | かじりつく                                                                                                    |
+| Type      | Fire                                                                                                          |
+| Code      | OEW01-005                                                                                                     |
+| Pokémon   | Charmeleon                                                                                                    |
+| Energy    | {R}{R}{R}{R}                                                                                                  |
+| Damage    | 40                                                                                                            |
+| Effect    | During your last turn, if this Pokémon's "なぎはらう" attack was successful, this attack does 30 more damage. |
+| Standing  | Roll 8 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.                            |
+| Handstand | This Pokémon also does 20 damage to itself.                                                                   |
+| Back      | Roll 8 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.                            |
+| Down      |                                                                                                               |
+| Sideways  |                                                                                                               |
 
 ####
 
@@ -122,7 +110,7 @@ https://w.atwiki.jp/purakoro/pages/96.html
 
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ファイヤーブレス</td>
 		<!--5-1--><td style="">{R}{R}{R}{R}{R}</td>
-		<!--5-2--><td style="">This attack does 40 damage.<br>さらにチビキャラコロを6個ふって、立った数×20ダメージ</td>
+		<!--5-2--><td style="">This attack does 40 damage.<br>Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--5-3--><td style="">Standing：このワザでふるチビキャラコロを6個ではなく12個にする。</td>
 		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 
@@ -171,7 +159,7 @@ https://w.atwiki.jp/purakoro/pages/96.html
 
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">ほうこう</td>
 		<!--1-1--><td style="">{R}{R}{R}</td>
-		<!--1-2--><td style="">チビキャラコロを6個ふって、立った数だけ相手は次の番にふるエネコロの数をへらす。</td>
+		<!--1-2--><td style="">Roll 6 Chibi Charakoros. On the opponent's next turn, reduce the number of Enekoro they roll by 1 for each {st} Chibi Charakoro.</td>
 		<!--1-3--><td style="">Standing・Back：This attack does 20 damage.</td>
 		<!--1-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 
@@ -194,7 +182,7 @@ https://w.atwiki.jp/purakoro/pages/96.html
 
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ごうかのかぜ</td>
 		<!--2-1--><td style="">{R}{R}{R}</td>
-		<!--2-2--><td style="">チビキャラコロを6個ふって、立った数×20ダメージ</td>
+		<!--2-2--><td style="">Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon also does 10 damage to itself.</td></tr>
 
@@ -263,32 +251,26 @@ https://w.atwiki.jp/purakoro/pages/96.html
 
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ごうかのつばさ</td>
 		<!--5-1--><td style="">{R}{R}{R}{R}</td>
-		<!--5-2--><td style="">This attack does 20 damage.<br>さらにチビキャラコロを8個ふって、立った数×20ダメージ</td>
+		<!--5-2--><td style="">This attack does 20 damage.<br>Roll 8 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--5-3--><td style="">Standing：次の番の相手のエネコロを1個へらす。</td>
 		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 
 ####
 
-| Name      |           |
-| --------- | --------- |
-| Japanese  |           |
-| Type      | Fire      |
-| Code      | OEW01-013 |
-| Pokémon   | Charizard |
-| Energy    |           |
-| Damage    |           |
-| Effect    |           |
-| Standing  |           |
-| Handstand |           |
-| Back      |           |
-| Down      |           |
-| Sideways  |           |
-
-<tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ウルトラバーン</td>
-		<!--6-1--><td style="">{R}{R}{R}{R}</td>
-		<!--6-2--><td style="">チビキャラコロを12個ふって、立った数だけ次の自分の番にエネコロを追加してふる。</td>
-		<!--6-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1 more.</td>
-		<!--6-4--><td style="">Handstand：This Pokémon also does 10 damage to itself.</td></tr>
+| Name      | ウルトラバーン                                                                                                           |
+| --------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Japanese  |                                                                                                                          |
+| Type      | Fire                                                                                                                     |
+| Code      | OEW01-013                                                                                                                |
+| Pokémon   | Charizard                                                                                                                |
+| Energy    | {R}{R}{R}{R}                                                                                                             |
+| Damage    |                                                                                                                          |
+| Effect    | Roll 12 Chibi Charakoros. On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro. |
+| Standing  | On your next turn, increase the number of Enekoro you roll by 1 more.                                                    |
+| Handstand | This Pokémon also does 10 damage to itself.                                                                              |
+| Back      |                                                                                                                          |
+| Down      |                                                                                                                          |
+| Sideways  |                                                                                                                          |
 
 ####
 

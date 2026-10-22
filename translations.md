@@ -46,8 +46,26 @@ Heal $2 more damage from this Pokémon.
 最高HPが(\d+)になり
 Max HP becomes $1.
 
+自分と相手がお互いにチビキャラコロを(\d+)個ずつふりあい、<br>自分が立った数×(\d+)ダメージを相手に与え、<br>相手が立った数×(\d+)のダメージを自分が受ける。
+You and your opponent each roll $1 Chibi Charakoros. This attack does $2 damage for each {st} Chibi Charakoro you rolled. This Pokémon also does $3 damage to itself for each {st} Chibi Charakoro your opponent rolled.
+
 (さらに)?チビキャラコロを(\d+)個ふって、
-Roll $1 Chibi Charakoros.
+Roll $2 Chibi Charakoros.
+
+立った数[×x](\d+)[の]?ダメージ(を与える|を追加で与える)?[。、]?
+This attack does $1 damage for each {st} Chibi Charakoro.
 
 そして次の自分の番からエネコロを(\d+)個ふる。
 Roll $1 Enekoro while evolved.
+
+ただしこのワザは自分のHPが(\d+)以下のときにしかつかえない。
+You can use this attack only if this Pokémon has $1 or less HP remaining.
+
+立った数だけ相手は次の番にふるエネコロの数をへらす。
+On the opponent's next turn, reduce the number of Enekoro they roll by 1 for each {st} Chibi Charakoro.
+
+立った数だけ次の自分の番にエネコロを追加してふる。
+On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro.
+
+1つ前の自分の番にワザ「(.+)」が成功していれば
+During your last turn, if this Pokémon's "$1" attack was successful,

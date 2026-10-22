@@ -103,7 +103,7 @@ https://w.atwiki.jp/purakoro/pages/88.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">だいふんか<br>(スペシャル)</td>
 		<!--1-1--><td style="">　</td>
 		<!--1-2--><td style="">炎の数x10ダメージ</td>
-		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数x10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/151.html" title="拡張パック1.ヒトカゲ (1135d)">拡張パック1.ヒトカゲ</a><br><a href="//w.atwiki.jp/purakoro/pages/23.html" title="プラコロバトルベース・赤 (1154d)">プラコロバトルベース・赤</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">しんか</td>
@@ -121,12 +121,12 @@ https://w.atwiki.jp/purakoro/pages/88.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">かみつく</td>
 		<!--4-1--><td style="">炎炎炎</td>
 		<!--4-2--><td style="">This attack does 20 damage.</td>
-		<!--4-3--><td style="">Standing：チビキャラコロを12個ふって、立った数x10のダメージを追加で与える。</td>
+		<!--4-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/151.html" title="拡張パック1.ヒトカゲ (1135d)">拡張パック1.ヒトカゲ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">タックル</td>
 		<!--5-1--><td style="">炎炎炎</td>
-		<!--5-2--><td style="">自分と相手がお互いにチビキャラコロを12個ずつふりあい、<br>自分が立った数×20ダメージを相手に与え、<br>相手が立った数×10のダメージを自分が受ける。</td>
+		<!--5-2--><td style="">You and your opponent each roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro you rolled. This Pokémon also does 10 damage to itself for each {st} Chibi Charakoro your opponent rolled.</td>
 		<!--5-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon also does 20 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/151.html" title="拡張パック1.ヒトカゲ (1135d)">拡張パック1.ヒトカゲ</a></td></tr>
@@ -150,8 +150,8 @@ https://w.atwiki.jp/purakoro/pages/88.html
 		<!--8-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1135d)">拡張パック1.ピカチュウ</a>他</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="">いかりのほのお</td>
 		<!--9-1--><td style="">炎炎炎炎</td>
-		<!--9-2--><td style="">チビキャラコロを12個ふって、立った数×20ダメージを与える、<br>ただしこのワザは自分のHPが40以下のときにしかつかえない。</td>
-		<!--9-3--><td style="">Standing：さらにチビキャラコロを6個ふって、立った数×20のダメージを追加で与える。</td>
+		<!--9-2--><td style="">Roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro. You can use this attack only if this Pokémon has 40 or less HP remaining.</td>
+		<!--9-3--><td style="">Standing：Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--9-4--><td style="">なし</td>
 		<!--9-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1135d)">拡張パック1.ピカチュウ</a>他</td></tr>
 </tbody>
@@ -165,7 +165,7 @@ https://w.atwiki.jp/purakoro/pages/88.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">だいふんか<br>(スペシャル)</td>
 		<!--1-1--><td style="">　</td>
 		<!--1-2--><td style="">炎の数x10ダメージ</td>
-		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数x10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/88.html" title="ヒトカゲ (667d)">ヒトカゲ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">にらむ</td>
@@ -177,12 +177,12 @@ https://w.atwiki.jp/purakoro/pages/88.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">かみつく</td>
 		<!--3-1--><td style="">炎炎炎</td>
 		<!--3-2--><td style="">This attack does 20 damage.</td>
-		<!--3-3--><td style="">Standing：チビキャラコロを12個ふって、立った数x10のダメージを追加で与える。</td>
+		<!--3-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--3-4--><td style="">なし</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/88.html" title="ヒトカゲ (667d)">ヒトカゲ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">タックル</td>
 		<!--4-1--><td style="">炎炎炎</td>
-		<!--4-2--><td style="">自分と相手がお互いにチビキャラコロを12個ずつふりあい、<br>自分が立った数×20ダメージを相手に与え、<br>相手が立った数×10のダメージを自分が受ける。</td>
+		<!--4-2--><td style="">You and your opponent each roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro you rolled. This Pokémon also does 10 damage to itself for each {st} Chibi Charakoro your opponent rolled.</td>
 		<!--4-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon also does 20 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/88.html" title="ヒトカゲ (667d)">ヒトカゲ</a></td></tr>

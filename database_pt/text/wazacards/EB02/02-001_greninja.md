@@ -1,10 +1,10 @@
-## Greninja Cards
+## Cartas de Greninja
 
 ### Exploration Box 2
 
-#### Waterfall
+#### Cachoeira
 
-| Nome            | Waterfall                                                   |
+| Nome            | Cachoeira                                                   |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | たきのぼり                                                       |
 | Tipo            | Água                                                        |
@@ -19,49 +19,49 @@
 | De bruços       | Este ataque causa 20 pontos de dano a mais. |
 | De lado         |                                                             |
 
-[Waterfall](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard01.webp)
+[Cachoeira](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard01.webp)
 
-#### Shifting Slash ?
+#### Corte Mutante ?
 
-| Nome            | Shifting Slash ?                                                                                                                                  |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | へんげぎり                                                                                                                                             |
-| Tipo            | Água                                                                                                                                              |
-| Código          | EBW02-002                                                                                                                                         |
-| Pokémon         | Greninja                                                                                                                                          |
-| Energia         | {W}{W}                                                                                                                                            |
-| Dano            | 20                                                                                                                                                |
-| Efeito          |                                                                                                                                                   |
-| Em pé           | Choose 1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.) |
-| De ponta-cabeça |                                                                                                                                                   |
-| De costas       | Choose 1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.) |
-| De bruços       |                                                                                                                                                   |
-| De lado         | Choose 1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.) |
+| Nome            | Corte Mutante ?                                                                                                                           |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonês         | へんげぎり                                                                                                                                     |
+| Tipo            | Água                                                                                                                                      |
+| Código          | EBW02-002                                                                                                                                 |
+| Pokémon         | Greninja                                                                                                                                  |
+| Energia         | {W}{W}                                                                                                                                    |
+| Dano            | 20                                                                                                                                        |
+| Efeito          |                                                                                                                                           |
+| Em pé           | Escolha 1 dos seus Enekoro e troque quantas peças quiser. (Use peças que você já tem.) |
+| De ponta-cabeça |                                                                                                                                           |
+| De costas       | Escolha 1 dos seus Enekoro e troque quantas peças quiser. (Use peças que você já tem.) |
+| De bruços       |                                                                                                                                           |
+| De lado         | Escolha 1 dos seus Enekoro e troque quantas peças quiser. (Use peças que você já tem.) |
 
-[Shifting Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard02.webp)
+[Corte Mutante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard02.webp)
 
-#### Water Shuriken
+#### Estrela Ninja de Água
 
-| Nome            | Water Shuriken                                                                                           |
-| --------------- | -------------------------------------------------------------------------------------------------------- |
-| Japonês         | みずしゅりけん                                                                                                  |
-| Tipo            | Água                                                                                                     |
-| Código          | EBW02-003                                                                                                |
-| Pokémon         | Greninja                                                                                                 |
-| Energia         | {W}{W}{W}                                                                                                |
-| Dano            |                                                                                                          |
-| Efeito          | Role o seu Charakoro 3 vezes.                                                            |
-| Em pé           | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| De ponta-cabeça |                                                                                                          |
-| De costas       |                                                                                                          |
-| De bruços       |                                                                                                          |
-| De lado         | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
+| Nome            | Estrela Ninja de Água                                                                                                    |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Japonês         | みずしゅりけん                                                                                                                  |
+| Tipo            | Água                                                                                                                     |
+| Código          | EBW02-003                                                                                                                |
+| Pokémon         | Greninja                                                                                                                 |
+| Energia         | {W}{W}{W}                                                                                                                |
+| Dano            |                                                                                                                          |
+| Efeito          | Role o seu Charakoro 3 vezes.                                                                            |
+| Em pé           | Para cada rolagem de Charakoro bem-sucedida com este ataque, este ataque causa 20 pontos de dano a mais. |
+| De ponta-cabeça |                                                                                                                          |
+| De costas       |                                                                                                                          |
+| De bruços       |                                                                                                                          |
+| De lado         | Para cada rolagem de Charakoro bem-sucedida com este ataque, este ataque causa 20 pontos de dano a mais. |
 
-[Water Shuriken](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard03.webp)
+[Estrela Ninja de Água](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard03.webp)
 
-#### Shadow Sneak
+#### Furtividade nas Sombras
 
-| Nome            | Shadow Sneak                                                |
+| Nome            | Furtividade nas Sombras                                     |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | かげうち                                                        |
 | Tipo            | Psíquico                                                    |
@@ -76,11 +76,11 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Shadow Sneak](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard04.webp)
+[Furtividade nas Sombras](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard04.webp)
 
-#### Night Slash
+#### Talho Noturno
 
-| Nome            | Night Slash                                                 |
+| Nome            | Talho Noturno                                               |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | つじぎり                                                        |
 | Tipo            | Sombrio                                                     |
@@ -95,7 +95,7 @@
 | De bruços       | Este ataque causa 30 pontos de dano a mais. |
 | De lado         |                                                             |
 
-[Night Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard05.webp)
+[Talho Noturno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard05.webp)
 
 #### Revólver d'Água
 
@@ -116,9 +116,9 @@
 
 [Revólver d'Água](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard06.webp)
 
-#### Mist Slash
+#### Golpe de Névoa
 
-| Nome            | Mist Slash                                                  |
+| Nome            | Golpe de Névoa                                              |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | かすみぎり                                                       |
 | Tipo            | Água                                                        |
@@ -133,30 +133,30 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Mist Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard07.webp)
+[Golpe de Névoa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard07.webp)
 
-#### Clone Jutsu ?
+#### Jutsu Clone ?
 
-| Nome            | Clone Jutsu ?                                                                                            |
-| --------------- | -------------------------------------------------------------------------------------------------------- |
-| Japonês         | ぶんしんのじゅつ                                                                                                 |
-| Tipo            | Água                                                                                                     |
-| Código          | EBW02-008                                                                                                |
-| Pokémon         | Greninja                                                                                                 |
-| Energia         | {W}{W}{W}{W}                                                                                             |
-| Dano            |                                                                                                          |
-| Efeito          | Role o seu Charakoro 2 vezes.                                                            |
-| Em pé           | Each time the Charakoro roll succeeds with this attack, this attack does 40 more damage. |
-| De ponta-cabeça |                                                                                                          |
-| De costas       |                                                                                                          |
-| De bruços       |                                                                                                          |
-| De lado         | Each time the Charakoro roll succeeds with this attack, this attack does 40 more damage. |
+| Nome            | Jutsu Clone ?                                                                                                            |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Japonês         | ぶんしんのじゅつ                                                                                                                 |
+| Tipo            | Água                                                                                                                     |
+| Código          | EBW02-008                                                                                                                |
+| Pokémon         | Greninja                                                                                                                 |
+| Energia         | {W}{W}{W}{W}                                                                                                             |
+| Dano            |                                                                                                                          |
+| Efeito          | Role o seu Charakoro 2 vezes.                                                                            |
+| Em pé           | Para cada rolagem de Charakoro bem-sucedida com este ataque, este ataque causa 40 pontos de dano a mais. |
+| De ponta-cabeça |                                                                                                                          |
+| De costas       |                                                                                                                          |
+| De bruços       |                                                                                                                          |
+| De lado         | Para cada rolagem de Charakoro bem-sucedida com este ataque, este ataque causa 40 pontos de dano a mais. |
 
-[Clone Jutsu](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard08.webp)
+[Jutsu Clone](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard08.webp)
 
-#### Trailblaze
+#### Desbravar
 
-| Nome            | Trailblaze                                                  |
+| Nome            | Desbravar                                                   |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | くさわけ                                                        |
 | Tipo            | Planta                                                      |
@@ -171,11 +171,11 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Trailblaze](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard09.webp)
+[Desbravar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard09.webp)
 
-#### Low Kick
+#### Rasteira
 
-| Nome            | Low Kick                                                    |
+| Nome            | Rasteira                                                    |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | けたぐり                                                        |
 | Tipo            | Lutador                                                     |
@@ -190,4 +190,4 @@
 | De bruços       |                                                             |
 | De lado         | Este ataque causa 20 pontos de dano a mais. |
 
-[Low Kick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard10.webp)
+[Rasteira](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard10.webp)

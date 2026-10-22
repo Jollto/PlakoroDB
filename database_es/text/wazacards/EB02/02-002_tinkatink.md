@@ -42,39 +42,39 @@
 
 #### Golpe Martillo ?
 
-| Nombre      | Golpe Martillo ?                                                               |
-| ----------- | ------------------------------------------------------------------------------ |
-| Japonés     | ハンマーストライク                                                                      |
-| Tipo        | Psíquico                                                                       |
-| Código      | EBW02-013                                                                      |
-| Pokémon     | Tinkatink                                                                      |
-| Energía     | {P}{P}{P}                                                                      |
-| Daño        | 10                                                                             |
-| Efecto      |                                                                                |
-| De pie      | Este ataque hace 60 puntos de daño más.                        |
-| De cabeza   | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Boca arriba | Este ataque hace 60 puntos de daño más.                        |
-| Boca abajo  | Este ataque hace 60 puntos de daño más.                        |
-| De lado     | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Nombre      | Golpe Martillo ?                                                                 |
+| ----------- | -------------------------------------------------------------------------------- |
+| Japonés     | ハンマーストライク                                                                        |
+| Tipo        | Psíquico                                                                         |
+| Código      | EBW02-013                                                                        |
+| Pokémon     | Tinkatink                                                                        |
+| Energía     | {P}{P}{P}                                                                        |
+| Daño        | 10                                                                               |
+| Efecto      |                                                                                  |
+| De pie      | Este ataque hace 60 puntos de daño más.                          |
+| De cabeza   | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
+| Boca arriba | Este ataque hace 60 puntos de daño más.                          |
+| Boca abajo  | Este ataque hace 60 puntos de daño más.                          |
+| De lado     | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 
 [Golpe Martillo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
 
 #### Carantoña
 
-| Nombre      | Carantoña                                                                                     |
-| ----------- | --------------------------------------------------------------------------------------------- |
-| Japonés     | じゃれつく                                                                                         |
-| Tipo        | Psíquico                                                                                      |
-| Código      | EBW02-014                                                                                     |
-| Pokémon     | Tinkatink                                                                                     |
-| Energía     | {P}{P}{P}{P}                                                                                  |
-| Daño        | 10                                                                                            |
-| Efecto      | En el próximo turno de tu rival, reduce the number of Enekoro they roll by 1. |
-| De pie      | Este ataque hace 40 puntos de daño más.                                       |
-| De cabeza   |                                                                                               |
-| Boca arriba |                                                                                               |
-| Boca abajo  |                                                                                               |
-| De lado     | Este ataque hace 40 puntos de daño más.                                       |
+| Nombre      | Carantoña                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------- |
+| Japonés     | じゃれつく                                                                                       |
+| Tipo        | Psíquico                                                                                    |
+| Código      | EBW02-014                                                                                   |
+| Pokémon     | Tinkatink                                                                                   |
+| Energía     | {P}{P}{P}{P}                                                                                |
+| Daño        | 10                                                                                          |
+| Efecto      | En el próximo turno de tu rival, reduce el número de Enekoro que tira en 1. |
+| De pie      | Este ataque hace 40 puntos de daño más.                                     |
+| De cabeza   |                                                                                             |
+| Boca arriba |                                                                                             |
+| Boca abajo  |                                                                                             |
+| De lado     | Este ataque hace 40 puntos de daño más.                                     |
 
 [Carantoña](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard04.webp)
 

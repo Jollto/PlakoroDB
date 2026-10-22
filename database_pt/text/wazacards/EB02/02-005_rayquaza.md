@@ -1,10 +1,10 @@
-## Rayquaza Cards
+## Cartas de Rayquaza
 
 ### Exploration Box 2
 
-#### Shred
+#### Triturar
 
-| Nome            | Shred                                                       |
+| Nome            | Triturar                                                    |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | ひきさく                                                        |
 | Tipo            | Dragão                                                      |
@@ -19,49 +19,49 @@
 | De bruços       |                                                             |
 | De lado         | Este ataque causa 10 pontos de dano a mais. |
 
-[Shred](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard01.webp)
+[Triturar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard01.webp)
 
 #### Pulso do Dragão
 
-| Nome            | Pulso do Dragão                                                                |
-| --------------- | ------------------------------------------------------------------------------ |
-| Japonês         | りゅうのはどう                                                                        |
-| Tipo            | Dragão                                                                         |
-| Código          | EBW02-042                                                                      |
-| Pokémon         | Rayquaza                                                                       |
-| Energia         | {R}{R}                                                                         |
-| Dano            | 30                                                                             |
-| Efeito          |                                                                                |
-| Em pé           | Este ataque causa 30 pontos de dano a mais.                    |
-| De ponta-cabeça | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De costas       | Este ataque causa 30 pontos de dano a mais.                    |
-| De bruços       | On your next turn, reduce the number of Enekoro you roll by 2. |
-| De lado         |                                                                                |
+| Nome            | Pulso do Dragão                                                    |
+| --------------- | ------------------------------------------------------------------ |
+| Japonês         | りゅうのはどう                                                            |
+| Tipo            | Dragão                                                             |
+| Código          | EBW02-042                                                          |
+| Pokémon         | Rayquaza                                                           |
+| Energia         | {R}{R}                                                             |
+| Dano            | 30                                                                 |
+| Efeito          |                                                                    |
+| Em pé           | Este ataque causa 30 pontos de dano a mais.        |
+| De ponta-cabeça | No seu próximo turno, você rola 2 Enekoro a menos. |
+| De costas       | Este ataque causa 30 pontos de dano a mais.        |
+| De bruços       | No seu próximo turno, você rola 2 Enekoro a menos. |
+| De lado         |                                                                    |
 
 [Pulso do Dragão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard02.webp)
 
-#### Breaking Swipe
+#### Golpe Deslizante
 
-| Nome            | Breaking Swipe                                                                            |
-| --------------- | ----------------------------------------------------------------------------------------- |
-| Japonês         | ワイドブレイカー                                                                                  |
-| Tipo            | Dragão                                                                                    |
-| Código          | EBW02-043                                                                                 |
-| Pokémon         | Rayquaza                                                                                  |
-| Energia         | {R}{R}{L}                                                                                 |
-| Dano            | 30                                                                                        |
-| Efeito          |                                                                                           |
-| Em pé           |                                                                                           |
-| De ponta-cabeça |                                                                                           |
-| De costas       |                                                                                           |
-| De bruços       |                                                                                           |
-| De lado         | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Nome            | Golpe Deslizante                                                          |
+| --------------- | ------------------------------------------------------------------------- |
+| Japonês         | ワイドブレイカー                                                                  |
+| Tipo            | Dragão                                                                    |
+| Código          | EBW02-043                                                                 |
+| Pokémon         | Rayquaza                                                                  |
+| Energia         | {R}{R}{L}                                                                 |
+| Dano            | 30                                                                        |
+| Efeito          |                                                                           |
+| Em pé           |                                                                           |
+| De ponta-cabeça |                                                                           |
+| De costas       |                                                                           |
+| De bruços       |                                                                           |
+| De lado         | No próximo turno do oponente, ele rola 1 Enekoro a menos. |
 
-[Breaking Swipe](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
+[Golpe Deslizante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
 
-#### Wild Rampage ?
+#### Ultraje Feroz ?
 
-| Nome            | Wild Rampage ?                                              |
+| Nome            | Ultraje Feroz ?                                             |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | げきりんランページ                                                   |
 | Tipo            | Dragão                                                      |
@@ -76,11 +76,11 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Wild Rampage](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
+[Ultraje Feroz](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
 
-#### Dragon Flame
+#### Chama do Dragão
 
-| Nome            | Dragon Flame                                                     |
+| Nome            | Chama do Dragão                                                  |
 | --------------- | ---------------------------------------------------------------- |
 | Japonês         | ドラゴンフレイム                                                         |
 | Tipo            | Fogo                                                             |
@@ -95,7 +95,7 @@
 | De bruços       | Este Pokémon causa 30 pontos de dano a si mesmo. |
 | De lado         | Este ataque causa 30 pontos de dano a mais.      |
 
-[Dragon Flame](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
+[Chama do Dragão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
 
 #### Twister
 
@@ -116,9 +116,9 @@
 
 [Twister](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard06.webp)
 
-#### Dragon Claw
+#### Garra de Dragão
 
-| Nome            | Dragon Claw                                                 |
+| Nome            | Garra de Dragão                                             |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | ドラゴンクロー                                                     |
 | Tipo            | Dragão                                                      |
@@ -133,11 +133,11 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Dragon Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard07.webp)
+[Garra de Dragão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard07.webp)
 
-#### Dragon Tail
+#### Cauda do Dragão
 
-| Nome            | Dragon Tail                                                 |
+| Nome            | Cauda do Dragão                                             |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | ドラゴンテール                                                     |
 | Tipo            | Dragão                                                      |
@@ -152,24 +152,24 @@
 | De bruços       |                                                             |
 | De lado         | Este ataque causa 20 pontos de dano a mais. |
 
-[Dragon Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard08.webp)
+[Cauda do Dragão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard08.webp)
 
-#### Dragon Burst
+#### Rajada do Dragão
 
-| Nome            | Dragon Burst                                                             |
-| --------------- | ------------------------------------------------------------------------ |
-| Japonês         | ドラゴンバースト                                                                 |
-| Tipo            | Dragão                                                                   |
-| Código          | EBW02-049                                                                |
-| Pokémon         | Rayquaza                                                                 |
-| Energia         | {R}{C}{C}{C}                                                             |
-| Dano            | 10                                                                       |
-| Efeito          |                                                                          |
-| Em pé           | This attack does 20 damage for each {L} energy produced. |
-| De ponta-cabeça |                                                                          |
-| De costas       | This attack does 20 damage for each {L} energy produced. |
-| De bruços       |                                                                          |
-| De lado         |                                                                          |
+| Nome            | Rajada do Dragão                                                                     |
+| --------------- | ------------------------------------------------------------------------------------ |
+| Japonês         | ドラゴンバースト                                                                             |
+| Tipo            | Dragão                                                                               |
+| Código          | EBW02-049                                                                            |
+| Pokémon         | Rayquaza                                                                             |
+| Energia         | {R}{C}{C}{C}                                                                         |
+| Dano            | 10                                                                                   |
+| Efeito          |                                                                                      |
+| Em pé           | Este ataque causa 20 pontos de dano para cada Energia {L} produzida. |
+| De ponta-cabeça |                                                                                      |
+| De costas       | Este ataque causa 20 pontos de dano para cada Energia {L} produzida. |
+| De bruços       |                                                                                      |
+| De lado         |                                                                                      |
 
 [](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
 

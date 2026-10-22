@@ -78,9 +78,9 @@
 
 [Ultraje Feroz](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
 
-#### Chama do Dragão
+#### Chama do Dragão ?
 
-| Nome            | Chama do Dragão                                  |
+| Nome            | Chama do Dragão ?                                |
 | --------------- | ------------------------------------------------ |
 | Japonês         | ドラゴンフレイム                                 |
 | Tipo            | Fogo                                             |

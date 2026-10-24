@@ -23,9 +23,9 @@ https://w.atwiki.jp/purakoro/pages/96.html
 
 ### Charmeleon's Cards
 
-####
+#### Sweep Away ?
 
-| Name      |                                                                           |
+| Name      | Sweep Away ?                                                              |
 | --------- | ------------------------------------------------------------------------- |
 | Japanese  | なぎはらう                                                                |
 | Type      | Fire                                                                      |
@@ -40,9 +40,9 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Down      |                                                                           |
 | Sideways  |                                                                           |
 
-####
+#### Heat Up
 
-| Name      |                                                                       |
+| Name      | Heat Up                                                               |
 | --------- | --------------------------------------------------------------------- |
 | Japanese  | ヒートアップ                                                          |
 | Type      | Fire                                                                  |
@@ -57,9 +57,9 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Down      |                                                                       |
 | Sideways  |                                                                       |
 
-####
+#### Sharp Claws
 
-| Name      |                                                                                     |
+| Name      | Sharp Claws                                                                         |
 | --------- | ----------------------------------------------------------------------------------- |
 | Japanese  | するどいツメ                                                                        |
 | Type      | Fire                                                                                |
@@ -74,9 +74,9 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Down      |                                                                                     |
 | Sideways  |                                                                                     |
 
-####
+#### Big Bite
 
-| Name      |                                                                                                               |
+| Name      | Big Bite                                                                                                      |
 | --------- | ------------------------------------------------------------------------------------------------------------- |
 | Japanese  | かじりつく                                                                                                    |
 | Type      | Fire                                                                                                          |
@@ -84,16 +84,16 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Pokémon   | Charmeleon                                                                                                    |
 | Energy    | {R}{R}{R}{R}                                                                                                  |
 | Damage    | 40                                                                                                            |
-| Effect    | During your last turn, if this Pokémon's "なぎはらう" attack was successful, this attack does 30 more damage. |
+| Effect    | During your last turn, if this Pokémon's "Sweep Away" attack was successful, this attack does 30 more damage. |
 | Standing  | Roll 8 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.                            |
 | Handstand | This Pokémon does 20 damage to itself.                                                                        |
 | Back      | Roll 8 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.                            |
 | Down      |                                                                                                               |
 | Sideways  |                                                                                                               |
 
-####
+#### Roaring Flames
 
-| Name      |                                                                                    |
+| Name      | Roaring Flames                                                                     |
 | --------- | ---------------------------------------------------------------------------------- |
 | Japanese  | ファイヤーブレス                                                                   |
 | Type      | Fire                                                                               |
@@ -127,9 +127,9 @@ https://w.atwiki.jp/purakoro/pages/96.html
 
 ### Charizard's Cards
 
-####
+#### Roaring ?
 
-| Name      |                                                                                                                                  |
+| Name      | Roaring ?                                                                                                                        |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Japanese  | ほうこう                                                                                                                         |
 | Type      | Fire                                                                                                                             |
@@ -144,9 +144,9 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Down      |                                                                                                                                  |
 | Sideways  |                                                                                                                                  |
 
-####
+#### Splendor Wind ?
 
-| Name      |                                                                                    |
+| Name      | Splendor Wind ?                                                                    |
 | --------- | ---------------------------------------------------------------------------------- |
 | Japanese  | ごうかのかぜ                                                                       |
 | Type      | Fire                                                                               |
@@ -161,9 +161,9 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Down      |                                                                                    |
 | Sideways  |                                                                                    |
 
-####
+#### Rending Jaws
 
-| Name      |                                        |
+| Name      | Rending Jaws                           |
 | --------- | -------------------------------------- |
 | Japanese  | くいちぎる                             |
 | Type      | Fire                                   |
@@ -178,9 +178,9 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Down      |                                        |
 | Sideways  |                                        |
 
-####
+#### Fire Claws
 
-| Name      |                                                                |
+| Name      | Fire Claws                                                     |
 | --------- | -------------------------------------------------------------- |
 | Japanese  | ほのおのツメ                                                   |
 | Type      | Fire                                                           |
@@ -195,9 +195,9 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Down      |                                                                |
 | Sideways  |                                                                |
 
-####
+#### Splendor Wings
 
-| Name      |                                                                                    |
+| Name      | Splendor Wings                                                                     |
 | --------- | ---------------------------------------------------------------------------------- |
 | Japanese  | ごうかのつばさ                                                                     |
 | Type      | Fire                                                                               |
@@ -212,11 +212,11 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Down      |                                                                                    |
 | Sideways  |                                                                                    |
 
-####
+#### Ultra Flare ?
 
-| Name      | ウルトラバーン                                                                                                           |
+| Name      | Ultra Flare ?                                                                                                            |
 | --------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  |                                                                                                                          |
+| Japanese  | ウルトラバーン                                                                                                           |
 | Type      | Fire                                                                                                                     |
 | Code      | OEW01-013                                                                                                                |
 | Pokémon   | Charizard                                                                                                                |
@@ -229,9 +229,9 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Down      |                                                                                                                          |
 | Sideways  |                                                                                                                          |
 
-####
+#### Magma Vortex ?
 
-| Name      |                                                          |
+| Name      | Magma Vortex ?                                           |
 | --------- | -------------------------------------------------------- |
 | Japanese  | マグマのうず                                             |
 | Type      | Fire                                                     |
@@ -246,9 +246,9 @@ https://w.atwiki.jp/purakoro/pages/96.html
 | Down      |                                                          |
 | Sideways  |                                                          |
 
-####
+#### Malevolent Fire
 
-| Name      |                                        |
+| Name      | Malevolent Fire                        |
 | --------- | -------------------------------------- |
 | Japanese  | ヘルファイヤー                         |
 | Type      | Fire                                   |

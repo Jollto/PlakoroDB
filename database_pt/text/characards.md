@@ -119,6 +119,8 @@
 | Fraqueza | Água      |
 | PS       | 120       |
 
+[Altaria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_characard.webp)
+
 ### [Dragonite](../cards/characards/STC11-001_dragonite.png)
 
 | Nome     | Dragonite |
@@ -127,6 +129,8 @@
 | Código   | STC11-001 |
 | Fraqueza | Dragão    |
 | PS       | 120       |
+
+[Dragonite](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_characard.webp)
 
 ## Exploration Box 1
 
@@ -195,3 +199,71 @@
 | PS       | 120       |
 
 [Grimer](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_characard.webp)
+
+## Exploration Box 2
+
+### Greninja
+
+| Nome     | Greninja  |
+| -------- | --------- |
+| Tipo     | Água      |
+| Código   | EBC02-001 |
+| Fraqueza | Planta    |
+| PS       | 120       |
+
+[Greninja](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_characard.webp)
+
+### Tinkatink
+
+| Nome     | Tinkatink |
+| -------- | --------- |
+| Tipo     | Psíquico  |
+| Código   | EBC02-002 |
+| Fraqueza | Fogo      |
+| PS       | 120       |
+
+[Tinkatink](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_characard.webp)
+
+### Sableye
+
+| Nome     | Sableye   |
+| -------- | --------- |
+| Tipo     | Sombrio   |
+| Código   | EBC02-003 |
+| Fraqueza | Psíquico  |
+| PS       | 120       |
+
+[Sableye](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_characard.webp)
+
+### Aggron
+
+| Nome     | Aggron    |
+| -------- | --------- |
+| Tipo     | Aço       |
+| Código   | EBC02-004 |
+| Fraqueza | Lutador   |
+| PS       | 120       |
+
+[Aggron](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_characard.webp)
+
+### Rayquaza
+
+| Nome     | Rayquaza  |
+| -------- | --------- |
+| Tipo     | Dragão    |
+| Código   | EBC02-005 |
+| Fraqueza | Dragão    |
+| PS       | 120       |
+
+[Rayquaza](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_characard.webp)
+
+### Chansey
+
+| Nome     | Chansey   |
+| -------- | --------- |
+| Tipo     | Normal    |
+| Código   | EBC02-006 |
+| Fraqueza | Lutador   |
+| PS       | 120       |
+
+[Chansey](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_characard.webp)

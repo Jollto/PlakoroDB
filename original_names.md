@@ -56,16 +56,17 @@ Original translations for moves, due to being new Pokémon moves, or moves for o
 | STW10-002  | ふわふわひこう       | Fluffy Flight      | Vuelo                | Voo Fofinho           |
 | STW11-005  | スケイルプレス       | _Scale Press_      | _Plancha Escamas_    | Prensa de Escamas     |
 | STW11-006  | ハリケーンテール     | **Hurricane Tail** | Cola Vendaval        | Cauda Furacão         |
-| EBW02-002  | へんげぎり           | _Shifting Slash_   |
-| EBW02-008  | ぶんしんのじゅつ     | Clone Jutsu        |
-| EBW02-013  | ハンマーストライク   | Hammer Strike      |
-| EBW02-019  | ワイルドスタンプ     | Wild Stamp         |
-| EBW02-020  | ワンダーインパクト   | _Strange Impact_   |
-| EBW02-021  | ツメでひっかく       | Nail Scratch       |
-| EBW02-026  | ダーククロー         | Dark Claw          |
-| EBW02-029  | ジュエルフラッシュ   | Jewel Flash        |
-| EBW02-033  | タイラントシールド   | Tyrant Shield      |
-| EBW02-037  | こうてつボディ       | Steel Body         |
-| EBW02-038  | パワフルスチール     | _Powerful Steel_   |
-| EBW02-044  | げきりんランページ   | _Wild Rampage_     |
-| EBW02-052  | チャンスタックル     | Chance Tackle      |
+| EBW02-002  | へんげぎり           | _Shifting Slash_   | Tajo Cambiante       | Corte Mutante         |
+| EBW02-008  | ぶんしんのじゅつ     | Clone Jutsu        | Clon Jutsu           | Jutsu Clone           |
+| EBW02-013  | ハンマーストライク   | Hammer Strike      | Golpe Martillo       | Golpe de Martelo      |
+| EBW02-019  | ワイルドスタンプ     | Wild Stamp         | Golpe Salvaje        | Pisão Feroz           |
+| EBW02-020  | ワンダーインパクト   | _Strange Impact_   | _Impacto Extraño_    | Impacto Estranho      |
+| EBW02-021  | ツメでひっかく       | Nail Scratch       | Arañazo Garfa        | Arranhão de Garras    |
+| EBW02-026  | ダーククロー         | Dark Claw          | Garra Sombría        | Garra Sombria         |
+| EBW02-029  | ジュエルフラッシュ   | Jewel Flash        | Joya Destello        | Flash de Joia         |
+| EBW02-033  | タイラントシールド   | Tyrant Shield      | Escudo Tirano        | Escudo Tirano         |
+| EBW02-037  | こうてつボディ       | Steel Body         | Cuerpo Acero         | Corpo de Aço          |
+| EBW02-038  | パワフルスチール     | _Powerful Steel_   | Metal Poderoso       | Aço Poderoso          |
+| EBW02-044  | げきりんランページ   | _Wild Rampage_     | Estampida Salvaje    | Ultraje Feroz         |
+| EBW02-045  | ドラゴンフレイム     | **Dragon Flame**   | Llama Dragón         | Chama do Dragão       |
+| EBW02-052  | チャンスタックル     | Chance Tackle      | Placaje Oportuno     | Investida Oportuna    |

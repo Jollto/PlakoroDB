@@ -80,20 +80,20 @@
 
 #### Vuelo
 
-| Nombre      | Vuelo                                                                                                                |
-| ----------- | -------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | そらをとぶ                                                                                                           |
-| Tipo        | Volador                                                                                                              |
-| Código      | STW10-005                                                                                                            |
-| Pokémon     | Altaria                                                                                                              |
-| Energía     | {Y}{Y}{Y}                                                                                                            |
-| Daño        | 40                                                                                                                   |
-| Efecto      |                                                                                                                      |
-| De pie      | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. (Aún te afectan otros efectos.) |
-| De cabeza   | Este ataque no hace nada.                                                                                            |
-| Boca arriba | Este ataque no hace nada.                                                                                            |
-| Boca abajo  | Este ataque no hace nada.                                                                                            |
-| De lado     | Durante el próximo turno de tu oponente, este Pokémon no recibe daño de los ataques. (Aún te afectan otros efectos.) |
+| Nombre      | Vuelo                                                                                                             |
+| ----------- | ----------------------------------------------------------------------------------------------------------------- |
+| Japonés     | そらをとぶ                                                                                                        |
+| Tipo        | Volador                                                                                                           |
+| Código      | STW10-005                                                                                                         |
+| Pokémon     | Altaria                                                                                                           |
+| Energía     | {Y}{Y}{Y}                                                                                                         |
+| Daño        | 40                                                                                                                |
+| Efecto      |                                                                                                                   |
+| De pie      | Durante el próximo turno de tu rival, este Pokémon no recibe daño de los ataques. (Aún te afectan otros efectos.) |
+| De cabeza   | Este ataque no hace nada.                                                                                         |
+| Boca arriba | Este ataque no hace nada.                                                                                         |
+| Boca abajo  | Este ataque no hace nada.                                                                                         |
+| De lado     | Durante el próximo turno de tu rival, este Pokémon no recibe daño de los ataques. (Aún te afectan otros efectos.) |
 
 [Vuelo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
 

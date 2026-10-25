@@ -294,7 +294,7 @@ https://w.atwiki.jp/purakoro/pages/88.html
 		<!--6-5--><td style="">なし</td></tr>
 </tbody>
 
-## expansion
+### Expansion Set
 
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="">技名</td>
 		<!--0-1--><td style="">エネルギー数</td>

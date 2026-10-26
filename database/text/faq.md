@@ -178,22 +178,22 @@ On my next turn, I successfully passed the Enekoro and Charakoro rolls for Mew's
 In this case, how much damage do I deal to my opponent?
 
 A: 20 damage.  
-The damage listed on the opponent's last-chosen move is 10 damage.  
+"The damage of the last attack selected by your opponent" is 10 damage.  
 Because the Charakoro effect of "Reflection" allows you to deal double that amount, the damage is 10x2 = 20 damage.
 
 R: [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png), [Gnaw](/database/cards/wazacards/ST/04-001_pikachu/STW04-001.png)
 
 #### 18
 
-Q: 相手がピカチュウのワザ「アイアンテール」のエネコロチェックとキャラコロチェックに成功して、自分が20ダメージを受けました。
-次の自分の番、自分がミュウのワザ「リフレクション」のエネコロチェックに成功しました。
-この場合、相手に与えるダメージは何ダメージですか？
+Q: My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Iron Tail", and I took 20 damage.  
+On my next turn, I successfully passed the Enekoro and Charakoro rolls for Mew's move "Reflection".  
+In this case, how much damage do I deal to my opponent?
 
-A: 10ダメージです。
-「相手が最後に選んだワザに書かれているダメージ」は20ダメージです。
-ただし、相手は「アイアンテール」のキャラコロ効果で受けるダメージを-10できるため、20-10=10ダメージとなります。
+A: 10 damage.
+"The damage of the last attack selected by your opponent" is 20 damage.
+However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20-10=10.
 
-R: リフレクション, アイアンテール
+R: [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png), [Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)
 
 #### 19
 
@@ -492,9 +492,9 @@ A: Moves with a low energy cost are more likely to succeed. If your moves aren't
 
 #### 20
 
-Q: ワザが失敗してしまった場合でも、キャラコロ効果だけを適用することはできますか？
+Q: If a move fails, can I still apply the Charakoro effect?
 
-A: いいえ、できません。ワザが失敗した場合はキャラコロチェックを行わずにそのまま番が終了します。
+A: No, you cannot. If a move fails, the Charakoro check is not carried out and the turn ends immediately.
 
 #### 21
 

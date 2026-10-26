@@ -13,7 +13,7 @@ O jogador que rola os Enekoro escolhe qual deles será adicionado.
 Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno.  
 Se você tiver 4 ou mais Enekoro, pode adicionar qualquer Enekoro que quiser e rolar todos ao mesmo tempo.
 
-Ref.: [Semente Sanguessuga](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
+Ref.: [Semente Sanguessuga](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
 
 #### 2
 
@@ -22,7 +22,7 @@ Nesse caso, posso aumentar os PS dele para 160?
 
 R: Não, não pode. O máximo de PS do Bulbasaur é 120.
 
-Ref.: [Gigadreno](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)
+Ref.: [Gigadreno](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)
 
 #### 3
 
@@ -32,7 +32,7 @@ Nesse caso, quem ganha e quem perde?
 R: Você perde.  
 Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.
 
-Ref.: [Carga Indomável](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-005.png)
+Ref.: [Carga Indomável](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-005.png)
 
 #### 4
 
@@ -46,7 +46,7 @@ Em seguida, escolha dois dos Enekoro rolados e role-os novamente.
 Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno.  
 O jogador que rola os Enekoro escolhe quais serão adicionados para aumentar o número de Enekoro.
 
-Ref.: [Aquecimento](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)
+Ref.: [Aquecimento](/database_pt/cards/wazacards/ST/02-001_charmander/STW02-002.png)
 
 #### 5
 
@@ -56,7 +56,7 @@ Nesse caso, quanto dano eu causo ao meu oponente?
 
 R: 70 pontos de dano (20 de base + 10 \* 5 Energias de Fogo).
 
-Ref.: [Tempestade de Chamas](/database/cards/wazacards/ST/02-001_charmander/STW02-005.png)
+Ref.: [Tempestade de Chamas](/database_pt/cards/wazacards/ST/02-001_charmander/STW02-005.png)
 
 #### 6
 
@@ -67,7 +67,7 @@ Nesse caso, quanto dano eu recebo?
 
 R: 0 de dano.
 
-Ref.: [Ataque Carapaça](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png), [Chicote de Vinha](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)
+Ref.: [Ataque Carapaça](/database_pt/cards/wazacards/ST/03-001_squirtle/STW03-004.png), [Chicote de Vinha](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)
 
 #### 7
 
@@ -77,7 +77,7 @@ Nesse caso, quanto dano eu recebo?
 
 R: 10 pontos de dano.
 
-Ref.: [Ataque Carapaça](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png), [Chicote de Vinha](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)
+Ref.: [Ataque Carapaça](/database_pt/cards/wazacards/ST/03-001_squirtle/STW03-004.png), [Chicote de Vinha](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)
 
 #### 8
 
@@ -87,7 +87,7 @@ Como funciona o efeito "Use "Investida Elétrica" mais 1 vez. (Pode ser repetido
 R: Role os Enekoro e o Charakoro novamente para tentar "Investida Elétrica".  
 Repita isso até falhar na rolagem de Enekoro ou na de Charakoro.
 
-Ref.: [Investida Elétrica](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
+Ref.: [Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
 #### 9
 
@@ -98,7 +98,7 @@ Além disso, quem escolhe quais Enekoro serão removidos?
 R: Escolha qualquer um dos seus três Enekoro e role-o.  
 O jogador que rola os Enekoro escolhe quais serão removidos.
 
-Ref.: [Relâmpago](/database/cards/wazacards/ST/04-001_pikachu/STW04-004.png)
+Ref.: [Relâmpago](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-004.png)
 
 #### 10
 
@@ -108,7 +108,7 @@ Nesse caso, quem ganha e quem perde?
 R: Você perde.  
 Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.
 
-Ref.: [Investida Trovão](/database/cards/wazacards/ST/04-001_pikachu/STW04-006.png)
+Ref.: [Investida Trovão](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-006.png)
 
 #### 11
 
@@ -119,7 +119,7 @@ Quando uso "Investida Elétrica" pela segunda vez seguida, quantos Enekoro preci
 R: 2 Enekoro.  
 Mesmo que você continue tendo sucesso, o número de Enekoro que você pode rolar continua sendo 2.
 
-Ref.: [Investida Elétrica](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png), [Semente Sanguessuga](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
+Ref.: [Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png), [Semente Sanguessuga](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
 
 #### 12
 
@@ -129,7 +129,7 @@ Quando uso "Investida Elétrica" pela segunda vez seguida, quantos Enekoro posso
 R: 2 Enekoro.  
 Mesmo que você continue tendo sucesso, o número de Enekoro que você pode rolar continua sendo 2.
 
-Ref.: [Investida Elétrica](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
+Ref.: [Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
 #### 13
 
@@ -139,7 +139,7 @@ Nesse caso, quanto dano vou causar ao meu oponente?
 
 R: 30 pontos de dano.
 
-Ref.: [Desmantelar](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)
+Ref.: [Desmantelar](/database_pt/cards/wazacards/ST/05-001_eevee/STW05-003.png)
 
 #### 14
 
@@ -148,7 +148,7 @@ Quantas Energias, e de qual tipo, preciso para ter sucesso?
 
 R: Este golpe tem sucesso desde que você tenha 5 Energias, de qualquer tipo.
 
-Ref.: [Arrancada Total](/database/cards/wazacards/ST/05-001_eevee/STW05-005.png)
+Ref.: [Arrancada Total](/database_pt/cards/wazacards/ST/05-001_eevee/STW05-005.png)
 
 #### 15
 
@@ -158,7 +158,7 @@ Nesse caso, quem ganha e quem perde?
 R: Você perde.  
 Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.
 
-Ref.: [Desmantelar](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)
+Ref.: [Desmantelar](/database_pt/cards/wazacards/ST/05-001_eevee/STW05-003.png)
 
 #### 16
 
@@ -169,7 +169,7 @@ Nesse caso, quanto dano vou causar ao meu oponente?
 R: 30 pontos de dano.  
 Como a quantidade do tipo de Energia que mais apareceu é 1, são adicionados 1x10 = 10 pontos de dano.
 
-Ref.: [Psíquico](/database/cards/wazacards/ST/06-001_mew/STW06-006.png)
+Ref.: [Psíquico](/database_pt/cards/wazacards/ST/06-001_mew/STW06-006.png)
 
 #### 17
 
@@ -178,22 +178,22 @@ No meu turno seguinte, fui bem-sucedido nas rolagens de Enekoro e Charakoro do g
 Nesse caso, quanto dano eu causo ao meu oponente?
 
 R: 20 pontos de dano.  
-"The damage of the last attack selected by your opponent" is 10 damage.  
+"O dano indicado no último golpe escolhido pelo oponente" é de 10 pontos.  
 Como o efeito de Charakoro de "Reflexão" permite causar o dobro desse valor, o dano é 10x2 = 20 pontos.
 
-Ref.: [Reflexão](/database/cards/wazacards/ST/06-001_mew/STW06-007.png), [Roída](/database/cards/wazacards/ST/04-001_pikachu/STW04-001.png)
+Ref.: [Reflexão](/database_pt/cards/wazacards/ST/06-001_mew/STW06-007.png), [Roída](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-001.png)
 
 #### 18
 
-Q: My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Iron Tail", and I took 20 damage.  
+P: Meu oponente foi bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Cauda de Ferro" do Pikachu, e eu recebi 20 pontos de dano.  
 No meu turno seguinte, fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Reflexão" do Mew.  
 Nesse caso, quanto dano eu causo ao meu oponente?
 
 R: 10 pontos de dano.
-"The damage of the last attack selected by your opponent" is 20 damage.
+"O dano indicado no último golpe escolhido pelo oponente" é de 20 pontos.
 However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20-10=10.
 
-R: [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png), [Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)
+Ref.: [Reflexão](/database_pt/cards/wazacards/ST/06-001_mew/STW06-007.png), [Cauda de Ferro](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-007.png)
 
 #### 19
 
@@ -206,7 +206,7 @@ Todas as Energias reveladas durante esse processo contam como Energia produzida 
 Se você tiver 4 ou mais Enekoro, pode adicionar qualquer Enekoro que quiser e rolar todos ao mesmo tempo.  
 O jogador que rola os Enekoro escolhe qual deles será adicionado.
 
-Ref.: [Investida de Pinças](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)
+Ref.: [Investida de Pinças](/database_pt/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)
 
 #### 20
 
@@ -218,7 +218,7 @@ R: Não, não pode.
 Como a rolagem de Enekoro falhou, o golpe falha.  
 Nesse caso, a verificação de Charakoro não é feita, e o turno termina.
 
-Ref.: [Guilhotina](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)
+Ref.: [Guilhotina](/database_pt/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)
 
 #### 21
 
@@ -228,7 +228,7 @@ Nesse caso, quem ganha e quem perde?
 R: Você perde.  
 Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.
 
-Ref.: [Asa de Fogo](/database/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)
+Ref.: [Asa de Fogo](/database_pt/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)
 
 #### 22
 
@@ -238,7 +238,7 @@ Quem decide qual Enekoro será removido?
 R: O oponente.  
 O jogador que rola os Enekoro decide qual deles será removido.
 
-Ref.: [Asa de Gelo](/database/cards/wazacards/EB01/01-003_articuno/EBW01-021.png)
+Ref.: [Asa de Gelo](/database_pt/cards/wazacards/EB01/01-003_articuno/EBW01-021.png)
 
 #### 23
 
@@ -258,7 +258,7 @@ Como funciona o efeito "Role o seu Charakoro novamente. (Pode ser repetido até 
 R: Role o Charakoro até sair um resultado diferente de {st}{ba}{do}.  
 Cause ao Pokémon do oponente um dano igual ao número de vezes que {st}{ba}{do} apareceu multiplicado por 30, mais os 30 de base.
 
-Ref.: [Corrente de Trovão](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-039.png)
+Ref.: [Corrente de Trovão](/database_pt/cards/wazacards/EB01/01-004_zapdos/EBW01-039.png)
 
 #### 25
 
@@ -269,7 +269,7 @@ Nesse caso, quanto dano eu recebo?
 R: 0 de dano.  
 Cada vez que você é atingido por um golpe, pode reduzir em 30 o dano recebido.
 
-Ref.: [Muralha de Rocha](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Investida Elétrica](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
+Ref.: [Muralha de Rocha](/database_pt/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
 #### 26
 
@@ -280,7 +280,7 @@ Nesse caso, quanto dano eu recebo?
 R: 40 pontos de dano.  
 Você pode subtrair 30 do dano total causado por "Investida Voltaica".
 
-Ref.: [Muralha de Rocha](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Investida Voltaica](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)
+Ref.: [Muralha de Rocha](/database_pt/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Investida Voltaica](/database_pt/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)
 
 #### 27
 
@@ -290,7 +290,7 @@ No meu próximo turno, se eu for bem-sucedido nas rolagens de Enekoro e Charakor
 
 R: Sim, pode.
 
-Ref.: [Gás Venenoso](/database/cards/wazacards/EB01/01-006_grimer/EBW01-051.png), [Bomba Tóxica](/database/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)
+Ref.: [Gás Venenoso](/database_pt/cards/wazacards/EB01/01-006_grimer/EBW01-051.png), [Bomba Tóxica](/database_pt/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)
 
 #### 28
 
@@ -300,7 +300,7 @@ No meu próximo turno, se eu for bem-sucedido nas rolagens de Enekoro e Charakor
 
 R: Sim, pode.
 
-Ref.: [Veneno Importuno](/database/cards/wazacards/EB01/01-006_grimer/EBW01-060.png), [Investida Elétrica](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
+Ref.: [Veneno Importuno](/database_pt/cards/wazacards/EB01/01-006_grimer/EBW01-060.png), [Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
 #### 29
 
@@ -310,17 +310,17 @@ Nesse caso, posso causar dano adicional?
 R: Não, não pode.  
 Você só pode causar dano adicional com o efeito de Charakoro de "Punho de Aura" quando os PS forem 80 ou menos.
 
-Ref.: [Punho de Aura](/database/cards/wazacards/ST/09-001_lucario/STW09-003.png)
+Ref.: [Punho de Aura](/database_pt/cards/wazacards/ST/09-001_lucario/STW09-003.png)
 
 #### 30
 
 P: Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "De Ponta-Cabeça" do Gengar.  
-How is the effect "On the opponent's next turn, set the direction of their Charakoro to {hs}." applied?
+Como funciona o efeito "No próximo turno do oponente, a orientação do Charakoro dele passa a ser {hs}."?
 
-A: On the opponent's next turn, after the opponent rolls the Charakoro, they set it to {hs}.  
-This ensures that even if the opponent rolls the Charakoro multiple times on their next turn, all Charakoro will be set to {hs}.
+R: No próximo turno do oponente, depois que ele rolar o Charakoro, ele o coloca em {hs}.  
+Assim, mesmo que o oponente role o Charakoro várias vezes no próximo turno dele, todos os Charakoro ficarão em {hs}.
 
-Ref.: [De Ponta-Cabeça](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)
+Ref.: [De Ponta-Cabeça](/database_pt/cards/wazacards/ST/07-001_gengar/STW07-003.png)
 
 #### 31
 
@@ -328,10 +328,10 @@ P: Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "De Ponta-Cabe�
 No turno seguinte, meu oponente foi bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Trovão Duplo" do Zapdos.  
 Nesse caso, qual será a orientação do Charakoro que o oponente rolar no próximo turno dele?
 
-A: On the next turn, all the Charakoro the opponent rolls will be {hs}.  
+R: No próximo turno, todos os Charakoro que o oponente rolar ficarão em {hs}.  
 Como resultado, todas as verificações de Charakoro de "Trovão Duplo" falharão.
 
-Ref.: [De Ponta-Cabeça](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png), [Trovão Duplo](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-036.png)
+Ref.: [De Ponta-Cabeça](/database_pt/cards/wazacards/ST/07-001_gengar/STW07-003.png), [Trovão Duplo](/database_pt/cards/wazacards/EB01/01-004_zapdos/EBW01-036.png)
 
 #### 32
 
@@ -339,9 +339,9 @@ P: Fui bem-sucedido na rolagem de Enekoro do golpe "Quatro Operações" do Metag
 No turno seguinte, meu oponente foi bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "De Ponta-Cabeça" do Gengar.  
 Nesse caso, qual será a orientação do Charakoro que eu rolar no meu próximo turno?
 
-A: Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will be {hs}.
+R: Por causa do efeito de Charakoro de "De Ponta-Cabeça", a orientação do Charakoro será {hs}.
 
-Ref.: [Quatro Operações](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png), [De Ponta-Cabeça](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)
+Ref.: [Quatro Operações](/database_pt/cards/wazacards/ST/08-001_metagross/STW08-002.png), [De Ponta-Cabeça](/database_pt/cards/wazacards/ST/07-001_gengar/STW07-003.png)
 
 #### 33
 
@@ -351,7 +351,7 @@ Nesse caso, qual será a orientação do Charakoro que eu rolar no meu próximo 
 
 R: Por causa do efeito de Charakoro de "Aprisionamento Sombrio", você não poderá rolar o Charakoro.
 
-Ref.: [Quatro Operações](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png), [Aprisionamento Sombrio](/database/cards/wazacards/ST/07-001_gengar/STW07-004.png)
+Ref.: [Quatro Operações](/database_pt/cards/wazacards/ST/08-001_metagross/STW08-002.png), [Aprisionamento Sombrio](/database_pt/cards/wazacards/ST/07-001_gengar/STW07-004.png)
 
 #### 34
 
@@ -361,7 +361,7 @@ Nesse caso, quem ganha e quem perde?
 R: Você perde.  
 Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.
 
-Ref.: [Explosão](/database/cards/wazacards/ST/08-001_metagross/STW08-007.png)
+Ref.: [Explosão](/database_pt/cards/wazacards/ST/08-001_metagross/STW08-007.png)
 
 ## Sobre as Regras Básicas
 

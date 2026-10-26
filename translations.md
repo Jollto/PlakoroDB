@@ -16,15 +16,19 @@ This Pokémon does $2 damage to itself.
 自分が追加で(\d+)ダメージ(受ける)?(。)?
 This Pokémon does $1 more damage to itself.
 
-次の番の相手のエネコロを1個へらす。
-(さらに)?(相手は次|次の相手)の番にふるエネコロを(\d)個へらす(。)?
-On the opponent's next turn, reduce the number of Enekoro they roll by $3.
+次の相手の番に受けるダメージの合計から(\d+)ダメージ(へらし|をへらす)?(。|、)?
+During your opponent's next turn, this Pokémon takes $1 less damage from attacks.
 
-追加で(\d+)ダメージ
+追加で(\d+)ダメージ(を与える)?(。|、)?
 This attack does $1 more damage.
 
-(?<![×x\d])(＋|相手に)?(\d+)ダメージ(を与え)?(る)?(。|、)?
+(?<![×x\d])(＋|相手に)?(\d+)ダメージ(を)?(与え)?(る)?(。|、)?
 This attack does $2 damage.
+
+次の番の相手のエネコロを1個へらす。
+さらに相手は次の自分の番にふるエネコロを1個へらす。
+(さらに)?(相手は次|次の相手)(の自分)?の番にふるエネコロを(\d)個へらす(。|、)?
+On the opponent's next turn, reduce the number of Enekoro they roll by $4.
 
 次の自分の番にエネコロを(もう)?(\d+)個追加してふる(ことができる)?。
 On your next turn, increase the number of Enekoro you roll by $2.
@@ -35,17 +39,23 @@ On your next turn, reduce the number of Enekoro you roll by $1.
 次の自分の番にさらにエネコロをもう(\d+)個追加してふる(ことができる)?。
 On your next turn, increase the number of Enekoro you roll by $1 more.
 
+相手のワザカードからワザを1つ選び、相手のエネコロを使ってそのワザを使う。
+Choose 1 of your opponent's attacks. Use that attack rolling your opponent's Enekoros.
+
 次の相手の番に使えるワザカードを1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。
 Choose 1 of your opponent's attacks. During their next turn, they can't use this attack.
 
-(HP)?(\d+)(HP)?(を)?回復(する)?(。)?
-Heal $2 damage from this Pokémon.
-
-追加で(HP)?(\d+)(HP)?回復
-Heal $2 more damage from this Pokémon.
-
 最高HPが(\d+)になり
 Max HP becomes $1.
+
+(\{.\})×(\d+)より余分に出た(\{.\})×(\d+)HPを回復する。
+Heal $4 more damage from this Pokémon for each $3 energy exceeding $2 $1.
+
+追加で(自分の)?(HP)?(を|が)?(\d+)(HP)?回復(する)?(。|、)?
+Heal $4 more damage from this Pokémon.
+
+(追加で)?(自分の)?(HP)?(を)?(\d+)(HP)?(を)?回復(する)?(。)?
+Heal $5 damage from this Pokémon.
 
 自分と相手がお互いにチビキャラコロを(\d+)個ずつふりあい、<br>自分が立った数×(\d+)ダメージを相手に与え、<br>相手が立った数×(\d+)のダメージを自分が受ける。
 You and your opponent each roll $1 Chibi Charakoros. This attack does $2 damage for each {st} Chibi Charakoro you rolled. This Pokémon does $3 damage to itself for each {st} Chibi Charakoro your opponent rolled.
@@ -68,7 +78,7 @@ On the opponent's next turn, reduce the number of Enekoro they roll by 1 for eac
 立った数だけ次の自分の番にエネコロを追加してふる。
 On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro.
 
-1つ前の自分の番にワザ「(.+)」が成功していれば
+1つ前の自分の番にワザ(.+)が成功していれば
 During your last turn, if this Pokémon's "$1" attack was successful,
 
 このワザは(\d+)回トライする。

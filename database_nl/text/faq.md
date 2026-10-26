@@ -178,12 +178,24 @@ On my next turn, I successfully passed the Enekoro and Charakoro rolls for Mew's
 In this case, how much damage do I deal to my opponent?
 
 A: 20 damage.  
-The damage listed on the opponent's last-chosen move is 10 damage.  
+"The damage of the last attack selected by your opponent" is 10 damage.  
 Because the Charakoro effect of "Reflection" allows you to deal double that amount, the damage is 10x2 = 20 damage.
 
 R: [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png), [Gnaw](/database/cards/wazacards/ST/04-001_pikachu/STW04-001.png)
 
 #### 18
+
+Q: My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Iron Tail", and I took 20 damage.  
+On my next turn, I successfully passed the Enekoro and Charakoro rolls for Mew's move "Reflection".  
+In this case, how much damage do I deal to my opponent?
+
+A: 10 damage.
+"The damage of the last attack selected by your opponent" is 20 damage.
+However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20-10=10.
+
+R: [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png), [Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)
+
+#### 19
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Pinsir's move "Scissors Charge".  
 How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?  
@@ -196,7 +208,7 @@ The player rolling the Enekoro chooses which one to add.
 
 R: [Scissors Charge](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)
 
-#### 19
+#### 20
 
 Q: I used Pinsir's move "Guillotine".  
 The Enekoro roll showed 4 Grass{G} Energy, and the Charakoro roll was {st}.  
@@ -208,7 +220,7 @@ In this case, the Charakoro check is not carried out, and the turn ends.
 
 R: [Guillotine](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)
 
-#### 20
+#### 21
 
 Q: Due to the self-damage effect of Moltres' move "Fire Wing", I also took damage, and both Pokémon lost all their HP at the same time.  
 In this case, who wins or loses?
@@ -218,7 +230,7 @@ If both Pokémon lose all their HP at the same time, the player who used the mov
 
 R: [Fire Wing](/database/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)
 
-#### 21
+#### 22
 
 Q: Due to the Charakoro effect of Articuno's move "Ice Wing", the opponent has to roll one Enekoro less during their next turn.  
 Who decides which Enekoro to remove?
@@ -228,7 +240,7 @@ The player who rolls the Enekoro decides which one to remove.
 
 R: [Ice Wing](/database/cards/wazacards/EB01/01-003_articuno/EBW01-021.png)
 
-#### 22
+#### 23
 
 Q: Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn.  
 However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 less Enekoro to roll on my next turn.  
@@ -238,7 +250,7 @@ A: 3 Enekoro.
 
 R: [Cold Breath](/database/cards/wazacards/EB01/01-003_articuno/EBW01-028.png), [Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)
 
-#### 23
+#### 24
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Thunder Chain".  
 How is the effect "Reroll your Charakoro. (Can be repeated until it fails.)" applied?
@@ -248,7 +260,7 @@ Inflict damage on your opponent's Pokémon equal to the number of times {st}{ba}
 
 R: [Thunder Chain](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-039.png)
 
-#### 24
+#### 25
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall".  
 On my opponent's next turn, they successfully used Pikachu's move "Electric Rush" twice.  
@@ -259,7 +271,7 @@ Each time you take a hit from a move, you can reduce the damage you take by 30.
 
 R: [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
-#### 25
+#### 26
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall".  
 On my opponent's next turn, they successfully rolled the Charakoro for Pikachu's move "Volt Rush" twice.  
@@ -270,7 +282,7 @@ You can subtract 30 from the total damage dealt by "Volt Rush".
 
 R: [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Volt Rush](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)
 
-#### 26
+#### 27
 
 Q: I used Grimer's move "Poison Gas".  
 The Enekoro roll succeeded, but the Charakoro roll failed.  
@@ -280,7 +292,7 @@ A: Yes, you can.
 
 R: [Poison Gas](/database/cards/wazacards/EB01/01-006_grimer/EBW01-051.png), [Toxic Blast](/database/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)
 
-#### 27
+#### 28
 
 Q: My opponent used Pikachu's move "Electric Rush".  
 The first Enekoro and Charakoro rolls were successful, but the second Enekoro roll failed.  
@@ -290,7 +302,7 @@ A: Yes, you can.
 
 R: [Harassment Venom](/database/cards/wazacards/EB01/01-006_grimer/EBW01-060.png), [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
-#### 28
+#### 29
 
 Q: When Lucario's HP is 120, I successfully passed the Enekoro and Charakoro rolls for Lucario's move "Aura Knuckle".  
 In this case, can I deal additional damage?
@@ -300,38 +312,38 @@ You can only deal additional damage via the Charakoro effect of "Aura Knuckle" w
 
 R: [Aura Knuckle](/database/cards/wazacards/ST/09-001_lucario/STW09-003.png)
 
-#### 29
+#### 30
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".  
-How is the effect "On the opponent's next turn, set the direction of their Charakoro to {ht}." applied?
+How is the effect "On the opponent's next turn, set the direction of their Charakoro to {hs}." applied?
 
-A: On the opponent's next turn, after the opponent rolls the Charakoro, they set it to {ht}.  
-This ensures that even if the opponent rolls the Charakoro multiple times on their next turn, all Charakoro will be set to {ht}.
+A: On the opponent's next turn, after the opponent rolls the Charakoro, they set it to {hs}.  
+This ensures that even if the opponent rolls the Charakoro multiple times on their next turn, all Charakoro will be set to {hs}.
 
 R: [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)
 
-#### 30
+#### 31
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".  
 On my opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Dual Thunder".  
 In this case, what will be the orientation of the Charakoro the opponent rolls on their next turn?
 
-A: On the next turn, all the Charakoro the opponent rolls will be {ht}.  
+A: On the next turn, all the Charakoro the opponent rolls will be {hs}.  
 As a result, all "Dual Thunder" Charakoro checks will fail.
 
 R: [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png), [Dual Thunder](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-036.png)
 
-#### 31
+#### 32
 
 Q: I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}.  
 On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".  
 In this case, what will be the orientation of the Charakoro I roll on my next turn?
 
-A: Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will be {ht}.
+A: Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will be {hs}.
 
 R: [Basic Calculation](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png), [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)
 
-#### 32
+#### 33
 
 Q: I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}.  
 On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Shadow Bind".  
@@ -341,7 +353,7 @@ A: Due to the "Shadow Bind" Charakoro effect, you will be unable to roll the Cha
 
 R: [Basic Calculation](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png), [Shadow Bind](/database/cards/wazacards/ST/07-001_gengar/STW07-004.png)
 
-#### 33
+#### 34
 
 Q: Due to the move effect of Metagross' "Explosion", Metagross also took damage, and both Pokémon lost all their HP at the same time.  
 In this case, who wins or loses?
@@ -480,113 +492,119 @@ A: Moves with a low energy cost are more likely to succeed. If your moves aren't
 
 #### 20
 
+Q: If a move fails, can I still apply the Charakoro effect?
+
+A: No, you cannot. If a move fails, the Charakoro check is not carried out and the turn ends immediately.
+
+#### 21
+
 Q: Can I start a match with fewer than four Wazacards (for example, just three)?
 
 A: No, you cannot.
 
-#### 21
+#### 22
 
 Q: Can I "pass" without using a move?
 
 A: No, you cannot.  
 You must choose one move to use during your turn.
 
-#### 22
+#### 23
 
 Q: Can I deal damage to my opponent from my very first turn when I go first?
 
 A: Yes, you can.  
 Although you can only roll two Enekoro during your first turn when going first, you can deal damage provided you have enough Energy to pay for the move.
 
-#### 23
+#### 24
 
 Q: If I roll more Energy than a move requires, can I switch to a different move?
 
 A: No, you cannot.
 
-#### 24
+#### 25
 
 Q: Can the "Weakness +20" effect be applied to both the damage dealt by a successful move and the damage caused by a "Charakoro" effect?
 
 A: No, you cannot.  
 The Weakness effect is calculated after the damage from the move and the damage from the "Charakoro" effect have been combined.
 
-#### 25
+#### 26
 
 Q: What is healing?
 
 A: It is the act of restoring a Pokémon's HP that has been reduced by damage.  
 Whatever an effect states something like "Heal XX HP from this Pokémon", the Life Counter is restored accordingly.
 
-#### 26
+#### 27
 
 Q: Can I heal a character beyond the "120 HP" stated on their Characard?
 
 A: No, you cannot.  
 You cannot heal a Pokémon beyond the maximum HP stated on their Characard.
 
-#### 27
+#### 28
 
 Q: If both players' HP reaches 0 at the same time, who loses?
 
 A: The player who used the move loses.
 
-#### 28
+#### 29
 
 Q: Are there any status conditions such as "Poison" or "Paralysis"?
 
 A: No, there aren't.
 
-#### 29
+#### 30
 
 Q: During a match, can I check my opponent's life counter (remaining HP) or their remaining Wazacards?
 
 A: Yes, you can.  
 If you wish to look closely to check, please ask your opponent.
 
-#### 30
+#### 31
 
 Q: How many different Energy types are listed for the Enekoros?
 
 A: There are nine types.  
 These are Grass, Fire, Water, Electric, Psychic, Fighting, Dark, Steel and Flying.
 
-#### 31
+#### 32
 
 Q: How many types of Pokémon are listed on Charakoros?
 
 A: There are 11 types.  
 These are Grass, Fire, Water, Electric, Psychic, Fighting, Dark, Steel, Dragon, Flying and Normal.
 
-#### 32
+#### 33
 
 Q: What is "Normal" Energy, as shown on Wazacards?
 
 A: It is Energy that counts regardless of its type.  
 For example, if a Wazacard shows 5 "Normal" Energy, the Energy Check is successful as long as there are 5 Energies in total, regardless of their type.
 
-#### 33
+#### 34
 
 Q: Can I choose my Charakoro and Enekoro after seeing my opponent's Charakoro?
 
 A: No, you cannot.  
 Charakoros and Enekoros are revealed simultaneously.
 
-#### 34
+#### 35
 
 Q: Can I customise my Enekoro after seeing my opponent's Charakoro?
 
 A: No, you cannot.  
 Charakoros and Enekoros are revealed simultaneously.
 
-#### 35
+#### 36
 
 Q: Can I change my Charakoro during a battle?
 
 A: No, you cannot.  
 Even if it is the same Pokémon, you cannot switch to a Charakoro with a different pose mid-battle.
 
-#### 36
+#### 37
 
 Q: I would like to add an Enekoro mid-battle to use more Enekoro due to a move's effect or similar.  
 In this case, do I need to show the opponent the Enekoro I wish to add during battle preparation?
@@ -594,7 +612,7 @@ In this case, do I need to show the opponent the Enekoro I wish to add during ba
 A: No, you do not need to show them during battle preparation.  
 When you wish to increase your Enekoro, please show your opponent the additional Enekoro you wish to add.
 
-#### 37
+#### 38
 
 Q: I added more Enekoros during the battle to roll more of them, due to a move’s effect or similar.  
 In this case, can I choose to use the added Enekoros even on turns when the effect that increases the number of Enekoros is not in effect?
@@ -602,7 +620,7 @@ In this case, can I choose to use the added Enekoros even on turns when the effe
 A: No, you cannot.  
 On turns when the effect that increases the number of Enekoros is not in effect, you must roll the three Enekoros you showed your opponent during battle preparation.
 
-#### 38
+#### 39
 
 Q: I added more Enekoro during the battle to use more of them, due to a move’s effect or similar.  
 If the effect that allows me to use more Enekoro takes effect again on a different turn, do I have to use the same Enekoro?
@@ -610,7 +628,7 @@ If the effect that allows me to use more Enekoro takes effect again on a differe
 A: No, you do not have to use the same ones.  
 Please show your opponent the Enekoro each time you add them.
 
-#### 39
+#### 40
 
 Q: Can I choose my Charako and Enekoro types after looking at my opponent's Wazacards?
 
@@ -618,7 +636,7 @@ A: No, you cannot.
 You must reveal your Charakoro and Enekoro to each other at the same time while preparing for the battle.  
 Once al preparations for the battle are complete, turn all four Wazacards face up and start the battle.
 
-#### 40
+#### 41
 
 Q: What should I do if the number of Enekoro I can roll becomes 0 due to a move's effect or a similar reason?
 

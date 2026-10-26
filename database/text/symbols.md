@@ -22,9 +22,9 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 ## Orientations
 
-| Orientation |   Tag    |   Jap    |                                                                                                          Symbol                                                                                                          |
+| Orientation |   Tag    | Japanese |                                                                                                          Symbol                                                                                                          |
 | :---------: | :------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Standing   |   {st}   |   ⽴ち   |                                                         ![Standing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/standing.webp)                                                          |
+|  Standing   |   {st}   |   ⽴ち    |                                                         ![Standing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/standing.webp)                                                          |
 |  Handstand  |   {hs}   | さかだち |                                                        ![Handstand](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/handstand.webp)                                                         |
 |    Back     |   {ba}   | あおむけ |                                                             ![Back](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/back.webp)                                                              |
 |    Down     |   {do}   | うつぶせ |                                                             ![Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/down.webp)                                                              |

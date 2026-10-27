@@ -193,7 +193,7 @@ A: 10 damage.
 "The damage of the last attack selected by your opponent" is 20 damage.
 However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20-10=10.
 
-R: [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png), [Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)
+R: [Rebote](/database_es/cards/wazacards/ST/06-001_mew/STW06-007.png), [Cola Férrea](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-007.png)
 
 #### 19
 

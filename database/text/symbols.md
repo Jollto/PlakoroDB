@@ -22,20 +22,20 @@ For type reference in energy, I'll be using TCG nomenclature, with _Y_ for flyin
 
 ## Orientations
 
-| Orientation |   Tag    |                                                                                                          Symbol                                                                                                          |
-| :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Standing   |   {st}   |                                                         ![Standing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/standing.webp)                                                          |
-|  Handstand  |   {hs}   |                                                        ![Handstand](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/handstand.webp)                                                         |
-|    Back     |   {ba}   |                                                             ![Back](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/back.webp)                                                              |
-|    Down     |   {do}   |                                                             ![Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/down.webp)                                                              |
-|  Sideways   | {s1}{s2} | ![Sideways01](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape01.webp)![Sideways02](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape02.webp) |
+| Orientation |   Tag    | Japanese |                                                                                                          Symbol                                                                                                          |
+| :---------: | :------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Standing   |   {st}   |   ⽴ち   |                                                         ![Standing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/standing.webp)                                                          |
+|  Handstand  |   {hs}   | さかだち |                                                        ![Handstand](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/handstand.webp)                                                         |
+|    Back     |   {ba}   | あおむけ |                                                             ![Back](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/back.webp)                                                              |
+|    Down     |   {do}   | うつぶせ |                                                             ![Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/down.webp)                                                              |
+|  Sideways   | {s1}{s2} |  横向き  | ![Sideways01](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape01.webp)![Sideways02](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape02.webp) |
 
 ## Old plakoro
 
-| Orientation | Text  | x |
-| :---------: | :---: |
-|  Standing   | 直立  |
-|  Handstand  | 逆立  |
-|    Back     | 仰向  |
-|    Down     | 俯せ  |
-|  Sideways   |       |
+| Orientation | Text |
+| :---------: | :--: |
+|  Standing   | 直立 |
+|  Handstand  | 逆立 |
+|    Back     | 仰向 |
+|    Down     | 俯せ |
+|  Sideways   |      |

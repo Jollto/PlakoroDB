@@ -116,7 +116,7 @@ https://w.atwiki.jp/purakoro/pages/77.html
 		<!--3-1--><td style="">{G}{G}{G}</td>
 		<!--3-2--><td style="">次の自分の番にエネコロをもう1個追加してふることができる。</td>
 		<!--3-3--><td style="">Standing：次の自分の番にさらにエネコロをもう1個追加してふることができる。</td>
-		<!--3-4--><td style="">Handstand：自分が10ダメージ受ける。</td>
+		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">しめつける</td>
 		<!--4-1--><td style="">{G}{G}{G}</td>
@@ -128,7 +128,7 @@ https://w.atwiki.jp/purakoro/pages/77.html
 		<!--5-1--><td style="">{G}{G}{G}</td>
 		<!--5-2--><td style="">チビキャラコロを12個ふって、立った数×10のダメージを与える。</td>
 		<!--5-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--5-4--><td style="">Handstand：自分も20ダメージ</td>
+		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">たねばくだん</td>
 		<!--6-1--><td style="">{G}{G}{G}{G}</td>
@@ -140,7 +140,7 @@ https://w.atwiki.jp/purakoro/pages/77.html
 		<!--7-1--><td style="">{G}{G}{G}{G}</td>
 		<!--7-2--><td style="">40ダメージ</td>
 		<!--7-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--7-4--><td style="">Handstand：自分も20ダメージ</td>
+		<!--7-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--7-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">ひかりをあびる</td>
 		<!--8-1--><td style="">{G}{G}{G}</td>
@@ -152,6 +152,6 @@ https://w.atwiki.jp/purakoro/pages/77.html
 		<!--9-1--><td style="">{G}{G}</td>
 		<!--9-2--><td style="">20ダメージ</td>
 		<!--9-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--9-4--><td style="">Handstand：自分も10ダメージ</td>
+		<!--9-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--9-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1140d)">拡張パック1.ピカチュウ</a>他</td></tr>
 </tbody>

@@ -18,12 +18,12 @@ https://w.atwiki.jp/purakoro/pages/25.html
 		<!--2-1--><td style="">{L}{L}</td>
 		<!--2-2--><td style="">20ダメージを与える</td>
 		<!--2-3--><td style="">Standing・Back：が出たら追加で10ダメージを与える。</td>
-		<!--2-4--><td style="">Handstand：が出たら自分も10ダメージを受ける。</td></tr>
+		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">たいあたり</td>
 		<!--3-1--><td style="">{L}{L}{L}</td>
 		<!--3-2--><td style="">30ダメージを与える</td>
 		<!--3-3--><td style="">Standing：が出たら追加で20ダメージを与える。</td>
-		<!--3-4--><td style="">Handstand：が出たら自分も20ダメージを受ける。</td></tr>
+		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">サンダーショック</td>
 		<!--4-1--><td style="">{L}{L}{L}</td>
 		<!--4-2--><td style="">相手は次の番にふるエネコロを2個へらす。</td>
@@ -33,7 +33,7 @@ https://w.atwiki.jp/purakoro/pages/25.html
 		<!--5-1--><td style="">{L}{L}{L}{L}</td>
 		<!--5-2--><td style="">20ダメージ与える。<br>このワザは3回トライする、<br>3回とも成功したら追加で20ダメージを与える。</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Handstand・Down：が出たら自分も10ダメージ受ける。</td></tr>
+		<!--5-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">サンダーボルト</td>
 		<!--6-1--><td style="">{L}{L}{L}{L}</td>
 		<!--6-2--><td style="">40ダメージ与える、<br>1つ前の自分の番にワザ「フラッシュ」が成功していれば追加で20ダメージ与える。</td>
@@ -50,7 +50,7 @@ https://w.atwiki.jp/purakoro/pages/25.html
 		<!--1-1--><td style="">{L}</td>
 		<!--1-2--><td style="">10ダメージを与える</td>
 		<!--1-3--><td style="">Standing・Back：が出たら追加で10ダメージを与える。</td>
-		<!--1-4--><td style="">Handstand：が出たら自分も10ダメージを受ける。</td></tr>
+		<!--1-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ダブルソニック</td>
 		<!--2-1--><td style="">{L}{L}</td>
 		<!--2-2--><td style="">10ダメージを与える。<br>このワザは2回トライする。</td>
@@ -65,7 +65,7 @@ https://w.atwiki.jp/purakoro/pages/25.html
 		<!--4-1--><td style="">{L}{L}{L}</td>
 		<!--4-2--><td style="">20ダメージを与える。<br>そしてエネコロを1個ふり{L}が1個でも出れば追加で20ダメージを与える。</td>
 		<!--4-3--><td style="">Standing：が出たら追加で10ダメージを与える。</td>
-		<!--4-4--><td style="">Handstand：が出たら自分も20ダメージを受ける。</td></tr>
+		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">サンダーチャージ</td>
 		<!--5-1--><td style="">{L}{L}{L}</td>
 		<!--5-2--><td style="">次に自分がふるエネコロを1個追加してふる。</td>

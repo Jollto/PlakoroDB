@@ -16,12 +16,12 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">あわてる</td>
 		<!--2-1--><td style="">{W}{W}</td>
-		<!--2-2--><td style="">20ダメージを与える<br>しかし自分も20ダメージを受ける。</td>
+		<!--2-2--><td style="">20ダメージを与える<br>This Pokémon does 20 damage to itself.</td>
 		<!--2-3--><td style="">Standing：このワザで自分が受けるダメージが0になる。</td>
-		<!--2-4--><td style="">Handstand：自分も10ダメージ</td></tr>
+		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ずつう</td>
 		<!--3-1--><td style="">{W}{W}</td>
-		<!--3-2--><td style="">次の自分の番にエネコロを1個追加してふる、<br>しかし自分も10ダメージを受ける。</td>
+		<!--3-2--><td style="">次の自分の番にエネコロを1個追加してふる、<br>This Pokémon does 10 damage to itself.</td>
 		<!--3-3--><td style="">Standing：このワザで自分が受けるダメージが0になる。</td>
 		<!--3-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">あたまをさする</td>
@@ -33,7 +33,7 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--5-1--><td style="">{W}{W}{W}</td>
 		<!--5-2--><td style="">30ダメージ</td>
 		<!--5-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--5-4--><td style="">Handstand：自分も10ダメージ</td></tr>
+		<!--5-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">へんなはどう</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">ワザが成功したら出ているエネコロの{W}の数×10のダメージを与える。</td>
@@ -49,7 +49,7 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--1-1--><td style="">{W}</td>
 		<!--1-2--><td style="">10ダメージ</td>
 		<!--1-3--><td style="">なし</td>
-		<!--1-4--><td style="">Handstand：自分も10ダメージ</td></tr>
+		<!--1-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">つつく</td>
 		<!--2-1--><td style="">{W}{W}</td>
 		<!--2-2--><td style="">20ダメージ</td>
@@ -62,14 +62,14 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--3-4--><td style="">Handstand：この番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">げきつう</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
-		<!--4-2--><td style="">次の自分の番にエネコロを2個追加してふる、<br>しかし自分も20ダメージを受ける。</td>
+		<!--4-2--><td style="">次の自分の番にエネコロを2個追加してふる、<br>This Pokémon does 20 damage to itself.</td>
 		<!--4-3--><td style="">Standing：このワザで自分が受けるダメージが0になる。</td>
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">われにかえる</td>
 		<!--5-1--><td style="">{W}{W}{W}</td>
 		<!--5-2--><td style="">20ダメージを与える、<br>1つ前の自分の番にワザあわてるが成功していたら追加で20ダメージを与える。</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Handstand：自分も10ダメージ</td></tr>
+		<!--5-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">かなしばり</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">30ダメージを与え、<br>相手は次の自分の番にふるエネコロを1個へらす。</td>
@@ -95,7 +95,7 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--2-1--><td style="">{W}{W}</td>
 		<!--2-2--><td style="">チビキャラコロを6個ふって、立った数だけ相手は次の番にふるエネコロをへらす。</td>
 		<!--2-3--><td style="">Standing・Back：10HPを回復する。</td>
-		<!--2-4--><td style="">自分が10ダメージ受ける。</td>
+		<!--2-4--><td style="">This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/173.html" title="拡張パック8.コダック (799d)">拡張パック8.コダック</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">へんなちから</td>
 		<!--3-1--><td style="">{W}{W}{W}{W}</td>

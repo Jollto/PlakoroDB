@@ -31,7 +31,7 @@ https://w.atwiki.jp/purakoro/pages/19.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">でんげき</td>
 		<!--4-1--><td style="">{R}{L}</td>
 		<!--4-2--><td style="">直　左右　俯</td>
-		<!--4-3--><td style="">40ダメージ。<br>ただしワザが失敗したら自分が20ダメージ受ける。</td>
+		<!--4-3--><td style="">40ダメージ。<br>ただしワザが失敗したらThis Pokémon does 20 damage to itself.</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">スピードスター</td>
@@ -69,7 +69,7 @@ https://w.atwiki.jp/purakoro/pages/19.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">フラッシュ</td>
 		<!--3-1--><td style="">{L}{Y}</td>
 		<!--3-2--><td style="">直　左右　俯</td>
-		<!--3-3--><td style="">30ダメージを与え、自分も10ダメージ受ける。<br>同時にHPが0になったら自分の負け。</td>
+		<!--3-3--><td style="">30ダメージを与え、This Pokémon does 10 damage to itself.<br>同時にHPが0になったら自分の負け。</td>
 		<!--3-4--><td style="">なし</td>
 		<!--3-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">スパーク</td>
@@ -87,7 +87,7 @@ https://w.atwiki.jp/purakoro/pages/19.html
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">げきとつ</td>
 		<!--6-1--><td style="">{R}{L}{L}{F}</td>
 		<!--6-2--><td style="">直　左右　　</td>
-		<!--6-3--><td style="">60ダメージを与え、自分も30ダメージを受ける。<br>同時にHPが0になったら自分の負け。</td>
+		<!--6-3--><td style="">60ダメージを与え、This Pokémon does 30 damage to itself.<br>同時にHPが0になったら自分の負け。</td>
 		<!--6-4--><td style="">なし</td>
 		<!--6-5--><td style="">なし</td></tr>
 </tbody>
@@ -128,13 +128,13 @@ https://w.atwiki.jp/purakoro/pages/19.html
 		<!--5-1--><td style="">{L}{L}{L}{L}</td>
 		<!--5-2--><td style="">40ダメージ</td>
 		<!--5-3--><td style="">Standing：追加で40ダメージ</td>
-		<!--5-4--><td style="">Handstand：自分も30ダメージ</td>
+		<!--5-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1132d)">拡張パック1.ピカチュウ</a><br><a href="//w.atwiki.jp/purakoro/pages/47.html" title="DXなみのりピカチュウ (798d)">DXなみのりピカチュウ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ほうでんMAX</td>
 		<!--6-1--><td style="">{L}{L}{L}{L}</td>
 		<!--6-2--><td style="">チビキャラコロを12個ふって立った数x10のダメージを与える。</td>
 		<!--6-3--><td style="">Standing：追加で30ダメージ</td>
-		<!--6-4--><td style="">Handstand：自分も20ダメージ</td>
+		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1132d)">拡張パック1.ピカチュウ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">でんげき</td>
 		<!--7-1--><td style="">{L}</td>
@@ -146,7 +146,7 @@ https://w.atwiki.jp/purakoro/pages/19.html
 		<!--8-1--><td style="">{L}{L}</td>
 		<!--8-2--><td style="">20ダメージ</td>
 		<!--8-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--8-4--><td style="">Handstand：自分も10ダメージ</td>
+		<!--8-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--8-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/47.html" title="DXなみのりピカチュウ (798d)">DXなみのりピカチュウ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="">じゅうでん</td>
 		<!--9-1--><td style="">{L}{L}{L}</td>

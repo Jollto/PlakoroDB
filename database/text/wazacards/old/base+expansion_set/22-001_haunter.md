@@ -23,12 +23,12 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--3-1--><td style="">{P}{P}</td>
 		<!--3-2--><td style="">10ダメージ</td>
 		<!--3-3--><td style="">Standing・Back：相手は次の番にふるエネコロを1個へらす。</td>
-		<!--3-4--><td style="">Handstand：自分も10ダメージ</td></tr>
+		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ゆめくい</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
 		<!--4-2--><td style="">20ダメージを与える。<br>1つ前の自分の番にワザ「さいみんじゅつ」が成功していれば追加で20ダメージを与える。</td>
 		<!--4-3--><td style="">Standing：追加で10ダメージ</td>
-		<!--4-4--><td style="">Handstand：自分も20ダメージ</td></tr>
+		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">のろい</td>
 		<!--5-1--><td style="">{P}{P}{P}</td>
 		<!--5-2--><td style="">次の相手の番に相手が使うワザを相手のワザの中から自分が選ぶ。</td>
@@ -54,7 +54,7 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--2-1--><td style="">{P}{P}</td>
 		<!--2-2--><td style="">20ダメージ</td>
 		<!--2-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--2-4--><td style="">Handstand：自分も20ダメージ</td></tr>
+		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">さいみんじゅつ</td>
 		<!--3-1--><td style="">{P}{P}</td>
 		<!--3-2--><td style="">次の相手の番に使えるワザカードを1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
@@ -67,14 +67,14 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--4-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">エナジーへんかん</td>
 		<!--5-1--><td style="">{P}{P}{P}</td>
-		<!--5-2--><td style="">自分も20ダメージを受けるが<br>次の自分の番にふるエネコロをもう2個追加してふる。</td>
+		<!--5-2--><td style="">This Pokémon does 20 damage to itself.<br>次の自分の番にふるエネコロをもう2個追加してふる。</td>
 		<!--5-3--><td style="">Standing：このワザで自分が受けるダメージが0になる。</td>
 		<!--5-4--><td style="">Handstand：自分がさらに10ダメージを受ける。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">あくむ</td>
 		<!--6-1--><td style="">{P}{P}{P}{P}</td>
 		<!--6-2--><td style="">ワザが成功したら出ているエネコロの{P}の数×10ダメージを与える、<br>1つ前の自分の番にワザ「さいみんじゅつ」が成功していれば相手に与えるダメージは出ているエネコロの{P}の数×20になる。</td>
 		<!--6-3--><td style="">なし</td>
-		<!--6-4--><td style="">Handstand・Back：自分も30ダメージ</td></tr>
+		<!--6-4--><td style="">Handstand・Back：This Pokémon does 30 damage to itself.</td></tr>
 </tbody>
 
 ### Expansion Set
@@ -95,13 +95,13 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--2-1--><td style="">{P}{P}</td>
 		<!--2-2--><td style="">チビキャラコロを6個ふって、立った数×10のダメージを与える。<br>1つ前の自分の番にワザ「さいみんじゅつ」が成功していればさらにチビキャラコロを6個ふって、立った数×10のダメージを追加で与える。</td>
 		<!--2-3--><td style="">なし</td>
-		<!--2-4--><td style="">Handstand：自分も10ダメージ</td>
+		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/141.html" title="拡張パック5.ゴースト (1167d)">拡張パック5.ゴースト</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">サイコシャワー</td>
 		<!--3-1--><td style="">{P}{P}{P}{P}</td>
 		<!--3-2--><td style="">20ダメージを与える。<br>さらにチビキャラコロを12個ふって、立った数×10のダメージを追加で与える。</td>
 		<!--3-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--3-4--><td style="">Handstand：自分も20ダメージ</td>
+		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/141.html" title="拡張パック5.ゴースト (1167d)">拡張パック5.ゴースト</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">マインドショック</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>

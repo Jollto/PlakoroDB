@@ -13,12 +13,12 @@ https://w.atwiki.jp/purakoro/pages/37.html
 		<!--1-1--><td style="">{R}</td>
 		<!--1-2--><td style="">10ダメージを与える</td>
 		<!--1-3--><td style="">Standing・Back：が出たら追加で10ダメージを与える。</td>
-		<!--1-4--><td style="">Handstand：が出たら自分も20ダメージを受ける。</td></tr>
+		<!--1-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">おたけび</td>
 		<!--2-1--><td style="">{R}{R}</td>
 		<!--2-2--><td style="">次の自分の番にエネコロを1個追加してふる。</td>
 		<!--2-3--><td style="">Standing：が出たら次の自分の番にさらにエネコロを1個追加してふる。</td>
-		<!--2-4--><td style="">Handstand：が出たら自分が10ダメージを受ける。</td></tr>
+		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">にらみつける</td>
 		<!--3-1--><td style="">{R}{R}</td>
 		<!--3-2--><td style="">次の相手の番に使えるワザカード1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
@@ -28,12 +28,12 @@ https://w.atwiki.jp/purakoro/pages/37.html
 		<!--4-1--><td style="">{R}{R}{R}</td>
 		<!--4-2--><td style="">20ダメージを与える、<br>さらに1つ前の相手の番にダメージを30以上受けていれば追加で20ダメージを与える。</td>
 		<!--4-3--><td style="">Standing：が出たら追加で20ダメージを与える。</td>
-		<!--4-4--><td style="">Handstand：が出たら自分も20ダメージ受ける。</td></tr>
+		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">バーニングアタック</td>
 		<!--5-1--><td style="">{R}{R}{R}{R}</td>
 		<!--5-2--><td style="">50ダメージを与える。</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Handstand・Down：が出たら自分も20ダメージを受ける。</td></tr>
+		<!--5-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">かみのいかり</td>
 		<!--6-1--><td style="">{R}{R}{R}{R}{R}{R}</td>
 		<!--6-2--><td style="">100ダメージを与える、<br>しかしこのワザを使ったら次の自分の番1回休みになる。</td>
@@ -55,12 +55,12 @@ https://w.atwiki.jp/purakoro/pages/37.html
 		<!--2-1--><td style="">{R}{R}</td>
 		<!--2-2--><td style="">20ダメージを与える</td>
 		<!--2-3--><td style="">Standing・Back：が出たら追加で10ダメージを与える。</td>
-		<!--2-4--><td style="">Handstand：が出たら自分も10ダメージを受ける。</td></tr>
+		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ファイヤーブレス</td>
 		<!--3-1--><td style="">{R}{R}{R}</td>
 		<!--3-2--><td style="">30ダメージを与える</td>
 		<!--3-3--><td style="">Standing：が出たら追加で30ダメージを与える。</td>
-		<!--3-4--><td style="">Handstand：が出たら自分も20ダメージを受ける。</td></tr>
+		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">いかりのおたけび</td>
 		<!--4-1--><td style="">{R}{R}{R}</td>
 		<!--4-2--><td style="">次の自分の番に出た{R}は全て{R}2個分として扱う、<br>ただし次の相手の番に受けるダメージは2倍になる。</td>

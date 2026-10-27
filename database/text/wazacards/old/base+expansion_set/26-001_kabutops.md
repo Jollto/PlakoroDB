@@ -18,22 +18,22 @@ https://w.atwiki.jp/purakoro/pages/15.html
 		<!--2-1--><td style="">{F}{F}</td>
 		<!--2-2--><td style="">20ダメージを与える。</td>
 		<!--2-3--><td style="">Standing：追加で20ダメージを与える。</td>
-		<!--2-4--><td style="">Handstand：自分も20ダメージを受ける。</td></tr>
+		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">にらみつける</td>
 		<!--3-1--><td style="">{F}{F}</td>
 		<!--3-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
 		<!--3-3--><td style="">Standing・Back：10ダメージを与える。</td>
-		<!--3-4--><td style="">Handstand・Down：自分が10ダメージを受ける。</td></tr>
+		<!--3-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">するどいかま</td>
 		<!--4-1--><td style="">{F}{F}{F}</td>
 		<!--4-2--><td style="">20ダメージを与える。</td>
 		<!--4-3--><td style="">Standing・Back：追加で20ダメージを与える。</td>
-		<!--4-4--><td style="">Handstand・Down：自分も10ダメージを受ける。</td></tr>
+		<!--4-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">カブトアーマー</td>
 		<!--5-1--><td style="">{F}{F}{F}</td>
 		<!--5-2--><td style="">次の相手の番に受けるダメージの合計から40ダメージをへらす。</td>
 		<!--5-3--><td style="">Standing：20ダメージを与える。<br>Back：次の自分の番にふるエネコロを1個追加してふる。</td>
-		<!--5-4--><td style="">Handstand：自分も20ダメージを受ける。</td></tr>
+		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">すいとる</td>
 		<!--6-1--><td style="">{F}{F}{F}{F}</td>
 		<!--6-2--><td style="">40ダメージを与える。<br>1つ前の自分の番にワザ「かりとる」が成功していれば追加で20ダメージを与え、自分もHPを20回復する。</td>
@@ -49,12 +49,12 @@ https://w.atwiki.jp/purakoro/pages/15.html
 		<!--1-1--><td style="">{F}</td>
 		<!--1-2--><td style="">10ダメージを与える。</td>
 		<!--1-3--><td style="">なし</td>
-		<!--1-4--><td style="">Handstand：自分も10ダメージを受ける。</td></tr>
+		<!--1-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">みだれづき</td>
 		<!--2-1--><td style="">{F}{F}</td>
 		<!--2-2--><td style="">10ダメージを与える、<br>このワザは2回トライする。</td>
 		<!--2-3--><td style="">Standing：追加で10ダメージを与える。</td>
-		<!--2-4--><td style="">Handstand：自分も10ダメージを受ける。</td></tr>
+		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">かぶとをしめる</td>
 		<!--3-1--><td style="">{F}{F}</td>
 		<!--3-2--><td style="">次の自分の番にふるエネコロを1個追加してふる。</td>
@@ -74,7 +74,7 @@ https://w.atwiki.jp/purakoro/pages/15.html
 		<!--6-1--><td style="">{F}{F}{F}{F}{F}</td>
 		<!--6-2--><td style="">60ダメージを与える。</td>
 		<!--6-3--><td style="">Standing：追加で30ダメージを与える。</td>
-		<!--6-4--><td style="">Handstand：自分も30ダメージを受ける。</td></tr>
+		<!--6-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td></tr>
 </tbody>
 
 ### Expansion Set
@@ -95,7 +95,7 @@ https://w.atwiki.jp/purakoro/pages/15.html
 		<!--2-1--><td style="">{F}{F}{F}</td>
 		<!--2-2--><td style="">30ダメージを与える。</td>
 		<!--2-3--><td style="">Standing・Back：チビキャラコロを6個ふって、立った数×10のダメージを追加で与える。</td>
-		<!--2-4--><td style="">Handstand：自分も10ダメージ受ける。</td>
+		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/137.html" title="拡張パック6.カブトプス (1155d)">拡張パック6.カブトプス</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ひっさつのカマ</td>
 		<!--3-1--><td style="">{F}{F}{F}{F}</td>
@@ -107,6 +107,6 @@ https://w.atwiki.jp/purakoro/pages/15.html
 		<!--4-1--><td style="">{F}{F}</td>
 		<!--4-2--><td style="">チビキャラコロを6個ふって、立った数だけ次の自分の番にエネコロを追加してふる。</td>
 		<!--4-3--><td style="">Standing：次の自分の番にエネコロをもう1個追加してふる。</td>
-		<!--4-4--><td style="">Handstand：自分が10ダメージを受ける。</td>
+		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/138.html" title="拡張パック6.スピアー (1155d)">拡張パック6.スピアー</a>他</td></tr>
 </tbody>

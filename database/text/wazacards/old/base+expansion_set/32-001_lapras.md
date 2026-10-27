@@ -13,7 +13,7 @@ https://w.atwiki.jp/purakoro/pages/107.html
 		<!--1-1--><td style="">{W}</td>
 		<!--1-2--><td style="">10ダメージ</td>
 		<!--1-3--><td style="">なし</td>
-		<!--1-4--><td style="">Handstand：自分も10ダメージ</td></tr>
+		<!--1-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">のしかかり</td>
 		<!--2-1--><td style="">{W}{W}</td>
 		<!--2-2--><td style="">20ダメージ</td>
@@ -23,7 +23,7 @@ https://w.atwiki.jp/purakoro/pages/107.html
 		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">次の自分の番にエネコロを1個追加してふる。</td>
 		<!--3-3--><td style="">なし</td>
-		<!--3-4--><td style="">Handstand：自分が10ダメージ受ける。</td></tr>
+		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">なみのり</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">20ダメージ</td>
@@ -54,7 +54,7 @@ https://w.atwiki.jp/purakoro/pages/107.html
 		<!--2-1--><td style="">{W}{W}</td>
 		<!--2-2--><td style="">20ダメージ</td>
 		<!--2-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--2-4--><td style="">Handstand：自分も20ダメージ</td></tr>
+		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">あやしいひかり</td>
 		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">相手は次の番にふるエネコロを1個へらす。</td>
@@ -64,12 +64,12 @@ https://w.atwiki.jp/purakoro/pages/107.html
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">次の相手の番にふるエネコロを1個へらし、<br>次の自分の番にエネコロを1個追加してふる。</td>
 		<!--4-3--><td style="">なし</td>
-		<!--4-4--><td style="">Handstand：自分が10ダメージ</td></tr>
+		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">オーロラビーム</td>
 		<!--5-1--><td style="">{W}{W}{W}</td>
 		<!--5-2--><td style="">30ダメージ</td>
 		<!--5-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--5-4--><td style="">Handstand：自分も20ダメージ</td></tr>
+		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ハイドロプレッシャー</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">60ダメージ</td>
@@ -101,7 +101,7 @@ https://w.atwiki.jp/purakoro/pages/107.html
 		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">相手のエネコロを1個へらし、次の自分の番が終わるまでそのエネコロを自分のエネコロに加えて使う。<br>（次の自分が終わったら相手にエネコロを返すこと。）</td>
 		<!--3-3--><td style="">なし</td>
-		<!--3-4--><td style="">Handstand：自分が20ダメージ</td>
+		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/164.html" title="拡張パック7.ラプラス (623d)">拡張パック7.ラプラス</a>他</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">こうらアタック</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>

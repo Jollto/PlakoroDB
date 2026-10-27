@@ -10,17 +10,17 @@ Back
 俯せ
 Down
 
-自分(にも|も|が)(\d+)ダメージ(受ける)?(。)?
-This Pokémon does $2 damage to itself.
+(が出たら)?(しかし)?自分(にも|も|が)(\d+)ダメージを?(受ける)?が?(。|、)?
+This Pokémon does $4 damage to itself.
 
-自分が追加で(\d+)ダメージ(受ける)?(。)?
+自分が追加で(\d+)ダメージ(受ける)?(。|、)?
 This Pokémon does $1 more damage to itself.
 
 次の相手の番に受けるダメージの合計から(\d+)ダメージ(へらし|をへらす)?(。|、)?
 During your opponent's next turn, this Pokémon takes $1 less damage from attacks.
 
-追加で(\d+)ダメージ(を与える)?(。|、)?
-This attack does $1 more damage.
+(が出たら)?追加で(\d+)ダメージ(を与える)?(。|、)?
+This attack does $2 more damage.
 
 (?<![×x\d])(＋|相手に)?(\d+)ダメージ(を)?(与え)?(る)?(。|、)?
 This attack does $2 damage.
@@ -86,3 +86,5 @@ This attack may be used $1 times.
 
 出ている(.+)の数×(\d+)ダメージ
 This attack does $2 damage for each $1 energy produced.
+
+が出たら

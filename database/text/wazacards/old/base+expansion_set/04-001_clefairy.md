@@ -75,7 +75,7 @@ https://w.atwiki.jp/purakoro/pages/21.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">すてみタックル</td>
 		<!--4-1--><td style="">{F}{Y}{Y}</td>
 		<!--4-2--><td style="">直　左右　俯</td>
-		<!--4-3--><td style="">50ダメージ<br>自分も20ダメージ</td>
+		<!--4-3--><td style="">50ダメージ<br>This Pokémon does 20 damage to itself.</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">のしかかり</td>
@@ -122,13 +122,13 @@ https://w.atwiki.jp/purakoro/pages/21.html
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
 		<!--4-3--><td style="">Standing・Back：20ダメージを与える。</td>
-		<!--4-4--><td style="">Handstand：自分が20ダメージ受ける。</td>
+		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/150.html" title="拡張パック1.ピッピ (1038d)">拡張パック1.ピッピ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ちいさくなる</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">次の相手の番で相手のワザが成功しても、<br>相手のキャラコロの向きが{hs}{ba}{do}だったら相手のワザは失敗する。</td>
 		<!--5-3--><td style="">Standing・Back：20ダメージを与える。</td>
-		<!--5-4--><td style="">Handstand：自分が10ダメージ受ける。</td>
+		<!--5-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/150.html" title="拡張パック1.ピッピ (1038d)">拡張パック1.ピッピ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ともだちのわ</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
@@ -140,12 +140,12 @@ https://w.atwiki.jp/purakoro/pages/21.html
 		<!--7-1--><td style="">{Y}{Y}{Y}{Y}</td>
 		<!--7-2--><td style="">チビキャラコロを12個ふって、立った数×20ダメージを与える、<br>ただしこのワザは自分のHPが40以下のときにしかつかえない。</td>
 		<!--7-3--><td style="">Standing：さらにチビキャラコロを6個ふって、立った数×20のダメージを追加で与える。</td>
-		<!--7-4--><td style="">Handstand：自分も30ダメージ</td>
+		<!--7-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td>
 		<!--7-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1136d)">拡張パック1.ピカチュウ</a>他</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">だきつく</td>
 		<!--8-1--><td style="">{Y}{Y}{Y}</td>
 		<!--8-2--><td style="">20ダメージ</td>
 		<!--8-3--><td style="">Standing：追加で40ダメージ</td>
-		<!--8-4--><td style="">Handstand：自分も10ダメージ</td>
+		<!--8-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--8-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1136d)">拡張パック1.ピカチュウ</a>他</td></tr>
 </tbody>

@@ -81,7 +81,7 @@ https://w.atwiki.jp/purakoro/pages/76.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">すてみタックル</td>
 		<!--5-1--><td style="">{F}{F}{Y}</td>
 		<!--5-2--><td style="">直　左右　俯</td>
-		<!--5-3--><td style="">50ダメージ<br>自分も20ダメージ</td>
+		<!--5-3--><td style="">50ダメージ<br>This Pokémon does 20 damage to itself.</td>
 		<!--5-4--><td style="">なし</td>
 		<!--5-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">じごくぐるま</td>
@@ -110,13 +110,13 @@ https://w.atwiki.jp/purakoro/pages/76.html
 		<!--2-1--><td style="">{F}{F}</td>
 		<!--2-2--><td style="">20ダメージ</td>
 		<!--2-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--2-4--><td style="">Handstand：自分も20ダメージ</td>
+		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ずつき</td>
 		<!--3-1--><td style="">{F}{F}{F}</td>
 		<!--3-2--><td style="">自分と相手がお互いにチビキャラコロを12個ずつふりあい、<br>自分が立った数×20ダメージを相手に与え、相手が立った数×10のダメージを自分が受ける。</td>
 		<!--3-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--3-4--><td style="">Handstand：自分も20ダメージ</td>
+		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">いかりのいちげき</td>
 		<!--4-1--><td style="">{F}{F}{F}{F}</td>
@@ -128,7 +128,7 @@ https://w.atwiki.jp/purakoro/pages/76.html
 		<!--5-1--><td style="">{F}{F}{F}{F}</td>
 		<!--5-2--><td style="">ワザが成功したら出ているエネコロの{F}の数×10のダメージを与える。</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Handstand：自分も30ダメージ</td>
+		<!--5-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">だいじしん</td>
 		<!--6-1--><td style="">{F}{F}{F}{F}</td>
@@ -146,6 +146,6 @@ https://w.atwiki.jp/purakoro/pages/76.html
 		<!--8-1--><td style="">{F}{F}{F}</td>
 		<!--8-2--><td style="">次の自分の番にエネコロをもう1個追加してふることができる</td>
 		<!--8-3--><td style="">Standing：次の自分の番にさらにエネコロをもう1個追加してふることができる。</td>
-		<!--8-4--><td style="">Handstand：自分が10ダメージ</td>
+		<!--8-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--8-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1138d)">拡張パック1.ピカチュウ</a>他</td></tr>
 </tbody>

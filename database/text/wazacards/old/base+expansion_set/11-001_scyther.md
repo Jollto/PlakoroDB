@@ -13,17 +13,17 @@ https://w.atwiki.jp/purakoro/pages/51.html
 		<!--1-1--><td style="">{G}</td>
 		<!--1-2--><td style="">10ダメージ</td>
 		<!--1-3--><td style="">なし</td>
-		<!--1-4--><td style="">Handstand：自分も10ダメージ</td></tr>
+		<!--1-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">でんこうせっか</td>
 		<!--2-1--><td style="">{G}{G}</td>
 		<!--2-2--><td style="">20ダメージ</td>
 		<!--2-3--><td style="">なし</td>
-		<!--2-4--><td style="">Handstand：自分も10ダメージ</td></tr>
+		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">みねうち</td>
 		<!--3-1--><td style="">{G}{G}</td>
 		<!--3-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
 		<!--3-3--><td style="">Standing・Back：10ダメージ与える</td>
-		<!--3-4--><td style="">Handstand・Down：自分も10ダメージ</td></tr>
+		<!--3-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">つるぎのまい</td>
 		<!--4-1--><td style="">{G}{G}{G}</td>
 		<!--4-2--><td style="">次の自分の番にでた{G}は全て{G}2個分としてあつかう。</td>
@@ -33,12 +33,12 @@ https://w.atwiki.jp/purakoro/pages/51.html
 		<!--5-1--><td style="">{G}{G}{G}</td>
 		<!--5-2--><td style="">30ダメージ</td>
 		<!--5-3--><td style="">Standing・Back：追加で20ダメージ</td>
-		<!--5-4--><td style="">Handstand・Down：自分も20ダメージ</td></tr>
+		<!--5-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">たつまきぎり</td>
 		<!--6-1--><td style="">{G}{G}{G}{G}{G}</td>
 		<!--6-2--><td style="">70ダメージ</td>
 		<!--6-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--6-4--><td style="">Handstand：自分も20ダメージ</td></tr>
+		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 </tbody>
 
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="">技名</td>
@@ -58,9 +58,9 @@ https://w.atwiki.jp/purakoro/pages/51.html
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">すてみタックル</td>
 		<!--3-1--><td style="">{G}{G}</td>
-		<!--3-2--><td style="">30ダメージを与え、<br>自分も10ダメージ受ける。</td>
+		<!--3-2--><td style="">30ダメージを与え、<br>This Pokémon does 10 damage to itself.</td>
 		<!--3-3--><td style="">Standing：追加で10ダメージ</td>
-		<!--3-4--><td style="">Handstand・Down：自分も10ダメージ</td></tr>
+		<!--3-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">かまえる</td>
 		<!--4-1--><td style="">{G}{G}{G}</td>
 		<!--4-2--><td style="">次の自分の番で出たエネコロの結果に{G}を1つ足すことができる。</td>
@@ -70,12 +70,12 @@ https://w.atwiki.jp/purakoro/pages/51.html
 		<!--5-1--><td style="">{G}{G}{G}</td>
 		<!--5-2--><td style="">20ダメージ</td>
 		<!--5-3--><td style="">Standing・Back：追加で40ダメージ</td>
-		<!--5-4--><td style="">Handstand・Down：自分も30ダメージ</td></tr>
+		<!--5-4--><td style="">Handstand・Down：This Pokémon does 30 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">まっぷたつ</td>
 		<!--6-1--><td style="">{G}{G}{G}{G}</td>
 		<!--6-2--><td style="">ワザが成功したら出ているエネコロの{G}の数×10のダメージを与える。</td>
 		<!--6-3--><td style="">Standing・Back：追加で20ダメージ</td>
-		<!--6-4--><td style="">Handstand・Down：自分も30ダメージ</td></tr>
+		<!--6-4--><td style="">Handstand・Down：This Pokémon does 30 damage to itself.</td></tr>
 </tbody>
 
 ### Expansion Set

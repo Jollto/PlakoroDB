@@ -55,12 +55,12 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--2-1--><td style="">{P}{P}</td>
 		<!--2-2--><td style="">ワザを2回トライして成功した数×10ダメージ</td>
 		<!--2-3--><td style="">Standing：追加で10ダメージ</td>
-		<!--2-4--><td style="">Handstand：自分も10ダメージ</td></tr>
+		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">(＊)サイコチャージ</td>
 		<!--3-1--><td style="">{P}{P}{P}</td>
 		<!--3-2--><td style="">次の自分の番のエネコロに{P}を足すことができる。</td>
 		<!--3-3--><td style="">Standing：次の自分の番にさらに{P}を追加して足すことができる。</td>
-		<!--3-4--><td style="">Handstand：自分が20ダメージ</td></tr>
+		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">サイコバスター</td>
 		<!--4-1--><td style="">{P}{P}{P}{P}{P}</td>
 		<!--4-2--><td style="">70ダメージ</td>
@@ -70,12 +70,12 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--5-1--><td style="">{P}{P}{P}</td>
 		<!--5-2--><td style="">30ダメージ</td>
 		<!--5-3--><td style="">Standing：追加で20ダメージ</td>
-		<!--5-4--><td style="">Handstand：自分も20ダメージ</td></tr>
+		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ショックウエーブ</td>
 		<!--6-1--><td style="">{P}{P}{P}</td>
 		<!--6-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
 		<!--6-3--><td style="">Standing・Back：追加で20ダメージ</td>
-		<!--6-4--><td style="">Handstand：自分が20ダメージ</td></tr>
+		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 </tbody>
 
 ＊「サイコ・チャージ」と「いかりのはどう」は公式カタログではそれぞれ逆のワザタイプのリストに入れ替わって記載されている。
@@ -98,7 +98,7 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--2-1--><td style="">{P}{P}{P}</td>
 		<!--2-2--><td style="">次の自分の番のワザが成功した場合、<br>相手に与えるダメージにチビキャラコロを8個ふって、立った数×10のダメージを加える。</td>
 		<!--2-3--><td style="">なし</td>
-		<!--2-4--><td style="">Handstand：自分が20ダメージ</td>
+		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/161.html" title="拡張パック2.ミュウツー (1158d)">拡張パック2.ミュウツー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">エネルギーきゅうしゅう</td>
 		<!--3-1--><td style="">{P}{P}{P}</td>
@@ -110,12 +110,12 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--4-1--><td style="">{P}{P}{P}{P}</td>
 		<!--4-2--><td style="">チビキャラコロを12個ふって立った数×10ダメージ</td>
 		<!--4-3--><td style="">Standing：さらにチビキャラコロを12個ふって立った数×10ダメージ</td>
-		<!--4-4--><td style="">Handstand：自分も20ダメージ</td>
+		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/158.html" title="拡張パック2.メタモン (1159d)">拡張パック2.メタモン</a>他</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">サイコパワー</td>
 		<!--5-1--><td style="">{P}{P}{P}</td>
 		<!--5-2--><td style="">次の自分の番にエネコロを1個追加してふる。</td>
 		<!--5-3--><td style="">Standing・Back：さらに次の自分の番にエネコロを1個追加してふる。</td>
-		<!--5-4--><td style="">Handstand：自分が10ダメージ</td>
+		<!--5-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/160.html" title="プラコロハンディバトルベース (787d)">プラコロハンディバトルベース</a></td></tr>
 </tbody>

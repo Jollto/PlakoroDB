@@ -13,12 +13,12 @@ https://w.atwiki.jp/purakoro/pages/40.html
 		<!--1-1--><td style="">{Y}</td>
 		<!--1-2--><td style="">10ダメージ</td>
 		<!--1-3--><td style="">なし</td>
-		<!--1-4--><td style="">Handstand：自分も10ダメージ</td></tr>
+		<!--1-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">タックル</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
 		<!--2-2--><td style="">20ダメージ</td>
 		<!--2-3--><td style="">Standing・Back：追加で10ダメージ</td>
-		<!--2-4--><td style="">Handstand・Down：自分も10ダメージ</td></tr>
+		<!--2-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">いびき</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
 		<!--3-2--><td style="">10ダメージ</td>
@@ -28,7 +28,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">20ダメージ</td>
 		<!--4-3--><td style="">Standing・Back：追加で30ダメージ</td>
-		<!--4-4--><td style="">Handstand・Down：自分も20ダメージ</td></tr>
+		<!--4-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">おおぐい</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">次の自分の番にエネコロをもう1個追加してふる。<br>さらに次の自分の番にワザが成功した場合、相手に与えるダメージに+20する</td>
@@ -38,7 +38,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
 		<!--6-2--><td style="">40ダメージ</td>
 		<!--6-3--><td style="">Standing・Back：次の相手の番に使えるワザを1つ選んでそれを使えなくする。ワザの効果は1回で消える。</td>
-		<!--6-4--><td style="">Handstand：自分も20ダメージ</td></tr>
+		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 </tbody>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="">技名</td>
 		<!--0-1--><td style="">エネルギー数</td>
@@ -101,7 +101,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 		<!--3-1--><td style="">{Y}{Y}{Y}</td>
 		<!--3-2--><td style="">20ダメージ</td>
 		<!--3-3--><td style="">Standing・Back：チビキャラコロを12個ふって、立った数×10のダメージを追加で与える。</td>
-		<!--3-4--><td style="">Handstand・Down：自分も20ダメージ</td>
+		<!--3-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/41.html" title="拡張パック3.カビゴン (1131d)">拡張パック3.カビゴン</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">まるまる</td>
 		<!--4-1--><td style="">{Y}{Y}</td>

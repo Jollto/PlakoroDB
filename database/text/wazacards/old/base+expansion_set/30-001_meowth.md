@@ -22,7 +22,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">わるだくみ</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
 		<!--3-2--><td style="">次の自分の番にエネコロを1個追加してふる。</td>
-		<!--3-3--><td style="">Standing：次の相手の番にふるエネコロを1個へらす。</td>
+		<!--3-3--><td style="">Standing：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ひとねむり</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
@@ -58,7 +58,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">いやなおと</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
 		<!--3-2--><td style="">This attack does 10 damage.</td>
-		<!--3-3--><td style="">Standing・Back：次の相手の番にふるエネコロを1個へらす。</td>
+		<!--3-3--><td style="">Standing・Back：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--3-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">みだれひっかき</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
@@ -67,7 +67,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ネコなでごえ</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
-		<!--5-2--><td style="">次の相手の番にふるエネコロを2個へらす。</td>
+		<!--5-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 2.</td>
 		<!--5-3--><td style="">Standing・Back：This attack does 20 damage.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ねこにこばん</td>
@@ -93,7 +93,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/144.html" title="拡張パック7.ニャース (630d)">拡張パック7.ニャース</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">おとしあな</td>
 		<!--2-1--><td style="">{Y}{Y}{Y}{Y}</td>
-		<!--2-2--><td style="">チビキャラコロを12個ふって立った数×10のダメージを与え、<br>さらに相手は次の番にふるエネコロを2個へらす。</td>
+		<!--2-2--><td style="">チビキャラコロを12個ふって立った数×10のダメージを与え、<br>On the opponent's next turn, reduce the number of Enekoro they roll by 2.</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/144.html" title="拡張パック7.ニャース (630d)">拡張パック7.ニャース</a>他</td></tr>

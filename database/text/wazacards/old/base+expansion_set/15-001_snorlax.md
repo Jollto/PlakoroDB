@@ -22,7 +22,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">いびき</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
 		<!--3-2--><td style="">This attack does 10 damage.</td>
-		<!--3-3--><td style="">Standing：次の相手の番に使えるワザを1つ選んでそれを使えなくする。ワザの効果は1回で消える。<br>Back：相手は次の番にふるエネコロを1個へらす。</td>
+		<!--3-3--><td style="">Standing：次の相手の番に使えるワザを1つ選んでそれを使えなくする。ワザの効果は1回で消える。<br>Back：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--3-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">だきつく</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>

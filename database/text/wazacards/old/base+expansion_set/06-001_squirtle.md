@@ -145,7 +145,7 @@ https://w.atwiki.jp/purakoro/pages/89.html
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">みずをかける</td>
 		<!--8-1--><td style="">{W}</td>
 		<!--8-2--><td style="">This attack does 10 damage.</td>
-		<!--8-3--><td style="">Standing・Down：相手は次の番にふるエネコロを1個へらす。</td>
+		<!--8-3--><td style="">Standing・Down：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--8-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
 		<!--8-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1136d)">拡張パック1.ピカチュウ</a>他</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="">からにこもる</td>

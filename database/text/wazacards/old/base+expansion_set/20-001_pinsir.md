@@ -52,7 +52,7 @@ https://w.atwiki.jp/purakoro/pages/34.html
 		<!--1-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ハサミをならす</td>
 		<!--2-1--><td style="">{G}{G}</td>
-		<!--2-2--><td style="">相手は次の番にふるエネコロを１個へらす。</td>
+		<!--2-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by $4.</td>
 		<!--2-3--><td style="">Standing：相手は次の番にふるエネコロをさらに１個へらす。</td>
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">タックル</td>
@@ -62,7 +62,7 @@ https://w.atwiki.jp/purakoro/pages/34.html
 		<!--3-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">まんりきバサミ</td>
 		<!--4-1--><td style="">{G}{G}{G}</td>
-		<!--4-2--><td style="">相手は次の番にふるエネコロを1個へらす。</td>
+		<!--4-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--4-3--><td style="">Standing・Back：This attack does 20 damage.</td>
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">なぎはらう</td>

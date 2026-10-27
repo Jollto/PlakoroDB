@@ -17,7 +17,7 @@ https://w.atwiki.jp/purakoro/pages/102.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">でんじは</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
 		<!--2-2--><td style="">This attack does 20 damage.</td>
-		<!--2-3--><td style="">Standing：相手は次の番にふるエネコロを1個へらす。</td>
+		<!--2-3--><td style="">Standing：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">にらみつける</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
@@ -73,7 +73,7 @@ https://w.atwiki.jp/purakoro/pages/102.html
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">はかいこうせん</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}{Y}</td>
 		<!--6-2--><td style="">This attack does 60 damage.</td>
-		<!--6-3--><td style="">Standing・Back：This attack does more 10 damage.追加で与え、相手は次の自分の番にふるエネコロを1個へらす。</td>
+		<!--6-3--><td style="">Standing・Back：This attack does more 10 damage.On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--6-4--><td style="">なし</td></tr>
 </tbody>
 

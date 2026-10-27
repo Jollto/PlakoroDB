@@ -63,7 +63,7 @@ https://w.atwiki.jp/purakoro/pages/148.html
 		<!--3-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">テレポート</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
-		<!--4-2--><td style="">相手は次の番にふるエネコロを2個へらす、<br>しかし自分も次の自分の番にふるエネコロを1個へらす。</td>
+		<!--4-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 2.<br>しかし自分も次の自分の番にふるエネコロを1個へらす。</td>
 		<!--4-3--><td style="">Standing：次の自分の番にエネコロを1個へらさない。</td>
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">サイコブースト</td>

@@ -57,7 +57,7 @@ https://w.atwiki.jp/purakoro/pages/44.html
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">はねまわる</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
-		<!--3-2--><td style="">相手は次の番にふるエネコロを1個へらす、<br>そして1つ前の自分の番にワザつきのひかりが成功していたら次の相手の番に使えるワザカードを1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
+		<!--3-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 1.<br>そして1つ前の自分の番にワザつきのひかりが成功していたら次の相手の番に使えるワザカードを1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">おうふくビンタ</td>

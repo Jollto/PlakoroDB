@@ -21,7 +21,7 @@ https://w.atwiki.jp/purakoro/pages/103.html
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">しろいきり</td>
 		<!--3-1--><td style="">{W}{W}</td>
-		<!--3-2--><td style="">相手は次の番にふるエネコロを1個へらす。</td>
+		<!--3-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--3-3--><td style="">Standing・Back：During your opponent's next turn, this Pokémon takes 30 less damage from attacks.</td>
 		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">アイスストーム</td>
@@ -58,7 +58,7 @@ https://w.atwiki.jp/purakoro/pages/103.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ふきとばし</td>
 		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">This attack does 10 damage.</td>
-		<!--3-3--><td style="">Standing・Back：相手は次の番にふるエネコロを1個へらす。</td>
+		<!--3-3--><td style="">Standing・Back：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--3-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">フリーズドライ</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
@@ -93,7 +93,7 @@ https://w.atwiki.jp/purakoro/pages/103.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/140.html" title="拡張パック5.フリーザー (1169d)">拡張パック5.フリーザー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ミラージュ</td>
 		<!--2-1--><td style="">{W}{W}{W}</td>
-		<!--2-2--><td style="">This attack does 20 damage.<br>さらに次の相手の番にふるエネコロを1個へらす。</td>
+		<!--2-2--><td style="">This attack does 20 damage.<br>On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--2-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/140.html" title="拡張パック5.フリーザー (1169d)">拡張パック5.フリーザー</a></td></tr>

@@ -27,7 +27,7 @@ https://w.atwiki.jp/purakoro/pages/93.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">さいみんじゅつ</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
-		<!--4-3--><td style="">Standing・Back：相手は次の番にふるエネコロを1個へらす。</td>
+		<!--4-3--><td style="">Standing・Back：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">のしかかり</td>
 		<!--5-1--><td style="">{W}{W}{W}</td>
@@ -37,7 +37,7 @@ https://w.atwiki.jp/purakoro/pages/93.html
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">うずしお</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">This attack does 70 damage.</td>
-		<!--6-3--><td style="">Standing：相手は次の番にふるエネコロを2個へらす。</td>
+		<!--6-3--><td style="">Standing：On the opponent's next turn, reduce the number of Enekoro they roll by 2.</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 </tbody>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="">技名</td>
@@ -53,7 +53,7 @@ https://w.atwiki.jp/purakoro/pages/93.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">あわ</td>
 		<!--2-1--><td style="">{W}{W}</td>
 		<!--2-2--><td style="">This attack does 10 damage.</td>
-		<!--2-3--><td style="">Standing・Back：相手は次の番にふるエネコロを1個へらす。</td>
+		<!--2-3--><td style="">Standing・Back：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">おうふくビンタ</td>
 		<!--3-1--><td style="">{W}{W}</td>

@@ -21,7 +21,7 @@ https://w.atwiki.jp/purakoro/pages/45.html
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">フラッシュ</td>
 		<!--3-1--><td style="">{L}{L}</td>
-		<!--3-2--><td style="">相手は次の番にふるエネコロを1個へらす。</td>
+		<!--3-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--3-3--><td style="">Standing：相手は次の番にふるエネコロをさらにもう1個へらす。</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">でんげきタックル</td>
@@ -62,7 +62,7 @@ https://w.atwiki.jp/purakoro/pages/45.html
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">でんきショック</td>
 		<!--4-1--><td style="">{L}{L}{L}</td>
-		<!--4-2--><td style="">20ダメージを与え、<br>相手は次の番にふるエネコロを1個へらす。</td>
+		<!--4-2--><td style="">20ダメージを与え、<br>On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--4-3--><td style="">Standing・Back：相手は次の番にふるエネコロをさらにもう1個へらす。</td>
 		<!--4-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">じゅうでんMAX</td>

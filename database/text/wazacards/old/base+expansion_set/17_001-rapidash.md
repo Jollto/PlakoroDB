@@ -21,7 +21,7 @@ https://w.atwiki.jp/purakoro/pages/100.html
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">こうそくいどう</td>
 		<!--3-1--><td style="">{R}{R}</td>
-		<!--3-2--><td style="">次の相手の番にふるエネコロを1個へらす。</td>
+		<!--3-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--3-3--><td style="">Standing・Back：This attack does 10 damage.</td>
 		<!--3-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">みだれづき</td>
@@ -32,7 +32,7 @@ https://w.atwiki.jp/purakoro/pages/100.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">かげぶんしん</td>
 		<!--5-1--><td style="">{R}{R}{R}</td>
 		<!--5-2--><td style="">次の相手の番で相手のワザが成功しても、相手のキャラコロの向きが{hs}{ba}{do}だったら相手のワザは失敗する。</td>
-		<!--5-3--><td style="">Standing・Back：相手は次の番にふるエネコロを1個へらす。</td>
+		<!--5-3--><td style="">Standing・Back：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--5-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">スピードスター</td>
 		<!--6-1--><td style="">{R}{R}{R}{R}</td>

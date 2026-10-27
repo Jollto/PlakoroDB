@@ -54,7 +54,7 @@ https://w.atwiki.jp/purakoro/pages/51.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">にらみつける</td>
 		<!--2-1--><td style="">{G}{G}</td>
 		<!--2-2--><td style="">This attack does 10 damage.</td>
-		<!--2-3--><td style="">Standing・Back：相手は次の番にふるエネコロを1個へらす。</td>
+		<!--2-3--><td style="">Standing・Back：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">すてみタックル</td>
 		<!--3-1--><td style="">{G}{G}</td>

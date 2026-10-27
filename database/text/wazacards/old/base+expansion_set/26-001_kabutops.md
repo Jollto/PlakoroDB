@@ -67,7 +67,7 @@ https://w.atwiki.jp/purakoro/pages/15.html
 		<!--4-4--><td style="">Handstand：相手に与えるダメージを20へらす。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">かりとる</td>
 		<!--5-1--><td style="">{F}{F}{F}</td>
-		<!--5-2--><td style="">This attack does 10 damage.次の相手の番にふるエネコロを1個へらす。</td>
+		<!--5-2--><td style="">This attack does 10 damage.On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--5-3--><td style="">Standing：次の自分の番にエネコロを1個追加してふる。<br>Back：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">かまいたち</td>

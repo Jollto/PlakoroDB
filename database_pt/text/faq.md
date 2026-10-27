@@ -248,7 +248,7 @@ Nesse caso, quantos Enekoro posso rolar no meu próximo turno?
 
 R: 3 Enekoro.
 
-Ref.: [Respiração Fria](/database/cards/wazacards/EB01/01-003_articuno/EBW01-028.png), [Aquecimento](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)
+Ref.: [Respiração Fria](/database_pt/cards/wazacards/EB01/01-003_articuno/EBW01-028.png), [Aquecimento](/database_pt/cards/wazacards/ST/02-001_charmander/STW02-002.png)
 
 #### 24
 

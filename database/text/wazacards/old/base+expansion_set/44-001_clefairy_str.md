@@ -11,13 +11,13 @@ https://w.atwiki.jp/purakoro/pages/44.html
 		<!--0-4--><td style="">追加デメリット</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">つつく</td>
 		<!--1-1--><td style="">{Y}</td>
-		<!--1-2--><td style="">10ダメージ</td>
-		<!--1-3--><td style="">Standing：＋10ダメージ</td>
+		<!--1-2--><td style="">This attack does 10 damage.</td>
+		<!--1-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ビンタ</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
-		<!--2-2--><td style="">10ダメージ</td>
-		<!--2-3--><td style="">Standing・Back：＋20ダメージ</td>
+		<!--2-2--><td style="">This attack does 10 damage.</td>
+		<!--2-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">とびはねる</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
@@ -26,8 +26,8 @@ https://w.atwiki.jp/purakoro/pages/44.html
 		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを１個減らす</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">たいあたり</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
-		<!--4-2--><td style="">30ダメージ</td>
-		<!--4-3--><td style="">Standing・Back：＋10ダメージ</td>
+		<!--4-2--><td style="">This attack does 30 damage.</td>
+		<!--4-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">つきのひかり</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
@@ -47,12 +47,12 @@ https://w.atwiki.jp/purakoro/pages/44.html
 		<!--0-4--><td style="">追加デメリット</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">はたく</td>
 		<!--1-1--><td style="">{Y}</td>
-		<!--1-2--><td style="">10ダメージ</td>
+		<!--1-2--><td style="">This attack does 10 damage.</td>
 		<!--1-3--><td style="">なし</td>
 		<!--1-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ひっかく</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
-		<!--2-2--><td style="">20ダメージ</td>
+		<!--2-2--><td style="">This attack does 20 damage.</td>
 		<!--2-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">はねまわる</td>
@@ -62,7 +62,7 @@ https://w.atwiki.jp/purakoro/pages/44.html
 		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">おうふくビンタ</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
-		<!--4-2--><td style="">このワザは2回トライする、<br>20ダメージを与える。</td>
+		<!--4-2--><td style="">このワザは2回トライする、<br>This attack does 20 damage.</td>
 		<!--4-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ゆびをふる</td>
@@ -72,7 +72,7 @@ https://w.atwiki.jp/purakoro/pages/44.html
 		<!--5-4--><td style="">Handstand：相手のワザを使うときエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ダイビングアタック</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
-		<!--6-2--><td style="">50ダメージ</td>
+		<!--6-2--><td style="">This attack does 50 damage.</td>
 		<!--6-3--><td style="">なし</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 </tbody>

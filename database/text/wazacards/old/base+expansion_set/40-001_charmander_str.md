@@ -67,7 +67,7 @@ https://w.atwiki.jp/purakoro/pages/42.html
 		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ほえる</td>
 		<!--5-1--><td style="">{R}{R}{R}</td>
-		<!--5-2--><td style="">10ダメージ与え、次の相手の番に使える技カードを1つ選んでそれを使えなくする（技の効果は1回で消える）</td>
+		<!--5-2--><td style="">This attack does 10 damage.次の相手の番に使える技カードを1つ選んでそれを使えなくする（技の効果は1回で消える）</td>
 		<!--5-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--5-4--><td style="">次の自分の番に振るエネコロを1つ減らす</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ほのおのうず</td>

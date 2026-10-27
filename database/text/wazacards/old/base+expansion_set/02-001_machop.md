@@ -13,19 +13,19 @@ https://w.atwiki.jp/purakoro/pages/76.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">からてチョップ</td>
 		<!--1-1--><td style="">{F}</td>
 		<!--1-2--><td style="">直逆左右仰　</td>
-		<!--1-3--><td style="">10ダメージ</td>
+		<!--1-3--><td style="">This attack does 10 damage.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">カウンターパンチ</td>
 		<!--2-1--><td style="">{F}{F}</td>
 		<!--2-2--><td style="">直逆左右　　</td>
-		<!--2-3--><td style="">20ダメージ</td>
+		<!--2-3--><td style="">This attack does 20 damage.</td>
 		<!--2-4--><td style="">なし</td>
 		<!--2-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">れんぞくパンチ</td>
 		<!--3-1--><td style="">{F}</td>
 		<!--3-2--><td style="">直　左右　　</td>
-		<!--3-3--><td style="">10ダメージを与える。<br>ワザが成功したらエネコロを1つえらんでふってもよい。<br>{F}がでたらダメージが2倍になり、出なければ0になる。<br>{F}が出つづけるかぎり、くりかえしてよい。</td>
+		<!--3-3--><td style="">This attack does 10 damage.<br>ワザが成功したらエネコロを1つえらんでふってもよい。<br>{F}がでたらダメージが2倍になり、出なければ0になる。<br>{F}が出つづけるかぎり、くりかえしてよい。</td>
 		<!--3-4--><td style="">なし</td>
 		<!--3-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">きあいため</td>
@@ -37,13 +37,13 @@ https://w.atwiki.jp/purakoro/pages/76.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">メガトンパンチ</td>
 		<!--5-1--><td style="">{F}{F}{F}</td>
 		<!--5-2--><td style="">直　　　　俯</td>
-		<!--5-3--><td style="">50ダメージ</td>
+		<!--5-3--><td style="">This attack does 50 damage.</td>
 		<!--5-4--><td style="">なし</td>
 		<!--5-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ちきゅうなげ</td>
 		<!--6-1--><td style="">{R}{F}{F}{F}{Y}</td>
 		<!--6-2--><td style="">直逆　　仰　</td>
-		<!--6-3--><td style="">70ダメージ</td>
+		<!--6-3--><td style="">This attack does 70 damage.</td>
 		<!--6-4--><td style="">なし</td>
 		<!--6-5--><td style="">なし</td></tr>
 </tbody>
@@ -57,19 +57,19 @@ https://w.atwiki.jp/purakoro/pages/76.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">けたぐり</td>
 		<!--1-1--><td style="">{F}</td>
 		<!--1-2--><td style="">直　左右仰俯</td>
-		<!--1-3--><td style="">10ダメージ</td>
+		<!--1-3--><td style="">This attack does 10 damage.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">じわれ</td>
 		<!--2-1--><td style="">{F}{F}</td>
 		<!--2-2--><td style="">直　左右仰</td>
-		<!--2-3--><td style="">20ダメージ</td>
+		<!--2-3--><td style="">This attack does 20 damage.</td>
 		<!--2-4--><td style="">なし</td>
 		<!--2-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">とっしん</td>
 		<!--3-1--><td style="">{F}{F}</td>
 		<!--3-2--><td style="">直　　　仰俯</td>
-		<!--3-3--><td style="">30ダメージ</td>
+		<!--3-3--><td style="">This attack does 30 damage.</td>
 		<!--3-4--><td style="">なし</td>
 		<!--3-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ワンツーパンチ</td>
@@ -81,13 +81,13 @@ https://w.atwiki.jp/purakoro/pages/76.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">すてみタックル</td>
 		<!--5-1--><td style="">{F}{F}{Y}</td>
 		<!--5-2--><td style="">直　左右　俯</td>
-		<!--5-3--><td style="">50ダメージ<br>This Pokémon does 20 damage to itself.</td>
+		<!--5-3--><td style="">This attack does 50 damage.<br>This Pokémon does 20 damage to itself.</td>
 		<!--5-4--><td style="">なし</td>
 		<!--5-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">じごくぐるま</td>
 		<!--6-1--><td style="">{G}{W}{F}{F}{Y}</td>
 		<!--6-2--><td style="">直　　　仰　</td>
-		<!--6-3--><td style="">100ダメージ</td>
+		<!--6-3--><td style="">This attack does 100 damage.</td>
 		<!--6-4--><td style="">なし</td>
 		<!--6-5--><td style="">なし</td></tr>
 </tbody>
@@ -108,7 +108,7 @@ https://w.atwiki.jp/purakoro/pages/76.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">メガトンアッパー</td>
 		<!--2-1--><td style="">{F}{F}</td>
-		<!--2-2--><td style="">20ダメージ</td>
+		<!--2-2--><td style="">This attack does 20 damage.</td>
 		<!--2-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>

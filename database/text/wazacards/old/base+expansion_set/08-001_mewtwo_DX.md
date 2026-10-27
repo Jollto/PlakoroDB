@@ -16,12 +16,12 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">するどいつめ</td>
 		<!--2-1--><td style="">{P}{P}</td>
-		<!--2-2--><td style="">10ダメージ</td>
+		<!--2-2--><td style="">This attack does 10 damage.</td>
 		<!--2-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：相手に与えるダメージを10へらす</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">にらむ</td>
 		<!--3-1--><td style="">{P}{P}</td>
-		<!--3-2--><td style="">10ダメージ</td>
+		<!--3-2--><td style="">This attack does 10 damage.</td>
 		<!--3-3--><td style="">Standing・Back：次の相手の番にあいてはチビキャラコロをふれなくなる。</td>
 		<!--3-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">サイコ・ヒーリング</td>
@@ -36,7 +36,7 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--5-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">サイコ・キネシス</td>
 		<!--6-1--><td style="">{P}{P}{P}{P}</td>
-		<!--6-2--><td style="">40ダメージ</td>
+		<!--6-2--><td style="">This attack does 40 damage.</td>
 		<!--6-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand：相手に与えるダメージを20へらす</td></tr>
 </tbody>
@@ -63,12 +63,12 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">サイコバスター</td>
 		<!--4-1--><td style="">{P}{P}{P}{P}{P}</td>
-		<!--4-2--><td style="">70ダメージ</td>
+		<!--4-2--><td style="">This attack does 70 damage.</td>
 		<!--4-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--4-4--><td style="">Handstand：相手に与えるダメージを30へらす</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">サイコボール</td>
 		<!--5-1--><td style="">{P}{P}{P}</td>
-		<!--5-2--><td style="">30ダメージ</td>
+		<!--5-2--><td style="">This attack does 30 damage.</td>
 		<!--5-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ショックウエーブ</td>

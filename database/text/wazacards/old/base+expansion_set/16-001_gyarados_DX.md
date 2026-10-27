@@ -16,13 +16,13 @@ https://w.atwiki.jp/purakoro/pages/99.html
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">たいあたり</td>
 		<!--2-1--><td style="">{W}{W}</td>
-		<!--2-2--><td style="">10ダメージ</td>
+		<!--2-2--><td style="">This attack does 10 damage.</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 30 more damage.</td>
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 30 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">にらみつける</td>
 		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
-		<!--3-3--><td style="">Standing・Back：10ダメージを与える。</td>
+		<!--3-3--><td style="">Standing・Back：This attack does 10 damage.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">バブルこうせん</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
@@ -31,7 +31,7 @@ https://w.atwiki.jp/purakoro/pages/99.html
 		<!--4-4--><td style="">Handstand：このワザで相手に与えるダメージと同じダメージを自分も受ける。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">れいとうビーム</td>
 		<!--5-1--><td style="">{W}{W}{W}</td>
-		<!--5-2--><td style="">20ダメージ</td>
+		<!--5-2--><td style="">This attack does 20 damage.</td>
 		<!--5-3--><td style="">なし</td>
 		<!--5-4--><td style="">Standing・Back：次の自分の番にふるエネコロを1個へらす。<br>Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">りゅうのいかり</td>
@@ -58,7 +58,7 @@ https://w.atwiki.jp/purakoro/pages/99.html
 		<!--2-4--><td style="">Handstand：自分がチビコロが立った数×10のダメージを受ける</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">みずでっぽう</td>
 		<!--3-1--><td style="">{W}{W}</td>
-		<!--3-2--><td style="">20ダメージ</td>
+		<!--3-2--><td style="">This attack does 20 damage.</td>
 		<!--3-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--3-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">あばれる</td>
@@ -73,7 +73,7 @@ https://w.atwiki.jp/purakoro/pages/99.html
 		<!--5-4--><td style="">Handstand・Down：このワザで自分が受けるダメージが×10から×20になる。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">はかいこうせん</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}{W}</td>
-		<!--6-2--><td style="">70ダメージ</td>
+		<!--6-2--><td style="">This attack does 70 damage.</td>
 		<!--6-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td></tr>
 </tbody>
@@ -94,7 +94,7 @@ https://w.atwiki.jp/purakoro/pages/99.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/169.html" title="拡張パック4.ギャラドス (811d)">拡張パック4.ギャラドス</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">しめあげる</td>
 		<!--2-1--><td style="">{W}{W}{W}</td>
-		<!--2-2--><td style="">20ダメージを与える、<br>1つ前の番にワザ「まきつく」が成功していればチビキャラコロを8個ふって立った数×10のダメージを追加で与える。</td>
+		<!--2-2--><td style="">This attack does 20 damage.<br>1つ前の番にワザ「まきつく」が成功していればチビキャラコロを8個ふって立った数×10のダメージを追加で与える。</td>
 		<!--2-3--><td style="">なし</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/169.html" title="拡張パック4.ギャラドス (811d)">拡張パック4.ギャラドス</a></td></tr>

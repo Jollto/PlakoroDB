@@ -11,12 +11,12 @@ https://w.atwiki.jp/purakoro/pages/45.html
 		<!--0-4--><td style="">追加デメリット</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">かみつく</td>
 		<!--1-1--><td style="">{L}</td>
-		<!--1-2--><td style="">10ダメージ</td>
+		<!--1-2--><td style="">This attack does 10 damage.</td>
 		<!--1-3--><td style="">なし</td>
 		<!--1-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ツインスパーク</td>
 		<!--2-1--><td style="">{L}{L}</td>
-		<!--2-2--><td style="">このワザは2回トライする。<br>10ダメージを与える。</td>
+		<!--2-2--><td style="">このワザは2回トライする。<br>This attack does 10 damage.</td>
 		<!--2-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">フラッシュ</td>

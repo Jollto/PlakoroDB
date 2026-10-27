@@ -13,8 +13,8 @@ Down
 (が出たら)?(しかし)?自分(にも|も|が)(\d+)ダメージを?(受ける)?が?(。|、)?
 This Pokémon does $4 damage to itself.
 
-自分が追加で(\d+)ダメージ(受ける)?(。|、)?
-This Pokémon does $1 more damage to itself.
+自分(が|も)追加で(\d+)ダメージ(受ける)?(。|、)?
+This Pokémon does $2 more damage to itself.
 
 次の相手の番に受けるダメージの合計から(\d+)ダメージを?(へらし|へらす)?(。|、)?
 During your opponent's next turn, this Pokémon takes $1 less damage from attacks.

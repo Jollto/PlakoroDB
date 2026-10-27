@@ -38,7 +38,7 @@ https://w.atwiki.jp/purakoro/pages/28.html
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
 		<!--6-2--><td style="">50ダメージを与え、<br>This Pokémon does 10 damage to itself.</td>
 		<!--6-3--><td style="">Standing・Back：このワザで受けるダメージが0になる。</td>
-		<!--6-4--><td style="">Handstand：自分も追加で20ダメージ受ける。</td></tr>
+		<!--6-4--><td style="">Handstand：This Pokémon does 20 more damage to itself.</td></tr>
 </tbody>
 
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="">技名</td>

@@ -3,6 +3,7 @@
 https://w.atwiki.jp/purakoro/pages/36.html
 
 ### Base Set
+
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="">技名</td>
 		<!--0-1--><td style="">エネルギー数</td>
 		<!--0-2--><td style="">基本効果</td>
@@ -11,35 +12,34 @@ https://w.atwiki.jp/purakoro/pages/36.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">ひっかく</td>
 		<!--1-1--><td style="">超超</td>
 		<!--1-2--><td style="">20ダメージ</td>
-		<!--1-3--><td style="">直立：追加で10ダメージ</td>
+		<!--1-3--><td style="">Standing：追加で10ダメージ</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">サイコパワー</td>
 		<!--2-1--><td style="">超超</td>
 		<!--2-2--><td style="">次の自分の番にワザが成功してダメージを与えるたび+10</td>
 		<!--2-3--><td style="">なし</td>
-		<!--2-4--><td style="">逆立：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">エネルギーきゅうしゅう</td>
 		<!--3-1--><td style="">超超超</td>
 		<!--3-2--><td style="">次に相手のエネコロの結果から好きなエネルギーマークを1つ減らし、次に自分のエネコロの結果にそのマークを足す</td>
 		<!--3-3--><td style="">なし</td>
-		<!--3-4--><td style="">逆立：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">サイコボール</td>
 		<!--4-1--><td style="">超超超</td>
 		<!--4-2--><td style="">30ダメージ</td>
-		<!--4-3--><td style="">直立：追加で20ダメージ</td>
-		<!--4-4--><td style="">逆立：自分も20ダメージ</td></tr>
+		<!--4-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--4-4--><td style="">Handstand：自分も20ダメージ</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ゆびをふる</td>
 		<!--5-1--><td style="">超超超</td>
 		<!--5-2--><td style="">ミュウキャラコロと相手の技(自由に選ぶ)/エネコロを使って技を使う</td>
-		<!--5-3--><td style="">直立：振るエネコロの数+1</td>
-		<!--5-4--><td style="">逆立：振るエネコロの数−1</td></tr>
+		<!--5-3--><td style="">Standing：振るエネコロの数+1</td>
+		<!--5-4--><td style="">Handstand：振るエネコロの数−1</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">サイコバスター</td>
 		<!--6-1--><td style="">超超超超超</td>
 		<!--6-2--><td style="">70ダメージ</td>
-		<!--6-3--><td style="">直立：追加で20ダメージ</td>
+		<!--6-3--><td style="">Standing：追加で20ダメージ</td>
 		<!--6-4--><td style="">なし</td></tr>
 </tbody>
-
 
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="">技名</td>
 		<!--0-1--><td style="">エネルギー数</td>
@@ -49,31 +49,31 @@ https://w.atwiki.jp/purakoro/pages/36.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">たいあたり</td>
 		<!--1-1--><td style="">超</td>
 		<!--1-2--><td style="">10ダメージ</td>
-		<!--1-3--><td style="">直立：追加で10ダメージ</td>
+		<!--1-3--><td style="">Standing：追加で10ダメージ</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">サイコアタック</td>
 		<!--2-1--><td style="">超超</td>
 		<!--2-2--><td style="">20ダメージ</td>
-		<!--2-3--><td style="">直立・仰向：追加で10ダメージ</td>
-		<!--2-4--><td style="">俯せ：自分も10ダメージ<br>逆立：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--2-3--><td style="">Standing・Back：追加で10ダメージ</td>
+		<!--2-4--><td style="">Down：自分も10ダメージ<br>Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">サイコチャージ</td>
 		<!--3-1--><td style="">超超</td>
 		<!--3-2--><td style="">次の自分の番にエネコロを1個追加してふる。</td>
-		<!--3-3--><td style="">直立：次の自分の番にさらにエネコロを1個追加してふる。</td>
-		<!--3-4--><td style="">逆立：自分が20ダメージを受ける。</td></tr>
+		<!--3-3--><td style="">Standing：次の自分の番にさらにエネコロを1個追加してふる。</td>
+		<!--3-4--><td style="">Handstand：自分が20ダメージを受ける。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">しんぴのパワー</td>
 		<!--4-1--><td style="">超超超</td>
 		<!--4-2--><td style="">30HPを回復する</td>
-		<!--4-3--><td style="">直立：追加で20HP回復する。</td>
-		<!--4-4--><td style="">逆立：このワザで回復するHPが10になる。</td></tr>
+		<!--4-3--><td style="">Standing：追加で20HP回復する。</td>
+		<!--4-4--><td style="">Handstand：このワザで回復するHPが10になる。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">みだれひっかき</td>
 		<!--5-1--><td style="">超超超</td>
 		<!--5-2--><td style="">このワザは3回トライする、<br>10ダメージを与える。</td>
-		<!--5-3--><td style="">直立：追加で10ダメージ</td>
-		<!--5-4--><td style="">逆立：自分も10ダメージ</td></tr>
+		<!--5-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--5-4--><td style="">Handstand：自分も10ダメージ</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ショックウェーブ</td>
 		<!--6-1--><td style="">超超超超</td>
 		<!--6-2--><td style="">40ダメージを与える、<br>次の相手の番に使えるワザカードを1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
-		<!--6-3--><td style="">直立・仰向：追加で10ダメージ</td>
-		<!--6-4--><td style="">逆立：自分も20ダメージ</td></tr>
+		<!--6-3--><td style="">Standing・Back：追加で10ダメージ</td>
+		<!--6-4--><td style="">Handstand：自分も20ダメージ</td></tr>
 </tbody>

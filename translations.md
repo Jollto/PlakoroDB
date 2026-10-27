@@ -4,7 +4,7 @@ Standing
 逆立
 Handstand
 
-仰向
+仰向け?
 Back
 
 俯せ

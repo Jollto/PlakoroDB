@@ -10,32 +10,32 @@ https://w.atwiki.jp/purakoro/pages/93.html
 		<!--0-3--><td style="">追加メリット</td>
 		<!--0-4--><td style="">追加デメリット</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">はりて</td>
-		<!--1-1--><td style="">水</td>
+		<!--1-1--><td style="">{W}</td>
 		<!--1-2--><td style="">10ダメージ</td>
 		<!--1-3--><td style="">なし</td>
 		<!--1-4--><td style="">Handstand：自分も10ダメージ</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">みずあび</td>
-		<!--2-1--><td style="">水水</td>
+		<!--2-1--><td style="">{W}{W}</td>
 		<!--2-2--><td style="">次の自分の番にエネコロをもう1個追加してふることができる。</td>
 		<!--2-3--><td style="">なし</td>
-		<!--2-4--><td style="">Handstand：次の自分の番にでたエネコロの結果から水を1つへらす。</td></tr>
+		<!--2-4--><td style="">Handstand：次の自分の番にでたエネコロの結果から{W}を1つへらす。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">タックル</td>
-		<!--3-1--><td style="">水水</td>
+		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">20ダメージ</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand：自分も10ダメージ</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">さいみんじゅつ</td>
-		<!--4-1--><td style="">水水水</td>
+		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
 		<!--4-3--><td style="">Standing・Back：相手は次の番にふるエネコロを1個へらす。</td>
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">のしかかり</td>
-		<!--5-1--><td style="">水水水</td>
+		<!--5-1--><td style="">{W}{W}{W}</td>
 		<!--5-2--><td style="">30ダメージ</td>
 		<!--5-3--><td style="">Standing：追加で10ダメージ</td>
 		<!--5-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">うずしお</td>
-		<!--6-1--><td style="">水水水水水</td>
+		<!--6-1--><td style="">{W}{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">70ダメージ</td>
 		<!--6-3--><td style="">Standing：相手は次の番にふるエネコロを2個へらす。</td>
 		<!--6-4--><td style="">Handstand：自分も20ダメージ</td></tr>
@@ -46,32 +46,32 @@ https://w.atwiki.jp/purakoro/pages/93.html
 		<!--0-3--><td style="">追加メリット</td>
 		<!--0-4--><td style="">追加デメリット</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">チョップ</td>
-		<!--1-1--><td style="">水</td>
+		<!--1-1--><td style="">{W}</td>
 		<!--1-2--><td style="">10ダメージ</td>
 		<!--1-3--><td style="">Standing：追加で10ダメージ</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">あわ</td>
-		<!--2-1--><td style="">水水</td>
+		<!--2-1--><td style="">{W}{W}</td>
 		<!--2-2--><td style="">10ダメージ</td>
 		<!--2-3--><td style="">Standing・Back：相手は次の番にふるエネコロを1個へらす。</td>
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">おうふくビンタ</td>
-		<!--3-1--><td style="">水水</td>
+		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">ワザを2回トライして成功した数×10ダメージを与える。</td>
 		<!--3-3--><td style="">Standing：追加で10ダメージ</td>
 		<!--3-4--><td style="">Handstand・Down：自分も10ダメージ</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">みずでっぽう</td>
-		<!--4-1--><td style="">水水水</td>
+		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">20ダメージ</td>
 		<!--4-3--><td style="">Standing・Back：追加で20ダメージ</td>
 		<!--4-4--><td style="">Handstand：自分も10ダメージ</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">あやつる</td>
-		<!--5-1--><td style="">水水水</td>
+		<!--5-1--><td style="">{W}{W}{W}</td>
 		<!--5-2--><td style="">次の自分の番に自分のキャラコロを好きな向きでおける。</td>
 		<!--5-3--><td style="">なし</td>
 		<!--5-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ぐるぐるパンチ</td>
-		<!--6-1--><td style="">水水水水</td>
+		<!--6-1--><td style="">{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">40ダメージ</td>
 		<!--6-3--><td style="">Standing・Back：追加で30ダメージ</td>
 		<!--6-4--><td style="">Handstand・Down：自分も20ダメージ</td></tr>
@@ -87,24 +87,24 @@ https://w.atwiki.jp/purakoro/pages/93.html
 		<!--0-5--><td style="">封入商品</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">てっぽうみず<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
-		<!--1-2--><td style="">水×10ダメージ</td>
+		<!--1-2--><td style="">{W}×10ダメージ</td>
 		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数×10のダメージを追加で与える。</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/163.html" title="拡張パック3.ニョロゾ (647d)">拡張パック3.ニョロゾ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">じこさいせい</td>
-		<!--2-1--><td style="">水水水</td>
+		<!--2-1--><td style="">{W}{W}{W}</td>
 		<!--2-2--><td style="">チビキャラコロを6個ふって、立った数×20のHPを回復する。</td>
 		<!--2-3--><td style="">なし</td>
 		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/163.html" title="拡張パック3.ニョロゾ (647d)">拡張パック3.ニョロゾ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">あおいきり</td>
-		<!--3-1--><td style="">水水水</td>
+		<!--3-1--><td style="">{W}{W}{W}</td>
 		<!--3-2--><td style="">チビキャラコロを12個ふって、立った数だけ相手が次の自分の番にふるエネコロをへらす。</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand・Down：自分が10ダメージ</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/163.html" title="拡張パック3.ニョロゾ (647d)">拡張パック3.ニョロゾ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">げきりゅう</td>
-		<!--4-1--><td style="">水水水</td>
+		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">自分と相手がお互いにチビキャラコロを12個ずつふりあい、自分の方が立った数が多ければ相手に50ダメージを与える。</td>
 		<!--4-3--><td style="">なし</td>
 		<!--4-4--><td style="">Handstand：自分も20ダメージ</td>

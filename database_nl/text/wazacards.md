@@ -2,20 +2,20 @@
 
 ## Template
 
-| Name      |     |
-| --------- | --- |
-| Japanese  |     |
-| Type      |     |
-| Code      |     |
-| Pokémon   |     |
-| Energy    |     |
-| Damage    |     |
-| Effect    |     |
-| Standing  |     |
-| Handstand |     |
-| Back      |     |
-| Down      |     |
-| Sideways  |     |
+| Name      |   |
+| --------- | - |
+| Japanese  |   |
+| Type      |   |
+| Code      |   |
+| Pokémon   |   |
+| Energy    |   |
+| Damage    |   |
+| Effect    |   |
+| Standing  |   |
+| Handstand |   |
+| Back      |   |
+| Down      |   |
+| Sideways  |   |
 
 ## Starter Set
 

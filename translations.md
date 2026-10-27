@@ -16,8 +16,14 @@ This Pokémon does $4 damage to itself.
 自分(が|も)追加で(\d+)ダメージ(受ける)?(。|、)?
 This Pokémon does $2 more damage to itself.
 
-次の相手の番に受けるダメージの合計から(\d+)ダメージを?(へらし|へらす)?(。|、)?
-During your opponent's next turn, this Pokémon takes $1 less damage from attacks.
+次の相手の番に受けるダメージ(の合計から)?を?(\d+)ダメージを?(へらし|へらす)?(。|、)?
+During your opponent's next turn, this Pokémon takes $2 less damage from attacks.
+
+次の相手の番に受けるダメージをさらに(\d+)(ダメージ)?へらす。
+Reduce damage taken by an additional $1.
+
+次の相手の番に受けるダメージが(\d+)ダメージしか減らせなくなる。
+During your opponent's next turn, this Pokémon only takes $2 less damage from attacks.
 
 (が出たら)?追加で(\d+)ダメージを?(与える)?(。|、)?
 This attack does $2 more damage.

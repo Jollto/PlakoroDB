@@ -68,9 +68,9 @@ https://w.atwiki.jp/purakoro/pages/98.html
 		<!--4-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ひかりのかべ</td>
 		<!--5-1--><td style="">{L}{L}{L}</td>
-		<!--5-2--><td style="">次の相手の番に受けるダメージを60ダメージへらす。</td>
+		<!--5-2--><td style="">During your opponent's next turn, this Pokémon takes 60 less damage from attacks.</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Handstand・Down：次の相手の番に受けるダメージが30ダメージしか減らせなくなる。</td></tr>
+		<!--5-4--><td style="">Handstand・Down：During your opponent's next turn, this Pokémon only takes 30 less damage from attacks.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">サンダーストーム</td>
 		<!--6-1--><td style="">{L}{L}{L}{L}</td>
 		<!--6-2--><td style="">40ダメージを与える、<br>ワザが成功したら好きなエネコロを1個ふり{L}が出たら自分と相手に10ダメージを与える。<br>これを{L}がでなくなるまで続ける。</td>

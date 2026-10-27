@@ -150,8 +150,8 @@ https://w.atwiki.jp/purakoro/pages/89.html
 		<!--8-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1136d)">拡張パック1.ピカチュウ</a>他</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="">からにこもる</td>
 		<!--9-1--><td style="">{W}{W}</td>
-		<!--9-2--><td style="">次の相手の番に受けるダメージを30ダメージへらす。</td>
-		<!--9-3--><td style="">Standing・Down：次の相手の番に受けるダメージをさらに30ダメージへらす。</td>
+		<!--9-2--><td style="">During your opponent's next turn, this Pokémon takes 30 less damage from attacks.</td>
+		<!--9-3--><td style="">Standing・Down：Reduce damage taken by an additional 30.</td>
 		<!--9-4--><td style="">なし</td>
 		<!--9-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1136d)">拡張パック1.ピカチュウ</a>他</td></tr>
 </tbody>

@@ -33,7 +33,7 @@ https://w.atwiki.jp/purakoro/pages/148.html
 		<!--5-1--><td style="">{P}{P}{P}</td>
 		<!--5-2--><td style="">During your opponent's next turn, this Pokémon takes 60 less damage from attacks.</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Handstand・Down：このワザでへらすダメージが60から30になる。</td></tr>
+		<!--5-4--><td style="">Handstand・Down：During your opponent's next turn, this Pokémon only takes 30 less damage from attacks.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">サイコショット</td>
 		<!--6-1--><td style="">{P}{P}{P}{P}</td>
 		<!--6-2--><td style="">このワザは3回トライする。<br>20ダメージを与える。</td>

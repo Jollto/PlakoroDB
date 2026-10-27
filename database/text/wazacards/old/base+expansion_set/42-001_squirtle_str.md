@@ -68,7 +68,7 @@ https://w.atwiki.jp/purakoro/pages/29.html
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">こうらでうける</td>
 		<!--5-1--><td style="">{W}{W}{W}</td>
-		<!--5-2--><td style="">次の相手の番に受けるダメージの合計から50ダメージをへらす。</td>
+		<!--5-2--><td style="">During your opponent's next turn, this Pokémon takes 50 less damage from attacks.</td>
 		<!--5-3--><td style="">なし</td>
 		<!--5-4--><td style="">Handstand・Back：このワザでへらすダメージが50から30になる。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ロケットずつき</td>

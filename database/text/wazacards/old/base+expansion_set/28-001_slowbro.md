@@ -21,7 +21,7 @@ https://w.atwiki.jp/purakoro/pages/22.html
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">からにこもる</td>
 		<!--3-1--><td style="">{W}{P}</td>
-		<!--3-2--><td style="">次の相手の番に受けるダメージの合計から40ダメージへらす。</td>
+		<!--3-2--><td style="">During your opponent's next turn, this Pokémon takes 40 less damage from attacks.</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">サイコキネシス</td>

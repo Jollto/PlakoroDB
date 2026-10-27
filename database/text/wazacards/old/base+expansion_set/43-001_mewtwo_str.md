@@ -31,7 +31,7 @@ https://w.atwiki.jp/purakoro/pages/148.html
 		<!--4-4--><td style="">Handstand：このワザで相手に与えるダメージを20へらす。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">サイコシールド</td>
 		<!--5-1--><td style="">{P}{P}{P}</td>
-		<!--5-2--><td style="">次の相手の番に受けるダメージの合計から60ダメージをへらす。</td>
+		<!--5-2--><td style="">During your opponent's next turn, this Pokémon takes 60 less damage from attacks.</td>
 		<!--5-3--><td style="">なし</td>
 		<!--5-4--><td style="">Handstand・Down：このワザでへらすダメージが60から30になる。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">サイコショット</td>

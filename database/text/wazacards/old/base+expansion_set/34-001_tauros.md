@@ -21,7 +21,7 @@ https://w.atwiki.jp/purakoro/pages/109.html
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">アイアンボディ</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
-		<!--3-2--><td style="">次の相手の番に受けるダメージの合計から30ダメージへらす。</td>
+		<!--3-2--><td style="">During your opponent's next turn, this Pokémon takes 30 less damage from attacks.</td>
 		<!--3-3--><td style="">Standing・Back：{Y}×2より余分に出た{Y}×10のダメージを追加でへらす。</td>
 		<!--3-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">スーパーチャージ</td>

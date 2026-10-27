@@ -22,7 +22,7 @@ https://w.atwiki.jp/purakoro/pages/103.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">しろいきり</td>
 		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">相手は次の番にふるエネコロを1個へらす。</td>
-		<!--3-3--><td style="">Standing・Back：次の相手の番に受けるダメージの合計から30ダメージをへらす。</td>
+		<!--3-3--><td style="">Standing・Back：During your opponent's next turn, this Pokémon takes 30 less damage from attacks.</td>
 		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">アイスストーム</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>

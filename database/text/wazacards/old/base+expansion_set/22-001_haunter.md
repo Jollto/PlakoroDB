@@ -26,8 +26,8 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ゆめくい</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
-		<!--4-2--><td style="">20ダメージを与える。<br>1つ前の自分の番にワザ「さいみんじゅつ」が成功していれば追加で20ダメージを与える。</td>
-		<!--4-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--4-2--><td style="">20ダメージを与える。<br>1つ前の自分の番にワザ「さいみんじゅつ」が成功していればThis attack does 20 more damage.</td>
+		<!--4-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">のろい</td>
 		<!--5-1--><td style="">{P}{P}{P}</td>
@@ -37,7 +37,7 @@ https://w.atwiki.jp/purakoro/pages/101.html
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">メガドレイン</td>
 		<!--6-1--><td style="">{P}{P}{P}{P}{P}</td>
 		<!--6-2--><td style="">60ダメージを与え、<br>30HP自分が回復する。</td>
-		<!--6-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--6-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--6-4--><td style="">Handstand：このワザで回復するHPが0になる。</td></tr>
 </tbody>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="">技名</td>
@@ -53,7 +53,7 @@ https://w.atwiki.jp/purakoro/pages/101.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">サイコウエーブ</td>
 		<!--2-1--><td style="">{P}{P}</td>
 		<!--2-2--><td style="">20ダメージ</td>
-		<!--2-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--2-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">さいみんじゅつ</td>
 		<!--3-1--><td style="">{P}{P}</td>
@@ -100,13 +100,13 @@ https://w.atwiki.jp/purakoro/pages/101.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">サイコシャワー</td>
 		<!--3-1--><td style="">{P}{P}{P}{P}</td>
 		<!--3-2--><td style="">20ダメージを与える。<br>さらにチビキャラコロを12個ふって、立った数×10のダメージを追加で与える。</td>
-		<!--3-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--3-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/141.html" title="拡張パック5.ゴースト (1167d)">拡張パック5.ゴースト</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">マインドショック</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
 		<!--4-2--><td style="">20ダメージを与える。<br>このワザは2回トライする。</td>
-		<!--4-3--><td style="">Standing・Back：追加で10ダメージ</td>
+		<!--4-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">Handstand：チビキャラコロを6個ふって、立った数×10のダメージを自分が受ける。</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/142.html" title="拡張パック5.カイリュー (1167d)">拡張パック5.カイリュー</a>他</td></tr>
 </tbody>

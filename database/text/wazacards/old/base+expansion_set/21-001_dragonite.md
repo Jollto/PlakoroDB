@@ -12,7 +12,7 @@ https://w.atwiki.jp/purakoro/pages/102.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">しっぽでうつ</td>
 		<!--1-1--><td style="">{Y}</td>
 		<!--1-2--><td style="">10ダメージ</td>
-		<!--1-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--1-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">でんじは</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
@@ -32,12 +32,12 @@ https://w.atwiki.jp/purakoro/pages/102.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ふみつけ</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">ワザを2回トライして成功した数×20のダメージを与える。</td>
-		<!--5-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--5-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">りゅうのいかり</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
 		<!--6-2--><td style="">ワザが成功したら出ているエネコロの{Y}の数×10のダメージを与える。</td>
-		<!--6-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--6-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td></tr>
 </tbody>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="">技名</td>
@@ -53,7 +53,7 @@ https://w.atwiki.jp/purakoro/pages/102.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">のしかかる</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
 		<!--2-2--><td style="">20ダメージ</td>
-		<!--2-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--2-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">こうそくいどう</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
@@ -68,7 +68,7 @@ https://w.atwiki.jp/purakoro/pages/102.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">すてみタックル</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">40ダメージ<br>This Pokémon does 20 damage to itself.</td>
-		<!--5-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--5-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">はかいこうせん</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}{Y}</td>

@@ -127,25 +127,25 @@ https://w.atwiki.jp/purakoro/pages/19.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">らくらい</td>
 		<!--5-1--><td style="">{L}{L}{L}{L}</td>
 		<!--5-2--><td style="">40ダメージ</td>
-		<!--5-3--><td style="">Standing：追加で40ダメージ</td>
+		<!--5-3--><td style="">Standing：This attack does 40 more damage.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1132d)">拡張パック1.ピカチュウ</a><br><a href="//w.atwiki.jp/purakoro/pages/47.html" title="DXなみのりピカチュウ (798d)">DXなみのりピカチュウ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ほうでんMAX</td>
 		<!--6-1--><td style="">{L}{L}{L}{L}</td>
 		<!--6-2--><td style="">チビキャラコロを12個ふって立った数x10のダメージを与える。</td>
-		<!--6-3--><td style="">Standing：追加で30ダメージ</td>
+		<!--6-3--><td style="">Standing：This attack does 30 more damage.</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1132d)">拡張パック1.ピカチュウ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">でんげき</td>
 		<!--7-1--><td style="">{L}</td>
 		<!--7-2--><td style="">10ダメージ</td>
-		<!--7-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--7-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--7-4--><td style="">なし</td>
 		<!--7-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/47.html" title="DXなみのりピカチュウ (798d)">DXなみのりピカチュウ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">でんこうせっか</td>
 		<!--8-1--><td style="">{L}{L}</td>
 		<!--8-2--><td style="">20ダメージ</td>
-		<!--8-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--8-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--8-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--8-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/47.html" title="DXなみのりピカチュウ (798d)">DXなみのりピカチュウ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="">じゅうでん</td>
@@ -157,7 +157,7 @@ https://w.atwiki.jp/purakoro/pages/19.html
 <tr class="atwiki_tr_odd atwiki_tr_11">		<!--10-0--><td style="">スパークウインド</td>
 		<!--10-1--><td style="">{L}{L}{L}{L}</td>
 		<!--10-2--><td style="">ワザが成功したら出ているエネコロの{L}の数×10のダメージを与える。</td>
-		<!--10-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--10-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--10-4--><td style="">このワザで相手に与えるダメージと同じダメージを自分も受ける。</td>
 		<!--10-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1132d)">拡張パック1.ワンリキー</a>他</td></tr>
 </tbody>

@@ -32,12 +32,12 @@ https://w.atwiki.jp/purakoro/pages/51.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">きりさく</td>
 		<!--5-1--><td style="">{G}{G}{G}</td>
 		<!--5-2--><td style="">30ダメージ</td>
-		<!--5-3--><td style="">Standing・Back：追加で20ダメージ</td>
+		<!--5-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">たつまきぎり</td>
 		<!--6-1--><td style="">{G}{G}{G}{G}{G}</td>
 		<!--6-2--><td style="">70ダメージ</td>
-		<!--6-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--6-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 </tbody>
 
@@ -49,7 +49,7 @@ https://w.atwiki.jp/purakoro/pages/51.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">はたく</td>
 		<!--1-1--><td style="">{G}</td>
 		<!--1-2--><td style="">10ダメージ</td>
-		<!--1-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--1-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">にらみつける</td>
 		<!--2-1--><td style="">{G}{G}</td>
@@ -59,7 +59,7 @@ https://w.atwiki.jp/purakoro/pages/51.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">すてみタックル</td>
 		<!--3-1--><td style="">{G}{G}</td>
 		<!--3-2--><td style="">30ダメージを与え、<br>This Pokémon does 10 damage to itself.</td>
-		<!--3-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--3-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--3-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">かまえる</td>
 		<!--4-1--><td style="">{G}{G}{G}</td>
@@ -69,12 +69,12 @@ https://w.atwiki.jp/purakoro/pages/51.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">かぶとわり</td>
 		<!--5-1--><td style="">{G}{G}{G}</td>
 		<!--5-2--><td style="">20ダメージ</td>
-		<!--5-3--><td style="">Standing・Back：追加で40ダメージ</td>
+		<!--5-3--><td style="">Standing・Back：This attack does 40 more damage.</td>
 		<!--5-4--><td style="">Handstand・Down：This Pokémon does 30 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">まっぷたつ</td>
 		<!--6-1--><td style="">{G}{G}{G}{G}</td>
 		<!--6-2--><td style="">ワザが成功したら出ているエネコロの{G}の数×10のダメージを与える。</td>
-		<!--6-3--><td style="">Standing・Back：追加で20ダメージ</td>
+		<!--6-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand・Down：This Pokémon does 30 damage to itself.</td></tr>
 </tbody>
 

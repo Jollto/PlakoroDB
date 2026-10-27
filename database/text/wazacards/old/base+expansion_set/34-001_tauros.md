@@ -12,7 +12,7 @@ https://w.atwiki.jp/purakoro/pages/109.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">しっぽでうつ</td>
 		<!--1-1--><td style="">{Y}</td>
 		<!--1-2--><td style="">10ダメージ</td>
-		<!--1-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--1-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">たいあたり</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
@@ -32,7 +32,7 @@ https://w.atwiki.jp/purakoro/pages/109.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">アイアンホーン</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">30ダメージ</td>
-		<!--5-3--><td style="">Standing・Back：追加で20ダメージ</td>
+		<!--5-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ロングホーン</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
@@ -53,7 +53,7 @@ https://w.atwiki.jp/purakoro/pages/109.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ふみつけ</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
 		<!--2-2--><td style="">20ダメージ</td>
-		<!--2-3--><td style="">Standing・Back：追加で10ダメージ</td>
+		<!--2-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">いかり</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
@@ -94,7 +94,7 @@ https://w.atwiki.jp/purakoro/pages/109.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ダブルチャージ</td>
 		<!--2-1--><td style="">{Y}{Y}{Y}</td>
 		<!--2-2--><td style="">このワザは2回トライする。<br>チビキャラコロを8個ふって立った数×10のダメージを与える。</td>
-		<!--2-3--><td style="">Standing・Back：追加で20ダメージ</td>
+		<!--2-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/146.html" title="拡張パック8.ケンタロス (799d)">拡張パック8.ケンタロス</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">はねとばす</td>
@@ -106,7 +106,7 @@ https://w.atwiki.jp/purakoro/pages/109.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ひっさつのつの</td>
 		<!--4-1--><td style="">{F}{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">50ダメージ</td>
-		<!--4-3--><td style="">Standing・Back：追加で20ダメージ</td>
+		<!--4-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/39.html" title="拡張パック8.プテラ (799d)">拡張パック8.プテラ</a>他</td></tr>
 </tbody>

@@ -145,7 +145,7 @@ https://w.atwiki.jp/purakoro/pages/21.html
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">だきつく</td>
 		<!--8-1--><td style="">{Y}{Y}{Y}</td>
 		<!--8-2--><td style="">20ダメージ</td>
-		<!--8-3--><td style="">Standing：追加で40ダメージ</td>
+		<!--8-3--><td style="">Standing：This attack does 40 more damage.</td>
 		<!--8-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--8-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1136d)">拡張パック1.ピカチュウ</a>他</td></tr>
 </tbody>

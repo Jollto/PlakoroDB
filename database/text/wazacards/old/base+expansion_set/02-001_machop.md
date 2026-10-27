@@ -109,13 +109,13 @@ https://w.atwiki.jp/purakoro/pages/76.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">メガトンアッパー</td>
 		<!--2-1--><td style="">{F}{F}</td>
 		<!--2-2--><td style="">20ダメージ</td>
-		<!--2-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--2-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ずつき</td>
 		<!--3-1--><td style="">{F}{F}{F}</td>
 		<!--3-2--><td style="">自分と相手がお互いにチビキャラコロを12個ずつふりあい、<br>自分が立った数×20ダメージを相手に与え、相手が立った数×10のダメージを自分が受ける。</td>
-		<!--3-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--3-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">いかりのいちげき</td>
@@ -139,7 +139,7 @@ https://w.atwiki.jp/purakoro/pages/76.html
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">ちからくらべ</td>
 		<!--7-1--><td style="">{F}{F}</td>
 		<!--7-2--><td style="">自分と相手がお互いにチビキャラコロを12個ずつふりあい、<br>立った数を比べて多い方が多い数×20のダメージを立った数が少なかった方に与える。</td>
-		<!--7-3--><td style="">Standing：追加で30ダメージ</td>
+		<!--7-3--><td style="">Standing：This attack does 30 more damage.</td>
 		<!--7-4--><td style="">なし</td>
 		<!--7-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1138d)">拡張パック1.ピカチュウ</a>他</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">ガッツ</td>

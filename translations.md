@@ -19,7 +19,7 @@ This Pokémon does $2 more damage to itself.
 次の相手の番に受けるダメージの合計から(\d+)ダメージを?(へらし|へらす)?(。|、)?
 During your opponent's next turn, this Pokémon takes $1 less damage from attacks.
 
-(が出たら)?追加で(\d+)ダメージ(を与える)?(。|、)?
+(が出たら)?追加で(\d+)ダメージを?(与える)?(。|、)?
 This attack does $2 more damage.
 
 (?<![×x\d])(＋|相手に)?(\d+)ダメージ(を)?(与え)?(る)?(。|、)?

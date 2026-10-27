@@ -17,7 +17,7 @@ https://w.atwiki.jp/purakoro/pages/99.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">たいあたり</td>
 		<!--2-1--><td style="">{W}{W}</td>
 		<!--2-2--><td style="">10ダメージ</td>
-		<!--2-3--><td style="">Standing・Back：追加で30ダメージ</td>
+		<!--2-3--><td style="">Standing・Back：This attack does 30 more damage.</td>
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 30 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">にらみつける</td>
 		<!--3-1--><td style="">{W}{W}</td>
@@ -37,7 +37,7 @@ https://w.atwiki.jp/purakoro/pages/99.html
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">りゅうのいかり</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">ワザが成功したら出ているエネコロの{W}の数×10ダメージを与える。</td>
-		<!--6-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--6-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 </tbody>
 
@@ -59,12 +59,12 @@ https://w.atwiki.jp/purakoro/pages/99.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">みずでっぽう</td>
 		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">20ダメージ</td>
-		<!--3-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--3-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--3-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">あばれる</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">ワザを3回トライして成功した数×10ダメージ</td>
-		<!--4-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--4-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">あらしをよぶ</td>
 		<!--5-1--><td style="">{W}{W}{W}</td>
@@ -74,7 +74,7 @@ https://w.atwiki.jp/purakoro/pages/99.html
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">はかいこうせん</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">70ダメージ</td>
-		<!--6-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--6-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td></tr>
 </tbody>
 
@@ -107,7 +107,7 @@ https://w.atwiki.jp/purakoro/pages/99.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">かみくだく</td>
 		<!--4-1--><td style="">{W}{W}</td>
 		<!--4-2--><td style="">チビキャラコロを8個ふって、立った数×10ダメージ</td>
-		<!--4-3--><td style="">Standing・Back：追加で10ダメージ</td>
+		<!--4-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/168.html" title="拡張パック4.カイロス (1143d)">拡張パック4.カイロス</a>他</td></tr>
 </tbody>

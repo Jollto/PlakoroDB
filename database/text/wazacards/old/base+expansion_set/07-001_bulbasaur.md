@@ -127,7 +127,7 @@ https://w.atwiki.jp/purakoro/pages/77.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">たねマシンガン</td>
 		<!--5-1--><td style="">{G}{G}{G}</td>
 		<!--5-2--><td style="">チビキャラコロを12個ふって、立った数×10のダメージを与える。</td>
-		<!--5-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--5-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">たねばくだん</td>
@@ -139,7 +139,7 @@ https://w.atwiki.jp/purakoro/pages/77.html
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">とげのムチ</td>
 		<!--7-1--><td style="">{G}{G}{G}{G}</td>
 		<!--7-2--><td style="">40ダメージ</td>
-		<!--7-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--7-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--7-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--7-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">ひかりをあびる</td>
@@ -151,7 +151,7 @@ https://w.atwiki.jp/purakoro/pages/77.html
 <tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="">フラワーカッター</td>
 		<!--9-1--><td style="">{G}{G}</td>
 		<!--9-2--><td style="">20ダメージ</td>
-		<!--9-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--9-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--9-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--9-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1140d)">拡張パック1.ピカチュウ</a>他</td></tr>
 </tbody>

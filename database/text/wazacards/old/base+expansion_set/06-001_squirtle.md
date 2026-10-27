@@ -127,7 +127,7 @@ https://w.atwiki.jp/purakoro/pages/89.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">こうらアタック</td>
 		<!--5-1--><td style="">{W}{W}{W}</td>
 		<!--5-2--><td style="">30ダメージ</td>
-		<!--5-3--><td style="">Down：追加で20ダメージ</td>
+		<!--5-3--><td style="">Down：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">Back：このワザが与えるダメージが20へる。</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/48.html" title="拡張パック1.ゼニガメ (1136d)">拡張パック1.ゼニガメ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">みずあび</td>

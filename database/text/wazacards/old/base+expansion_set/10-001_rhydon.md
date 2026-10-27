@@ -12,7 +12,7 @@ https://w.atwiki.jp/purakoro/pages/92.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">しっぽでうつ</td>
 		<!--1-1--><td style="">{F}</td>
 		<!--1-2--><td style="">10ダメージ</td>
-		<!--1-3--><td style="">Handstand：追加で10ダメージ</td>
+		<!--1-3--><td style="">Handstand：This attack does 10 more damage.</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">いかり</td>
 		<!--2-1--><td style="">{F}{F}</td>
@@ -32,7 +32,7 @@ https://w.atwiki.jp/purakoro/pages/92.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">とっしん</td>
 		<!--5-1--><td style="">{F}{F}{F}</td>
 		<!--5-2--><td style="">30ダメージ</td>
-		<!--5-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--5-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">じわれ</td>
 		<!--6-1--><td style="">{F}{F}{F}{F}{F}</td>
@@ -74,7 +74,7 @@ https://w.atwiki.jp/purakoro/pages/92.html
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">つのドリル</td>
 		<!--6-1--><td style="">{F}{F}{F}{F}</td>
 		<!--6-2--><td style="">40ダメージ</td>
-		<!--6-3--><td style="">Standing・Back：追加で20ダメージ</td>
+		<!--6-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td></tr>
 </tbody>
 

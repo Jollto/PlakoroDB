@@ -12,7 +12,7 @@ https://w.atwiki.jp/purakoro/pages/98.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">つつく</td>
 		<!--1-1--><td style="">{L}</td>
 		<!--1-2--><td style="">10ダメージ</td>
-		<!--1-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--1-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">でんきショック</td>
 		<!--2-1--><td style="">{L}{L}</td>
@@ -22,12 +22,12 @@ https://w.atwiki.jp/purakoro/pages/98.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">つばさでうつ</td>
 		<!--3-1--><td style="">{L}{L}</td>
 		<!--3-2--><td style="">20ダメージ</td>
-		<!--3-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--3-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">かみなり</td>
 		<!--4-1--><td style="">{L}{L}{L}</td>
 		<!--4-2--><td style="">30ダメージ</td>
-		<!--4-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--4-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">サンダーチャージ</td>
 		<!--5-1--><td style="">{L}{L}{L}</td>

@@ -27,17 +27,17 @@ https://w.atwiki.jp/purakoro/pages/29.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">つっぱり</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">このワザは2回トライする。<br>20ダメージを与える。</td>
-		<!--4-3--><td style="">Standing・Down：追加で10ダメージ</td>
+		<!--4-3--><td style="">Standing・Down：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">Handstand・Back：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">いしあたま</td>
 		<!--5-1--><td style="">{W}{W}{W}{W}</td>
 		<!--5-2--><td style="">10ダメージを与え、<br>相手は次の番にふるエネコロを1個へらし、<br>次の番に使えるワザカードを1つえらんでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
-		<!--5-3--><td style="">Standing・Down：追加で20ダメージ</td>
+		<!--5-3--><td style="">Standing・Down：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">しんかのひかり</td>
 		<!--6-1--><td style="">{W}{W}{W}</td>
 		<!--6-2--><td style="">10ダメージを与える、<br>一つ前の自分の番にワザしんかが失敗していれば<a href="//w.atwiki.jp/purakoro/pages/105.html" title="進化パック(カメール、カメックス) (1145d)">カメール</a>に進化する、<br>ただしこの進化ではHPは回復しない。</td>
-		<!--6-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--6-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--6-4--><td style="">なし</td></tr>
 </tbody>
 
@@ -54,7 +54,7 @@ https://w.atwiki.jp/purakoro/pages/29.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">はりて</td>
 		<!--2-1--><td style="">{W}{W}</td>
 		<!--2-2--><td style="">20ダメージ</td>
-		<!--2-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--2-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">あわ</td>
 		<!--3-1--><td style="">{W}{W}</td>
@@ -64,7 +64,7 @@ https://w.atwiki.jp/purakoro/pages/29.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">みずでっぽう</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">30ダメージ</td>
-		<!--4-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--4-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">こうらでうける</td>
 		<!--5-1--><td style="">{W}{W}{W}</td>
@@ -74,6 +74,6 @@ https://w.atwiki.jp/purakoro/pages/29.html
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ロケットずつき</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">60ダメージ</td>
-		<!--6-3--><td style="">Standing・Down：追加で10ダメージ</td>
+		<!--6-3--><td style="">Standing・Down：This attack does 10 more damage.</td>
 		<!--6-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 </tbody>

@@ -17,7 +17,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ネコパンチ</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
 		<!--2-2--><td style="">20ダメージ</td>
-		<!--2-3--><td style="">Standing・Back：追加で10ダメージ</td>
+		<!--2-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">わるだくみ</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
@@ -32,7 +32,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">きりさく</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">30ダメージ</td>
-		<!--5-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--5-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">するどいつめ</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}</td>
@@ -48,7 +48,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">かみつく</td>
 		<!--1-1--><td style="">{Y}</td>
 		<!--1-2--><td style="">10ダメージ</td>
-		<!--1-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--1-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">いかさま</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
@@ -63,7 +63,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">みだれひっかき</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">10ダメージを与える、<br>このワザは3回トライする。</td>
-		<!--4-3--><td style="">Standing・Back：追加で10ダメージ</td>
+		<!--4-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ネコなでごえ</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
@@ -94,7 +94,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">おとしあな</td>
 		<!--2-1--><td style="">{Y}{Y}{Y}{Y}</td>
 		<!--2-2--><td style="">チビキャラコロを12個ふって立った数×10のダメージを与え、<br>さらに相手は次の番にふるエネコロを2個へらす。</td>
-		<!--2-3--><td style="">Standing・Back：追加で20ダメージ</td>
+		<!--2-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/144.html" title="拡張パック7.ニャース (630d)">拡張パック7.ニャース</a>他</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ツメをとぐ</td>
@@ -106,7 +106,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ネコキック</td>
 		<!--4-1--><td style="">{Y}{Y}</td>
 		<!--4-2--><td style="">チビキャラコロを8個ふって、立った数×10ダメージを与える。</td>
-		<!--4-3--><td style="">Standing・Back：追加で10ダメージ</td>
+		<!--4-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/145.html" title="拡張パック7.ラッキー (630d)">拡張パック7.ラッキー</a>他</td></tr>
 </tbody>

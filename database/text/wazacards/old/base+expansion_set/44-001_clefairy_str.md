@@ -53,7 +53,7 @@ https://w.atwiki.jp/purakoro/pages/44.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ひっかく</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
 		<!--2-2--><td style="">20ダメージ</td>
-		<!--2-3--><td style="">Standing：追加で20ダメージ</td>
+		<!--2-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">はねまわる</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
@@ -63,7 +63,7 @@ https://w.atwiki.jp/purakoro/pages/44.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">おうふくビンタ</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">このワザは2回トライする、<br>20ダメージを与える。</td>
-		<!--4-3--><td style="">Standing：追加で10ダメージ</td>
+		<!--4-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ゆびをふる</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>

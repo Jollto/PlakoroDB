@@ -64,7 +64,7 @@ https://w.atwiki.jp/purakoro/pages/37.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">いかりのおたけび</td>
 		<!--4-1--><td style="">{R}{R}{R}</td>
 		<!--4-2--><td style="">次の自分の番に出た{R}は全て{R}2個分として扱う、<br>ただし次の相手の番に受けるダメージは2倍になる。</td>
-		<!--4-3--><td style="">Standing：が出たら次の相手の番に受けるダメージは２倍にならない。</td>
+		<!--4-3--><td style="">Standing：が出たら次の相手の番に受けるダメージは2倍にならない。</td>
 		<!--4-4--><td style="">Handstand：が出たら次の自分の番に使うワザは相手に選んでもらう。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ちからくらべ</td>
 		<!--5-1--><td style="">{R}{R}</td>

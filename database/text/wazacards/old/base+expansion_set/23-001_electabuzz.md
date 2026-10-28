@@ -53,14 +53,14 @@ https://w.atwiki.jp/purakoro/pages/43.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">いやなおと</td>
 		<!--2-1--><td style="">{L}{L}</td>
 		<!--2-2--><td style="">This attack does 10 damage.</td>
-		<!--2-3--><td style="">Standing、Back：相手は次の番にふるエネコロを１個減らす</td>
+		<!--2-3--><td style="">Standing、Back：相手は次の番にふるエネコロを1個減らす</td>
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">かげぶんしん</td>
 		<!--3-1--><td style="">{L}{L}</td>
-		<!--3-2--><td style="">次の自分の番にふるエネコロを１個追加してふる</td>
-		<!--3-3--><td style="">Standing：次の自分の番にふるエネコロをもう１個追加してふる</td>
+		<!--3-2--><td style="">次の自分の番にふるエネコロを1個追加してふる</td>
+		<!--3-3--><td style="">Standing：次の自分の番にふるエネコロをもう1個追加してふる</td>
 		<!--3-4--><td style="">Handstand、Down：This Pokémon does 10 damage to itself.</td></tr>
-<tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">１０まんボルト</td>
+<tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">10まんボルト</td>
 		<!--4-1--><td style="">{L}{L}{L}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>
 		<!--4-3--><td style="">Standing：This attack does 20 more damage.</td>

@@ -21,8 +21,8 @@ https://w.atwiki.jp/purakoro/pages/44.html
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">とびはねる</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
-		<!--3-2--><td style="">次の自分の番にふるエネコロを１個増やす</td>
-		<!--3-3--><td style="">Standing：次の自分の番にふるエネコロを更に１個増やす</td>
+		<!--3-2--><td style="">次の自分の番にふるエネコロを1個増やす</td>
+		<!--3-3--><td style="">Standing：次の自分の番にふるエネコロを更に1個増やす</td>
 		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by $1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">たいあたり</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
@@ -36,8 +36,8 @@ https://w.atwiki.jp/purakoro/pages/44.html
 		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by $1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ふしぎなちから</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
-		<!--6-2--><td style="">次の自分の番にワザカードを２枚選んでそれぞれ使う</td>
-		<!--6-3--><td style="">Standing・Back：次の自分の番にエネコロを１個増やす</td>
+		<!--6-2--><td style="">次の自分の番にワザカードを2枚選んでそれぞれ使う</td>
+		<!--6-3--><td style="">Standing・Back：次の自分の番にエネコロを1個増やす</td>
 		<!--6-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by $1.</td></tr>
 </tbody>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="">技名</td>

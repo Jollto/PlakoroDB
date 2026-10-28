@@ -27,8 +27,8 @@ https://w.atwiki.jp/purakoro/pages/34.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">きあいため</td>
 		<!--4-1--><td style="">{G}{G}{G}</td>
 		<!--4-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
-		<!--4-3--><td style="">Standing・Back：次の自分の番にさらにエネコロを１個追加する。</td>
-		<!--4-4--><td style="">Handstand：次の自分の番のエネコロの結果から{G}を１個へらす。</td></tr>
+		<!--4-3--><td style="">Standing・Back：次の自分の番にさらにエネコロを1個追加する。</td>
+		<!--4-4--><td style="">Handstand：次の自分の番のエネコロの結果から{G}を1個へらす。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">はさみなげ</td>
 		<!--5-1--><td style="">{G}{G}{G}</td>
 		<!--5-2--><td style="">This attack does 30 damage.</td>
@@ -53,7 +53,7 @@ https://w.atwiki.jp/purakoro/pages/34.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ハサミをならす</td>
 		<!--2-1--><td style="">{G}{G}</td>
 		<!--2-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by $4.</td>
-		<!--2-3--><td style="">Standing：相手は次の番にふるエネコロをさらに１個へらす。</td>
+		<!--2-3--><td style="">Standing：相手は次の番にふるエネコロをさらに1個へらす。</td>
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">タックル</td>
 		<!--3-1--><td style="">{G}{G}</td>
@@ -68,7 +68,7 @@ https://w.atwiki.jp/purakoro/pages/34.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">なぎはらう</td>
 		<!--5-1--><td style="">{G}{G}{G}</td>
 		<!--5-2--><td style="">This attack does 20 damage.</td>
-		<!--5-3--><td style="">Standing：This attack does 20 more damage.<br>Back：相手は次の番にふるエネコロを１個へらす。</td>
+		<!--5-3--><td style="">Standing：This attack does 20 more damage.<br>Back：相手は次の番にふるエネコロを1個へらす。</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">かみちぎる</td>
 		<!--6-1--><td style="">{G}{G}{G}{G}</td>
@@ -85,7 +85,7 @@ https://w.atwiki.jp/purakoro/pages/34.html
 		<!--0-3--><td style="">追加メリット</td>
 		<!--0-4--><td style="">追加デメリット</td>
 		<!--0-5--><td style="">封入商品</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">１２シザーズ<br>（スペシャル）</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">12シザーズ<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{G}×10ダメージ</td>
 		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数×10のダメージを追加で与える。</td>

@@ -108,7 +108,7 @@ https://w.atwiki.jp/purakoro/pages/77.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">しんか</td>
 		<!--2-1--><td style="">{G}{G}{G}{G}</td>
-		<!--2-2--><td style="">フシギダネは<a href="//w.atwiki.jp/purakoro/pages/112.html" title="進化パック(フシギソウ、フシギバナ) (1149d)">フシギソウ</a>に進化する。<br>最高HPが140になり20HP回復する。</td>
+		<!--2-2--><td style="">フシギダネは<a href="//w.atwiki.jp/purakoro/pages/112.html" title="進化パック(フシギソウ、フシギバナ) (1149d)">フシギソウ</a>に進化する。<br>Max HP becomes 140.20HP回復する。</td>
 		<!--2-3--><td style="">Standing・Back：追加でHP10回復</td>
 		<!--2-4--><td style="">なし</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/112.html" title="進化パック(フシギソウ、フシギバナ) (1149d)">進化パック3</a></td></tr>

@@ -105,7 +105,7 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/141.html" title="拡張パック5.ゴースト (1167d)">拡張パック5.ゴースト</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">マインドショック</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
-		<!--4-2--><td style="">This attack does 20 damage.<br>このワザは2回トライする。</td>
+		<!--4-2--><td style="">This attack does 20 damage.<br>This attack may be used 2 times.</td>
 		<!--4-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">Handstand：Roll 6 Chibi Charakoros. This Pokémon does 10 damage to itself for each {st} Chibi Charakoro.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/142.html" title="拡張パック5.カイリュー (1167d)">拡張パック5.カイリュー</a>他</td></tr>

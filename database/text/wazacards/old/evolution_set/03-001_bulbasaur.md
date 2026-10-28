@@ -78,7 +78,7 @@ https://w.atwiki.jp/purakoro/pages/112.html
 
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">つるのあらし</td>
 		<!--2-1--><td style="">{G}{G}{G}</td>
-		<!--2-2--><td style="">このワザは3回トライする。<br>This attack does 10 damage.</td>
+		<!--2-2--><td style="">This attack may be used 3 times.<br>This attack does 10 damage.</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 
@@ -294,7 +294,7 @@ https://w.atwiki.jp/purakoro/pages/112.html
 
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">たねバルカン</td>
 		<!--5-1--><td style="">{G}{G}{G}{G}</td>
-		<!--5-2--><td style="">このワザは2回トライする。<br>This attack does 20 damage.</td>
+		<!--5-2--><td style="">This attack may be used 2 times.<br>This attack does 20 damage.</td>
 		<!--5-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">なし</td></tr>
 

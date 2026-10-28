@@ -62,7 +62,7 @@ https://w.atwiki.jp/purakoro/pages/109.html
 		<!--3-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">いかりのひづめ</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
-		<!--4-2--><td style="">このワザは3回トライする。<br>This attack does 10 damage.</td>
+		<!--4-2--><td style="">This attack may be used 3 times.<br>This attack does 10 damage.</td>
 		<!--4-3--><td style="">なし</td>
 		<!--4-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ひづめをならす</td>
@@ -93,7 +93,7 @@ https://w.atwiki.jp/purakoro/pages/109.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/146.html" title="拡張パック8.ケンタロス (799d)">拡張パック8.ケンタロス</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ダブルチャージ</td>
 		<!--2-1--><td style="">{Y}{Y}{Y}</td>
-		<!--2-2--><td style="">このワザは2回トライする。<br>Roll 8 Chibi Charakoros.立った数×10のダメージを与える。</td>
+		<!--2-2--><td style="">This attack may be used 2 times.<br>Roll 8 Chibi Charakoros.立った数×10のダメージを与える。</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/146.html" title="拡張パック8.ケンタロス (799d)">拡張パック8.ケンタロス</a></td></tr>

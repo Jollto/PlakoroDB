@@ -52,7 +52,7 @@ https://w.atwiki.jp/purakoro/pages/15.html
 		<!--1-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">みだれづき</td>
 		<!--2-1--><td style="">{F}{F}</td>
-		<!--2-2--><td style="">This attack does 10 damage.<br>このワザは2回トライする。</td>
+		<!--2-2--><td style="">This attack does 10 damage.<br>This attack may be used 2 times.</td>
 		<!--2-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">かぶとをしめる</td>

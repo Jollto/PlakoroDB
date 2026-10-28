@@ -89,7 +89,7 @@ https://w.atwiki.jp/purakoro/pages/97.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">しゃくねつのほのお<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{R}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/165.html" title="拡張パック3.ファイヤー (1144d)">拡張パック3.ファイヤー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">あおいほのお</td>
@@ -100,7 +100,7 @@ https://w.atwiki.jp/purakoro/pages/97.html
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/165.html" title="拡張パック3.ファイヤー (1144d)">拡張パック3.ファイヤー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">だいもんじ</td>
 		<!--3-1--><td style="">{R}{R}{R}{R}{R}</td>
-		<!--3-2--><td style="">Roll 24 Chibi Charakoros.立った数×10のダメージを与える。</td>
+		<!--3-2--><td style="">Roll 24 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand：このワザでチビキャラコロを12個しかふれなくなる。</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/165.html" title="拡張パック3.ファイヤー (1144d)">拡張パック3.ファイヤー</a></td></tr>

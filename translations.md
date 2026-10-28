@@ -64,9 +64,9 @@ Heal $4 more damage from this Pokémon.
 Heal $5 damage from this Pokémon.
 
 自分と相手がお互いにチビキャラコロを(\d+)個ずつふりあい、<br>自分が立った数×(\d+)ダメージを相手に与え、<br>相手が立った数×(\d+)のダメージを自分が受ける。
-You and your opponent each roll $1 Chibi Charakoros. This attack does $2 damage for each {st} Chibi Charakoro you rolled. This Pokémon does $3 damage to itself for each {st} Chibi Charakoro your opponent rolled.
+You and your opponent each roll $1 Chibi Charakoros. This attack does $2 damage for each {st} Chibi Charakoro you roll. This Pokémon does $3 damage to itself for each {st} Chibi Charakoro your opponent roll.
 
-(さらに)?チビキャラコロを(\d+)個ふって、
+(さらに)?チ?ビキャラコロを(\d+)個ふって、
 Roll $2 Chibi Charakoros.
 
 立った数[×x](\d+)[の]?ダメージ(を与える|を追加で与える)?[。、]?
@@ -94,3 +94,6 @@ This attack may be used $1 times.
 This attack does $2 damage for each $1 energy produced.
 
 が出たら
+
+ただしこのワザは自分のHPが(\d+)以下のときにしかつかえない。
+You can use this attack only if this Pokémon has $1 or less HP remaining.

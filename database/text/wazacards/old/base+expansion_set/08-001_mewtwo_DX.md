@@ -12,7 +12,7 @@ https://w.atwiki.jp/purakoro/pages/90.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">サイコストーム<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{P}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数x10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">するどいつめ</td>
 		<!--2-1--><td style="">{P}{P}</td>
@@ -31,8 +31,8 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--4-4--><td style="">Handstand：次の自分の番1回休み。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">(＊)いかりのはどう</td>
 		<!--5-1--><td style="">{P}{P}{P}{P}</td>
-		<!--5-2--><td style="">チビキャラコロを12個ふって立った数×20のダメージを与える。<br>ただしこのワザは自分のHPが40以下のときにしかつかえない。</td>
-		<!--5-3--><td style="">Standing：さらにチビキャラコロを6個ふって立った数×20のダメージを追加で与える。</td>
+		<!--5-2--><td style="">Roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.<br>You can use this attack only if this Pokémon has 40 or less HP remaining.</td>
+		<!--5-3--><td style="">Standing：Roll 6 more Chibi Charakoros.This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--5-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">サイコ・キネシス</td>
 		<!--6-1--><td style="">{P}{P}{P}{P}</td>
@@ -49,7 +49,7 @@ https://w.atwiki.jp/purakoro/pages/90.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">ドレインシャワー<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{P}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数x10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">きりさく</td>
 		<!--2-1--><td style="">{P}{P}</td>
@@ -91,12 +91,12 @@ https://w.atwiki.jp/purakoro/pages/90.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">エナジーハリケーン<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{P}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数x10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/161.html" title="拡張パック2.ミュウツー (1158d)">拡張パック2.ミュウツー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">いかりのオーラ</td>
 		<!--2-1--><td style="">{P}{P}{P}</td>
-		<!--2-2--><td style="">次の自分の番のワザが成功した場合、<br>相手に与えるダメージにチビキャラコロを8個ふって、立った数×10のダメージを加える。</td>
+		<!--2-2--><td style="">During your next turn, if your attack is successful, roll 8 Chibi Charakoros. That attack does 10 more damage for each {st} Chibi Charakoro.
 		<!--2-3--><td style="">なし</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/161.html" title="拡張パック2.ミュウツー (1158d)">拡張パック2.ミュウツー</a></td></tr>
@@ -108,8 +108,8 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/161.html" title="拡張パック2.ミュウツー (1158d)">拡張パック2.ミュウツー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">エナジーブラスト</td>
 		<!--4-1--><td style="">{P}{P}{P}{P}</td>
-		<!--4-2--><td style="">チビキャラコロを12個ふって立った数×10ダメージ</td>
-		<!--4-3--><td style="">Standing：さらにチビキャラコロを12個ふって立った数×10ダメージ</td>
+		<!--4-2--><td style="">Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
+		<!--4-3--><td style="">Standing：Roll 12 more Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/158.html" title="拡張パック2.メタモン (1159d)">拡張パック2.メタモン</a>他</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">サイコパワー</td>

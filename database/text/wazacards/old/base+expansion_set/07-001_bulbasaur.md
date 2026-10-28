@@ -103,7 +103,7 @@ https://w.atwiki.jp/purakoro/pages/77.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">はなびらのまい<br>(スペシャル)</td>
 		<!--1-1--><td style="">　</td>
 		<!--1-2--><td style="">{G}の数x10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数x10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">しんか</td>
@@ -126,13 +126,13 @@ https://w.atwiki.jp/purakoro/pages/77.html
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">たねマシンガン</td>
 		<!--5-1--><td style="">{G}{G}{G}</td>
-		<!--5-2--><td style="">Roll 12 Chibi Charakoros.立った数×10のダメージを与える。</td>
+		<!--5-2--><td style="">Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--5-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">たねばくだん</td>
 		<!--6-1--><td style="">{G}{G}{G}{G}</td>
-		<!--6-2--><td style="">Roll 12 Chibi Charakoros.立った数×20のダメージを与える、<br>自分も立った数×10ダメージ受ける。</td>
+		<!--6-2--><td style="">Roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.<br>This Pokémon does $3 damage to itself for each {st} Chibi Charakoro.</td>
 		<!--6-3--><td style="">Standing：自分がこのワザで受けるダメージが0になる。</td>
 		<!--6-4--><td style="">Handstand：相手がこのワザで受けるダメージが0になる。</td>
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>

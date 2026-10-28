@@ -89,24 +89,24 @@ https://w.atwiki.jp/purakoro/pages/51.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">ツバメがえし<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{G}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/159.html" title="拡張パック2.ストライク (1046d)">拡張パック2.ストライク</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">かまいたち</td>
 		<!--2-1--><td style="">{G}{G}{G}</td>
 		<!--2-2--><td style="">This attack does 30 damage.</td>
-		<!--2-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
-		<!--2-4--><td style="">Handstand：Roll 12 Chibi Charakoros.立った数×10のダメージを自分が受ける。</td>
+		<!--2-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
+		<!--2-4--><td style="">Handstand：Roll 12 Chibi Charakoros. This Pokémon does 10 damage to itself for each {st} Chibi Charakoro.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/159.html" title="拡張パック2.ストライク (1046d)">拡張パック2.ストライク</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">みだれぎり</td>
 		<!--3-1--><td style="">{G}{G}{G}{G}{G}</td>
-		<!--3-2--><td style="">チビキャラコロを12個ふって立った数×20のダメージを与える。<br>ただしこのワザは自分のHPが40以下のときにしかつかえない。</td>
-		<!--3-3--><td style="">Standing：さらにチビキャラコロを6個ふって立った数×20のダメージを追加で与える。</td>
+		<!--3-2--><td style="">Roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.<br>You can use this attack only if this Pokémon has $1 or less HP remaining.</td>
+		<!--3-3--><td style="">Standing：Roll 6 more Chibi Charakoros. This attack does 20 more damage for each {st} Chibi Charakoro.</td>
 		<!--3-4--><td style="">なし</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/159.html" title="拡張パック2.ストライク (1046d)">拡張パック2.ストライク</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">うけながす</td>
 		<!--4-1--><td style="">{G}{G}</td>
-		<!--4-2--><td style="">チビキャラコロを12個ふって立った数×10だけ次の相手の番に受けるダメージをへらす。</td>
+		<!--4-2--><td style="">Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--4-3--><td style="">Standing・Back：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/161.html" title="拡張パック2.ミュウツー (1163d)">拡張パック2.ミュウツー</a>他</td></tr>

@@ -103,7 +103,7 @@ https://w.atwiki.jp/purakoro/pages/89.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">おおつなみ<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{W}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数x10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/48.html" title="拡張パック1.ゼニガメ (1136d)">拡張パック1.ゼニガメ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">しんか</td>
@@ -138,8 +138,8 @@ https://w.atwiki.jp/purakoro/pages/89.html
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/48.html" title="拡張パック1.ゼニガメ (1136d)">拡張パック1.ゼニガメ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">だいこうずい</td>
 		<!--7-1--><td style="">{W}{W}{W}{W}</td>
-		<!--7-2--><td style="">Roll 12 Chibi Charakoros.立った数x10のダメージを与える。</td>
-		<!--7-3--><td style="">Standing：チビキャラコロをさらに12個ふって、立った数x10のダメージを追加で与える。</td>
+		<!--7-2--><td style="">Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
+		<!--7-3--><td style="">Standing：Roll 12 more Chibi Charakoros. This attack does 10 more damage for each {st} Chibi Charakoro.</td>
 		<!--7-4--><td style="">Back：次の自分の番1回休み。</td>
 		<!--7-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/48.html" title="拡張パック1.ゼニガメ (1136d)">拡張パック1.ゼニガメ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">みずをかける</td>

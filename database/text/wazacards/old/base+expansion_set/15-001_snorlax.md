@@ -88,25 +88,25 @@ https://w.atwiki.jp/purakoro/pages/40.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">おおあばれ<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{Y}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/41.html" title="拡張パック3.カビゴン (1131d)">拡張パック3.カビゴン</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ねぼける</td>
 		<!--2-1--><td style="">{Y}{Y}{Y}</td>
-		<!--2-2--><td style="">Roll 12 Chibi Charakoros.立った数×10のダメージを与える。</td>
+		<!--2-2--><td style="">Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--2-3--><td style="">Standing・Back：Heal 10 damage from this Pokémon.</td>
 		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/41.html" title="拡張パック3.カビゴン (1131d)">拡張パック3.カビゴン</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">かみつく</td>
 		<!--3-1--><td style="">{Y}{Y}{Y}</td>
 		<!--3-2--><td style="">This attack does 20 damage.</td>
-		<!--3-3--><td style="">Standing・Back：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--3-3--><td style="">Standing・Back：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--3-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/41.html" title="拡張パック3.カビゴン (1131d)">拡張パック3.カビゴン</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">まるまる</td>
 		<!--4-1--><td style="">{Y}{Y}</td>
-		<!--4-2--><td style="">Roll 6 Chibi Charakoros.立った数×30ダメージだけ次の相手の番に受けるダメージをへらす。</td>
-		<!--4-3--><td style="">Standing：Roll 6 Chibi Charakoros.立った数×30ダメージだけ次の相手の番に受けるダメージをへらす。</td>
+		<!--4-2--><td style="">Roll 6 Chibi Charakoros. During your opponent's next turn, this Pokémon takes 30 less damage from attacks for each {st} Chibi Charakoro.</td>
+		<!--4-3--><td style="">Standing：Roll 6 more Chibi Charakoros. Reduce damage taken by an additional 30 for each {st} Chibi Charakoro.</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/163.html" title="拡張パック3.ニョロゾ (633d)">拡張パック3.ニョロゾ</a>他</td></tr>
 </tbody>

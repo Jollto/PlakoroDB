@@ -103,7 +103,7 @@ https://w.atwiki.jp/purakoro/pages/21.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">なかまをよぶ<br>(スペシャル)</td>
 		<!--1-1--><td style="">　</td>
 		<!--1-2--><td style="">{Y}の数x10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数x10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/150.html" title="拡張パック1.ピッピ (1038d)">拡張パック1.ピッピ</a><br><a href="//w.atwiki.jp/purakoro/pages/23.html" title="プラコロバトルベース・赤 (1155d)">プラコロバトルベース・赤</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">なつく</td>
@@ -132,14 +132,14 @@ https://w.atwiki.jp/purakoro/pages/21.html
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/150.html" title="拡張パック1.ピッピ (1038d)">拡張パック1.ピッピ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ともだちのわ</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
-		<!--6-2--><td style="">Roll 12 Chibi Charakoros.立った数×10のダメージを与える。</td>
-		<!--6-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--6-2--><td style="">Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
+		<!--6-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--6-4--><td style="">Handstand：このワザで相手に与えるダメージと同じダメージを自分も受ける。</td>
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/150.html" title="拡張パック1.ピッピ (1038d)">拡張パック1.ピッピ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">あばれる</td>
 		<!--7-1--><td style="">{Y}{Y}{Y}{Y}</td>
-		<!--7-2--><td style="">Roll 12 Chibi Charakoros.立った数×20ダメージを与える、<br>ただしこのワザは自分のHPが40以下のときにしかつかえない。</td>
-		<!--7-3--><td style="">Standing：Roll 6 Chibi Charakoros.立った数×20のダメージを追加で与える。</td>
+		<!--7-2--><td style="">Roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.<br>You can use this attack only if this Pokémon has $1 or less HP remaining.</td>
+		<!--7-3--><td style="">Standing：Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--7-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td>
 		<!--7-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1136d)">拡張パック1.ピカチュウ</a>他</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">だきつく</td>

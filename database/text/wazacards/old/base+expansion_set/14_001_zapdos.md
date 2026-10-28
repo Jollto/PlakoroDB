@@ -89,7 +89,7 @@ https://w.atwiki.jp/purakoro/pages/98.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">ギガスパーク<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{L}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/166.html" title="拡張パック3.サンダー (83d)">拡張パック3.サンダー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">じゅうでん</td>
@@ -100,7 +100,7 @@ https://w.atwiki.jp/purakoro/pages/98.html
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/166.html" title="拡張パック3.サンダー (83d)">拡張パック3.サンダー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ほうでん</td>
 		<!--3-1--><td style="">{L}{L}{L}</td>
-		<!--3-2--><td style="">Roll 7 Chibi Charakoros.立った数×10のダメージを与える、<br>この時1個でもチビキャラコロが立っていれば続けてチビキャラコロを7個ふる。<br>これをチビキャラコロが1個も立たなくなるまで続ける。</td>
+		<!--3-2--><td style="">Roll 7 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.<br>この時1個でもチビキャラコロが立っていれば続けてチビキャラコロを7個ふる。<br>これをチビキャラコロが1個も立たなくなるまで続ける。</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/166.html" title="拡張パック3.サンダー (83d)">拡張パック3.サンダー</a></td></tr>

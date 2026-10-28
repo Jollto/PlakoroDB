@@ -119,7 +119,7 @@ https://w.atwiki.jp/purakoro/pages/47.html
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1132d)">拡張パック1.ピカチュウ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">はつでん</td>
 		<!--4-1--><td style="">{L}{L}</td>
-		<!--4-2--><td style="">Roll 12 Chibi Charakoros.立った数だけ次の自分の番のエネコロをの結果に{L}を足すことができる、<br>しかしチビキャラコロが立った数×10のダメージを受ける。</td>
+		<!--4-2--><td style="">Roll 12 Chibi Charakoros. On your next turn, add {L} for each {st} Chibi Charakoro.This Pokémon does 10 damage to itself for each {st} Chibi Charakoro.</td>
 		<!--4-3--><td style="">Standing：このワザで受けるダメージが0になる。</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1132d)">拡張パック1.ピカチュウ</a></td></tr>

@@ -88,7 +88,7 @@ https://w.atwiki.jp/purakoro/pages/31.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">デスニードル<br>（スペシャル）</td>
 		<!--1-1--><td style="">　</td>
 		<!--1-2--><td style="">{G}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/138.html" title="拡張パック6.スピアー (1158d)">拡張パック6.スピアー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">いかりのダンス</td>
@@ -99,7 +99,7 @@ https://w.atwiki.jp/purakoro/pages/31.html
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/138.html" title="拡張パック6.スピアー (1158d)">拡張パック6.スピアー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">パラライズニードル</td>
 		<!--3-1--><td style="">{G}{G}{G}</td>
-		<!--3-2--><td style="">チビキャラコロを8個ふって、立った数だけ相手は次の番にふるエネコロをへらす</td>
+		<!--3-2--><td style="">Roll 8 Chibi Charakoros.立った数だけ相手は次の番にふるエネコロをへらす</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand、Down：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/138.html" title="拡張パック6.スピアー (1158d)">拡張パック6.スピアー</a></td></tr>

@@ -88,12 +88,12 @@ https://w.atwiki.jp/purakoro/pages/108.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">ともだちのわ<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{Y}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/145.html" title="拡張パック7.ラッキー (624d)">拡張パック7.ラッキー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">アンラッキー</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
-		<!--2-2--><td style="">チビキャラコロを6個ふって、立った数だけ相手は次の番にふるエネコロをへらす。</td>
+		<!--2-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ相手は次の番にふるエネコロをへらす。</td>
 		<!--2-3--><td style="">なし</td>
 		<!--2-4--><td style="">Handstand：チビキャラコロを6個ふって立った数×10ダメージを自分が受ける。</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/144.html" title="拡張パック7.ニャース (624d)">拡張パック7.ニャース</a>他</td></tr>

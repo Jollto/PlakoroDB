@@ -88,12 +88,12 @@ https://w.atwiki.jp/purakoro/pages/111.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">じたばたする<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{W}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/173.html" title="拡張パック8.コダック (799d)">拡張パック8.コダック</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">とぼける</td>
 		<!--2-1--><td style="">{W}{W}</td>
-		<!--2-2--><td style="">チビキャラコロを6個ふって、立った数だけ相手は次の番にふるエネコロをへらす。</td>
+		<!--2-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ相手は次の番にふるエネコロをへらす。</td>
 		<!--2-3--><td style="">Standing・Back：Heal 10 damage from this Pokémon.</td>
 		<!--2-4--><td style="">This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/173.html" title="拡張パック8.コダック (799d)">拡張パック8.コダック</a></td></tr>

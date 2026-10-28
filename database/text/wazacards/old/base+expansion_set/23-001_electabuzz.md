@@ -88,24 +88,24 @@ https://w.atwiki.jp/purakoro/pages/43.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">エレブレイド<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{L}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/143.html" title="拡張パック5.エレブー (1159d)">拡張パック5.エレブー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ハイパーショック</td>
 		<!--2-1--><td style="">{L}{L}{L}</td>
-		<!--2-2--><td style="">チビキャラコロを8個ふって、立った数だけ相手は次の番にふるエネコロをへらす。</td>
+		<!--2-2--><td style="">Roll 8 Chibi Charakoros.立った数だけ相手は次の番にふるエネコロをへらす。</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 10 damage.</td>
 		<!--2-4--><td style="">なし</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/143.html" title="拡張パック5.エレブー (1159d)">拡張パック5.エレブー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">エレキウエーブ</td>
 		<!--3-1--><td style="">{L}{L}{L}{L}</td>
-		<!--3-2--><td style="">This attack does 20 damage.<br>さらにチビキャラコロを6個ふって、立った数×20のダメージを与える。</td>
+		<!--3-2--><td style="">This attack does 20 damage.<br>Roll 6 Chibi Charakoros.立った数×20のダメージを与える。</td>
 		<!--3-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/143.html" title="拡張パック5.エレブー (1159d)">拡張パック5.エレブー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">じゅうでんMAX</td>
 		<!--4-1--><td style="">{L}{L}{L}</td>
-		<!--4-2--><td style="">Heal 10 damage from this Pokémon.<br>さらにチビキャラコロを6個ふって、たった数だけ次の自分の番にふるエネコロを追加してふる。</td>
+		<!--4-2--><td style="">Heal 10 damage from this Pokémon.<br>Roll 6 Chibi Charakoros.たった数だけ次の自分の番にふるエネコロを追加してふる。</td>
 		<!--4-3--><td style="">なし</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/141.html" title="拡張パック5.ゴースト (1159d)">拡張パック5.ゴースト</a>他</td></tr>

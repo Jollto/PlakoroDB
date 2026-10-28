@@ -89,24 +89,24 @@ https://w.atwiki.jp/purakoro/pages/98.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">ギガスパーク<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{L}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/166.html" title="拡張パック3.サンダー (83d)">拡張パック3.サンダー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">じゅうでん</td>
 		<!--2-1--><td style="">{L}{L}</td>
-		<!--2-2--><td style="">チビキャラコロを6個ふって、立った数だけ次の自分の番にエネコロを追加してふる。</td>
-		<!--2-3--><td style="">Standing・Back：さらにチビキャラコロを3個ふって、立った数だけ次の自分の番にエネコロを追加してふる。</td>
+		<!--2-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる。</td>
+		<!--2-3--><td style="">Standing・Back：Roll 3 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる。</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/166.html" title="拡張パック3.サンダー (83d)">拡張パック3.サンダー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ほうでん</td>
 		<!--3-1--><td style="">{L}{L}{L}</td>
-		<!--3-2--><td style="">チビキャラコロを7個ふって、立った数×10のダメージを与える、<br>この時1個でもチビキャラコロが立っていれば続けてチビキャラコロを7個ふる。<br>これをチビキャラコロが1個も立たなくなるまで続ける。</td>
+		<!--3-2--><td style="">Roll 7 Chibi Charakoros.立った数×10のダメージを与える、<br>この時1個でもチビキャラコロが立っていれば続けてチビキャラコロを7個ふる。<br>これをチビキャラコロが1個も立たなくなるまで続ける。</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/166.html" title="拡張パック3.サンダー (83d)">拡張パック3.サンダー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">スタンビーム</td>
 		<!--4-1--><td style="">{L}{L}{L}</td>
-		<!--4-2--><td style="">チビキャラコロを6個ふって、立った数だけ相手は次の番にふるエネコロをへらす。</td>
+		<!--4-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ相手は次の番にふるエネコロをへらす。</td>
 		<!--4-3--><td style="">Standing・Back：This attack does 20 damage.</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/165.html" title="拡張パック3.ファイヤー (1141d)">拡張パック3.ファイヤー</a>他</td></tr>

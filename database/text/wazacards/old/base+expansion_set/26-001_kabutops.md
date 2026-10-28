@@ -88,13 +88,13 @@ https://w.atwiki.jp/purakoro/pages/15.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">みだれきりさき<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{F}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/137.html" title="拡張パック6.カブトプス (1155d)">拡張パック6.カブトプス</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">いちもんじぎり</td>
 		<!--2-1--><td style="">{F}{F}{F}</td>
 		<!--2-2--><td style="">This attack does 30 damage.</td>
-		<!--2-3--><td style="">Standing・Back：チビキャラコロを6個ふって、立った数×10のダメージを追加で与える。</td>
+		<!--2-3--><td style="">Standing・Back：Roll 6 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/137.html" title="拡張パック6.カブトプス (1155d)">拡張パック6.カブトプス</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ひっさつのカマ</td>
@@ -105,7 +105,7 @@ https://w.atwiki.jp/purakoro/pages/15.html
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/137.html" title="拡張パック6.カブトプス (1155d)">拡張パック6.カブトプス</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">げんしのいかり</td>
 		<!--4-1--><td style="">{F}{F}</td>
-		<!--4-2--><td style="">チビキャラコロを6個ふって、立った数だけ次の自分の番にエネコロを追加してふる。</td>
+		<!--4-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる。</td>
 		<!--4-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/138.html" title="拡張パック6.スピアー (1155d)">拡張パック6.スピアー</a>他</td></tr>

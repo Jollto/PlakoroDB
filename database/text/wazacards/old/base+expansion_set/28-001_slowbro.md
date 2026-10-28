@@ -88,13 +88,13 @@ https://w.atwiki.jp/purakoro/pages/22.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">つりをする<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{P}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数x10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数x10のダメージを追加で与える。</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/139.html" title="拡張パック6.ヤドラン (1156d)">拡張パック6.ヤドラン</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">おおボケ</td>
 		<!--2-1--><td style="">{W}{P}{P}</td>
 		<!--2-2--><td style="">次の自分の番にでたエネコロの結果に{P}か{W}のどちらか1つを足す。</td>
-		<!--2-3--><td style="">Standing：チビキャラコロを6個ふって、立った数×10のHP回復する。</td>
+		<!--2-3--><td style="">Standing：Roll 6 Chibi Charakoros.立った数×10のHP回復する。</td>
 		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/139.html" title="拡張パック6.ヤドラン (1156d)">拡張パック6.ヤドラン</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">はかいこうせん</td>

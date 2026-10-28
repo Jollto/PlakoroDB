@@ -103,7 +103,7 @@ https://w.atwiki.jp/purakoro/pages/89.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">おおつなみ<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{W}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数x10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数x10のダメージを追加で与える。</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/48.html" title="拡張パック1.ゼニガメ (1136d)">拡張パック1.ゼニガメ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">しんか</td>
@@ -114,7 +114,7 @@ https://w.atwiki.jp/purakoro/pages/89.html
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/105.html" title="進化パック(カメール、カメックス) (1144d)">進化パック2</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">あまごい</td>
 		<!--3-1--><td style="">{W}{W}</td>
-		<!--3-2--><td style="">チビキャラコロを6個ふって、立った数だけ次の自分の番のエネコロの結果に{W}を足すことができる。</td>
+		<!--3-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ次の自分の番のエネコロの結果に{W}を足すことができる。</td>
 		<!--3-3--><td style="">Standing：チビキャラコロをさらに6個ふって、立った数だけ次の自分の番のエネコロの結果に{W}を足すことができる。</td>
 		<!--3-4--><td style="">なし</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/48.html" title="拡張パック1.ゼニガメ (1136d)">拡張パック1.ゼニガメ</a></td></tr>
@@ -133,12 +133,12 @@ https://w.atwiki.jp/purakoro/pages/89.html
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">みずあび</td>
 		<!--6-1--><td style="">{W}{W}{W}</td>
 		<!--6-2--><td style="">Heal 20 damage from this Pokémon.</td>
-		<!--6-3--><td style="">Standing：チビキャラコロを12個ふって、立った数x10のHPを追加で回復する。</td>
+		<!--6-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数x10のHPを追加で回復する。</td>
 		<!--6-4--><td style="">Back：次の自分の番1回休み。</td>
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/48.html" title="拡張パック1.ゼニガメ (1136d)">拡張パック1.ゼニガメ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">だいこうずい</td>
 		<!--7-1--><td style="">{W}{W}{W}{W}</td>
-		<!--7-2--><td style="">チビキャラコロを12個ふって、立った数x10のダメージを与える。</td>
+		<!--7-2--><td style="">Roll 12 Chibi Charakoros.立った数x10のダメージを与える。</td>
 		<!--7-3--><td style="">Standing：チビキャラコロをさらに12個ふって、立った数x10のダメージを追加で与える。</td>
 		<!--7-4--><td style="">Back：次の自分の番1回休み。</td>
 		<!--7-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/48.html" title="拡張パック1.ゼニガメ (1136d)">拡張パック1.ゼニガメ</a></td></tr>

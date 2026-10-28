@@ -103,7 +103,7 @@ https://w.atwiki.jp/purakoro/pages/76.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">スーパーラッシュ<br>(スペシャル)</td>
 		<!--1-1--><td style="">　</td>
 		<!--1-2--><td style="">{F}の数x10ダメージ</td>
-		<!--1-3--><td style="">Standing：チビキャラコロを12個ふって、立った数x10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数x10のダメージを追加で与える。</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">メガトンアッパー</td>
@@ -120,8 +120,8 @@ https://w.atwiki.jp/purakoro/pages/76.html
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">いかりのいちげき</td>
 		<!--4-1--><td style="">{F}{F}{F}{F}</td>
-		<!--4-2--><td style="">チビキャラコロを12個ふって、たった数×20ダメージを与える、<br>ただしこのワザは自分のHPが40以下のときにしかつかえない。</td>
-		<!--4-3--><td style="">Standing：さらにチビキャラコロを6個ふって、立った数×20のダメージを追加で与える。</td>
+		<!--4-2--><td style="">Roll 12 Chibi Charakoros.たった数×20ダメージを与える、<br>ただしこのワザは自分のHPが40以下のときにしかつかえない。</td>
+		<!--4-3--><td style="">Standing：Roll 6 Chibi Charakoros.立った数×20のダメージを追加で与える。</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">とびげり</td>
@@ -132,8 +132,8 @@ https://w.atwiki.jp/purakoro/pages/76.html
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">だいじしん</td>
 		<!--6-1--><td style="">{F}{F}{F}{F}</td>
-		<!--6-2--><td style="">チビキャラコロを6個ふって、立った数×20のダメージを与える。</td>
-		<!--6-3--><td style="">Standing・Back：さらにチビキャラコロを6個ふって、立った数×20のダメージを追加で与える。</td>
+		<!--6-2--><td style="">Roll 6 Chibi Charakoros.立った数×20のダメージを与える。</td>
+		<!--6-3--><td style="">Standing・Back：Roll 6 Chibi Charakoros.立った数×20のダメージを追加で与える。</td>
 		<!--6-4--><td style="">Handstand・Down：相手が受けたダメージと同じダメージを自分も受ける。</td>
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1138d)">拡張パック1.ワンリキー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">ちからくらべ</td>

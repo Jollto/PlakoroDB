@@ -31,8 +31,8 @@ https://w.atwiki.jp/purakoro/pages/54.html
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style=""><span style="color: #F54738;"><!--@@@@@-->ベロをのばす</span></td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
-		<!--5-2--><td style="">次の自分の番にふるエネコロを1個追加してふる。</td>
-		<!--5-3--><td style="">Standing・Back：次の自分の番にさらにエネコロをもう1個追加してふる。</td>
+		<!--5-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
+		<!--5-3--><td style="">Standing・Back：On your next turn, increase the number of Enekoro you roll by 1 more.</td>
 		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ベロベロアタック</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>

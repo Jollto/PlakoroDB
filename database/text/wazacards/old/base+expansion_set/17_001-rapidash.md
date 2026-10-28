@@ -68,7 +68,7 @@ https://w.atwiki.jp/purakoro/pages/100.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style=""><a href="//w.atwiki.jp/purakoro/pages/97.html" title="ファイヤー (1010d)">ファイヤー</a>チャージ</td>
 		<!--5-1--><td style="">{R}{R}{R}</td>
 		<!--5-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
-		<!--5-3--><td style="">Standing・Back：次の自分の番にさらにエネコロをもう1個追加してふる。</td>
+		<!--5-3--><td style="">Standing・Back：On your next turn, increase the number of Enekoro you roll by 1 more.</td>
 		<!--5-4--><td style="">Handstand・Down：次の自分の番のエネコロの結果から{R}を1つへらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">だいもんじ</td>
 		<!--6-1--><td style="">{R}{R}{R}{R}{R}</td>

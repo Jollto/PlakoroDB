@@ -27,7 +27,7 @@ https://w.atwiki.jp/purakoro/pages/92.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">きあいため</td>
 		<!--4-1--><td style="">{F}{F}{F}</td>
 		<!--4-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
-		<!--4-3--><td style="">Standing：次の自分の番にさらにエネコロをもう1個追加してふることができる。</td>
+		<!--4-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1 more.</td>
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">とっしん</td>
 		<!--5-1--><td style="">{F}{F}{F}</td>

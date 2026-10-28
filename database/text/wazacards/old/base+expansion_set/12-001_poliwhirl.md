@@ -24,6 +24,9 @@ https://w.atwiki.jp/purakoro/pages/93.html
 		<!--3-2--><td style="">This attack does 20 damage.</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
+
+#### Hypnosis
+
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">さいみんじゅつ</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
@@ -65,6 +68,9 @@ https://w.atwiki.jp/purakoro/pages/93.html
 		<!--4-2--><td style="">This attack does 20 damage.</td>
 		<!--4-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
+
+#### Manipulation ?
+
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">あやつる</td>
 		<!--5-1--><td style="">{W}{W}{W}</td>
 		<!--5-2--><td style="">次の自分の番に自分のキャラコロを好きな向きでおける。</td>
@@ -91,6 +97,9 @@ https://w.atwiki.jp/purakoro/pages/93.html
 		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/163.html" title="拡張パック3.ニョロゾ (647d)">拡張パック3.ニョロゾ</a></td></tr>
+
+#### Recover
+
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">じこさいせい</td>
 		<!--2-1--><td style="">{W}{W}{W}</td>
 		<!--2-2--><td style="">Roll 6 Chibi Charakoros.立った数×20のHPを回復する。</td>

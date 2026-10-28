@@ -33,7 +33,7 @@ https://w.atwiki.jp/purakoro/pages/28.html
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">Heal 30 damage from this Pokémon.</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Handstand：このワザで回復するHPが10になる。</td></tr>
+		<!--5-4--><td style="">Handstand：Heal only 10 damage from this Pokémon.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ふわふわアタック</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
 		<!--6-2--><td style="">This attack does 50 damage.<br>This Pokémon does 10 damage to itself.</td>

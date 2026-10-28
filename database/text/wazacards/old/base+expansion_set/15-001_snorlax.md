@@ -68,7 +68,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ねむる</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">30HPを回復する</td>
-		<!--5-3--><td style="">Standing：追加で20HP回復</td>
+		<!--5-3--><td style="">Standing：Heal 20 more damage from this Pokémon.</td>
 		<!--5-4--><td style="">Handstand：次の相手の番に受けるダメージが2倍になる。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">はかいこうせん</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}{Y}</td>

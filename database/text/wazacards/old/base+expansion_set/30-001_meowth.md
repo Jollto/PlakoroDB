@@ -27,7 +27,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ひとねむり</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">30HPを回復する。</td>
-		<!--4-3--><td style="">Standing：追加で20HP回復</td>
+		<!--4-3--><td style="">Standing：Heal 20 more damage from this Pokémon.</td>
 		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">きりさく</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>

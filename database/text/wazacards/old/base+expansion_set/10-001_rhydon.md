@@ -60,7 +60,7 @@ https://w.atwiki.jp/purakoro/pages/92.html
 		<!--3-1--><td style="">{F}{F}</td>
 		<!--3-2--><td style="">This attack does 20 damage.</td>
 		<!--3-3--><td style="">なし</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">のしかかる</td>
 		<!--4-1--><td style="">{F}{F}{F}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>
@@ -70,7 +70,7 @@ https://w.atwiki.jp/purakoro/pages/92.html
 		<!--5-1--><td style="">{F}{F}{F}</td>
 		<!--5-2--><td style="">次の相手の番にダメージを受けてHPが0にならなければ、<br>そのダメージを2倍にして相手にも与える。</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">つのドリル</td>
 		<!--6-1--><td style="">{F}{F}{F}{F}</td>
 		<!--6-2--><td style="">This attack does 40 damage.</td>

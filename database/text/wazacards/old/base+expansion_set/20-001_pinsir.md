@@ -18,7 +18,7 @@ https://w.atwiki.jp/purakoro/pages/34.html
 		<!--2-1--><td style="">{G}{G}</td>
 		<!--2-2--><td style="">During your opponent's next turn, this Pokémon takes 30 less damage from attacks.</td>
 		<!--2-3--><td style="">Standing・Back：Reduce damage taken by an additional 30.</td>
-		<!--2-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを１個へらす。</td></tr>
+		<!--2-4--><td style="">Handstand・Down：On your next turn, reduce the number of Enekoro you roll by $1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ハサミでつく</td>
 		<!--3-1--><td style="">{G}{G}</td>
 		<!--3-2--><td style="">This attack does 20 damage.</td>

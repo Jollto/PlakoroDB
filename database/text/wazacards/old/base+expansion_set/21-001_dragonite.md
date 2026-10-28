@@ -23,7 +23,7 @@ https://w.atwiki.jp/purakoro/pages/102.html
 		<!--3-1--><td style="">{Y}{Y}</td>
 		<!--3-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
 		<!--3-3--><td style="">Standing・Back：This attack does 10 damage.</td>
-		<!--3-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand・Down：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ねむる</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">20HPを回復する。</td>
@@ -64,7 +64,7 @@ https://w.atwiki.jp/purakoro/pages/102.html
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">次の自分の番に相手にダメージを与えるワザが成功した場合、<br>相手に与えるダメージに＋20する。</td>
 		<!--4-3--><td style="">Standing・Back：On your next turn, increase the number of Enekoro you roll by 1.</td>
-		<!--4-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--4-4--><td style="">Handstand・Down：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">すてみタックル</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">This attack does 40 damage.<br>This Pokémon does 20 damage to itself.</td>

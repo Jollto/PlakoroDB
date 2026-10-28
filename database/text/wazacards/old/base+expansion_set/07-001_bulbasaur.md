@@ -122,7 +122,7 @@ https://w.atwiki.jp/purakoro/pages/77.html
 		<!--4-1--><td style="">{G}{G}{G}</td>
 		<!--4-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--4-3--><td style="">Standing・Back：This attack does 20 damage.</td>
-		<!--4-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
+		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">たねマシンガン</td>
 		<!--5-1--><td style="">{G}{G}{G}</td>

@@ -33,7 +33,7 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--5-1--><td style="">{P}{P}{P}</td>
 		<!--5-2--><td style="">次の相手の番に相手が使うワザを相手のワザの中から自分が選ぶ。</td>
 		<!--5-3--><td style="">Standing・Back：This attack does 20 damage.</td>
-		<!--5-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">メガドレイン</td>
 		<!--6-1--><td style="">{P}{P}{P}{P}{P}</td>
 		<!--6-2--><td style="">This attack does 60 damage.<br>30HP自分が回復する。</td>
@@ -49,7 +49,7 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--1-1--><td style="">{P}</td>
 		<!--1-2--><td style="">This attack does 10 damage.</td>
 		<!--1-3--><td style="">なし</td>
-		<!--1-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--1-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">サイコウエーブ</td>
 		<!--2-1--><td style="">{P}{P}</td>
 		<!--2-2--><td style="">This attack does 20 damage.</td>
@@ -59,12 +59,12 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--3-1--><td style="">{P}{P}</td>
 		<!--3-2--><td style="">次の相手の番に使えるワザカードを1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
 		<!--3-3--><td style="">Standing：This attack does 10 damage.</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ナイトヘッド</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>
 		<!--4-3--><td style="">Standing：On the opponent's next turn, reduce the number of Enekoro they roll by 2.</td>
-		<!--4-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">エナジーへんかん</td>
 		<!--5-1--><td style="">{P}{P}{P}</td>
 		<!--5-2--><td style="">This Pokémon does 20 damage to itself.<br>次の自分の番にふるエネコロをもう2個追加してふる。</td>

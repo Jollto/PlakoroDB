@@ -33,7 +33,7 @@ https://w.atwiki.jp/purakoro/pages/98.html
 		<!--5-1--><td style="">{L}{L}{L}</td>
 		<!--5-2--><td style="">次の自分の番ででたエネコロの結果に{L}を1つ足すことができる。</td>
 		<!--5-3--><td style="">Standing・Back：さらに次の自分の番ででたエネコロの結果に{L}を1つ足すことができる。</td>
-		<!--5-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--5-4--><td style="">Handstand・Down：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ドリルくちばし</td>
 		<!--6-1--><td style="">{L}{L}{L}{L}{L}</td>
 		<!--6-2--><td style="">This attack does 60 damage.</td>

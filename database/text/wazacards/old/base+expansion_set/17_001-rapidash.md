@@ -23,7 +23,7 @@ https://w.atwiki.jp/purakoro/pages/100.html
 		<!--3-1--><td style="">{R}{R}</td>
 		<!--3-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--3-3--><td style="">Standing・Back：This attack does 10 damage.</td>
-		<!--3-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand・Down：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">みだれづき</td>
 		<!--4-1--><td style="">{R}{R}{R}</td>
 		<!--4-2--><td style="">ワザを3回トライして成功した数×10ダメージを与える。</td>
@@ -33,7 +33,7 @@ https://w.atwiki.jp/purakoro/pages/100.html
 		<!--5-1--><td style="">{R}{R}{R}</td>
 		<!--5-2--><td style="">次の相手の番で相手のワザが成功しても、相手のキャラコロの向きが{hs}{ba}{do}だったら相手のワザは失敗する。</td>
 		<!--5-3--><td style="">Standing・Back：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
-		<!--5-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--5-4--><td style="">Handstand・Down：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">スピードスター</td>
 		<!--6-1--><td style="">{R}{R}{R}{R}</td>
 		<!--6-2--><td style="">ワザを3回トライして成功した数×20ダメージを与える。</td>
@@ -59,7 +59,7 @@ https://w.atwiki.jp/purakoro/pages/100.html
 		<!--3-1--><td style="">{R}{R}</td>
 		<!--3-2--><td style="">次の自分のワザが成功した場合、相手に与えるダメージに＋10する。</td>
 		<!--3-3--><td style="">Standing：相手に与えるダメージをさらに＋10増やす。</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">とっしん</td>
 		<!--4-1--><td style="">{R}{R}{R}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>

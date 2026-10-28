@@ -33,7 +33,7 @@ https://w.atwiki.jp/purakoro/pages/99.html
 		<!--5-1--><td style="">{W}{W}{W}</td>
 		<!--5-2--><td style="">This attack does 20 damage.</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Standing・Back：次の自分の番にふるエネコロを1個へらす。<br>Handstand：This Pokémon does 10 damage to itself.</td></tr>
+		<!--5-4--><td style="">Standing・Back：On your next turn, reduce the number of Enekoro you roll by 1.<br>Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">りゅうのいかり</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">ワザが成功したら出ているエネコロの{W}の数×10ダメージを与える。</td>
@@ -60,7 +60,7 @@ https://w.atwiki.jp/purakoro/pages/99.html
 		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">This attack does 20 damage.</td>
 		<!--3-3--><td style="">Standing：This attack does 10 more damage.</td>
-		<!--3-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand・Down：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">あばれる</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">ワザを3回トライして成功した数×10ダメージ</td>

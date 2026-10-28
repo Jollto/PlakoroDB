@@ -23,7 +23,7 @@ https://w.atwiki.jp/purakoro/pages/103.html
 		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--3-3--><td style="">Standing・Back：During your opponent's next turn, this Pokémon takes 30 less damage from attacks.</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">アイスストーム</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>
@@ -95,7 +95,7 @@ https://w.atwiki.jp/purakoro/pages/103.html
 		<!--2-1--><td style="">{W}{W}{W}</td>
 		<!--2-2--><td style="">This attack does 20 damage.<br>On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--2-3--><td style="">Standing：This attack does 10 more damage.</td>
-		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
+		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/140.html" title="拡張パック5.フリーザー (1169d)">拡張パック5.フリーザー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ブリザード</td>
 		<!--3-1--><td style="">{W}{W}{W}{W}{W}</td>

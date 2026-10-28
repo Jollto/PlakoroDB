@@ -60,12 +60,12 @@ https://w.atwiki.jp/purakoro/pages/28.html
 		<!--3-1--><td style="">{Y}{Y}</td>
 		<!--3-2--><td style="">次の相手の番に相手が使うワザを、相手のワザの中から自分がえらぶ。</td>
 		<!--3-3--><td style="">なし</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">のしかかり</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">This attack does 20 damage.</td>
 		<!--4-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--4-4--><td style="">Down：次の自分の番にふるエネコロを1個へらす。<br>Handstand：This Pokémon does 10 damage to itself.</td></tr>
+		<!--4-4--><td style="">Down：On your next turn, reduce the number of Enekoro you roll by 1.<br>Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">こもりうた</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">次の相手の番にふるエネコロを1個へらし、<br>さらに次の自分の番にワザが成功してダメージを与えるたびに、相手に与えるダメージを+10する。</td>
@@ -102,7 +102,7 @@ https://w.atwiki.jp/purakoro/pages/28.html
 		<!--3-1--><td style="">{Y}{Y}{Y}</td>
 		<!--3-2--><td style="">自分と相手がお互いにチビキャラコロを12個ずつふりあい、立った数をくらべて立った数が少ないほうに50ダメージを与える。<br>（お互いの立った数が同じ場合は、両方ともチビキャラコロをふりなおします。））</td>
 		<!--3-3--><td style="">なし</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/38.html" title="拡張パック6.プクリン (1166d)">拡張パック6.プクリン</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">だきつく</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>

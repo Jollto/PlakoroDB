@@ -33,7 +33,7 @@ https://w.atwiki.jp/purakoro/pages/54.html
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">次の自分の番にふるエネコロを1個追加してふる。</td>
 		<!--5-3--><td style="">Standing・Back：次の自分の番にさらにエネコロをもう1個追加してふる。</td>
-		<!--5-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ベロベロアタック</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
 		<!--6-2--><td style="">このワザは3回トライする。<br>This attack does 20 damage.</td>
@@ -74,7 +74,7 @@ https://w.atwiki.jp/purakoro/pages/54.html
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}{Y}</td>
 		<!--6-2--><td style="">This attack does 40 damage.<br>1つ前の自分の番にワザ<span style="color: #F54738;"><!--@@@@@-->ベロをのばす</span>が成功していればThis attack does 30 more damage.</td>
 		<!--6-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--6-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--6-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 </tbody>
 
 ### Expansion Set

@@ -28,7 +28,7 @@ https://w.atwiki.jp/purakoro/pages/25.html
 		<!--4-1--><td style="">{L}{L}{L}</td>
 		<!--4-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 2.</td>
 		<!--4-3--><td style="">Standing：This attack does 20 damage.</td>
-		<!--4-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">サンダーショット</td>
 		<!--5-1--><td style="">{L}{L}{L}{L}</td>
 		<!--5-2--><td style="">This attack does 20 damage.<br>このワザは3回トライする、<br>3回とも成功したらThis attack does 20 more damage.</td>

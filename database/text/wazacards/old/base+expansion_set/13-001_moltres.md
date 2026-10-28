@@ -23,7 +23,7 @@ https://w.atwiki.jp/purakoro/pages/97.html
 		<!--3-1--><td style="">{R}{R}</td>
 		<!--3-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
 		<!--3-3--><td style="">Standing・Back：This attack does 10 damage.</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">かえんほうしゃ</td>
 		<!--4-1--><td style="">{R}{R}{R}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>
@@ -33,7 +33,7 @@ https://w.atwiki.jp/purakoro/pages/97.html
 		<!--5-1--><td style="">{R}{R}{R}</td>
 		<!--5-2--><td style="">次の自分の番ででたエネコロの結果に{R}を1つ足すことができる。</td>
 		<!--5-3--><td style="">Standing：さらに次の自分の番ででたエネコロの結果に{R}を1つ足すことができる。</td>
-		<!--5-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ゴッドバード</td>
 		<!--6-1--><td style="">{R}{R}{R}{R}{R}</td>
 		<!--6-2--><td style="">This attack does 80 damage.</td>

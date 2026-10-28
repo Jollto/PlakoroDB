@@ -28,7 +28,7 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">20HPを回復する、<br>1つ前のワザずつうが成功していたら追加で20HP回復する。</td>
 		<!--4-3--><td style="">Standing：追加で10HP回復する。</td>
-		<!--4-4--><td style="">Handstand：次の自分の番にふるエネコロを1個減らす。</td></tr>
+		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ねんりき</td>
 		<!--5-1--><td style="">{W}{W}{W}</td>
 		<!--5-2--><td style="">This attack does 30 damage.</td>
@@ -74,7 +74,7 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--6-1--><td style="">{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">This attack does 30 damage.<br>On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--6-3--><td style="">Standing：This attack does 20 more damage.</td>
-		<!--6-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--6-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 </tbody>
 
 ### Expansion Set
@@ -101,12 +101,12 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--3-1--><td style="">{W}{W}{W}{W}</td>
 		<!--3-2--><td style="">This attack does 20 damage.<br>さらにチビキャラコロを8個ふって立った数×20のダメージを与える。</td>
 		<!--3-3--><td style="">Standing：This attack does 20 more damage.</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/173.html" title="拡張パック8.コダック (799d)">拡張パック8.コダック</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ふいうち</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">This attack does 30 damage.<br>次の相手の番のみ相手はチビキャラコロを使うワザカードが使えなくなる。</td>
 		<!--4-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
-		<!--4-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
+		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/172.html" title="拡張パック8.ウインディ (799d)">拡張パック8.ウインディ</a>他</td></tr>
 </tbody>

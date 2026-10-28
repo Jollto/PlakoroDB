@@ -69,7 +69,7 @@ https://w.atwiki.jp/purakoro/pages/93.html
 		<!--5-1--><td style="">{W}{W}{W}</td>
 		<!--5-2--><td style="">次の自分の番に自分のキャラコロを好きな向きでおける。</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ぐるぐるパンチ</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">This attack does 40 damage.</td>
@@ -95,7 +95,7 @@ https://w.atwiki.jp/purakoro/pages/93.html
 		<!--2-1--><td style="">{W}{W}{W}</td>
 		<!--2-2--><td style="">チビキャラコロを6個ふって、立った数×20のHPを回復する。</td>
 		<!--2-3--><td style="">なし</td>
-		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
+		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/163.html" title="拡張パック3.ニョロゾ (647d)">拡張パック3.ニョロゾ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">あおいきり</td>
 		<!--3-1--><td style="">{W}{W}{W}</td>

@@ -23,7 +23,7 @@ https://w.atwiki.jp/purakoro/pages/37.html
 		<!--3-1--><td style="">{R}{R}</td>
 		<!--3-2--><td style="">次の相手の番に使えるワザカード1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
 		<!--3-3--><td style="">Standing・Back：This attack does 10 damage.</td>
-		<!--3-4--><td style="">Handstand：が出たら次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">いかりのはんげき</td>
 		<!--4-1--><td style="">{R}{R}{R}</td>
 		<!--4-2--><td style="">This attack does 20 damage.<br>さらに1つ前の相手の番にダメージを30以上受けていればThis attack does 20 more damage.</td>

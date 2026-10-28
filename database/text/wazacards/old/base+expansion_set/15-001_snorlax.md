@@ -54,7 +54,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 		<!--2-1--><td style="">{Y}{Y}</td>
 		<!--2-2--><td style="">This attack does 20 damage.</td>
 		<!--2-3--><td style="">なし</td>
-		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ドわすれ</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
 		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
@@ -64,7 +64,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>
 		<!--4-3--><td style="">Standing：This attack does 20 more damage.</td>
-		<!--4-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ねむる</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">30HPを回復する</td>
@@ -95,7 +95,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 		<!--2-1--><td style="">{Y}{Y}{Y}</td>
 		<!--2-2--><td style="">チビキャラコロを12個ふって、立った数×10のダメージを与える。</td>
 		<!--2-3--><td style="">Standing・Back：自分のHPが10回復する。</td>
-		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす</td>
+		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/41.html" title="拡張パック3.カビゴン (1131d)">拡張パック3.カビゴン</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">かみつく</td>
 		<!--3-1--><td style="">{Y}{Y}{Y}</td>

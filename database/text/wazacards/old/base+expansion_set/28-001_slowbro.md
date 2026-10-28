@@ -23,12 +23,12 @@ https://w.atwiki.jp/purakoro/pages/22.html
 		<!--3-1--><td style="">{W}{P}</td>
 		<!--3-2--><td style="">During your opponent's next turn, this Pokémon takes 40 less damage from attacks.</td>
 		<!--3-3--><td style="">なし</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">サイコキネシス</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
 		<!--4-2--><td style="">This attack does 20 damage.</td>
 		<!--4-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--4-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ぼーっとする</td>
 		<!--5-1--><td style="">{P}{P}{P}</td>
 		<!--5-2--><td style="">20HPを回復する</td>
@@ -69,7 +69,7 @@ https://w.atwiki.jp/purakoro/pages/22.html
 		<!--5-1--><td style="">{P}{P}{P}</td>
 		<!--5-2--><td style="">次の自分の番に自分のキャラコロを好きな向きでおく</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--5-4--><td style="">Handstand・Down：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">みちしお</td>
 		<!--6-1--><td style="">{W}{P}{P}{P}</td>
 		<!--6-2--><td style="">This attack does 50 damage.</td>
@@ -95,13 +95,13 @@ https://w.atwiki.jp/purakoro/pages/22.html
 		<!--2-1--><td style="">{W}{P}{P}</td>
 		<!--2-2--><td style="">次の自分の番にでたエネコロの結果に{P}か{W}のどちらか1つを足す。</td>
 		<!--2-3--><td style="">Standing：チビキャラコロを6個ふって、立った数×10のHP回復する。</td>
-		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
+		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/139.html" title="拡張パック6.ヤドラン (1156d)">拡張パック6.ヤドラン</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">はかいこうせん</td>
 		<!--3-1--><td style="">{W}{P}{P}{P}{P}</td>
 		<!--3-2--><td style="">This attack does 20 damage.<br>さらにチビキャラコロを12個ふって立った数×20のダメージを与える。</td>
 		<!--3-3--><td style="">なし</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/139.html" title="拡張パック6.ヤドラン (1156d)">拡張パック6.ヤドラン</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ずつき</td>
 		<!--4-1--><td style="">{W}{P}</td>

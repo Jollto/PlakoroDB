@@ -110,7 +110,7 @@ https://w.atwiki.jp/purakoro/pages/21.html
 		<!--2-1--><td style="">{Y}{Y}</td>
 		<!--2-2--><td style="">This attack does 10 damage.</td>
 		<!--2-3--><td style="">Standing・Back：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
-		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
+		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/150.html" title="拡張パック1.ピッピ (1038d)">拡張パック1.ピッピ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">おつきみ</td>
 		<!--3-1--><td style="">{Y}{Y}</td>

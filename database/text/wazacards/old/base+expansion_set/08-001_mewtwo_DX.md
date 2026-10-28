@@ -104,7 +104,7 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--3-1--><td style="">{P}{P}{P}</td>
 		<!--3-2--><td style="">チビキャラコロを6個ふって、立った数だけ次の自分の番にエネコロを追加してふる。</td>
 		<!--3-3--><td style="">Standing・Back：さらにチビキャラコロを6個ふって、立った数だけ次の自分の番にエネコロを追加してふる。</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/161.html" title="拡張パック2.ミュウツー (1158d)">拡張パック2.ミュウツー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">エナジーブラスト</td>
 		<!--4-1--><td style="">{P}{P}{P}{P}</td>

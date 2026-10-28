@@ -18,12 +18,12 @@ https://w.atwiki.jp/purakoro/pages/36.html
 		<!--2-1--><td style="">{P}{P}</td>
 		<!--2-2--><td style="">次の自分の番にワザが成功してダメージを与えるたび+10</td>
 		<!--2-3--><td style="">なし</td>
-		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">エネルギーきゅうしゅう</td>
 		<!--3-1--><td style="">{P}{P}{P}</td>
 		<!--3-2--><td style="">次に相手のエネコロの結果から好きなエネルギーマークを1つ減らし、次に自分のエネコロの結果にそのマークを足す</td>
 		<!--3-3--><td style="">なし</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">サイコボール</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>
@@ -55,7 +55,7 @@ https://w.atwiki.jp/purakoro/pages/36.html
 		<!--2-1--><td style="">{P}{P}</td>
 		<!--2-2--><td style="">This attack does 20 damage.</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
-		<!--2-4--><td style="">Down：This Pokémon does 10 damage to itself.<br>Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--2-4--><td style="">Down：This Pokémon does 10 damage to itself.<br>Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">サイコチャージ</td>
 		<!--3-1--><td style="">{P}{P}</td>
 		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>

@@ -23,7 +23,7 @@ https://w.atwiki.jp/purakoro/pages/44.html
 		<!--3-1--><td style="">{Y}{Y}</td>
 		<!--3-2--><td style="">次の自分の番にふるエネコロを１個増やす</td>
 		<!--3-3--><td style="">Standing：次の自分の番にふるエネコロを更に１個増やす</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを１個減らす</td></tr>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by $1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">たいあたり</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>
@@ -59,7 +59,7 @@ https://w.atwiki.jp/purakoro/pages/44.html
 		<!--3-1--><td style="">{Y}{Y}</td>
 		<!--3-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 1.<br>そして1つ前の自分の番にワザつきのひかりが成功していたら次の相手の番に使えるワザカードを1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
 		<!--3-3--><td style="">なし</td>
-		<!--3-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">おうふくビンタ</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">このワザは2回トライする、<br>This attack does 20 damage.</td>

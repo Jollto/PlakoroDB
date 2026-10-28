@@ -63,14 +63,14 @@ https://w.atwiki.jp/purakoro/pages/148.html
 		<!--3-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">テレポート</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
-		<!--4-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 2.<br>しかし自分も次の自分の番にふるエネコロを1個へらす。</td>
+		<!--4-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 2.<br>On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--4-3--><td style="">Standing：次の自分の番にエネコロを1個へらさない。</td>
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">サイコブースト</td>
 		<!--5-1--><td style="">{P}{P}{P}{P}</td>
 		<!--5-2--><td style="">次の自分の番にワザが成功してダメージを与えるたびに、<br>相手に与えるダメージを2倍にする。</td>
 		<!--5-3--><td style="">なし</td>
-		<!--5-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ギガバスター</td>
 		<!--6-1--><td style="">{P}{P}{P}{P}{P}{P}</td>
 		<!--6-2--><td style="">This attack does 90 damage.</td>

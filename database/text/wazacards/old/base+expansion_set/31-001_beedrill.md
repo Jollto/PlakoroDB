@@ -28,7 +28,7 @@ https://w.atwiki.jp/purakoro/pages/31.html
 		<!--4-1--><td style="">{G}{G}{G}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>
 		<!--4-3--><td style="">Standing：ダメージ＋20</td>
-		<!--4-4--><td style="">Handstand：次の自分の番にふるエネコロを１個減らす</td></tr>
+		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by $1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">8のじダンス</td>
 		<!--5-1--><td style="">{G}{G}{G}</td>
 		<!--5-2--><td style="">次の自分の番に技が成功してダメージを与える度に、相手に与えるダメージを＋10する</td>
@@ -95,7 +95,7 @@ https://w.atwiki.jp/purakoro/pages/31.html
 		<!--2-1--><td style="">{G}{G}{G}</td>
 		<!--2-2--><td style="">チビキャラコロを8個ふって立った数×10のダメージを、次の自分の番にワザが成功してダメージを与えるたびに、相手に与えるダメージに足す</td>
 		<!--2-3--><td style="">なし</td>
-		<!--2-4--><td style="">Handstand、Down：次の自分の番にふるエネコロを1個へらす</td>
+		<!--2-4--><td style="">Handstand、Down：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/138.html" title="拡張パック6.スピアー (1158d)">拡張パック6.スピアー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">パラライズニードル</td>
 		<!--3-1--><td style="">{G}{G}{G}</td>

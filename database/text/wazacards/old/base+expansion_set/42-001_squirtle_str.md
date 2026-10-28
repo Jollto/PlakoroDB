@@ -18,7 +18,7 @@ https://w.atwiki.jp/purakoro/pages/29.html
 		<!--2-1--><td style="">{W}{W}</td>
 		<!--2-2--><td style="">This attack does 30 damage.<br>This Pokémon does 10 damage to itself.</td>
 		<!--2-3--><td style="">なし</td>
-		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ウォーターチャージ</td>
 		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
@@ -75,5 +75,5 @@ https://w.atwiki.jp/purakoro/pages/29.html
 		<!--6-1--><td style="">{W}{W}{W}{W}{W}</td>
 		<!--6-2--><td style="">This attack does 60 damage.</td>
 		<!--6-3--><td style="">Standing・Down：This attack does 10 more damage.</td>
-		<!--6-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--6-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 </tbody>

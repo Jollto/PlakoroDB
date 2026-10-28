@@ -33,7 +33,7 @@ https://w.atwiki.jp/purakoro/pages/45.html
 		<!--5-1--><td style="">{L}{L}{L}</td>
 		<!--5-2--><td style="">This attack does 20 damage.<br>一つ前の自分の番にワザフラッシュが成功していれば、On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--5-3--><td style="">Standing：This attack does 20 more damage.</td>
-		<!--5-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">10まんボルト</td>
 		<!--6-1--><td style="">{L}{L}{L}{L}{L}</td>
 		<!--6-2--><td style="">This attack does 50 damage.<br>一つ前の自分の番にワザほうでんが成功していればThis attack does 30 more damage.</td>

@@ -28,7 +28,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">30HPを回復する。</td>
 		<!--4-3--><td style="">Standing：追加で20HP回復</td>
-		<!--4-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">きりさく</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">This attack does 30 damage.</td>
@@ -36,7 +36,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 		<!--5-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">するどいつめ</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}</td>
-		<!--6-2--><td style="">This attack does 40 damage.<br>次の自分の番にふるエネコロを1個へらす。</td>
+		<!--6-2--><td style="">This attack does 40 damage.<br>On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--6-3--><td style="">Standing・Back：このワザによって次の自分の番にふるエネコロを1個へらさない。</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 </tbody>
@@ -54,7 +54,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 		<!--2-1--><td style="">{Y}{Y}</td>
 		<!--2-2--><td style="">次の自分の番に先にエネコロだけ2個ふってからワザカードが出せる。</td>
 		<!--2-3--><td style="">なし</td>
-		<!--2-4--><td style="">Handstand・Down：次の自分の番にふるエネコロを1個へらす。</td></tr>
+		<!--2-4--><td style="">Handstand・Down：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">いやなおと</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
 		<!--3-2--><td style="">This attack does 10 damage.</td>
@@ -95,7 +95,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 		<!--2-1--><td style="">{Y}{Y}{Y}{Y}</td>
 		<!--2-2--><td style="">チビキャラコロを12個ふって立った数×10のダメージを与え、<br>On the opponent's next turn, reduce the number of Enekoro they roll by 2.</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
-		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td>
+		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/144.html" title="拡張パック7.ニャース (630d)">拡張パック7.ニャース</a>他</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ツメをとぐ</td>
 		<!--3-1--><td style="">{Y}{Y}{Y}</td>

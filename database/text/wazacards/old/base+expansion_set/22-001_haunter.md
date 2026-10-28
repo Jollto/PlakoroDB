@@ -57,7 +57,7 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">さいみんじゅつ</td>
 		<!--3-1--><td style="">{P}{P}</td>
-		<!--3-2--><td style="">次の相手の番に使えるワザカードを1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
+		<!--3-2--><td style="">Choose 1 of your opponent's attacks. During their next turn, they can't use this attack.</td>
 		<!--3-3--><td style="">Standing：This attack does 10 damage.</td>
 		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ナイトヘッド</td>

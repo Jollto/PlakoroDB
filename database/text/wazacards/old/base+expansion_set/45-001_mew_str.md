@@ -73,7 +73,7 @@ https://w.atwiki.jp/purakoro/pages/36.html
 		<!--5-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ショックウェーブ</td>
 		<!--6-1--><td style="">{P}{P}{P}{P}</td>
-		<!--6-2--><td style="">This attack does 40 damage.<br>次の相手の番に使えるワザカードを1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。</td>
+		<!--6-2--><td style="">This attack does 40 damage.<br>Choose 1 of your opponent's attacks. During their next turn, they can't use this attack.</td>
 		<!--6-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 </tbody>

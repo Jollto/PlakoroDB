@@ -31,7 +31,7 @@ https://w.atwiki.jp/purakoro/pages/110.html
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ほのおのキバ</td>
 		<!--5-1--><td style="">{R}{R}{R}</td>
-		<!--5-2--><td style="">This attack does 20 damage.<br>1つ前の自分の番にワザ「のしかかる」が成功していればThis attack does 20 more damage.</td>
+		<!--5-2--><td style="">This attack does 20 damage.<br>During your last turn, if this Pokémon's "「のしかかる」" attack was successful, This attack does 20 more damage.</td>
 		<!--5-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ぐれんのほのお</td>
@@ -93,7 +93,7 @@ https://w.atwiki.jp/purakoro/pages/110.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/172.html" title="拡張パック8.ウインディ (793d)">拡張パック8.ウインディ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ほのおのとびつき</td>
 		<!--2-1--><td style="">{R}{R}{R}</td>
-		<!--2-2--><td style="">This attack does 30 damage.<br>1つ前の自分の番にワザほえたてるが成功していればRoll 8 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--2-2--><td style="">This attack does 30 damage.<br>During your last turn, if this Pokémon's "ほえたてる" attack was successful, Roll 8 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/172.html" title="拡張パック8.ウインディ (793d)">拡張パック8.ウインディ</a></td></tr>

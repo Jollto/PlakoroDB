@@ -316,7 +316,7 @@ https://w.atwiki.jp/purakoro/pages/105.html
 
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ロケットパンチ</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}</td>
-		<!--6-2--><td style="">このワザは2回トライする。This attack does 20 damage.<br>1つ前の自分の番にワザ「こうらにこもる」が成功していればThis attack does 10 more damage.</td>
+		<!--6-2--><td style="">このワザは2回トライする。This attack does 20 damage.<br>During your last turn, if this Pokémon's "「こうらにこもる」" attack was successful, This attack does 10 more damage.</td>
 		<!--6-3--><td style="">Standing・Down：This attack does 10 more damage.</td>
 		<!--6-4--><td style="">Back：This Pokémon does 10 damage to itself.</td></tr>
 
@@ -339,7 +339,7 @@ https://w.atwiki.jp/purakoro/pages/105.html
 
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">メガトンずつき</td>
 		<!--7-1--><td style="">{W}{W}{W}{W}{W}</td>
-		<!--7-2--><td style="">This attack does 50 damage.<br>1つ前の自分の番にワザ「こうらにこもる」が成功していればThis attack does 40 more damage.</td>
+		<!--7-2--><td style="">This attack does 50 damage.<br>During your last turn, if this Pokémon's "「こうらにこもる」" attack was successful, This attack does 40 more damage.</td>
 		<!--7-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--7-4--><td style="">Back：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 

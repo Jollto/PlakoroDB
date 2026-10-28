@@ -36,7 +36,7 @@ https://w.atwiki.jp/purakoro/pages/25.html
 		<!--5-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">サンダーボルト</td>
 		<!--6-1--><td style="">{L}{L}{L}{L}</td>
-		<!--6-2--><td style="">This attack does 40 damage.<br>1つ前の自分の番にワザ「フラッシュ」が成功していればThis attack does 20 more damage.</td>
+		<!--6-2--><td style="">This attack does 40 damage.<br>During your last turn, if this Pokémon's "「フラッシュ」" attack was successful, This attack does 20 more damage.</td>
 		<!--6-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--6-4--><td style="">なし</td></tr>
 </tbody>

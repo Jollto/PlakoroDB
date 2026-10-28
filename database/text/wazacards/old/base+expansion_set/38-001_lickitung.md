@@ -19,7 +19,7 @@ https://w.atwiki.jp/purakoro/pages/54.html
 		<!--2-2--><td style="">This attack does 20 damage.</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--2-4--><td style="">なし</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style=""><span style="color: #60EE3C;"><!--@@@@@-->まきつくベロ</span></td>
+<tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style=""><span style="color: #60EE3C;"><!--@@@@@-->まきつくベロ</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
 		<!--3-2--><td style="">On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--3-3--><td style="">Standing：This attack does 10 damage.</td>
@@ -29,7 +29,7 @@ https://w.atwiki.jp/purakoro/pages/54.html
 		<!--4-2--><td style="">This attack does 30 damage.</td>
 		<!--4-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style=""><span style="color: #F54738;"><!--@@@@@-->ベロをのばす</span></td>
+<tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ベロをのばす</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--5-3--><td style="">Standing・Back：On your next turn, increase the number of Enekoro you roll by 1 more.</td>
@@ -57,12 +57,12 @@ https://w.atwiki.jp/purakoro/pages/54.html
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ベロでしめる</td>
 		<!--3-1--><td style="">{Y}{Y}{Y}</td>
-		<!--3-2--><td style="">This attack does 20 damage.<br>1つ前の自分の番にワザ<span style="color: #60EE3C;"><!--@@@@@-->まきつくベロ</span>が成功していればもう一度だけこのワザをトライする。</td>
+		<!--3-2--><td style="">This attack does 20 damage.<br>During your last turn, if this Pokémon's "まきつくベロ" attack was successful, もう一度だけこのワザをトライする。</td>
 		<!--3-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">なめまわす</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
-		<!--4-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>1つ前の番にワザ<span style="color: #F54738;"><!--@@@@@-->ベロをのばす</span>が成功していれば、追加でもう1つ相手のワザカードを使えなくする、<br>ワザの効果は1回で消える。</td>
+		<!--4-2--><td style="">次の相手の番に使えるワザカードを1つえらんでそれを使えなくする。<br>1つ前の番にワザベロをのばすが成功していれば、追加でもう1つ相手のワザカードを使えなくする、<br>ワザの効果は1回で消える。</td>
 		<!--4-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">しびれるベロ</td>
@@ -72,7 +72,7 @@ https://w.atwiki.jp/purakoro/pages/54.html
 		<!--5-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">たべる</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}{Y}</td>
-		<!--6-2--><td style="">This attack does 40 damage.<br>1つ前の自分の番にワザ<span style="color: #F54738;"><!--@@@@@-->ベロをのばす</span>が成功していればThis attack does 30 more damage.</td>
+		<!--6-2--><td style="">This attack does 40 damage.<br>During your last turn, if this Pokémon's "ベロをのばす" attack was successful, This attack does 30 more damage.</td>
 		<!--6-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 </tbody>

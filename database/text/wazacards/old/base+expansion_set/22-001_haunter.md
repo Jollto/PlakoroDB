@@ -26,7 +26,7 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ゆめくい</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
-		<!--4-2--><td style="">This attack does 20 damage.<br>1つ前の自分の番にワザ「さいみんじゅつ」が成功していればThis attack does 20 more damage.</td>
+		<!--4-2--><td style="">This attack does 20 damage.<br>During your last turn, if this Pokémon's "「さいみんじゅつ」" attack was successful, This attack does 20 more damage.</td>
 		<!--4-3--><td style="">Standing：This attack does 10 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">のろい</td>
@@ -72,7 +72,7 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--5-4--><td style="">Handstand：This Pokémon does 10 more damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">あくむ</td>
 		<!--6-1--><td style="">{P}{P}{P}{P}</td>
-		<!--6-2--><td style="">ワザが成功したら出ているエネコロの{P}の数×10ダメージを与える、<br>1つ前の自分の番にワザ「さいみんじゅつ」が成功していれば相手に与えるダメージは出ているエネコロの{P}の数×20になる。</td>
+		<!--6-2--><td style="">ワザが成功したら出ているエネコロの{P}の数×10ダメージを与える、<br>During your last turn, if this Pokémon's "「さいみんじゅつ」" attack was successful, 相手に与えるダメージは出ているエネコロの{P}の数×20になる。</td>
 		<!--6-3--><td style="">なし</td>
 		<!--6-4--><td style="">Handstand・Back：This Pokémon does 30 damage to itself.</td></tr>
 </tbody>
@@ -93,7 +93,7 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/141.html" title="拡張パック5.ゴースト (1167d)">拡張パック5.ゴースト</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ブレインシェイク</td>
 		<!--2-1--><td style="">{P}{P}</td>
-		<!--2-2--><td style="">Roll 6 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.<br>1つ前の自分の番にワザ「さいみんじゅつ」が成功していればRoll 6 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
+		<!--2-2--><td style="">Roll 6 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.<br>During your last turn, if this Pokémon's "「さいみんじゅつ」" attack was successful, Roll 6 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--2-3--><td style="">なし</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/141.html" title="拡張パック5.ゴースト (1167d)">拡張パック5.ゴースト</a></td></tr>

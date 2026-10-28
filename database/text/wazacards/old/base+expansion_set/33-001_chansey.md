@@ -21,7 +21,7 @@ https://w.atwiki.jp/purakoro/pages/108.html
 		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">タマゴをたべる</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
-		<!--3-2--><td style="">次の自分の番にエネコロを1つ追加してふる。<br>1つ前の自分の番にワザ「タマゴうみ」が成功していればこのワザで追加できるエネコロの数が2個になる。</td>
+		<!--3-2--><td style="">次の自分の番にエネコロを1つ追加してふる。<br>During your last turn, if this Pokémon's "「タマゴうみ」" attack was successful, このワザで追加できるエネコロの数が2個になる。</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">タマゴうみ</td>
@@ -67,12 +67,12 @@ https://w.atwiki.jp/purakoro/pages/108.html
 		<!--4-4--><td style="">Handstand：受けたダメージを2倍にせず、自分が受けたダメージと同じダメージを相手に与える。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">タマゴなげ</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
-		<!--5-2--><td style="">This attack does 20 damage.<br>1つ前の自分の番にワザ「タマゴうみ」が成功していればThis attack does 20 more damage.</td>
+		<!--5-2--><td style="">This attack does 20 damage.<br>During your last turn, if this Pokémon's "「タマゴうみ」" attack was successful, This attack does 20 more damage.</td>
 		<!--5-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
 		<!--5-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">タマゴばくだん</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
-		<!--6-2--><td style="">This attack does 40 damage.<br>1つ前の自分の番にワザ「タマゴうみ」が成功していればThis attack does 20 more damage.</td>
+		<!--6-2--><td style="">This attack does 40 damage.<br>During your last turn, if this Pokémon's "「タマゴうみ」" attack was successful, This attack does 20 more damage.</td>
 		<!--6-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 </tbody>

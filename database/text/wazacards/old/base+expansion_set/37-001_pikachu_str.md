@@ -67,8 +67,8 @@ https://w.atwiki.jp/purakoro/pages/45.html
 		<!--4-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">じゅうでんMAX</td>
 		<!--5-1--><td style="">{L}{L}{L}</td>
-		<!--5-2--><td style="">30HPを回復する</td>
-		<!--5-3--><td style="">Standing：追加で20HPを回復する。</td>
+		<!--5-2--><td style="">Heal 30 damage from this Pokémon.</td>
+		<!--5-3--><td style="">Standing：Heal 20 more damage from this Pokémon.</td>
 		<!--5-4--><td style="">Handstand：このワザで回復するHPが10になる。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">かみなり</td>
 		<!--6-1--><td style="">{L}{L}{L}{L}</td>

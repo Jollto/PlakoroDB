@@ -150,7 +150,7 @@ https://w.atwiki.jp/purakoro/pages/19.html
 		<!--8-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/47.html" title="DXなみのりピカチュウ (798d)">DXなみのりピカチュウ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_10">		<!--9-0--><td style="">じゅうでん</td>
 		<!--9-1--><td style="">{L}{L}{L}</td>
-		<!--9-2--><td style="">20HPを回復</td>
+		<!--9-2--><td style="">Heal 20 damage from this Pokémon.</td>
 		<!--9-3--><td style="">Back：チビキャラコロを12個ふって、立った数x10のHPを追加で回復する。</td>
 		<!--9-4--><td style="">なし</td>
 		<!--9-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/47.html" title="DXなみのりピカチュウ (798d)">DXなみのりピカチュウ</a><br><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1132d)">拡張パック1.ワンリキー</a>他</td></tr>

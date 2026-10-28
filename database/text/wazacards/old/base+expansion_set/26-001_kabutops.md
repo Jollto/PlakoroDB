@@ -36,7 +36,7 @@ https://w.atwiki.jp/purakoro/pages/15.html
 		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">すいとる</td>
 		<!--6-1--><td style="">{F}{F}{F}{F}</td>
-		<!--6-2--><td style="">This attack does 40 damage.<br>1つ前の自分の番にワザ「かりとる」が成功していればThis attack does 20 more damage.を与え、自分もHPを20回復する。</td>
+		<!--6-2--><td style="">This attack does 40 damage.<br>1つ前の自分の番にワザ「かりとる」が成功していれば this attack does 20 more damage and heal 20 damage from this Pokémon.</td>
 		<!--6-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 </tbody>

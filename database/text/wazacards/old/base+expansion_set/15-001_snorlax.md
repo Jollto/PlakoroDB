@@ -67,7 +67,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ねむる</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
-		<!--5-2--><td style="">30HPを回復する</td>
+		<!--5-2--><td style="">Heal 30 damage from this Pokémon.</td>
 		<!--5-3--><td style="">Standing：Heal 20 more damage from this Pokémon.</td>
 		<!--5-4--><td style="">Handstand：次の相手の番に受けるダメージが2倍になる。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">はかいこうせん</td>
@@ -94,7 +94,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ねぼける</td>
 		<!--2-1--><td style="">{Y}{Y}{Y}</td>
 		<!--2-2--><td style="">チビキャラコロを12個ふって、立った数×10のダメージを与える。</td>
-		<!--2-3--><td style="">Standing・Back：自分のHPが10回復する。</td>
+		<!--2-3--><td style="">Standing・Back：Heal 10 damage from this Pokémon.</td>
 		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/41.html" title="拡張パック3.カビゴン (1131d)">拡張パック3.カビゴン</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">かみつく</td>

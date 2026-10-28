@@ -26,7 +26,7 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--3-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">あたまをさする</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
-		<!--4-2--><td style="">20HPを回復する、<br>1つ前のワザずつうが成功していたらHeal 20 more damage from this Pokémon.</td>
+		<!--4-2--><td style="">Heal 20 damage from this Pokémon.<br>1つ前のワザずつうが成功していたらHeal 20 more damage from this Pokémon.</td>
 		<!--4-3--><td style="">Standing：Heal 10 more damage from this Pokémon.</td>
 		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ねんりき</td>
@@ -94,7 +94,7 @@ https://w.atwiki.jp/purakoro/pages/111.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">とぼける</td>
 		<!--2-1--><td style="">{W}{W}</td>
 		<!--2-2--><td style="">チビキャラコロを6個ふって、立った数だけ相手は次の番にふるエネコロをへらす。</td>
-		<!--2-3--><td style="">Standing・Back：10HPを回復する。</td>
+		<!--2-3--><td style="">Standing・Back：Heal 10 damage from this Pokémon.</td>
 		<!--2-4--><td style="">This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/173.html" title="拡張パック8.コダック (799d)">拡張パック8.コダック</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">へんなちから</td>

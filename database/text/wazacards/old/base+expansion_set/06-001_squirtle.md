@@ -108,7 +108,7 @@ https://w.atwiki.jp/purakoro/pages/89.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/48.html" title="拡張パック1.ゼニガメ (1136d)">拡張パック1.ゼニガメ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">しんか</td>
 		<!--2-1--><td style="">{W}{W}{W}{W}</td>
-		<!--2-2--><td style=""><a href="//w.atwiki.jp/purakoro/pages/105.html" title="進化パック(カメール、カメックス) (1144d)">カメール</a>に進化。Max HP becomes 140.20HP回復</td>
+		<!--2-2--><td style=""><a href="//w.atwiki.jp/purakoro/pages/105.html" title="進化パック(カメール、カメックス) (1144d)">カメール</a>に進化。Max HP becomes 140.Heal 20 damage from this Pokémon.</td>
 		<!--2-3--><td style="">Standing、Back：Heal 10 more damage from this Pokémon.</td>
 		<!--2-4--><td style="">なし</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/105.html" title="進化パック(カメール、カメックス) (1144d)">進化パック2</a></td></tr>
@@ -132,7 +132,7 @@ https://w.atwiki.jp/purakoro/pages/89.html
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/48.html" title="拡張パック1.ゼニガメ (1136d)">拡張パック1.ゼニガメ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">みずあび</td>
 		<!--6-1--><td style="">{W}{W}{W}</td>
-		<!--6-2--><td style="">20HPを回復</td>
+		<!--6-2--><td style="">Heal 20 damage from this Pokémon.</td>
 		<!--6-3--><td style="">Standing：チビキャラコロを12個ふって、立った数x10のHPを追加で回復する。</td>
 		<!--6-4--><td style="">Back：次の自分の番1回休み。</td>
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/48.html" title="拡張パック1.ゼニガメ (1136d)">拡張パック1.ゼニガメ</a></td></tr>

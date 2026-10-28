@@ -57,10 +57,10 @@ Max HP becomes $1.
 (\{.\})×(\d+)より余分に出た(\{.\})×(\d+)HPを回復する。
 Heal $4 more damage from this Pokémon for each $3 energy exceeding $2 $1.
 
-追加で(自分の)?(HP)?(を|が)?(\d+)(HP)?回復(する)?(。|、)?
+追加で(自分の)?(HP)?(を|が)?(\d+)(HP)?を?回復(する)?(。|、)?
 Heal $4 more damage from this Pokémon.
 
-(追加で)?(自分の)?(HP)?(を)?(\d+)(HP)?(を)?回復(する)?(。)?
+(追加で)?(自分の)?(HP)?(が|を)?(\d+)(HP)?を?回復(する)?(。|、)?
 Heal $5 damage from this Pokémon.
 
 自分と相手がお互いにチビキャラコロを(\d+)個ずつふりあい、<br>自分が立った数×(\d+)ダメージを相手に与え、<br>相手が立った数×(\d+)のダメージを自分が受ける。

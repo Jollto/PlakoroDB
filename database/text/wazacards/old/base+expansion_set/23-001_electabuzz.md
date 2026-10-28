@@ -105,7 +105,7 @@ https://w.atwiki.jp/purakoro/pages/43.html
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/143.html" title="拡張パック5.エレブー (1159d)">拡張パック5.エレブー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">じゅうでんMAX</td>
 		<!--4-1--><td style="">{L}{L}{L}</td>
-		<!--4-2--><td style="">10HP回復、<br>さらにチビキャラコロを6個ふって、たった数だけ次の自分の番にふるエネコロを追加してふる。</td>
+		<!--4-2--><td style="">Heal 10 damage from this Pokémon.<br>さらにチビキャラコロを6個ふって、たった数だけ次の自分の番にふるエネコロを追加してふる。</td>
 		<!--4-3--><td style="">なし</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/141.html" title="拡張パック5.ゴースト (1159d)">拡張パック5.ゴースト</a>他</td></tr>

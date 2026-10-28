@@ -26,7 +26,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ひとねむり</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
-		<!--4-2--><td style="">30HPを回復する。</td>
+		<!--4-2--><td style="">Heal 30 damage from this Pokémon.</td>
 		<!--4-3--><td style="">Standing：Heal 20 more damage from this Pokémon.</td>
 		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">きりさく</td>
@@ -72,7 +72,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 		<!--5-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ねこにこばん</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
-		<!--6-2--><td style="">This attack does 30 damage.<br>自分は20HP回復する。</td>
+		<!--6-2--><td style="">This attack does 30 damage.<br>Heal 20 damage from this Pokémon.</td>
 		<!--6-3--><td style="">なし</td>
 		<!--6-4--><td style="">Handstand・Down：このワザで回復するHPが20から10になる。</td></tr>
 </tbody>

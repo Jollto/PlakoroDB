@@ -42,7 +42,7 @@ https://w.atwiki.jp/purakoro/pages/47.html
 		<!--5-5--><td style="">なみのりピカチュウ<br><a href="//w.atwiki.jp/purakoro/pages/19.html" title="ピカチュウ (676d)">ピカチュウ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">じゅうでん</td>
 		<!--6-1--><td style="">{L}{L}{L}</td>
-		<!--6-2--><td style="">20HPを回復する</td>
+		<!--6-2--><td style="">Heal 20 damage from this Pokémon.</td>
 		<!--6-3--><td style="">Back：チビキャラコロを12個ふって、立った数x10のHPを追加で回復する</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--6-5--><td style="">なみのりピカチュウ<br><a href="//w.atwiki.jp/purakoro/pages/19.html" title="ピカチュウ (676d)">ピカチュウ</a></td></tr>
@@ -137,7 +137,7 @@ https://w.atwiki.jp/purakoro/pages/47.html
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1132d)">拡張パック1.ピカチュウ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">じゅうでん</td>
 		<!--7-1--><td style="">{L}{L}{L}</td>
-		<!--7-2--><td style="">20HPを回復</td>
+		<!--7-2--><td style="">Heal 20 damage from this Pokémon.</td>
 		<!--7-3--><td style="">Back：チビキャラコロを12個ふって、立った数x10のHPを追加で回復する。</td>
 		<!--7-4--><td style="">なし</td>
 		<!--7-5--><td style="">DXなみのりピカチュウ<br><a href="//w.atwiki.jp/purakoro/pages/147.html" title="拡張パック1.ワンリキー (1132d)">拡張パック1.ワンリキー</a>他</td></tr>

@@ -63,7 +63,7 @@ https://w.atwiki.jp/purakoro/pages/36.html
 		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">しんぴのパワー</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
-		<!--4-2--><td style="">30HPを回復する</td>
+		<!--4-2--><td style="">Heal 30 damage from this Pokémon.</td>
 		<!--4-3--><td style="">Standing：Heal 20 more damage from this Pokémon.</td>
 		<!--4-4--><td style="">Handstand：このワザで回復するHPが10になる。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">みだれひっかき</td>

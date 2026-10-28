@@ -87,7 +87,7 @@ https://w.atwiki.jp/purakoro/pages/42.html
 		<!--0-5--><td style="">封入商品</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">しんか</td>
 		<!--1-1--><td style="">{R}{R}{R}{R}</td>
-		<!--1-2--><td style="">リザードに進化。Max HP becomes 140.20HP回復。</td>
+		<!--1-2--><td style="">リザードに進化。Max HP becomes 140.Heal 20 damage from this Pokémon.</td>
 		<!--1-3--><td style="">Standing、Back：Heal 10 more damage from this Pokémon.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style="">進化パック　リザード、リザードン</td></tr>

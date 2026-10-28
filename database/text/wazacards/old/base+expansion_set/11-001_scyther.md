@@ -107,7 +107,7 @@ https://w.atwiki.jp/purakoro/pages/51.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">うけながす</td>
 		<!--4-1--><td style="">{G}{G}</td>
 		<!--4-2--><td style="">チビキャラコロを12個ふって立った数×10だけ次の相手の番に受けるダメージをへらす。</td>
-		<!--4-3--><td style="">Standing・Back：次の自分の番にふるエネコロを1個追加してふる。</td>
+		<!--4-3--><td style="">Standing・Back：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/161.html" title="拡張パック2.ミュウツー (1163d)">拡張パック2.ミュウツー</a>他</td></tr>
 </tbody>

@@ -54,7 +54,7 @@ https://w.atwiki.jp/purakoro/pages/31.html
 		<!--2-1--><td style="">{G}{G}</td>
 		<!--2-2--><td style="">This attack does 20 damage.</td>
 		<!--2-3--><td style="">Standing：ダメージ＋20</td>
-		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを１個減らす</td></tr>
+		<!--2-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by $1.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">とびまわる</td>
 		<!--3-1--><td style="">{G}{G}</td>
 		<!--3-2--><td style="">次の相手の番にふるエネコロを１個減らす</td>

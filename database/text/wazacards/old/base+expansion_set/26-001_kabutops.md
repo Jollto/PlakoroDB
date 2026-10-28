@@ -32,7 +32,7 @@ https://w.atwiki.jp/purakoro/pages/15.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">カブトアーマー</td>
 		<!--5-1--><td style="">{F}{F}{F}</td>
 		<!--5-2--><td style="">During your opponent's next turn, this Pokémon takes 40 less damage from attacks.</td>
-		<!--5-3--><td style="">Standing：This attack does 20 damage.<br>Back：次の自分の番にふるエネコロを1個追加してふる。</td>
+		<!--5-3--><td style="">Standing：This attack does 20 damage.<br>Back：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">すいとる</td>
 		<!--6-1--><td style="">{F}{F}{F}{F}</td>
@@ -57,7 +57,7 @@ https://w.atwiki.jp/purakoro/pages/15.html
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">かぶとをしめる</td>
 		<!--3-1--><td style="">{F}{F}</td>
-		<!--3-2--><td style="">次の自分の番にふるエネコロを1個追加してふる。</td>
+		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand：次の自分の番のエネコロの結果から{F}を1つへらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">カブトアタック</td>

@@ -33,12 +33,12 @@ https://w.atwiki.jp/purakoro/pages/44.html
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
 		<!--5-2--><td style="">HPを30回復する</td>
 		<!--5-3--><td style="">Standing：追加でHPを20回復する</td>
-		<!--5-4--><td style="">Handstand：次の自分の番にふるエネコロを１個減らす</td></tr>
+		<!--5-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by $1.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ふしぎなちから</td>
 		<!--6-1--><td style="">{Y}{Y}{Y}{Y}</td>
 		<!--6-2--><td style="">次の自分の番にワザカードを２枚選んでそれぞれ使う</td>
 		<!--6-3--><td style="">Standing・Back：次の自分の番にエネコロを１個増やす</td>
-		<!--6-4--><td style="">Handstand：次の自分の番にふるエネコロを１個減らす</td></tr>
+		<!--6-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by $1.</td></tr>
 </tbody>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<!--0-0--><td style="">技名</td>
 		<!--0-1--><td style="">エネルギー数</td>

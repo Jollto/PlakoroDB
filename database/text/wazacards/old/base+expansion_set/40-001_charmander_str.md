@@ -72,7 +72,7 @@ https://w.atwiki.jp/purakoro/pages/42.html
 		<!--5-4--><td style="">次の自分の番に振るエネコロを1つ減らす</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ほのおのうず</td>
 		<!--6-1--><td style="">{R}{R}{R}{R}</td>
-		<!--6-2--><td style="">技が成功した場合、出ている{R}の数×10ダメージ</td>
+		<!--6-2--><td style="">This attack does 10 damage for each {R} energy produced.</td>
 		<!--6-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">This Pokémon does 20 damage to itself.</td></tr>
 </tbody>

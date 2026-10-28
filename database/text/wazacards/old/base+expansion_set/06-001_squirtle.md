@@ -69,7 +69,7 @@ https://w.atwiki.jp/purakoro/pages/89.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ハイドロポンプ</td>
 		<!--3-1--><td style="">{W}{W}</td>
 		<!--3-2--><td style="">直　左右　　</td>
-		<!--3-3--><td style="">ワザが成功したら、出ている{W}の数×10ダメージ</td>
+		<!--3-3--><td style="">This attack does 10 damage for each {W} energy produced.</td>
 		<!--3-4--><td style="">なし</td>
 		<!--3-5--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">なみのり</td>

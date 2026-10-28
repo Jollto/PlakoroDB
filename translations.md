@@ -90,10 +90,8 @@ During your last turn, if this Pokémon's "$1" attack was successful,
 このワザは(\d+)回トライする。
 This attack may be used $1 times.
 
-出ている(.+)の数×(\d+)ダメージ
-This attack does $2 damage for each $1 energy produced.
+(ワザが成功したら)?出ている(エネコロの)?(.+)の数×(\d+)ダメージ
+This attack does $4 damage for each $3 energy produced.
 
 が出たら
 
-ただしこのワザは自分のHPが(\d+)以下のときにしかつかえない。
-You can use this attack only if this Pokémon has $1 or less HP remaining.

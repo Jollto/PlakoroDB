@@ -72,7 +72,7 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--5-4--><td style="">Handstand：This Pokémon does 10 more damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">あくむ</td>
 		<!--6-1--><td style="">{P}{P}{P}{P}</td>
-		<!--6-2--><td style="">ワザが成功したら出ているエネコロの{P}の数×10ダメージを与える、<br>During your last turn, if this Pokémon's "「さいみんじゅつ」" attack was successful, 相手に与えるダメージは出ているエネコロの{P}の数×20になる。</td>
+		<!--6-2--><td style="">This attack does 10 damage for each {P} energy produced.<br>During your last turn, if this Pokémon's "「さいみんじゅつ」" attack was successful, 相手に与えるダメージは出ているエネコロの{P}の数×20になる。</td>
 		<!--6-3--><td style="">なし</td>
 		<!--6-4--><td style="">Handstand・Back：This Pokémon does 30 damage to itself.</td></tr>
 </tbody>

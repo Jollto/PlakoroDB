@@ -36,7 +36,7 @@ https://w.atwiki.jp/purakoro/pages/99.html
 		<!--5-4--><td style="">Standing・Back：On your next turn, reduce the number of Enekoro you roll by 1.<br>Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">りゅうのいかり</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}</td>
-		<!--6-2--><td style="">ワザが成功したら出ているエネコロの{W}の数×10ダメージを与える。</td>
+		<!--6-2--><td style="">This attack does 10 damage for each {W} energy produced.</td>
 		<!--6-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 </tbody>

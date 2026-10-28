@@ -68,7 +68,7 @@ https://w.atwiki.jp/purakoro/pages/15.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">かりとる</td>
 		<!--5-1--><td style="">{F}{F}{F}</td>
 		<!--5-2--><td style="">This attack does 10 damage.On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
-		<!--5-3--><td style="">Standing：次の自分の番にエネコロを1個追加してふる。<br>Back：This attack does 20 more damage.</td>
+		<!--5-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1.<br>Back：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">かまいたち</td>
 		<!--6-1--><td style="">{F}{F}{F}{F}{F}</td>
@@ -106,7 +106,7 @@ https://w.atwiki.jp/purakoro/pages/15.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">げんしのいかり</td>
 		<!--4-1--><td style="">{F}{F}</td>
 		<!--4-2--><td style="">チビキャラコロを6個ふって、立った数だけ次の自分の番にエネコロを追加してふる。</td>
-		<!--4-3--><td style="">Standing：次の自分の番にエネコロをもう1個追加してふる。</td>
+		<!--4-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/138.html" title="拡張パック6.スピアー (1155d)">拡張パック6.スピアー</a>他</td></tr>
 </tbody>

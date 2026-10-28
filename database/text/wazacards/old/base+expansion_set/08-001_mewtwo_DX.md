@@ -114,8 +114,8 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/158.html" title="拡張パック2.メタモン (1159d)">拡張パック2.メタモン</a>他</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">サイコパワー</td>
 		<!--5-1--><td style="">{P}{P}{P}</td>
-		<!--5-2--><td style="">次の自分の番にエネコロを1個追加してふる。</td>
-		<!--5-3--><td style="">Standing・Back：さらに次の自分の番にエネコロを1個追加してふる。</td>
+		<!--5-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
+		<!--5-3--><td style="">Standing・Back：On your next turn, increase the number of Enekoro you roll by 1 more.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/160.html" title="プラコロハンディバトルベース (787d)">プラコロハンディバトルベース</a></td></tr>
 </tbody>

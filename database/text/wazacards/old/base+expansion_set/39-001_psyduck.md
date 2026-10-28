@@ -21,7 +21,7 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ずつう</td>
 		<!--3-1--><td style="">{W}{W}</td>
-		<!--3-2--><td style="">次の自分の番にエネコロを1個追加してふる、<br>This Pokémon does 10 damage to itself.</td>
+		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.<br>This Pokémon does 10 damage to itself.</td>
 		<!--3-3--><td style="">Standing：このワザで自分が受けるダメージが0になる。</td>
 		<!--3-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">あたまをさする</td>
@@ -62,7 +62,7 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--3-4--><td style="">Handstand：この番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">げきつう</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
-		<!--4-2--><td style="">次の自分の番にエネコロを2個追加してふる、<br>This Pokémon does 20 damage to itself.</td>
+		<!--4-2--><td style="">On your next turn, increase the number of Enekoro you roll by 2.<br>This Pokémon does 20 damage to itself.</td>
 		<!--4-3--><td style="">Standing：このワザで自分が受けるダメージが0になる。</td>
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">われにかえる</td>

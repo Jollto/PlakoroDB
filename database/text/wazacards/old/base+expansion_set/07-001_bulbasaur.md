@@ -114,7 +114,7 @@ https://w.atwiki.jp/purakoro/pages/77.html
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/112.html" title="進化パック(フシギソウ、フシギバナ) (1149d)">進化パック3</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">たねをまく</td>
 		<!--3-1--><td style="">{G}{G}{G}</td>
-		<!--3-2--><td style="">次の自分の番にエネコロをもう1個追加してふることができる。</td>
+		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-3--><td style="">Standing：次の自分の番にさらにエネコロをもう1個追加してふることができる。</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/152.html" title="拡張パック1.フシギダネ (1140d)">拡張パック1.フシギダネ</a></td></tr>

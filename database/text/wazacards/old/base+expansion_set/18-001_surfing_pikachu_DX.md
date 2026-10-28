@@ -67,7 +67,7 @@ https://w.atwiki.jp/purakoro/pages/47.html
 		<!--2-5--><td style="">なみのり<a href="//w.atwiki.jp/purakoro/pages/19.html" title="ピカチュウ (676d)">ピカチュウ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ウォータージェネレート</td>
 		<!--3-1--><td style="">{W}{L}{L}</td>
-		<!--3-2--><td style="">次の自分の番にエネコロをもう2個追加してふる。</td>
+		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 2.</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style="">なみのり<a href="//w.atwiki.jp/purakoro/pages/19.html" title="ピカチュウ (676d)">ピカチュウ</a></td></tr>

@@ -21,7 +21,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">わるだくみ</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
-		<!--3-2--><td style="">次の自分の番にエネコロを1個追加してふる。</td>
+		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-3--><td style="">Standing：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ひとねむり</td>
@@ -100,7 +100,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ツメをとぐ</td>
 		<!--3-1--><td style="">{Y}{Y}{Y}</td>
 		<!--3-2--><td style="">次の自分の番にワザが成功してダメージを与えるたびに、相手に与えるダメージに+10する。</td>
-		<!--3-3--><td style="">Standing：次の自分の番にエネコロを1個追加してふる。</td>
+		<!--3-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-4--><td style="">なし</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/144.html" title="拡張パック7.ニャース (630d)">拡張パック7.ニャース</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ネコキック</td>

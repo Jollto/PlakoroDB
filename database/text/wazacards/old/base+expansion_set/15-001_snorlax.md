@@ -31,7 +31,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 		<!--4-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">おおぐい</td>
 		<!--5-1--><td style="">{Y}{Y}{Y}</td>
-		<!--5-2--><td style="">次の自分の番にエネコロをもう1個追加してふる。<br>さらに次の自分の番にワザが成功した場合、相手に与えるダメージに+20する</td>
+		<!--5-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.<br>さらに次の自分の番にワザが成功した場合、相手に与えるダメージに+20する</td>
 		<!--5-3--><td style="">なし</td>
 		<!--5-4--><td style="">Handstand、Back：相手に与えるダメージを30へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">のしかかり</td>
@@ -57,7 +57,7 @@ https://w.atwiki.jp/purakoro/pages/40.html
 		<!--2-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ドわすれ</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
-		<!--3-2--><td style="">次の自分の番にエネコロをもう1個追加してふる。</td>
+		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-3--><td style="">Standing：次の自分の番にさらにエネコロをもう1個追加してふる。</td>
 		<!--3-4--><td style="">Handstand・Down：次の自分の番に使えるワザを相手が1つ選んで使えなくすることができる。ワザの効果は1回で消える。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ずつき</td>

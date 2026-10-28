@@ -16,7 +16,7 @@ https://w.atwiki.jp/purakoro/pages/93.html
 		<!--1-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">みずあび</td>
 		<!--2-1--><td style="">{W}{W}</td>
-		<!--2-2--><td style="">次の自分の番にエネコロをもう1個追加してふることができる。</td>
+		<!--2-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--2-3--><td style="">なし</td>
 		<!--2-4--><td style="">Handstand：次の自分の番にでたエネコロの結果から{W}を1つへらす。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">タックル</td>

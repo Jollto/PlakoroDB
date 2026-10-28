@@ -37,13 +37,13 @@ This attack does $2 damage.
 (さらに)?(相手は次|次の相手)(の自分)?の番にふるエネコロを(\d)個へらす(。|、)?
 On the opponent's next turn, reduce the number of Enekoro they roll by $4.
 
-次の自分の番にエネコロを(もう)?(\d+)個追加してふる(ことができる)?。
+次の自分の番にエネコロを(もう)?(\d+)個追加してふる(ことができる)?(。|、)?
 On your next turn, increase the number of Enekoro you roll by $2.
 
 次の自分の番にふるエネコロを(\d+)個(減|へ)?らす(。)?
 On your next turn, reduce the number of Enekoro you roll by $1.
 
-次の自分の番にさらにエネコロをもう(\d+)個追加してふる(ことができる)?。
+次の自分の番にさらにエネコロをもう(\d+)個追加してふる(ことができる)?(。|、)?
 On your next turn, increase the number of Enekoro you roll by $1 more.
 
 相手のワザカードからワザを1つ選び、相手のエネコロを使ってそのワザを使う。

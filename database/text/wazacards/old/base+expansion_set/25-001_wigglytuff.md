@@ -21,7 +21,7 @@ https://w.atwiki.jp/purakoro/pages/28.html
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">うたう</td>
 		<!--3-1--><td style="">{Y}{Y}</td>
-		<!--3-2--><td style="">次の自分の番にエネコロを1個追加してふる。</td>
+		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-3--><td style="">Standing：次の自分の番にさらにエネコロをもう1個追加してふる。</td>
 		<!--3-4--><td style="">Handstand・Down：次の自分の番に使えるワザを相手が1つ使えなくする（ワザの効果は1回で消える）</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">おんち</td>
@@ -95,7 +95,7 @@ https://w.atwiki.jp/purakoro/pages/28.html
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ともだちをよぶ</td>
 		<!--2-1--><td style="">{Y}{Y}</td>
 		<!--2-2--><td style="">チビキャラコロを6個ふって、立った数だけ次の自分の番にふるエネコロを追加してふる。</td>
-		<!--2-3--><td style="">Standing：次の自分の番にエネコロをもう1個追加してふる。</td>
+		<!--2-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--2-4--><td style="">なし</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/38.html" title="拡張パック6.プクリン (1166d)">拡張パック6.プクリン</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">リサイタル</td>

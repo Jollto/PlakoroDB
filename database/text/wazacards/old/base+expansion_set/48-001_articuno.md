@@ -59,7 +59,7 @@ https://w.atwiki.jp/purakoro/pages/27.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">フリーズ</td>
 		<!--3-1--><td style="">{W}{W}{W}</td>
 		<!--3-2--><td style="">次の相手の番に使えるワザカードを2つえらんでそれを使えなくする、<br>ワザも効果は1回で消える。</td>
-		<!--3-3--><td style="">Standing・Back：が出たら次の自分の番にエネコロを1個追加してふる。</td>
+		<!--3-3--><td style="">Standing・Back：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-4--><td style="">Handstand：が出たら使えなくするワザカードが1枚だけになる。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">アイスストーム</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>

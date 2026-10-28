@@ -31,7 +31,7 @@ https://w.atwiki.jp/purakoro/pages/45.html
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">でんこうせっか</td>
 		<!--5-1--><td style="">{L}{L}{L}</td>
-		<!--5-2--><td style="">This attack does 20 damage.<br>一つ前の自分の番にワザフラッシュが成功していれば、次の自分の番にエネコロを1個追加してふる。</td>
+		<!--5-2--><td style="">This attack does 20 damage.<br>一つ前の自分の番にワザフラッシュが成功していれば、On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--5-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--5-4--><td style="">Handstand：次の自分の番にふるエネコロを1個へらす。</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">10まんボルト</td>
@@ -57,7 +57,7 @@ https://w.atwiki.jp/purakoro/pages/45.html
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ほうでん</td>
 		<!--3-1--><td style="">{L}{L}</td>
-		<!--3-2--><td style="">次の自分の番にエネコロを1個追加してふる。</td>
+		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-3--><td style="">Standing：次の自分の番にさらにエネコロをもう1個追加してふる。</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">でんきショック</td>

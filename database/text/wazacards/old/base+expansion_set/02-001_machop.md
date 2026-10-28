@@ -144,7 +144,7 @@ https://w.atwiki.jp/purakoro/pages/76.html
 		<!--7-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1138d)">拡張パック1.ピカチュウ</a>他</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">ガッツ</td>
 		<!--8-1--><td style="">{F}{F}{F}</td>
-		<!--8-2--><td style="">次の自分の番にエネコロをもう1個追加してふることができる</td>
+		<!--8-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--8-3--><td style="">Standing：次の自分の番にさらにエネコロをもう1個追加してふることができる。</td>
 		<!--8-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--8-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1138d)">拡張パック1.ピカチュウ</a>他</td></tr>

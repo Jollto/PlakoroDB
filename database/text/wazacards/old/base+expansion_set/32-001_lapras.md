@@ -21,13 +21,13 @@ https://w.atwiki.jp/purakoro/pages/107.html
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ウォーターチャージ</td>
 		<!--3-1--><td style="">{W}{W}</td>
-		<!--3-2--><td style="">次の自分の番にエネコロを1個追加してふる。</td>
+		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">なみのり</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">This attack does 20 damage.</td>
-		<!--4-3--><td style="">Standing・Back：次の自分の番にエネコロを1個追加してふる。</td>
+		<!--4-3--><td style="">Standing・Back：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--4-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">こころをよむ</td>
 		<!--5-1--><td style="">{W}{W}{W}</td>
@@ -62,7 +62,7 @@ https://w.atwiki.jp/purakoro/pages/107.html
 		<!--3-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">せんすい</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
-		<!--4-2--><td style="">次の相手の番にふるエネコロを1個へらし、<br>次の自分の番にエネコロを1個追加してふる。</td>
+		<!--4-2--><td style="">次の相手の番にふるエネコロを1個へらし、<br>On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--4-3--><td style="">なし</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">オーロラビーム</td>

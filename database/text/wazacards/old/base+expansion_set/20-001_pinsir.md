@@ -26,7 +26,7 @@ https://w.atwiki.jp/purakoro/pages/34.html
 		<!--3-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">きあいため</td>
 		<!--4-1--><td style="">{G}{G}{G}</td>
-		<!--4-2--><td style="">次の自分の番にエネコロを1個追加してふる。</td>
+		<!--4-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--4-3--><td style="">Standing・Back：次の自分の番にさらにエネコロを１個追加する。</td>
 		<!--4-4--><td style="">Handstand：次の自分の番のエネコロの結果から{G}を１個へらす。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">はさみなげ</td>

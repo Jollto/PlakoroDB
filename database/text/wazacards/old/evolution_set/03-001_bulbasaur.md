@@ -248,7 +248,7 @@ https://w.atwiki.jp/purakoro/pages/112.html
 
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">こうごうせい</td>
 		<!--3-1--><td style="">{G}{G}{G}{G}</td>
-		<!--3-2--><td style="">次の自分の番にエネコロを1個追加してふる</td>
+		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-3--><td style="">Standing・Back：On your next turn, increase the number of Enekoro you roll by 1 more.</td>
 		<!--3-4--><td style="">なし</td></tr>
 

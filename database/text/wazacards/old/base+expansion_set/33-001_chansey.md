@@ -106,7 +106,7 @@ https://w.atwiki.jp/purakoro/pages/108.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">ラッキー</td>
 		<!--4-1--><td style="">{Y}{Y}{Y}</td>
 		<!--4-2--><td style="">次の自分の番に自分のキャラコロをStanding向きにおく。</td>
-		<!--4-3--><td style="">Standing・Back：次の自分の番にエネコロを1個追加してふる。</td>
+		<!--4-3--><td style="">Standing・Back：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/145.html" title="拡張パック7.ラッキー (624d)">拡張パック7.ラッキー</a>他</td></tr>
 </tbody>

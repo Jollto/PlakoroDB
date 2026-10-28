@@ -99,7 +99,7 @@ https://w.atwiki.jp/purakoro/pages/111.html
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/173.html" title="拡張パック8.コダック (799d)">拡張パック8.コダック</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">へんなちから</td>
 		<!--3-1--><td style="">{W}{W}{W}{W}</td>
-		<!--3-2--><td style="">This attack does 20 damage.<br>さらにチビキャラコロを8個ふって立った数×20のダメージを与える。</td>
+		<!--3-2--><td style="">This attack does 20 damage.<br>Roll 8 Chibi Charakoros.立った数×20のダメージを与える。</td>
 		<!--3-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/173.html" title="拡張パック8.コダック (799d)">拡張パック8.コダック</a></td></tr>

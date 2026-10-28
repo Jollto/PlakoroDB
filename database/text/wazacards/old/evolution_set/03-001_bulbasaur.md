@@ -170,7 +170,7 @@ https://w.atwiki.jp/purakoro/pages/112.html
 
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">しんか</td>
 		<!--6-1--><td style="">{G}{G}{G}{G}</td>
-		<!--6-2--><td style="">フシギソウはフシギバナに進化する。<br>Max HP becomes 160.Heal 20 damage from this Pokémon.<br>そして次の自分の番からエネコロを4個ふる。</td>
+		<!--6-2--><td style="">フシギソウはフシギバナに進化する。<br>Max HP becomes 160.Heal 20 damage from this Pokémon.<br>Roll 4 Enekoro while evolved.</td>
 		<!--6-3--><td style="">Standing・Back：Heal 10 more damage from this Pokémon.</td>
 		<!--6-4--><td style="">なし</td></tr>
 </tbody>

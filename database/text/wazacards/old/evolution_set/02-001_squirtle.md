@@ -101,7 +101,7 @@ https://w.atwiki.jp/purakoro/pages/105.html
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">はりて</td>
 		<!--3-1--><td style="">{W}{W}{W}</td>
 		<!--3-2--><td style="">This attack does 20 damage.</td>
-		<!--3-3--><td style="">Standing・Down：チビキャラコロを6個ふって立った数×10ダメージ追加で与える。</td>
+		<!--3-3--><td style="">Standing・Down：Roll 6 Chibi Charakoros.立った数×10ダメージ追加で与える。</td>
 		<!--3-4--><td style="">Back：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 
 ####
@@ -124,7 +124,7 @@ https://w.atwiki.jp/purakoro/pages/105.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">こうらタックル</td>
 		<!--4-1--><td style="">{W}{W}{W}{W}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>
-		<!--4-3--><td style="">Standing・Down：チビキャラコロを8個ふって立った数×10ダメージ追加で与える。</td>
+		<!--4-3--><td style="">Standing・Down：Roll 8 Chibi Charakoros.立った数×10ダメージ追加で与える。</td>
 		<!--4-4--><td style="">Back：This Pokémon does 10 damage to itself.</td></tr>
 
 ####
@@ -169,7 +169,7 @@ https://w.atwiki.jp/purakoro/pages/105.html
 
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">しんか</td>
 		<!--6-1--><td style="">{W}{W}{W}{W}</td>
-		<!--6-2--><td style="">カメールはカメックスに進化する。<br>Max HP becomes 160.Heal 20 damage from this Pokémon.<br>そして次の自分の番からエネコロを4個ふる。</td>
+		<!--6-2--><td style="">カメールはカメックスに進化する。<br>Max HP becomes 160.Heal 20 damage from this Pokémon.<br>Roll 4 Enekoro while evolved.</td>
 		<!--6-3--><td style="">Standing・Down：Heal 10 more damage from this Pokémon.</td>
 		<!--6-4--><td style="">なし</td></tr>
 </tbody>
@@ -202,7 +202,7 @@ https://w.atwiki.jp/purakoro/pages/105.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">いかりのかみつき</td>
 		<!--1-1--><td style="">{W}{W}{W}</td>
 		<!--1-2--><td style="">This attack does 20 damage.</td>
-		<!--1-3--><td style="">Standing・Down：チビキャラコロを6個ふって立った数×20ダメージ追加で与える。</td>
+		<!--1-3--><td style="">Standing・Down：Roll 6 Chibi Charakoros.立った数×20ダメージ追加で与える。</td>
 		<!--1-4--><td style="">Back：This Pokémon does 20 damage to itself.</td></tr>
 
 ####
@@ -294,7 +294,7 @@ https://w.atwiki.jp/purakoro/pages/105.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">ウォーターキャノン</td>
 		<!--5-1--><td style="">{W}{W}{W}{W}</td>
 		<!--5-2--><td style="">This attack does 40 damage.</td>
-		<!--5-3--><td style="">Standing・Down：チビキャラコロを6個ふって立った数×20ダメージ追加で与える。</td>
+		<!--5-3--><td style="">Standing・Down：Roll 6 Chibi Charakoros.立った数×20ダメージ追加で与える。</td>
 		<!--5-4--><td style="">Back：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 
 ####
@@ -362,7 +362,7 @@ https://w.atwiki.jp/purakoro/pages/105.html
 
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">ハイドロバスター</td>
 		<!--8-1--><td style="">{W}{W}{W}{W}{W}{W}</td>
-		<!--8-2--><td style="">This attack does 30 damage.<br>さらにチビキャラコロを8個ふって立った数×30ダメージを追加で与える。</td>
+		<!--8-2--><td style="">This attack does 30 damage.<br>Roll 8 Chibi Charakoros.立った数×30ダメージを追加で与える。</td>
 		<!--8-3--><td style="">なし</td>
 		<!--8-4--><td style="">Back：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 </tbody>

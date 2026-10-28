@@ -88,12 +88,12 @@ https://w.atwiki.jp/purakoro/pages/31.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">デスニードル<br>（スペシャル）</td>
 		<!--1-1--><td style="">　</td>
 		<!--1-2--><td style="">{G}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/138.html" title="拡張パック6.スピアー (1158d)">拡張パック6.スピアー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">いかりのダンス</td>
 		<!--2-1--><td style="">{G}{G}{G}</td>
-		<!--2-2--><td style="">チビキャラコロを8個ふって立った数×10のダメージを、次の自分の番にワザが成功してダメージを与えるたびに、相手に与えるダメージに足す</td>
+		<!--2-2--><td style="">Roll 8 Chibi Charakoros.立った数×10のダメージを、次の自分の番にワザが成功してダメージを与えるたびに、相手に与えるダメージに足す</td>
 		<!--2-3--><td style="">なし</td>
 		<!--2-4--><td style="">Handstand、Down：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/138.html" title="拡張パック6.スピアー (1158d)">拡張パック6.スピアー</a></td></tr>
@@ -105,7 +105,7 @@ https://w.atwiki.jp/purakoro/pages/31.html
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/138.html" title="拡張パック6.スピアー (1158d)">拡張パック6.スピアー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">マシンガンニードル</td>
 		<!--4-1--><td style="">{G}{G}{G}{G}{G}</td>
-		<!--4-2--><td style="">チビキャラコロを12個振って立った数×20ダメージ</td>
+		<!--4-2--><td style="">Roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--4-3--><td style="">Standing、Back：This attack does 30 damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/38.html" title="拡張パック6.プクリン (1158d)">拡張パック6.プクリン</a>他</td></tr>

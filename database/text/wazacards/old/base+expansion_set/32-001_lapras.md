@@ -88,12 +88,12 @@ https://w.atwiki.jp/purakoro/pages/107.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">うみのいかり<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{W}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/164.html" title="拡張パック7.ラプラス (623d)">拡張パック7.ラプラス</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ハイパーウェーブ</td>
 		<!--2-1--><td style="">{W}{W}{W}{W}</td>
-		<!--2-2--><td style="">This attack does 30 damage.<br>さらにチビキャラコロを6個ふって立った数×20のダメージを与える。</td>
+		<!--2-2--><td style="">This attack does 30 damage.<br>Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--2-3--><td style="">なし</td>
 		<!--2-4--><td style="">Handstand・Down：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/164.html" title="拡張パック7.ラプラス (623d)">拡張パック7.ラプラス</a></td></tr>
@@ -106,7 +106,7 @@ https://w.atwiki.jp/purakoro/pages/107.html
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">こうらアタック</td>
 		<!--4-1--><td style="">{W}{W}{W}</td>
 		<!--4-2--><td style="">This attack does 30 damage.</td>
-		<!--4-3--><td style="">Standing・Back：Roll 8 Chibi Charakoros.立った数×10ダメージを追加で与える。</td>
+		<!--4-3--><td style="">Standing・Back：Roll 8 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--4-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/144.html" title="拡張パック7.ニャース (623d)">拡張パック7.ニャース</a>他</td></tr>
 </tbody>

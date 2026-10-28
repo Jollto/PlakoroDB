@@ -88,24 +88,24 @@ https://w.atwiki.jp/purakoro/pages/34.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">12シザーズ<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{G}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/168.html" title="拡張パック4.カイロス (1143d)">拡張パック4.カイロス</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">はさみじめ</td>
 		<!--2-1--><td style="">{G}{G}{G}</td>
-		<!--2-2--><td style="">This attack does 30 damage.<br>1つ前の自分の番にワザ「まんりきバサミ」が成功していればチビキャラコロを6個ふって立った数×10のダメージを追加で与える。</td>
+		<!--2-2--><td style="">This attack does 30 damage.<br>1つ前の自分の番にワザ「まんりきバサミ」が成功していればRoll 6 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--2-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/168.html" title="拡張パック4.カイロス (1143d)">拡張パック4.カイロス</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">きりきざむ</td>
 		<!--3-1--><td style="">{G}{G}{G}{G}{G}</td>
-		<!--3-2--><td style="">チビキャラコロを12個ふって立った数×20ダメージ</td>
+		<!--3-2--><td style="">Roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--3-3--><td style="">Standing・Back：このワザでふるチビキャラコロを12個ではなく18個にする。</td>
 		<!--3-4--><td style="">なし</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/168.html" title="拡張パック4.カイロス (1143d)">拡張パック4.カイロス</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">すいとる</td>
 		<!--4-1--><td style="">{G}{G}{G}{G}</td>
-		<!--4-2--><td style="">This attack does 40 damage.<br>1つ前の自分の番にワザ「まんりきバサミ」が成功していればチビキャラコロを6個ふって立った数×10のHPを回復する。</td>
+		<!--4-2--><td style="">This attack does 40 damage.<br>1つ前の自分の番にワザ「まんりきバサミ」が成功していればRoll 6 Chibi Charakoros.立った数×10のHPを回復する。</td>
 		<!--4-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/170.html" title="拡張パック4.ギャロップ (692d)">拡張パック4.ギャロップ</a>他</td></tr>

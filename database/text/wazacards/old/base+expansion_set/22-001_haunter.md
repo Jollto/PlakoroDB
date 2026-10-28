@@ -88,18 +88,18 @@ https://w.atwiki.jp/purakoro/pages/101.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">くろいはどう<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{P}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/141.html" title="拡張パック5.ゴースト (1167d)">拡張パック5.ゴースト</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ブレインシェイク</td>
 		<!--2-1--><td style="">{P}{P}</td>
-		<!--2-2--><td style="">Roll 6 Chibi Charakoros.立った数×10のダメージを与える。<br>1つ前の自分の番にワザ「さいみんじゅつ」が成功していればRoll 6 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--2-2--><td style="">Roll 6 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.<br>1つ前の自分の番にワザ「さいみんじゅつ」が成功していればRoll 6 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--2-3--><td style="">なし</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/141.html" title="拡張パック5.ゴースト (1167d)">拡張パック5.ゴースト</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">サイコシャワー</td>
 		<!--3-1--><td style="">{P}{P}{P}{P}</td>
-		<!--3-2--><td style="">This attack does 20 damage.<br>Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--3-2--><td style="">This attack does 20 damage.<br>Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--3-3--><td style="">Standing：This attack does 20 more damage.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/141.html" title="拡張パック5.ゴースト (1167d)">拡張パック5.ゴースト</a></td></tr>
@@ -107,6 +107,6 @@ https://w.atwiki.jp/purakoro/pages/101.html
 		<!--4-1--><td style="">{P}{P}{P}</td>
 		<!--4-2--><td style="">This attack does 20 damage.<br>このワザは2回トライする。</td>
 		<!--4-3--><td style="">Standing・Back：This attack does 10 more damage.</td>
-		<!--4-4--><td style="">Handstand：Roll 6 Chibi Charakoros.立った数×10のダメージを自分が受ける。</td>
+		<!--4-4--><td style="">Handstand：Roll 6 Chibi Charakoros. This Pokémon does 10 damage to itself for each {st} Chibi Charakoro.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/142.html" title="拡張パック5.カイリュー (1167d)">拡張パック5.カイリュー</a>他</td></tr>
 </tbody>

@@ -26,7 +26,7 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--3-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">サイコ・ヒーリング</td>
 		<!--4-1--><td style="">{P}{P}{P}</td>
-		<!--4-2--><td style="">チビキャラコロを6個ふって立った数×20にHPを回復する。</td>
+		<!--4-2--><td style="">Roll 6 Chibi Charakoros.立った数×20にHPを回復する。</td>
 		<!--4-3--><td style="">Standing：さらに6個のチビキャラコロをふって立った数×20のHPを追加で回復する。</td>
 		<!--4-4--><td style="">Handstand：次の自分の番1回休み。</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">(＊)いかりのはどう</td>

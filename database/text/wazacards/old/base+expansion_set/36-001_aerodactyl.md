@@ -93,13 +93,13 @@ https://w.atwiki.jp/purakoro/pages/32.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/39.html" title="拡張パック8.プテラ (799d)">拡張パック8.プテラ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">おたけび</td>
 		<!--2-1--><td style="">{F}{F}</td>
-		<!--2-2--><td style="">チビキャラコロを6個ふって立った数だけ次の自分の番にエネコロを追加してふる</td>
+		<!--2-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる</td>
 		<!--2-3--><td style="">Standing・Back：このワザでふるチビキャラコロの数を6個ではなく8個にする</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/39.html" title="拡張パック8.プテラ (799d)">拡張パック8.プテラ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">いかりのつばさ</td>
 		<!--3-1--><td style="">{F}{F}{F}{F}{F}</td>
-		<!--3-2--><td style="">This attack does 30 damage.更にチビキャラコロを8個ふって立った数×20ダメージ</td>
+		<!--3-2--><td style="">This attack does 30 damage.Roll 8 Chibi Charakoros.立った数×20ダメージ</td>
 		<!--3-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/39.html" title="拡張パック8.プテラ (799d)">拡張パック8.プテラ</a></td></tr>

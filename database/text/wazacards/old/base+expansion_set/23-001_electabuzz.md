@@ -88,7 +88,7 @@ https://w.atwiki.jp/purakoro/pages/43.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">エレブレイド<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{L}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/143.html" title="拡張パック5.エレブー (1159d)">拡張パック5.エレブー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ハイパーショック</td>
@@ -99,7 +99,7 @@ https://w.atwiki.jp/purakoro/pages/43.html
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/143.html" title="拡張パック5.エレブー (1159d)">拡張パック5.エレブー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">エレキウエーブ</td>
 		<!--3-1--><td style="">{L}{L}{L}{L}</td>
-		<!--3-2--><td style="">This attack does 20 damage.<br>Roll 6 Chibi Charakoros.立った数×20のダメージを与える。</td>
+		<!--3-2--><td style="">This attack does 20 damage.<br>Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--3-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/143.html" title="拡張パック5.エレブー (1159d)">拡張パック5.エレブー</a></td></tr>

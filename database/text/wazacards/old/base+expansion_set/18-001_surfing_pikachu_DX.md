@@ -13,19 +13,19 @@ https://w.atwiki.jp/purakoro/pages/47.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">なみのり<br>(スペシャル)</td>
 		<!--1-1--><td style="">　</td>
 		<!--1-2--><td style="">{L}の数x10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style="">なみのりピカチュウ</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ウォーターボルト</td>
 		<!--2-1--><td style="">{W}{L}{L}</td>
 		<!--2-2--><td style="">This attack does 30 damage.</td>
-		<!--2-3--><td style="">Standing・Back：Roll 6 Chibi Charakoros.立った数x10のダメージを追加で与える。</td>
+		<!--2-3--><td style="">Standing・Back：Roll 6 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--2-4--><td style="">なし</td>
 		<!--2-5--><td style="">なみのり<a href="//w.atwiki.jp/purakoro/pages/19.html" title="ピカチュウ (676d)">ピカチュウ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ビッグウェーブ</td>
 		<!--3-1--><td style="">{W}{L}{L}{L}</td>
 		<!--3-2--><td style="">{L}と{W}の出た数の合計x10ダメージ</td>
-		<!--3-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数x10のダメージを追加で与える。</td>
+		<!--3-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--3-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td>
 		<!--3-5--><td style="">なみのり<a href="//w.atwiki.jp/purakoro/pages/19.html" title="ピカチュウ (676d)">ピカチュウ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">でんげき</td>
@@ -56,12 +56,12 @@ https://w.atwiki.jp/purakoro/pages/47.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">なみのり<br>(スペシャル)</td>
 		<!--1-1--><td style="">　</td>
 		<!--1-2--><td style="">{L}の数x10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style="">なみのりピカチュウ</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">なみしぶき</td>
 		<!--2-1--><td style="">{W}{L}</td>
-		<!--2-2--><td style="">チビキャラコロを6個ふって立った数だけ相手は次の番にふるエネコロをへらす。</td>
+		<!--2-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ相手は次の番にふるエネコロをへらす。</td>
 		<!--2-3--><td style="">なし</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style="">なみのり<a href="//w.atwiki.jp/purakoro/pages/19.html" title="ピカチュウ (676d)">ピカチュウ</a></td></tr>
@@ -102,7 +102,7 @@ https://w.atwiki.jp/purakoro/pages/47.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">12まんボルト<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{L}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1132d)">拡張パック1.ピカチュウ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">あまえる</td>
@@ -131,7 +131,7 @@ https://w.atwiki.jp/purakoro/pages/47.html
 		<!--5-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1132d)">拡張パック1.ピカチュウ</a><br>DXなみのりピカチュウ</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">ほうでんMAX</td>
 		<!--6-1--><td style="">{L}{L}{L}{L}</td>
-		<!--6-2--><td style="">チビキャラコロを12個ふって立った数x10のダメージを与える。</td>
+		<!--6-2--><td style="">Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--6-3--><td style="">Standing：This attack does 30 more damage.</td>
 		<!--6-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td>
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1132d)">拡張パック1.ピカチュウ</a></td></tr>

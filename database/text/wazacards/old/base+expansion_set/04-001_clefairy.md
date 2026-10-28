@@ -138,7 +138,7 @@ https://w.atwiki.jp/purakoro/pages/21.html
 		<!--6-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/150.html" title="拡張パック1.ピッピ (1038d)">拡張パック1.ピッピ</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_8">		<!--7-0--><td style="">あばれる</td>
 		<!--7-1--><td style="">{Y}{Y}{Y}{Y}</td>
-		<!--7-2--><td style="">Roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.<br>You can use this attack only if this Pokémon has $1 or less HP remaining.</td>
+		<!--7-2--><td style="">Roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.<br>You can use this attack only if this Pokémon has 40 or less HP remaining.</td>
 		<!--7-3--><td style="">Standing：Roll 6 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.</td>
 		<!--7-4--><td style="">Handstand：This Pokémon does 30 damage to itself.</td>
 		<!--7-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/46.html" title="拡張パック1.ピカチュウ (1136d)">拡張パック1.ピカチュウ</a>他</td></tr>

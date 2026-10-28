@@ -88,18 +88,18 @@ https://w.atwiki.jp/purakoro/pages/109.html
 <tr class="atwiki_tr_even atwiki_tr_2">		<!--1-0--><td style="">いかりくるう<br>（スペシャル）</td>
 		<!--1-1--><td style=""></td>
 		<!--1-2--><td style="">{Y}×10ダメージ</td>
-		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros.立った数×10のダメージを追加で与える。</td>
+		<!--1-3--><td style="">Standing：Roll 12 Chibi Charakoros. This attack does 10 damage for each {st} Chibi Charakoro.</td>
 		<!--1-4--><td style="">なし</td>
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/146.html" title="拡張パック8.ケンタロス (799d)">拡張パック8.ケンタロス</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">ダブルチャージ</td>
 		<!--2-1--><td style="">{Y}{Y}{Y}</td>
-		<!--2-2--><td style="">このワザは2回トライする。<br>チビキャラコロを8個ふって立った数×10のダメージを与える。</td>
+		<!--2-2--><td style="">このワザは2回トライする。<br>Roll 8 Chibi Charakoros.立った数×10のダメージを与える。</td>
 		<!--2-3--><td style="">Standing・Back：This attack does 20 more damage.</td>
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/146.html" title="拡張パック8.ケンタロス (799d)">拡張パック8.ケンタロス</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">はねとばす</td>
 		<!--3-1--><td style="">{Y}{Y}{Y}{Y}</td>
-		<!--3-2--><td style="">This attack does 30 damage.<br>さらにチビキャラコロを6個ふって立った数だけ相手は次の番にふるエネコロを減らす。</td>
+		<!--3-2--><td style="">This attack does 30 damage.<br>さらにRoll 6 Chibi Charakoros.立った数だけ相手は次の番にふるエネコロを減らす。</td>
 		<!--3-3--><td style="">なし</td>
 		<!--3-4--><td style="">Handstand・Down：相手のエネコロをへらす効果が{Y}くなる。</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/146.html" title="拡張パック8.ケンタロス (799d)">拡張パック8.ケンタロス</a></td></tr>

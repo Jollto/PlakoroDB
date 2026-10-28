@@ -100,7 +100,7 @@ https://w.atwiki.jp/purakoro/pages/51.html
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/159.html" title="拡張パック2.ストライク (1046d)">拡張パック2.ストライク</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">みだれぎり</td>
 		<!--3-1--><td style="">{G}{G}{G}{G}{G}</td>
-		<!--3-2--><td style="">Roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.<br>You can use this attack only if this Pokémon has $1 or less HP remaining.</td>
+		<!--3-2--><td style="">Roll 12 Chibi Charakoros. This attack does 20 damage for each {st} Chibi Charakoro.<br>You can use this attack only if this Pokémon has 40 or less HP remaining.</td>
 		<!--3-3--><td style="">Standing：Roll 6 more Chibi Charakoros. This attack does 20 more damage for each {st} Chibi Charakoro.</td>
 		<!--3-4--><td style="">なし</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/159.html" title="拡張パック2.ストライク (1046d)">拡張パック2.ストライク</a></td></tr>

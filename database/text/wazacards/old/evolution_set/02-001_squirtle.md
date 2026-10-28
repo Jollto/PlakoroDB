@@ -270,7 +270,7 @@ https://w.atwiki.jp/purakoro/pages/105.html
 
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">あらしをよぶ</td>
 		<!--4-1--><td style="">{W}{W}{W}{W}</td>
-		<!--4-2--><td style="">Roll 12 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる。</td>
+		<!--4-2--><td style="">Roll 12 Chibi Charakoros. On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro.</td>
 		<!--4-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1 more.</td>
 		<!--4-4--><td style="">なし</td></tr>
 

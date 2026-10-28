@@ -105,7 +105,7 @@ https://w.atwiki.jp/purakoro/pages/15.html
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/137.html" title="拡張パック6.カブトプス (1155d)">拡張パック6.カブトプス</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">げんしのいかり</td>
 		<!--4-1--><td style="">{F}{F}</td>
-		<!--4-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる。</td>
+		<!--4-2--><td style="">Roll 6 Chibi Charakoros. On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro.</td>
 		<!--4-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--4-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/138.html" title="拡張パック6.スピアー (1155d)">拡張パック6.スピアー</a>他</td></tr>

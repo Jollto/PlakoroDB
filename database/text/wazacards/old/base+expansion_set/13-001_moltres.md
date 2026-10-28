@@ -94,8 +94,8 @@ https://w.atwiki.jp/purakoro/pages/97.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/165.html" title="拡張パック3.ファイヤー (1144d)">拡張パック3.ファイヤー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">あおいほのお</td>
 		<!--2-1--><td style="">{R}{R}{R}</td>
-		<!--2-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる。</td>
-		<!--2-3--><td style="">Standing・Back：Roll 6 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる。</td>
+		<!--2-2--><td style="">Roll 6 Chibi Charakoros. On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro.</td>
+		<!--2-3--><td style="">Standing・Back：Roll 6 Chibi Charakoros. On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro.</td>
 		<!--2-4--><td style="">Handstand・Down：This Pokémon does 20 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/165.html" title="拡張パック3.ファイヤー (1144d)">拡張パック3.ファイヤー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">だいもんじ</td>

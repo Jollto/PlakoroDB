@@ -94,8 +94,8 @@ https://w.atwiki.jp/purakoro/pages/98.html
 		<!--1-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/166.html" title="拡張パック3.サンダー (83d)">拡張パック3.サンダー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">じゅうでん</td>
 		<!--2-1--><td style="">{L}{L}</td>
-		<!--2-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる。</td>
-		<!--2-3--><td style="">Standing・Back：Roll 3 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる。</td>
+		<!--2-2--><td style="">Roll 6 Chibi Charakoros. On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro.</td>
+		<!--2-3--><td style="">Standing・Back：Roll 3 more Chibi Charakoros. On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro.</td>
 		<!--2-4--><td style="">Handstand：This Pokémon does 10 damage to itself.</td>
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/166.html" title="拡張パック3.サンダー (83d)">拡張パック3.サンダー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ほうでん</td>

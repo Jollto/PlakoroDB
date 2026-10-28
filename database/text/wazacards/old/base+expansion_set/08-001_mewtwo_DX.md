@@ -102,8 +102,8 @@ https://w.atwiki.jp/purakoro/pages/90.html
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/161.html" title="拡張パック2.ミュウツー (1158d)">拡張パック2.ミュウツー</a></td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">エネルギーきゅうしゅう</td>
 		<!--3-1--><td style="">{P}{P}{P}</td>
-		<!--3-2--><td style="">Roll 6 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる。</td>
-		<!--3-3--><td style="">Standing・Back：Roll 6 Chibi Charakoros.立った数だけ次の自分の番にエネコロを追加してふる。</td>
+		<!--3-2--><td style="">Roll 6 Chibi Charakoros. On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro.</td>
+		<!--3-3--><td style="">Standing・Back：Roll 6 more Chibi Charakoros. On your next turn, increase the number of Enekoro you roll by 1 for each {st} Chibi Charakoro.</td>
 		<!--3-4--><td style="">Handstand：On your next turn, reduce the number of Enekoro you roll by 1.</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/161.html" title="拡張パック2.ミュウツー (1158d)">拡張パック2.ミュウツー</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">エナジーブラスト</td>

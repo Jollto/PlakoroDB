@@ -10,7 +10,6 @@ Back
 俯せ
 Down
 
-自分の20ダメージ
 (が出たら)?(しかし)?自分(にも|も|が|の)(\d+)ダメージを?(受ける)?が?(。|、)?
 This Pokémon does $4 damage to itself.
 
@@ -20,7 +19,7 @@ This Pokémon does $2 more damage to itself.
 次の相手の番に受けるダメージ(の合計から)?を?(\d+)ダメージを?(へらし|へらす)?(。|、)?
 During your opponent's next turn, this Pokémon takes $2 less damage from attacks.
 
-次の相手の番に受けるダメージをさらに(\d+)(ダメージ)?へらす。
+次の相手の番に受けるダメージをさらに(\d+)(ダメージ)?へらす(。|、)?
 Reduce damage taken by an additional $1.
 
 次の相手の番に受けるダメージが(\d+)ダメージしか減らせなくなる。

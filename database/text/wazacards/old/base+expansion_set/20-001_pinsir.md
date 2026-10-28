@@ -68,7 +68,7 @@ https://w.atwiki.jp/purakoro/pages/34.html
 <tr class="atwiki_tr_even atwiki_tr_6">		<!--5-0--><td style="">なぎはらう</td>
 		<!--5-1--><td style="">{G}{G}{G}</td>
 		<!--5-2--><td style="">This attack does 20 damage.</td>
-		<!--5-3--><td style="">Standing：This attack does 20 more damage.<br>Back：相手は次の番にふるエネコロを1個へらす。</td>
+		<!--5-3--><td style="">Standing：This attack does 20 more damage.<br>Back：On the opponent's next turn, reduce the number of Enekoro they roll by 1.</td>
 		<!--5-4--><td style="">Handstand：This Pokémon does 20 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_7">		<!--6-0--><td style="">かみちぎる</td>
 		<!--6-1--><td style="">{G}{G}{G}{G}</td>

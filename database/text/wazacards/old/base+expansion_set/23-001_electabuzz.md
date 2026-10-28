@@ -57,8 +57,8 @@ https://w.atwiki.jp/purakoro/pages/43.html
 		<!--2-4--><td style="">なし</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">かげぶんしん</td>
 		<!--3-1--><td style="">{L}{L}</td>
-		<!--3-2--><td style="">次の自分の番にふるエネコロを1個追加してふる</td>
-		<!--3-3--><td style="">Standing：次の自分の番にふるエネコロをもう1個追加してふる</td>
+		<!--3-2--><td style="">On your next turn, increase the number of Enekoro you roll by 1.</td>
+		<!--3-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-4--><td style="">Handstand、Down：This Pokémon does 10 damage to itself.</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">10まんボルト</td>
 		<!--4-1--><td style="">{L}{L}{L}</td>

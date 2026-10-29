@@ -61,20 +61,20 @@
 
 #### Instigar
 
-| Nome            | Instigar                                                                                                                   |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | そそのかす                                                                                                                      |
-| Tipo            | Sombrio                                                                                                                    |
-| Código          | EBW02-024                                                                                                                  |
-| Pokémon         | Sableye                                                                                                                    |
-| Energia         | {D}{D}{D}                                                                                                                  |
-| Dano            | 20                                                                                                                         |
-| Efeito          |                                                                                                                            |
-| Em pé           | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, they use that attack. |
-| De ponta-cabeça |                                                                                                                            |
-| De costas       |                                                                                                                            |
-| De bruços       |                                                                                                                            |
-| De lado         | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, they use that attack. |
+| Nome            | Instigar                                                                                                                        |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Japonês         | そそのかす                                                                                                                           |
+| Tipo            | Sombrio                                                                                                                         |
+| Código          | EBW02-024                                                                                                                       |
+| Pokémon         | Sableye                                                                                                                         |
+| Energia         | {D}{D}{D}                                                                                                                       |
+| Dano            | 20                                                                                                                              |
+| Efeito          |                                                                                                                                 |
+| Em pé           | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, ele deve usar esse ataque. |
+| De ponta-cabeça |                                                                                                                                 |
+| De costas       |                                                                                                                                 |
+| De bruços       |                                                                                                                                 |
+| De lado         | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, ele deve usar esse ataque. |
 
 [Instigar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
 

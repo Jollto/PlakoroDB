@@ -70,11 +70,11 @@
 | Energy    | {D}{D}{D}                                                                          |
 | Damage    | 20                                                                                 |
 | Effect    |                                                                                    |
-| Standing  | Choose 1 of your opponent's attacks. During their next turn, they use this attack. |
+| Standing  | Choose 1 of your opponent's attacks. During their next turn, they use that attack. |
 | Handstand |                                                                                    |
 | Back      |                                                                                    |
 | Down      |                                                                                    |
-| Sideways  | Choose 1 of your opponent's attacks. During their next turn, they use this attack. |
+| Sideways  | Choose 1 of your opponent's attacks. During their next turn, they use that attack. |
 
 [Instigate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
 

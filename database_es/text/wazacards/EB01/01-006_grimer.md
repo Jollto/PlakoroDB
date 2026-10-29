@@ -61,20 +61,20 @@
 
 #### Anillo Lodo ?
 
-| Nombre      | Anillo Lodo ?                                                                                                           |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | ヘドロでかこむ                                                                                                                 |
-| Tipo        | Siniestro                                                                                                               |
-| Código      | EBW01-054                                                                                                               |
-| Pokémon     | Grimer                                                                                                                  |
-| Energía     | {D}{D}{D}                                                                                                               |
-| Daño        | 30                                                                                                                      |
-| Efecto      |                                                                                                                         |
-| De pie      | Elige 1 de los ataques de tu rival. During their next turn, they can't use that attack. |
-| De cabeza   |                                                                                                                         |
-| Boca arriba | Elige 1 de los ataques de tu rival. During their next turn, they can't use that attack. |
-| Boca abajo  | Elige 1 de los ataques de tu rival. During their next turn, they can't use that attack. |
-| De lado     |                                                                                                                         |
+| Nombre      | Anillo Lodo ?                                                                                                            |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Japonés     | ヘドロでかこむ                                                                                                                  |
+| Tipo        | Siniestro                                                                                                                |
+| Código      | EBW01-054                                                                                                                |
+| Pokémon     | Grimer                                                                                                                   |
+| Energía     | {D}{D}{D}                                                                                                                |
+| Daño        | 30                                                                                                                       |
+| Efecto      |                                                                                                                          |
+| De pie      | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar ese ataque. |
+| De cabeza   |                                                                                                                          |
+| Boca arriba | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar ese ataque. |
+| Boca abajo  | Elige 1 de los ataques de tu rival. Durante su próximo turno, no pueden usar ese ataque. |
+| De lado     |                                                                                                                          |
 
 [Anillo Lodo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard04.webp)
 

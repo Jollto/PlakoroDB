@@ -105,7 +105,7 @@ https://w.atwiki.jp/purakoro/pages/110.html
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/172.html" title="拡張パック8.ウインディ (793d)">拡張パック8.ウインディ</a></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_5">		<!--4-0--><td style="">いかりのほのお</td>
 		<!--4-1--><td style="">{R}{R}{R}</td>
-		<!--4-2--><td style="">次の自分の番にワザが成功してダメージを与えるたびに、相手に与えるダメージに＋10する。</td>
+		<!--4-2--><td style="">During your next turn, all damage dealt is increased by 10.</td>
 		<!--4-3--><td style="">Standing：相手に与えるダメージを+10ではなく+20にする。</td>
 		<!--4-4--><td style="">なし</td>
 		<!--4-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/146.html" title="拡張パック8.ケンタロス (793d)">拡張パック8.ケンタロス</a>他</td></tr>

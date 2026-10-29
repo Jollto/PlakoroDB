@@ -77,7 +77,7 @@ https://w.atwiki.jp/purakoro/pages/105.html
 
 <tr class="atwiki_tr_odd atwiki_tr_3">		<!--2-0--><td style="">こうらブロック</td>
 		<!--2-1--><td style="">{W}{W}{W}</td>
-		<!--2-2--><td style="">During your opponent's next turn, this Pokémon takes 30 less damage from attacks.<br>次の自分の番にワザが成功してダメージを与えるたびに、相手に与えるダメージに+10する。</td>
+		<!--2-2--><td style="">During your opponent's next turn, this Pokémon takes 30 less damage from attacks.<br>During your next turn, all damage dealt is increased by 10.</td>
 		<!--2-3--><td style="">Standing：相手に与えるダメージを+10から+20にする。</td>
 		<!--2-4--><td style="">Back：Roll 6 Chibi Charakoros.立った数だけ次の自分の番にふるエネコロをへらす。</td></tr>
 

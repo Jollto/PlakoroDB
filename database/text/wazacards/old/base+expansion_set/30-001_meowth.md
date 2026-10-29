@@ -99,7 +99,7 @@ https://w.atwiki.jp/purakoro/pages/106.html
 		<!--2-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/144.html" title="拡張パック7.ニャース (630d)">拡張パック7.ニャース</a>他</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_4">		<!--3-0--><td style="">ツメをとぐ</td>
 		<!--3-1--><td style="">{Y}{Y}{Y}</td>
-		<!--3-2--><td style="">次の自分の番にワザが成功してダメージを与えるたびに、相手に与えるダメージに+10する。</td>
+		<!--3-2--><td style="">During your next turn, all damage dealt is increased by 10.</td>
 		<!--3-3--><td style="">Standing：On your next turn, increase the number of Enekoro you roll by 1.</td>
 		<!--3-4--><td style="">なし</td>
 		<!--3-5--><td style=""><a href="//w.atwiki.jp/purakoro/pages/144.html" title="拡張パック7.ニャース (630d)">拡張パック7.ニャース</a></td></tr>

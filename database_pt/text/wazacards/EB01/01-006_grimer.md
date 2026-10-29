@@ -61,20 +61,20 @@
 
 #### Cerco de Lodo ?
 
-| Nome            | Cerco de Lodo ?                                                                                                            |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | ヘドロでかこむ                                                                                                                    |
-| Tipo            | Sombrio                                                                                                                    |
-| Código          | EBW01-054                                                                                                                  |
-| Pokémon         | Grimer                                                                                                                     |
-| Energia         | {D}{D}{D}                                                                                                                  |
-| Dano            | 30                                                                                                                         |
-| Efeito          |                                                                                                                            |
-| Em pé           | Escolha 1 dos ataques do seu oponente. During their next turn, they can't use that attack. |
-| De ponta-cabeça |                                                                                                                            |
-| De costas       | Escolha 1 dos ataques do seu oponente. During their next turn, they can't use that attack. |
-| De bruços       | Escolha 1 dos ataques do seu oponente. During their next turn, they can't use that attack. |
-| De lado         |                                                                                                                            |
+| Nome            | Cerco de Lodo ?                                                                                                                       |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonês         | ヘドロでかこむ                                                                                                                               |
+| Tipo            | Sombrio                                                                                                                               |
+| Código          | EBW01-054                                                                                                                             |
+| Pokémon         | Grimer                                                                                                                                |
+| Energia         | {D}{D}{D}                                                                                                                             |
+| Dano            | 30                                                                                                                                    |
+| Efeito          |                                                                                                                                       |
+| Em pé           | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, ele não poderá usar esse ataque. |
+| De ponta-cabeça |                                                                                                                                       |
+| De costas       | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, ele não poderá usar esse ataque. |
+| De bruços       | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, ele não poderá usar esse ataque. |
+| De lado         |                                                                                                                                       |
 
 [Cerco de Lodo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard04.webp)
 

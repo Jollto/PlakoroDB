@@ -61,20 +61,20 @@
 
 #### Instigar
 
-| Nombre      | Instigar                                                                                                            |
-| ----------- | ------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | そそのかす                                                                                                               |
-| Tipo        | Siniestro                                                                                                           |
-| Código      | EBW02-024                                                                                                           |
-| Pokémon     | Sableye                                                                                                             |
-| Energía     | {D}{D}{D}                                                                                                           |
-| Daño        | 20                                                                                                                  |
-| Efecto      |                                                                                                                     |
-| De pie      | Elige 1 de los ataques de tu rival. Durante su próximo turno, they use that attack. |
-| De cabeza   |                                                                                                                     |
-| Boca arriba |                                                                                                                     |
-| Boca abajo  |                                                                                                                     |
-| De lado     | Elige 1 de los ataques de tu rival. Durante su próximo turno, they use that attack. |
+| Nombre      | Instigar                                                                                                       |
+| ----------- | -------------------------------------------------------------------------------------------------------------- |
+| Japonés     | そそのかす                                                                                                          |
+| Tipo        | Siniestro                                                                                                      |
+| Código      | EBW02-024                                                                                                      |
+| Pokémon     | Sableye                                                                                                        |
+| Energía     | {D}{D}{D}                                                                                                      |
+| Daño        | 20                                                                                                             |
+| Efecto      |                                                                                                                |
+| De pie      | Elige 1 de los ataques de tu rival. Durante su próximo turno, usan ese ataque. |
+| De cabeza   |                                                                                                                |
+| Boca arriba |                                                                                                                |
+| Boca abajo  |                                                                                                                |
+| De lado     | Elige 1 de los ataques de tu rival. Durante su próximo turno, usan ese ataque. |
 
 [Instigar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
 

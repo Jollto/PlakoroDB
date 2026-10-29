@@ -362,7 +362,7 @@ https://w.atwiki.jp/purakoro/pages/105.html
 
 <tr class="atwiki_tr_odd atwiki_tr_9">		<!--8-0--><td style="">ハイドロバスター</td>
 		<!--8-1--><td style="">{W}{W}{W}{W}{W}{W}</td>
-		<!--8-2--><td style="">This attack does 30 damage.<br>Roll 8 Chibi Charakoros.立った数×30ダメージを追加で与える。</td>
+		<!--8-2--><td style="">This attack does 30 damage.<br>Roll 8 Chibi Charakoros. This attack does 30 more damage for each {st} Chibi Charakoro.</td>
 		<!--8-3--><td style="">なし</td>
 		<!--8-4--><td style="">Back：On your next turn, reduce the number of Enekoro you roll by 1.</td></tr>
 </tbody>

@@ -94,4 +94,3 @@ This attack may be used $1 times.
 This attack does $4 damage for each $3 energy produced.
 
 が出たら
-

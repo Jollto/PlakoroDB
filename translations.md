@@ -49,7 +49,7 @@ On your next turn, increase the number of Enekoro you roll by $1 more.
 Choose 1 of your opponent's attacks. Use that attack rolling your opponent's Enekoros.
 
 次の相手の番に使えるワザカードを1つ選んでそれを使えなくする。<br>ワザの効果は1回で消える。
-Choose 1 of your opponent's attacks. During their next turn, they can't use this attack.
+Choose 1 of your opponent's attacks. During their next turn, they can't use that attack.
 
 最高HPが(\d+)になり
 Max HP becomes $1.

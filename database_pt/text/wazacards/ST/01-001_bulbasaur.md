@@ -61,20 +61,20 @@
 
 #### Nó de Grama
 
-| Nome            | Nó de Grama                                                                                                                |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | くさむすび                                                                                                                      |
-| Tipo            | Planta                                                                                                                     |
-| Código          | STW01-004                                                                                                                  |
-| Pokémon         | Bulbasaur                                                                                                                  |
-| Energia         | {G}{G}{G}                                                                                                                  |
-| Dano            | 30                                                                                                                         |
-| Efeito          |                                                                                                                            |
-| Em pé           | Escolha 1 dos ataques do seu oponente. During their next turn, they can't use that attack. |
-| De ponta-cabeça |                                                                                                                            |
-| De costas       | Escolha 1 dos ataques do seu oponente. During their next turn, they can't use that attack. |
-| De bruços       | Escolha 1 dos ataques do seu oponente. During their next turn, they can't use that attack. |
-| De lado         |                                                                                                                            |
+| Nome            | Nó de Grama                                                                                                                           |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonês         | くさむすび                                                                                                                                 |
+| Tipo            | Planta                                                                                                                                |
+| Código          | STW01-004                                                                                                                             |
+| Pokémon         | Bulbasaur                                                                                                                             |
+| Energia         | {G}{G}{G}                                                                                                                             |
+| Dano            | 30                                                                                                                                    |
+| Efeito          |                                                                                                                                       |
+| Em pé           | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, ele não poderá usar esse ataque. |
+| De ponta-cabeça |                                                                                                                                       |
+| De costas       | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, ele não poderá usar esse ataque. |
+| De bruços       | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, ele não poderá usar esse ataque. |
+| De lado         |                                                                                                                                       |
 
 [Nó de Grama](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard04.webp)
 

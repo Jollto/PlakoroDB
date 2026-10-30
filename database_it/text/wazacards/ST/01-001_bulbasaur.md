@@ -7,7 +7,7 @@
 | Name      | Vine Whip                                        |
 | --------- | ------------------------------------------------ |
 | Japanese  | つるのムチ                                            |
-| Type      | Grass                                            |
+| Tipo      | Grass                                            |
 | Code      | STW01-001                                        |
 | Pokémon   | Bulbasaur                                        |
 | Energy    | {G}                                              |
@@ -26,7 +26,7 @@
 | Name      | Razor Leaf                                       |
 | --------- | ------------------------------------------------ |
 | Japanese  | はっぱカッター                                          |
-| Type      | Grass                                            |
+| Tipo      | Grass                                            |
 | Code      | STW01-002                                        |
 | Pokémon   | Bulbasaur                                        |
 | Energy    | {G}{G}                                           |
@@ -45,7 +45,7 @@
 | Name      | Leech Seed                                                                                                                                                                 |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Japanese  | やどりぎのタネ                                                                                                                                                                    |
-| Type      | Grass                                                                                                                                                                      |
+| Tipo      | Grass                                                                                                                                                                      |
 | Code      | STW01-003                                                                                                                                                                  |
 | Pokémon   | Bulbasaur                                                                                                                                                                  |
 | Energy    | {G}{G}                                                                                                                                                                     |
@@ -64,7 +64,7 @@
 | Name      | Grass Knot                                                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Japanese  | くさむすび                                                                                                                    |
-| Type      | Grass                                                                                                                    |
+| Tipo      | Grass                                                                                                                    |
 | Code      | STW01-004                                                                                                                |
 | Pokémon   | Bulbasaur                                                                                                                |
 | Energy    | {G}{G}{G}                                                                                                                |
@@ -83,7 +83,7 @@
 | Name      | Reckless Charge                                        |
 | --------- | ------------------------------------------------------ |
 | Japanese  | とつげき                                                   |
-| Type      | Grass                                                  |
+| Tipo      | Grass                                                  |
 | Code      | STW01-005                                              |
 | Pokémon   | Bulbasaur                                              |
 | Energy    | {G}{G}{G}                                              |
@@ -102,7 +102,7 @@
 | Name      | Giga Drain                                        |
 | --------- | ------------------------------------------------- |
 | Japanese  | ギガドレイン                                            |
-| Type      | Grass                                             |
+| Tipo      | Grass                                             |
 | Code      | STW01-006                                         |
 | Pokémon   | Bulbasaur                                         |
 | Energy    | {G}{G}{G}{G}                                      |
@@ -121,7 +121,7 @@
 | Name      | Acid Spray                                       |
 | --------- | ------------------------------------------------ |
 | Japanese  | アシッドボム                                           |
-| Type      | Dark                                             |
+| Tipo      | Buio                                             |
 | Code      | STW01-007                                        |
 | Pokémon   | Bulbasaur                                        |
 | Energy    | {D}{C}{C}                                        |
@@ -142,7 +142,7 @@
 | Name      | Aroma Storm ?                                     |
 | --------- | ------------------------------------------------- |
 | Japanese  | アロマストーム                                           |
-| Type      | Grass                                             |
+| Tipo      | Grass                                             |
 | Code      | PRW01-1-08                                        |
 | Pokémon   | Bulbasaur                                         |
 | Energy    | {G}{G}{G}{G}                                      |

@@ -7,7 +7,7 @@
 | Name      | Nail Scratch ?                                   |
 | --------- | ------------------------------------------------ |
 | Japanese  | ツメでひっかく                                          |
-| Type      | Dark                                             |
+| Tipo      | Buio                                             |
 | Code      | EBW02-021                                        |
 | Pokémon   | Sableye                                          |
 | Energy    | {D}                                              |
@@ -26,7 +26,7 @@
 | Name      | Feint Attack                                     |
 | --------- | ------------------------------------------------ |
 | Japanese  | だましうち                                            |
-| Type      | Dark                                             |
+| Tipo      | Buio                                             |
 | Code      | EBW02-022                                        |
 | Pokémon   | Sableye                                          |
 | Energy    | {D}{D}                                           |
@@ -45,7 +45,7 @@
 | Name      | Dig It Up                                                                                                                                                                     |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Japanese  | ほりかえす                                                                                                                                                                         |
-| Type      | Dark                                                                                                                                                                          |
+| Tipo      | Buio                                                                                                                                                                          |
 | Code      | EBW02-023                                                                                                                                                                     |
 | Pokémon   | Sableye                                                                                                                                                                       |
 | Energy    | {D}{D}                                                                                                                                                                        |
@@ -64,7 +64,7 @@
 | Name      | Instigate                                                                                                          |
 | --------- | ------------------------------------------------------------------------------------------------------------------ |
 | Japanese  | そそのかす                                                                                                              |
-| Type      | Dark                                                                                                               |
+| Tipo      | Buio                                                                                                               |
 | Code      | EBW02-024                                                                                                          |
 | Pokémon   | Sableye                                                                                                            |
 | Energy    | {D}{D}{D}                                                                                                          |
@@ -83,7 +83,7 @@
 | Name      | Icy Wind                                         |
 | --------- | ------------------------------------------------ |
 | Japanese  | こごえるかぜ                                           |
-| Type      | Water                                            |
+| Tipo      | Acqua                                            |
 | Code      | EBW02-025                                        |
 | Pokémon   | Sableye                                          |
 | Energy    | {W}                                              |
@@ -102,7 +102,7 @@
 | Name      | Dark Claw ?                                      |
 | --------- | ------------------------------------------------ |
 | Japanese  | ダーククロー                                           |
-| Type      | Dark                                             |
+| Tipo      | Buio                                             |
 | Code      | EBW02-026                                        |
 | Pokémon   | Sableye                                          |
 | Energy    | {D}                                              |
@@ -121,7 +121,7 @@
 | Name      | Trip Over                                                                                   |
 | --------- | ------------------------------------------------------------------------------------------- |
 | Japanese  | ころばす                                                                                        |
-| Type      | Dark                                                                                        |
+| Tipo      | Buio                                                                                        |
 | Code      | EBW02-027                                                                                   |
 | Pokémon   | Sableye                                                                                     |
 | Energy    | {D}{D}                                                                                      |
@@ -140,7 +140,7 @@
 | Name      | Dark Pulse                                       |
 | --------- | ------------------------------------------------ |
 | Japanese  | あくのはどう                                           |
-| Type      | Dark                                             |
+| Tipo      | Buio                                             |
 | Code      | EBW02-028                                        |
 | Pokémon   | Sableye                                          |
 | Energy    | {D}{D}{D}                                        |
@@ -159,7 +159,7 @@
 | Name      | Jewel Flash ?                                                                                                                                                                 |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Japanese  | ジュエルフラッシュ                                                                                                                                                                     |
-| Type      | Dark                                                                                                                                                                          |
+| Tipo      | Buio                                                                                                                                                                          |
 | Code      | EBW02-029                                                                                                                                                                     |
 | Pokémon   | Sableye                                                                                                                                                                       |
 | Energy    | {D}{D}{D}{D}                                                                                                                                                                  |
@@ -178,7 +178,7 @@
 | Name      | Psybeam                                          |
 | --------- | ------------------------------------------------ |
 | Japanese  | サイケこうせん                                          |
-| Type      | Psychic                                          |
+| Tipo      | Psico                                            |
 | Code      | EBW02-030                                        |
 | Pokémon   | Sableye                                          |
 | Energy    | {P}{P}                                           |

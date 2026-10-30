@@ -4,7 +4,7 @@
 
 #### 1
 
-Q: I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed".  
+D: Ho superato con successo i tiri Enekoro e Charakoro per la mossa di Bulbasaur "Parasseme".  
 How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?
 
 A: First, roll 3 Enekoro.  

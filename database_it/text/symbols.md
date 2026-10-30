@@ -2,19 +2,19 @@
 
 ## Types
 
-|   Type   | Japanese | Letter |                                                Symbol                                               |
-| :------: | :------: | :----: | :-------------------------------------------------------------------------------------------------: |
-|   Grass  |   草（くさ）  |   {G}  |     ![Grass](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/grass.webp)    |
-|   Fire   |  炎（ほのお）  |   {R}  |      ![Fire](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/fire.webp)     |
-|   Water  |   水（みず）  |   {W}  |     ![Water](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/water.webp)    |
-| Electric |  雷（かみなり） |   {L}  | ![Lightning](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/electric.webp) |
-|  Psychic |  超（ちょう）  |   {P}  |   ![Psychic](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/psychic.webp)  |
-| Fighting |   闘（とう）  |   {F}  |  ![Fighting](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/fighting.webp) |
-|   Dark   |   悪（あく）  |   {D}  |      ![Dark](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/dark.webp)     |
-|   Steel  |  鋼（はがね）  |   {M}  |     ![Steel](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/steel.webp)    |
-|  Dragon  |  竜（ドラゴン） |   {N}  |    ![Dragon](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/dragon.webp)   |
-|  Flying  |   空（そら）  |   {Y}  |    ![Flying](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/flying.webp)   |
-|  Normal  |  無（むしょく） |   {C}  |    ![Normal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/normal.webp)   |
+|   Tipo  | Japanese | Letter |                                                Symbol                                               |
+| :-----: | :------: | :----: | :-------------------------------------------------------------------------------------------------: |
+|  Grass  |   草（くさ）  |   {G}  |     ![Grass](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/grass.webp)    |
+|  Fuoco  |  炎（ほのお）  |   {R}  |      ![Fire](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/fire.webp)     |
+|  Acqua  |   水（みず）  |   {W}  |     ![Water](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/water.webp)    |
+| Elettro |  雷（かみなり） |   {L}  | ![Lightning](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/electric.webp) |
+|  Psico  |  超（ちょう）  |   {P}  |   ![Psychic](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/psychic.webp)  |
+|  Lotta  |   闘（とう）  |   {F}  |  ![Fighting](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/fighting.webp) |
+|   Buio  |   悪（あく）  |   {D}  |      ![Dark](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/dark.webp)     |
+| Acciaio |  鋼（はがね）  |   {M}  |     ![Steel](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/steel.webp)    |
+|  Dragon |  竜（ドラゴン） |   {N}  |    ![Dragon](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/dragon.webp)   |
+|  Flying |   空（そら）  |   {Y}  |    ![Flying](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/flying.webp)   |
+|  Normal |  無（むしょく） |   {C}  |    ![Normal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/normal.webp)   |
 
 Japanese text (from FAQ) uses TCG terminology, but icons from webpage uses VGC types, I'll be using VGC types too.
 

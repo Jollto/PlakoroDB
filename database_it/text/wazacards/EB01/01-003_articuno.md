@@ -1,193 +1,193 @@
 ## Articuno Cards
 
-### Exploration Box 1
+### Box Esplorazione 1
 
 #### Ice Wing
 
-| Name      | Ice Wing                                                                                  |
-| --------- | ----------------------------------------------------------------------------------------- |
-| Japanese  | アイスウイング                                                                                   |
-| Tipo      | Acqua                                                                                     |
-| Code      | EBW01-021                                                                                 |
-| Pokémon   | Articuno                                                                                  |
-| Energy    | {W}{W}                                                                                    |
-| Damage    | 10                                                                                        |
-| Effect    |                                                                                           |
-| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Handstand |                                                                                           |
-| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Down      |                                                                                           |
-| Sideways  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Nome           | Ice Wing                                                                                  |
+| -------------- | ----------------------------------------------------------------------------------------- |
+| Giapponese     | アイスウイング                                                                                   |
+| Tipo           | Acqua                                                                                     |
+| Codice         | EBW01-021                                                                                 |
+| Pokémon        | Articuno                                                                                  |
+| Energia        | {W}{W}                                                                                    |
+| Danni          | 10                                                                                        |
+| Effetto        |                                                                                           |
+| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| A testa in giù |                                                                                           |
+| Supino         | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Prono          |                                                                                           |
+| Sui fianchi    | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
 
 [Ice Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard01.webp)
 
 #### Freezing Blade ?
 
-| Name      | Freezing Blade ?                                                                |
-| --------- | ------------------------------------------------------------------------------- |
-| Japanese  | いてつくやいば                                                                         |
-| Tipo      | Acqua                                                                           |
-| Code      | EBW01-022                                                                       |
-| Pokémon   | Articuno                                                                        |
-| Energy    | {W}{W}{W}                                                                       |
-| Damage    | 30                                                                              |
-| Effect    |                                                                                 |
-| Standing  | On your opponent's next turn, they cannot roll their Charakoro. |
-| Handstand |                                                                                 |
-| Back      |                                                                                 |
-| Down      |                                                                                 |
-| Sideways  | On your opponent's next turn, they cannot roll their Charakoro. |
+| Nome           | Freezing Blade ?                                                                |
+| -------------- | ------------------------------------------------------------------------------- |
+| Giapponese     | いてつくやいば                                                                         |
+| Tipo           | Acqua                                                                           |
+| Codice         | EBW01-022                                                                       |
+| Pokémon        | Articuno                                                                        |
+| Energia        | {W}{W}{W}                                                                       |
+| Danni          | 30                                                                              |
+| Effetto        |                                                                                 |
+| In Piedi       | On your opponent's next turn, they cannot roll their Charakoro. |
+| A testa in giù |                                                                                 |
+| Supino         |                                                                                 |
+| Prono          |                                                                                 |
+| Sui fianchi    | On your opponent's next turn, they cannot roll their Charakoro. |
 
 [Freezing Blade](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
 
 #### Blizzard Storm ?
 
-| Name      | Blizzard Storm ?                                 |
-| --------- | ------------------------------------------------ |
-| Japanese  | ブリザードストーム                                        |
-| Tipo      | Acqua                                            |
-| Code      | EBW01-023                                        |
-| Pokémon   | Articuno                                         |
-| Energy    | {W}{W}{W}{W}                                     |
-| Damage    | 30                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 30 more damage. |
-| Down      |                                                  |
-| Sideways  | This attack does 30 more damage. |
+| Nome           | Blizzard Storm ?           |
+| -------------- | -------------------------- |
+| Giapponese     | ブリザードストーム                  |
+| Tipo           | Acqua                      |
+| Codice         | EBW01-023                  |
+| Pokémon        | Articuno                   |
+| Energia        | {W}{W}{W}{W}               |
+| Danni          | 30                         |
+| Effetto        |                            |
+| In Piedi       | +30 danni. |
+| A testa in giù |                            |
+| Supino         | +30 danni. |
+| Prono          |                            |
+| Sui fianchi    | +30 danni. |
 
 [Blizzard Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard03.webp)
 
 #### Air Cutter
 
-| Name      | Air Cutter                                       |
-| --------- | ------------------------------------------------ |
-| Japanese  | エアカッター                                           |
-| Tipo      | Volante                                          |
-| Code      | EBW01-024                                        |
-| Pokémon   | Articuno                                         |
-| Energy    | {Y}{C}{C}{C}                                     |
-| Damage    | 40                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 30 more damage. |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Air Cutter                 |
+| -------------- | -------------------------- |
+| Giapponese     | エアカッター                     |
+| Tipo           | Volante                    |
+| Codice         | EBW01-024                  |
+| Pokémon        | Articuno                   |
+| Energia        | {Y}{C}{C}{C}               |
+| Danni          | 40                         |
+| Effetto        |                            |
+| In Piedi       | +30 danni. |
+| A testa in giù |                            |
+| Supino         | +30 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Air Cutter](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard04.webp)
 
 #### Roost
 
-| Name      | Roost                                                  |
-| --------- | ------------------------------------------------------ |
-| Japanese  | はねやすめ                                                  |
-| Tipo      | Volante                                                |
-| Code      | EBW01-025                                              |
-| Pokémon   | Articuno                                               |
-| Energy    | {Y}{Y}                                                 |
-| Damage    |                                                        |
-| Effect    | Heal 20 damage from this Pokémon.      |
-| Standing  | Heal 20 more damage from this Pokémon. |
-| Handstand |                                                        |
-| Back      |                                                        |
-| Down      |                                                        |
-| Sideways  | Heal 20 more damage from this Pokémon. |
+| Nome           | Roost                                                  |
+| -------------- | ------------------------------------------------------ |
+| Giapponese     | はねやすめ                                                  |
+| Tipo           | Volante                                                |
+| Codice         | EBW01-025                                              |
+| Pokémon        | Articuno                                               |
+| Energia        | {Y}{Y}                                                 |
+| Danni          |                                                        |
+| Effetto        | Heal 20 damage from this Pokémon.      |
+| In Piedi       | Heal 20 more damage from this Pokémon. |
+| A testa in giù |                                                        |
+| Supino         |                                                        |
+| Prono          |                                                        |
+| Sui fianchi    | Heal 20 more damage from this Pokémon. |
 
 [Roost](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard05.webp)
 
 #### Freeze Dive ?
 
-| Name      | Freeze Dive ?                                    |
-| --------- | ------------------------------------------------ |
-| Japanese  | フリーズダイブ                                          |
-| Tipo      | Acqua                                            |
-| Code      | EBW01-026                                        |
-| Pokémon   | Articuno                                         |
-| Energy    | {W}                                              |
-| Damage    | 10                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 20 more damage. |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Freeze Dive ?              |
+| -------------- | -------------------------- |
+| Giapponese     | フリーズダイブ                    |
+| Tipo           | Acqua                      |
+| Codice         | EBW01-026                  |
+| Pokémon        | Articuno                   |
+| Energia        | {W}                        |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         | +20 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Freeze Dive](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard06.webp)
 
 #### Ice Shot
 
-| Name      | Ice Shot                                         |
-| --------- | ------------------------------------------------ |
-| Japanese  | アイスショット                                          |
-| Tipo      | Acqua                                            |
-| Code      | EBW01-027                                        |
-| Pokémon   | Articuno                                         |
-| Energy    | {W}{W}                                           |
-| Damage    | 20                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                                  |
-| Back      |                                                  |
-| Down      |                                                  |
-| Sideways  | This attack does 20 more damage. |
+| Nome           | Ice Shot                   |
+| -------------- | -------------------------- |
+| Giapponese     | アイスショット                    |
+| Tipo           | Acqua                      |
+| Codice         | EBW01-027                  |
+| Pokémon        | Articuno                   |
+| Energia        | {W}{W}                     |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    | +20 danni. |
 
 [Ice Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard07.webp)
 
 #### Cold Breath
 
-| Name      | Cold Breath                                                                               |
-| --------- | ----------------------------------------------------------------------------------------- |
-| Japanese  | コールドブレス                                                                                   |
-| Tipo      | Acqua                                                                                     |
-| Code      | EBW01-028                                                                                 |
-| Pokémon   | Articuno                                                                                  |
-| Energy    | {W}{W}{W}                                                                                 |
-| Damage    | 20                                                                                        |
-| Effect    |                                                                                           |
-| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
-| Handstand |                                                                                           |
-| Back      |                                                                                           |
-| Down      |                                                                                           |
-| Sideways  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
+| Nome           | Cold Breath                                                                               |
+| -------------- | ----------------------------------------------------------------------------------------- |
+| Giapponese     | コールドブレス                                                                                   |
+| Tipo           | Acqua                                                                                     |
+| Codice         | EBW01-028                                                                                 |
+| Pokémon        | Articuno                                                                                  |
+| Energia        | {W}{W}{W}                                                                                 |
+| Danni          | 20                                                                                        |
+| Effetto        |                                                                                           |
+| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
+| A testa in giù |                                                                                           |
+| Supino         |                                                                                           |
+| Prono          |                                                                                           |
+| Sui fianchi    | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
 
 [Cold Breath](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard08.webp)
 
 #### Sheer Cold
 
-| Name      | Sheer Cold                                                                                                                                  |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | ぜったいれいど                                                                                                                                     |
-| Tipo      | Acqua                                                                                                                                       |
-| Code      | EBW01-029                                                                                                                                   |
-| Pokémon   | Articuno                                                                                                                                    |
-| Energy    | {W}{W}{W}{W}                                                                                                                                |
-| Damage    | 40                                                                                                                                          |
-| Effect    |                                                                                                                                             |
-| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
-| Handstand |                                                                                                                                             |
-| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
-| Down      |                                                                                                                                             |
-| Sideways  |                                                                                                                                             |
+| Nome           | Sheer Cold                                                                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | ぜったいれいど                                                                                                                                     |
+| Tipo           | Acqua                                                                                                                                       |
+| Codice         | EBW01-029                                                                                                                                   |
+| Pokémon        | Articuno                                                                                                                                    |
+| Energia        | {W}{W}{W}{W}                                                                                                                                |
+| Danni          | 40                                                                                                                                          |
+| Effetto        |                                                                                                                                             |
+| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
+| A testa in giù |                                                                                                                                             |
+| Supino         | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
+| Prono          |                                                                                                                                             |
+| Sui fianchi    |                                                                                                                                             |
 
 [Sheer Cold](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
 
-#### Fly
+#### Volo
 
-| Name      | Fly                                                                                              |
-| --------- | ------------------------------------------------------------------------------------------------ |
-| Japanese  | そらをとぶ                                                                                            |
-| Tipo      | Volante                                                                                          |
-| Code      | EBW01-030                                                                                        |
-| Pokémon   | Articuno                                                                                         |
-| Energy    | {Y}{C}{C}                                                                                        |
-| Damage    | 30                                                                                               |
-| Effect    |                                                                                                  |
-| Standing  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
-| Handstand | This attack does nothing.                                                        |
-| Back      | This attack does nothing.                                                        |
-| Down      | This attack does nothing.                                                        |
-| Sideways  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
+| Nome           | Volo                                                                                                     |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| Giapponese     | そらをとぶ                                                                                                    |
+| Tipo           | Volante                                                                                                  |
+| Codice         | EBW01-030                                                                                                |
+| Pokémon        | Articuno                                                                                                 |
+| Energia        | {Y}{C}{C}                                                                                                |
+| Danni          | 30                                                                                                       |
+| Effetto        |                                                                                                          |
+| In Piedi       | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. |
+| A testa in giù | Questa mossa fallisce.                                                                   |
+| Supino         | Questa mossa fallisce.                                                                   |
+| Prono          | Questa mossa fallisce.                                                                   |
+| Sui fianchi    | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

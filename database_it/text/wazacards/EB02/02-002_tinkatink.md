@@ -4,190 +4,190 @@
 
 #### Beat
 
-| Name      | Beat                                             |
-| --------- | ------------------------------------------------ |
-| Japanese  | たたく                                              |
-| Tipo      | Psico                                            |
-| Code      | EBW02-011                                        |
-| Pokémon   | Tinkatink                                        |
-| Energy    | {P}                                              |
-| Damage    | 10                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 20 more damage. |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Beat                       |
+| -------------- | -------------------------- |
+| Giapponese     | たたく                        |
+| Tipo           | Psico                      |
+| Codice         | EBW02-011                  |
+| Pokémon        | Tinkatink                  |
+| Energia        | {P}                        |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         | +20 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Beat](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard01.webp)
 
 #### Fairy Wind
 
-| Name      | Fairy Wind                                       |
-| --------- | ------------------------------------------------ |
-| Japanese  | ようせいのかぜ                                          |
-| Tipo      | Psico                                            |
-| Code      | EBW02-012                                        |
-| Pokémon   | Tinkatink                                        |
-| Energy    | {P}{P}                                           |
-| Damage    | 10                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                                  |
-| Back      |                                                  |
-| Down      |                                                  |
-| Sideways  | This attack does 30 more damage. |
+| Nome           | Fairy Wind                 |
+| -------------- | -------------------------- |
+| Giapponese     | ようせいのかぜ                    |
+| Tipo           | Psico                      |
+| Codice         | EBW02-012                  |
+| Pokémon        | Tinkatink                  |
+| Energia        | {P}{P}                     |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +30 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    | +30 danni. |
 
 [Fairy Wind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard02.webp)
 
 #### Hammer Strike ?
 
-| Name      | Hammer Strike ?                                                                |
-| --------- | ------------------------------------------------------------------------------ |
-| Japanese  | ハンマーストライク                                                                      |
-| Tipo      | Psico                                                                          |
-| Code      | EBW02-013                                                                      |
-| Pokémon   | Tinkatink                                                                      |
-| Energy    | {P}{P}{P}                                                                      |
-| Damage    | 10                                                                             |
-| Effect    |                                                                                |
-| Standing  | This attack does 60 more damage.                               |
-| Handstand | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Back      | This attack does 60 more damage.                               |
-| Down      | This attack does 60 more damage.                               |
-| Sideways  | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Nome           | Hammer Strike ?                                                                |
+| -------------- | ------------------------------------------------------------------------------ |
+| Giapponese     | ハンマーストライク                                                                      |
+| Tipo           | Psico                                                                          |
+| Codice         | EBW02-013                                                                      |
+| Pokémon        | Tinkatink                                                                      |
+| Energia        | {P}{P}{P}                                                                      |
+| Danni          | 10                                                                             |
+| Effetto        |                                                                                |
+| In Piedi       | +60 danni.                                                     |
+| A testa in giù | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Supino         | +60 danni.                                                     |
+| Prono          | +60 danni.                                                     |
+| Sui fianchi    | On your next turn, reduce the number of Enekoro you roll by 2. |
 
 [Hammer Strike](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
 
 #### Play Rough
 
-| Name      | Play Rough                                                                                |
-| --------- | ----------------------------------------------------------------------------------------- |
-| Japanese  | じゃれつく                                                                                     |
-| Tipo      | Psico                                                                                     |
-| Code      | EBW02-014                                                                                 |
-| Pokémon   | Tinkatink                                                                                 |
-| Energy    | {P}{P}{P}{P}                                                                              |
-| Damage    | 10                                                                                        |
-| Effect    | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Standing  | This attack does 40 more damage.                                          |
-| Handstand |                                                                                           |
-| Back      |                                                                                           |
-| Down      |                                                                                           |
-| Sideways  | This attack does 40 more damage.                                          |
+| Nome           | Play Rough                                                                                |
+| -------------- | ----------------------------------------------------------------------------------------- |
+| Giapponese     | じゃれつく                                                                                     |
+| Tipo           | Psico                                                                                     |
+| Codice         | EBW02-014                                                                                 |
+| Pokémon        | Tinkatink                                                                                 |
+| Energia        | {P}{P}{P}{P}                                                                              |
+| Danni          | 10                                                                                        |
+| Effetto        | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| In Piedi       | +40 danni.                                                                |
+| A testa in giù |                                                                                           |
+| Supino         |                                                                                           |
+| Prono          |                                                                                           |
+| Sui fianchi    | +40 danni.                                                                |
 
 [Play Rough](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard04.webp)
 
 #### Metal Claw
 
-| Name      | Metal Claw                                       |
-| --------- | ------------------------------------------------ |
-| Japanese  | メタルクロー                                           |
-| Tipo      | Acciaio                                          |
-| Code      | EBW02-015                                        |
-| Pokémon   | Tinkatink                                        |
-| Energy    | {M}{C}                                           |
-| Damage    | 10                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 40 more damage. |
-| Handstand |                                                  |
-| Back      |                                                  |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Metal Claw                 |
+| -------------- | -------------------------- |
+| Giapponese     | メタルクロー                     |
+| Tipo           | Acciaio                    |
+| Codice         | EBW02-015                  |
+| Pokémon        | Tinkatink                  |
+| Energia        | {M}{C}                     |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +40 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard05.webp)
 
 #### Corkscrew Punch
 
-| Name      | Corkscrew Punch                                  |
-| --------- | ------------------------------------------------ |
-| Japanese  | どつく                                              |
-| Tipo      | Psico                                            |
-| Code      | EBW02-016                                        |
-| Pokémon   | Tinkatink                                        |
-| Energy    | {P}                                              |
-| Damage    | 10                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 10 more damage. |
-| Handstand |                                                  |
-| Back      |                                                  |
-| Down      |                                                  |
-| Sideways  | This attack does 10 more damage. |
+| Nome           | Corkscrew Punch            |
+| -------------- | -------------------------- |
+| Giapponese     | どつく                        |
+| Tipo           | Psico                      |
+| Codice         | EBW02-016                  |
+| Pokémon        | Tinkatink                  |
+| Energia        | {P}                        |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +10 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    | +10 danni. |
 
 [Corkscrew Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard06.webp)
 
 #### Draining Kiss
 
-| Name      | Draining Kiss                                     |
-| --------- | ------------------------------------------------- |
-| Japanese  | ドレインキッス                                           |
-| Tipo      | Psico                                             |
-| Code      | EBW02-017                                         |
-| Pokémon   | Tinkatink                                         |
-| Energy    | {P}{P}                                            |
-| Damage    | 10                                                |
-| Effect    | Heal 10 damage from this Pokémon. |
-| Standing  | This attack does 30 more damage.  |
-| Handstand |                                                   |
-| Back      | This attack does 30 more damage.  |
-| Down      |                                                   |
-| Sideways  |                                                   |
+| Nome           | Draining Kiss                                     |
+| -------------- | ------------------------------------------------- |
+| Giapponese     | ドレインキッス                                           |
+| Tipo           | Psico                                             |
+| Codice         | EBW02-017                                         |
+| Pokémon        | Tinkatink                                         |
+| Energia        | {P}{P}                                            |
+| Danni          | 10                                                |
+| Effetto        | Heal 10 damage from this Pokémon. |
+| In Piedi       | +30 danni.                        |
+| A testa in giù |                                                   |
+| Supino         | +30 danni.                        |
+| Prono          |                                                   |
+| Sui fianchi    |                                                   |
 
 [Draining Kiss](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard07.webp)
 
 #### Wail
 
-| Name      | Wail                                             |
-| --------- | ------------------------------------------------ |
-| Japanese  | なきわめく                                            |
-| Tipo      | Psico                                            |
-| Code      | EBW02-018                                        |
-| Pokémon   | Tinkatink                                        |
-| Energy    | {P}{P}{P}                                        |
-| Damage    | 10                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 30 more damage. |
-| Down      |                                                  |
-| Sideways  | This attack does 30 more damage. |
+| Nome           | Wail                       |
+| -------------- | -------------------------- |
+| Giapponese     | なきわめく                      |
+| Tipo           | Psico                      |
+| Codice         | EBW02-018                  |
+| Pokémon        | Tinkatink                  |
+| Energia        | {P}{P}{P}                  |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +30 danni. |
+| A testa in giù |                            |
+| Supino         | +30 danni. |
+| Prono          |                            |
+| Sui fianchi    | +30 danni. |
 
 [Wail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard08.webp)
 
 #### Wild Stamp ?
 
-| Name      | Wild Stamp ?                                           |
-| --------- | ------------------------------------------------------ |
-| Japanese  | ワイルドスタンプ                                               |
-| Tipo      | Psico                                                  |
-| Code      | EBW02-019                                              |
-| Pokémon   | Tinkatink                                              |
-| Energy    | {P}{P}{P}                                              |
-| Damage    | 10                                                     |
-| Effect    |                                                        |
-| Standing  | This attack does 50 more damage.       |
-| Handstand | This Pokémon does 30 damage to itself. |
-| Back      | This Pokémon does 30 damage to itself. |
-| Down      | This Pokémon does 30 damage to itself. |
-| Sideways  | This attack does 50 more damage.       |
+| Nome           | Wild Stamp ?                                           |
+| -------------- | ------------------------------------------------------ |
+| Giapponese     | ワイルドスタンプ                                               |
+| Tipo           | Psico                                                  |
+| Codice         | EBW02-019                                              |
+| Pokémon        | Tinkatink                                              |
+| Energia        | {P}{P}{P}                                              |
+| Danni          | 10                                                     |
+| Effetto        |                                                        |
+| In Piedi       | This attack does 50 more damage.       |
+| A testa in giù | Anche questo Pokémon subisce 30 danni. |
+| Supino         | Anche questo Pokémon subisce 30 danni. |
+| Prono          | Anche questo Pokémon subisce 30 danni. |
+| Sui fianchi    | This attack does 50 more damage.       |
 
 [Wild Stamp](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
 
 #### Strange Impact ?
 
-| Name      | Strange Impact ?                                 |
-| --------- | ------------------------------------------------ |
-| Japanese  | ワンダーインパクト                                        |
-| Tipo      | Psico                                            |
-| Code      | EBW02-020                                        |
-| Pokémon   | Tinkatink                                        |
-| Energy    | {P}{P}{P}{P}                                     |
-| Damage    | 10                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 60 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 60 more damage. |
-| Down      | This attack does 60 more damage. |
-| Sideways  |                                                  |
+| Nome           | Strange Impact ?           |
+| -------------- | -------------------------- |
+| Giapponese     | ワンダーインパクト                  |
+| Tipo           | Psico                      |
+| Codice         | EBW02-020                  |
+| Pokémon        | Tinkatink                  |
+| Energia        | {P}{P}{P}{P}               |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +60 danni. |
+| A testa in giù |                            |
+| Supino         | +60 danni. |
+| Prono          | +60 danni. |
+| Sui fianchi    |                            |
 
 [Strange Impact](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard10.webp)

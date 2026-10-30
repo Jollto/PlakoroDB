@@ -64,7 +64,7 @@
 | Name      | Aerial Ace                                       |
 | --------- | ------------------------------------------------ |
 | Japanese  | つばめがえし                                           |
-| Tipo      | Flying                                           |
+| Tipo      | Volante                                          |
 | Code      | EBW01-034                                        |
 | Pokémon   | Zapdos                                           |
 | Energy    | {Y}                                              |
@@ -83,7 +83,7 @@
 | Name      | Crackling Wing ?                                 |
 | --------- | ------------------------------------------------ |
 | Japanese  | バリバリウイング                                         |
-| Tipo      | Flying                                           |
+| Tipo      | Volante                                          |
 | Code      | EBW01-035                                        |
 | Pokémon   | Zapdos                                           |
 | Energy    | {Y}{C}{C}{C}{C}                                  |
@@ -178,7 +178,7 @@
 | Name      | Fly                                                                                              |
 | --------- | ------------------------------------------------------------------------------------------------ |
 | Japanese  | そらをとぶ                                                                                            |
-| Tipo      | Flying                                                                                           |
+| Tipo      | Volante                                                                                          |
 | Code      | EBW01-040                                                                                        |
 | Pokémon   | Zapdos                                                                                           |
 | Energy    | {Y}{C}{C}                                                                                        |

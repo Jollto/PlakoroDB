@@ -114,7 +114,7 @@
 
 | Name     | Altaria   |
 | -------- | --------- |
-| Tipo     | Flying    |
+| Tipo     | Volante   |
 | Code     | STC10-001 |
 | Weakness | Acqua     |
 | HP       | 120       |
@@ -140,7 +140,7 @@
 | -------- | --------- |
 | Tipo     | Grass     |
 | Code     | EBC01-001 |
-| Weakness | Flying    |
+| Weakness | Volante   |
 | HP       | 120       |
 
 [Pinsir](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_characard.webp)

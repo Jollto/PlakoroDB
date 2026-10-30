@@ -83,7 +83,7 @@
 | Name      | Hurricane                                        |
 | --------- | ------------------------------------------------ |
 | Japanese  | ぼうふう                                             |
-| Tipo      | Flying                                           |
+| Tipo      | Volante                                          |
 | Code      | EBW01-015                                        |
 | Pokémon   | Moltres                                          |
 | Energy    | {Y}{C}{C}{C}                                     |
@@ -159,7 +159,7 @@
 | Name      | Wing Rush ?                                      |
 | --------- | ------------------------------------------------ |
 | Japanese  | ウイングラッシュ                                         |
-| Tipo      | Flying                                           |
+| Tipo      | Volante                                          |
 | Code      | EBW01-019                                        |
 | Pokémon   | Moltres                                          |
 | Energy    | {Y}                                              |
@@ -178,7 +178,7 @@
 | Name      | Fly                                                                                              |
 | --------- | ------------------------------------------------------------------------------------------------ |
 | Japanese  | そらをとぶ                                                                                            |
-| Tipo      | Flying                                                                                           |
+| Tipo      | Volante                                                                                          |
 | Code      | EBW01-020                                                                                        |
 | Pokémon   | Moltres                                                                                          |
 | Energy    | {Y}{C}{C}                                                                                        |

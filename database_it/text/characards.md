@@ -4,7 +4,7 @@
 
 | Name     |     |
 | -------- | --- |
-| Type     |     |
+| Tipo     |     |
 | Code     |     |
 | Weakness |     |
 | HP       | 120 |
@@ -15,9 +15,9 @@
 
 | Name     | Bulbasaur |
 | -------- | --------- |
-| Type     | Grass     |
+| Tipo     | Grass     |
 | Code     | STC01-001 |
-| Weakness | Fire      |
+| Weakness | Fuoco     |
 | HP       | 120       |
 
 [Bulbasaur](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_characard.webp)
@@ -26,9 +26,9 @@
 
 | Name     | Charmander |
 | -------- | ---------- |
-| Type     | Fire       |
+| Tipo     | Fuoco      |
 | Code     | STC02-001  |
-| Weakness | Water      |
+| Weakness | Acqua      |
 | HP       | 120        |
 
 [Charmander](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_characard.webp)
@@ -37,9 +37,9 @@
 
 | Name     | Squirtle  |
 | -------- | --------- |
-| Type     | Water     |
+| Tipo     | Acqua     |
 | Code     | STC03-001 |
-| Weakness | Electric  |
+| Weakness | Elettro   |
 | HP       | 120       |
 
 [Squirtle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_characard.webp)
@@ -48,9 +48,9 @@
 
 | Name     | Pikachu   |
 | -------- | --------- |
-| Type     | Electric  |
+| Tipo     | Elettro   |
 | Code     | STC04-001 |
-| Weakness | Fighting  |
+| Weakness | Lotta     |
 | HP       | 120       |
 
 [Pikachu](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_characard.webp)
@@ -59,9 +59,9 @@
 
 | Name     | Eevee     |
 | -------- | --------- |
-| Type     | Normal    |
+| Tipo     | Normal    |
 | Code     | STC05-001 |
-| Weakness | Fighting  |
+| Weakness | Lotta     |
 | HP       | 120       |
 
 [Eevee](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st05/01/img_characard.webp)
@@ -70,9 +70,9 @@
 
 | Name     | Mew       |
 | -------- | --------- |
-| Type     | Psychic   |
+| Tipo     | Psico     |
 | Code     | STC06-001 |
-| Weakness | Dark      |
+| Weakness | Buio      |
 | HP       | 120       |
 
 [Mew](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st06/01/img_characard.webp)
@@ -81,9 +81,9 @@
 
 | Name     | Gengar    |
 | -------- | --------- |
-| Type     | Dark      |
+| Tipo     | Buio      |
 | Code     | STC07-001 |
-| Weakness | Psychic   |
+| Weakness | Psico     |
 | HP       | 120       |
 
 [Gengar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_characard.webp)
@@ -92,9 +92,9 @@
 
 | Name     | Metagross |
 | -------- | --------- |
-| Type     | Steel     |
+| Tipo     | Acciaio   |
 | Code     | STC08-001 |
-| Weakness | Fire      |
+| Weakness | Fuoco     |
 | HP       | 120       |
 
 [Metagross](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_characard.webp)
@@ -103,9 +103,9 @@
 
 | Name     | Lucario   |
 | -------- | --------- |
-| Type     | Fighting  |
+| Tipo     | Lotta     |
 | Code     | STC09-001 |
-| Weakness | Fire      |
+| Weakness | Fuoco     |
 | HP       | 120       |
 
 [Lucario](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_characard.webp)
@@ -114,9 +114,9 @@
 
 | Name     | Altaria   |
 | -------- | --------- |
-| Type     | Flying    |
+| Tipo     | Flying    |
 | Code     | STC10-001 |
-| Weakness | Water     |
+| Weakness | Acqua     |
 | HP       | 120       |
 
 [Altaria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_characard.webp)
@@ -125,7 +125,7 @@
 
 | Name     | Dragonite |
 | -------- | --------- |
-| Type     | Dragon    |
+| Tipo     | Dragon    |
 | Code     | STC11-001 |
 | Weakness | Dragon    |
 | HP       | 120       |
@@ -138,7 +138,7 @@
 
 | Name     | Pinsir    |
 | -------- | --------- |
-| Type     | Grass     |
+| Tipo     | Grass     |
 | Code     | EBC01-001 |
 | Weakness | Flying    |
 | HP       | 120       |
@@ -149,9 +149,9 @@
 
 | Name     | Moltres   |
 | -------- | --------- |
-| Type     | Fire      |
+| Tipo     | Fuoco     |
 | Code     | EBC01-002 |
-| Weakness | Water     |
+| Weakness | Acqua     |
 | HP       | 120       |
 
 [Moltres](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_characard.webp)
@@ -160,9 +160,9 @@
 
 | Name     | Articuno  |
 | -------- | --------- |
-| Type     | Water     |
+| Tipo     | Acqua     |
 | Code     | EBC01-003 |
-| Weakness | Steel     |
+| Weakness | Acciaio   |
 | HP       | 120       |
 
 [Articuno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_characard.webp)
@@ -171,9 +171,9 @@
 
 | Name     | Zapdos    |
 | -------- | --------- |
-| Type     | Electric  |
+| Tipo     | Elettro   |
 | Code     | EBC01-004 |
-| Weakness | Fighting  |
+| Weakness | Lotta     |
 | HP       | 120       |
 
 [Zapdos](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_characard.webp)
@@ -182,7 +182,7 @@
 
 | Name     | Onix      |
 | -------- | --------- |
-| Type     | Fighting  |
+| Tipo     | Lotta     |
 | Code     | EBC01-005 |
 | Weakness | Grass     |
 | HP       | 120       |
@@ -193,9 +193,9 @@
 
 | Name     | Grimer    |
 | -------- | --------- |
-| Type     | Dark      |
+| Tipo     | Buio      |
 | Code     | EBC01-006 |
-| Weakness | Fighting  |
+| Weakness | Lotta     |
 | HP       | 120       |
 
 [Grimer](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_characard.webp)
@@ -206,7 +206,7 @@
 
 | Name     | Greninja  |
 | -------- | --------- |
-| Type     | Water     |
+| Tipo     | Acqua     |
 | Code     | EBC02-001 |
 | Weakness | Grass     |
 | HP       | 120       |
@@ -217,9 +217,9 @@
 
 | Name     | Tinkatink |
 | -------- | --------- |
-| Type     | Psychic   |
+| Tipo     | Psico     |
 | Code     | EBC02-002 |
-| Weakness | Fire      |
+| Weakness | Fuoco     |
 | HP       | 120       |
 
 [Tinkatink](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_characard.webp)
@@ -228,9 +228,9 @@
 
 | Name     | Sableye   |
 | -------- | --------- |
-| Type     | Dark      |
+| Tipo     | Buio      |
 | Code     | EBC02-003 |
-| Weakness | Psychic   |
+| Weakness | Psico     |
 | HP       | 120       |
 
 [Sableye](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_characard.webp)
@@ -239,9 +239,9 @@
 
 | Name     | Aggron    |
 | -------- | --------- |
-| Type     | Steel     |
+| Tipo     | Acciaio   |
 | Code     | EBC02-004 |
-| Weakness | Fighting  |
+| Weakness | Lotta     |
 | HP       | 120       |
 
 [Aggron](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_characard.webp)
@@ -250,7 +250,7 @@
 
 | Name     | Rayquaza  |
 | -------- | --------- |
-| Type     | Dragon    |
+| Tipo     | Dragon    |
 | Code     | EBC02-005 |
 | Weakness | Dragon    |
 | HP       | 120       |
@@ -261,9 +261,9 @@
 
 | Name     | Chansey   |
 | -------- | --------- |
-| Type     | Normal    |
+| Tipo     | Normal    |
 | Code     | EBC02-006 |
-| Weakness | Fighting  |
+| Weakness | Lotta     |
 | HP       | 120       |
 
 [Chansey](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_characard.webp)

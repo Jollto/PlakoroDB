@@ -1,136 +1,136 @@
 ## Altaria Cards
 
-### Starter Set
+### Set Starter
 
 #### Peck
 
-| Name      | Peck                                             |
-| --------- | ------------------------------------------------ |
-| Japanese  | つつく                                              |
-| Tipo      | Volante                                          |
-| Code      | STW10-001                                        |
-| Pokémon   | Altaria                                          |
-| Energy    | {Y}                                              |
-| Damage    | 10                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 20 more damage. |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Peck                       |
+| -------------- | -------------------------- |
+| Giapponese     | つつく                        |
+| Tipo           | Volante                    |
+| Codice         | STW10-001                  |
+| Pokémon        | Altaria                    |
+| Energia        | {Y}                        |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         | +20 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Peck](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard01.webp)
 
 #### Fluffy Flight ?
 
-| Name      | Fluffy Flight ?                                                                                                                                                                                  |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | ふわふわひこう                                                                                                                                                                                          |
-| Tipo      | Volante                                                                                                                                                                                          |
-| Code      | STW10-002                                                                                                                                                                                        |
-| Pokémon   | Altaria                                                                                                                                                                                          |
-| Energy    | {Y}{Y}                                                                                                                                                                                           |
-| Damage    | 20                                                                                                                                                                                               |
-| Effect    |                                                                                                                                                                                                  |
-| Standing  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
-| Handstand |                                                                                                                                                                                                  |
-| Back      |                                                                                                                                                                                                  |
-| Down      |                                                                                                                                                                                                  |
-| Sideways  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
+| Nome           | Fluffy Flight ?                                                                                                                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Giapponese     | ふわふわひこう                                                                                                                                                                                          |
+| Tipo           | Volante                                                                                                                                                                                          |
+| Codice         | STW10-002                                                                                                                                                                                        |
+| Pokémon        | Altaria                                                                                                                                                                                          |
+| Energia        | {Y}{Y}                                                                                                                                                                                           |
+| Danni          | 20                                                                                                                                                                                               |
+| Effetto        |                                                                                                                                                                                                  |
+| In Piedi       | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
+| A testa in giù |                                                                                                                                                                                                  |
+| Supino         |                                                                                                                                                                                                  |
+| Prono          |                                                                                                                                                                                                  |
+| Sui fianchi    | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
 
 [Fluffy Flight](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 
 #### Roost
 
-| Name      | Roost                                                  |
-| --------- | ------------------------------------------------------ |
-| Japanese  | はねやすめ                                                  |
-| Tipo      | Volante                                                |
-| Code      | STW10-003                                              |
-| Pokémon   | Altaria                                                |
-| Energy    | {Y}{Y}                                                 |
-| Damage    |                                                        |
-| Effect    | Heal 20 damage from this Pokémon.      |
-| Standing  | Heal 20 more damage from this Pokémon. |
-| Handstand |                                                        |
-| Back      |                                                        |
-| Down      |                                                        |
-| Sideways  | Heal 20 more damage from this Pokémon. |
+| Nome           | Roost                                                  |
+| -------------- | ------------------------------------------------------ |
+| Giapponese     | はねやすめ                                                  |
+| Tipo           | Volante                                                |
+| Codice         | STW10-003                                              |
+| Pokémon        | Altaria                                                |
+| Energia        | {Y}{Y}                                                 |
+| Danni          |                                                        |
+| Effetto        | Heal 20 damage from this Pokémon.      |
+| In Piedi       | Heal 20 more damage from this Pokémon. |
+| A testa in giù |                                                        |
+| Supino         |                                                        |
+| Prono          |                                                        |
+| Sui fianchi    | Heal 20 more damage from this Pokémon. |
 
 [Roost](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard03.webp)
 
 #### Aerial Ace
 
-| Name      | Aerial Ace                                       |
-| --------- | ------------------------------------------------ |
-| Japanese  | つばめがえし                                           |
-| Tipo      | Volante                                          |
-| Code      | STW10-004                                        |
-| Pokémon   | Altaria                                          |
-| Energy    | {Y}{Y}{Y}                                        |
-| Damage    | 30                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 20 more damage. |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Aerial Ace                 |
+| -------------- | -------------------------- |
+| Giapponese     | つばめがえし                     |
+| Tipo           | Volante                    |
+| Codice         | STW10-004                  |
+| Pokémon        | Altaria                    |
+| Energia        | {Y}{Y}{Y}                  |
+| Danni          | 30                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         | +20 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Aerial Ace](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard04.webp)
 
-#### Fly
+#### Volo
 
-| Name      | Fly                                                                                                                                                                            |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | そらをとぶ                                                                                                                                                                          |
-| Tipo      | Volante                                                                                                                                                                        |
-| Code      | STW10-005                                                                                                                                                                      |
-| Pokémon   | Altaria                                                                                                                                                                        |
-| Energy    | {Y}{Y}{Y}                                                                                                                                                                      |
-| Damage    | 40                                                                                                                                                                             |
-| Effect    |                                                                                                                                                                                |
-| Standing  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. (You are still affected by other effects.) |
-| Handstand | This attack does nothing.                                                                                                                                      |
-| Back      | This attack does nothing.                                                                                                                                      |
-| Down      | This attack does nothing.                                                                                                                                      |
-| Sideways  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. (You are still affected by other effects.) |
+| Nome           | Volo                                                                                                                                                                                   |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | そらをとぶ                                                                                                                                                                                  |
+| Tipo           | Volante                                                                                                                                                                                |
+| Codice         | STW10-005                                                                                                                                                                              |
+| Pokémon        | Altaria                                                                                                                                                                                |
+| Energia        | {Y}{Y}{Y}                                                                                                                                                                              |
+| Danni          | 40                                                                                                                                                                                     |
+| Effetto        |                                                                                                                                                                                        |
+| In Piedi       | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. (You are still affected by other effects.) |
+| A testa in giù | Questa mossa fallisce.                                                                                                                                                 |
+| Supino         | Questa mossa fallisce.                                                                                                                                                 |
+| Prono          | Questa mossa fallisce.                                                                                                                                                 |
+| Sui fianchi    | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. (You are still affected by other effects.) |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
 
 #### Sky Attack
 
-| Name      | Sky Attack                                                                     |
-| --------- | ------------------------------------------------------------------------------ |
-| Japanese  | ゴッドバード                                                                         |
-| Tipo      | Volante                                                                        |
-| Code      | STW10-006                                                                      |
-| Pokémon   | Altaria                                                                        |
-| Energy    | {Y}{Y}{Y}{Y}                                                                   |
-| Damage    | 30                                                                             |
-| Effect    |                                                                                |
-| Standing  | This attack does 50 more damage.                               |
-| Handstand | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Back      | This attack does 50 more damage.                               |
-| Down      | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Sideways  |                                                                                |
+| Nome           | Sky Attack                                                             |
+| -------------- | ---------------------------------------------------------------------- |
+| Giapponese     | ゴッドバード                                                                 |
+| Tipo           | Volante                                                                |
+| Codice         | STW10-006                                                              |
+| Pokémon        | Altaria                                                                |
+| Energia        | {Y}{Y}{Y}{Y}                                                           |
+| Danni          | 30                                                                     |
+| Effetto        |                                                                        |
+| In Piedi       | This attack does 50 more damage.                       |
+| A testa in giù | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
+| Supino         | This attack does 50 more damage.                       |
+| Prono          | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
+| Sui fianchi    |                                                                        |
 
 [Sky Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard06.webp)
 
 #### Moonblast
 
-| Name      | Moonblast                                                                       |
-| --------- | ------------------------------------------------------------------------------- |
-| Japanese  | ムーンフォース                                                                         |
-| Tipo      | Psico                                                                           |
-| Code      | STW10-007                                                                       |
-| Pokémon   | Altaria                                                                         |
-| Energy    | {P}{C}{C}{C}                                                                    |
-| Damage    | 30                                                                              |
-| Effect    |                                                                                 |
-| Standing  | If the opponent is a {N} type, this attack does 40 more damage. |
-| Handstand |                                                                                 |
-| Back      |                                                                                 |
-| Down      |                                                                                 |
-| Sideways  | If the opponent is a {N} type, this attack does 40 more damage. |
+| Nome           | Moonblast                                                                       |
+| -------------- | ------------------------------------------------------------------------------- |
+| Giapponese     | ムーンフォース                                                                         |
+| Tipo           | Psico                                                                           |
+| Codice         | STW10-007                                                                       |
+| Pokémon        | Altaria                                                                         |
+| Energia        | {P}{C}{C}{C}                                                                    |
+| Danni          | 30                                                                              |
+| Effetto        |                                                                                 |
+| In Piedi       | If the opponent is a {N} type, this attack does 40 more damage. |
+| A testa in giù |                                                                                 |
+| Supino         |                                                                                 |
+| Prono          |                                                                                 |
+| Sui fianchi    | If the opponent is a {N} type, this attack does 40 more damage. |
 
 [Moonblast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)

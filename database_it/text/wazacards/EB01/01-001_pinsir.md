@@ -1,193 +1,193 @@
-## Pinsir Cards
+## Carte Pinsir
 
-### Exploration Box 1
+### Box Esplorazione 1
 
-#### Focus ?
+#### Concentrazione ?
 
-| Name      | Focus ?                                                                          |
-| --------- | -------------------------------------------------------------------------------- |
-| Japanese  | しゅうちゅう                                                                           |
-| Tipo      | Grass                                                                            |
-| Code      | EBW01-001                                                                        |
-| Pokémon   | Pinsir                                                                           |
-| Energy    | {G}                                                                              |
-| Damage    |                                                                                  |
-| Effect    |                                                                                  |
-| Standing  | On your next turn, increase the number of Enekoro you roll by 2. |
-| Handstand |                                                                                  |
-| Back      |                                                                                  |
-| Down      |                                                                                  |
-| Sideways  | On your next turn, increase the number of Enekoro you roll by 2. |
+| Nome           | Concentrazione ?                                                      |
+| -------------- | --------------------------------------------------------------------- |
+| Giapponese     | しゅうちゅう                                                                |
+| Tipo           | Erba                                                                  |
+| Codice         | EBW01-001                                                             |
+| Pokémon        | Pinsir                                                                |
+| Energia        | {G}                                                                   |
+| Danni          |                                                                       |
+| Effetto        |                                                                       |
+| In Piedi       | Nel tuo prossimo turno, lancia 2 dadi energia in più. |
+| A testa in giù |                                                                       |
+| Supino         |                                                                       |
+| Prono          |                                                                       |
+| Sui fianchi    | Nel tuo prossimo turno, lancia 2 dadi energia in più. |
 
-[Focus](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
+[Concentrazione](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard01.webp)
 
-#### Resist ?
+#### Resistenza ?
 
-| Name      | Resist ?                                                                                          |
-| --------- | ------------------------------------------------------------------------------------------------- |
-| Japanese  | たえる                                                                                               |
-| Tipo      | Grass                                                                                             |
-| Code      | EBW01-002                                                                                         |
-| Pokémon   | Pinsir                                                                                            |
-| Energy    | {G}{G}                                                                                            |
-| Damage    |                                                                                                   |
-| Effect    | During your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Standing  | Reduce damage taken by an additional 20.                                          |
-| Handstand |                                                                                                   |
-| Back      | Reduce damage taken by an additional 20.                                          |
-| Down      | Reduce damage taken by an additional 20.                                          |
-| Sideways  |                                                                                                   |
+| Nome           | Resistenza ?                                                                                        |
+| -------------- | --------------------------------------------------------------------------------------------------- |
+| Giapponese     | たえる                                                                                                 |
+| Tipo           | Erba                                                                                                |
+| Codice         | EBW01-002                                                                                           |
+| Pokémon        | Pinsir                                                                                              |
+| Energia        | {G}{G}                                                                                              |
+| Danni          |                                                                                                     |
+| Effetto        | Durante il prossimo turno dell'avversario, questo Pokémon subisce 20 danni in meno. |
+| In Piedi       | Riduci i danni subiti di altri 20.                                                  |
+| A testa in giù |                                                                                                     |
+| Supino         | Riduci i danni subiti di altri 20.                                                  |
+| Prono          | Riduci i danni subiti di altri 20.                                                  |
+| Sui fianchi    |                                                                                                     |
 
-[Resist](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
+[Resistenza](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard02.webp)
 
-#### Horn Beat ?
+#### Colpo di Corno ?
 
-| Name      | Horn Beat ?                                      |
-| --------- | ------------------------------------------------ |
-| Japanese  | つのでたたく                                           |
-| Tipo      | Grass                                            |
-| Code      | EBW01-003                                        |
-| Pokémon   | Pinsir                                           |
-| Energy    | {G}{G}{G}                                        |
-| Damage    | 20                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                                  |
-| Back      |                                                  |
-| Down      |                                                  |
-| Sideways  | This attack does 30 more damage. |
+| Nome           | Colpo di Corno ?           |
+| -------------- | -------------------------- |
+| Giapponese     | つのでたたく                     |
+| Tipo           | Erba                       |
+| Codice         | EBW01-003                  |
+| Pokémon        | Pinsir                     |
+| Energia        | {G}{G}{G}                  |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +30 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    | +30 danni. |
 
-[Horn Beat](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
+[Colpo di Corno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard03.webp)
 
-#### Guillotine
+#### Ghigliottina
 
-| Name      | Guillotine                                   |
-| --------- | -------------------------------------------- |
-| Japanese  | ハサミギロチン                                      |
-| Tipo      | Normal                                       |
-| Code      | EBW01-004                                    |
-| Pokémon   | Pinsir                                       |
-| Energy    | {G}{G}{G}{G}{G}                              |
-| Damage    |                                              |
-| Effect    |                                              |
-| Standing  | This attack does 150 damage. |
-| Handstand |                                              |
-| Back      |                                              |
-| Down      |                                              |
-| Sideways  |                                              |
+| Nome           | Ghigliottina                        |
+| -------------- | ----------------------------------- |
+| Giapponese     | ハサミギロチン                             |
+| Tipo           | Normale                             |
+| Codice         | EBW01-004                           |
+| Pokémon        | Pinsir                              |
+| Energia        | {G}{G}{G}{G}{G}                     |
+| Danni          |                                     |
+| Effetto        |                                     |
+| In Piedi       | Infliggi 150 danni. |
+| A testa in giù |                                     |
+| Supino         |                                     |
+| Prono          |                                     |
+| Sui fianchi    |                                     |
 
-[Guillotine](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard04.webp)
+[Ghigliottina](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard04.webp)
 
-#### Brick Break
+#### Breccia
 
-| Name      | Brick Break                                      |
-| --------- | ------------------------------------------------ |
-| Japanese  | かわらわり                                            |
-| Tipo      | Lotta                                            |
-| Code      | EBW01-005                                        |
-| Pokémon   | Pinsir                                           |
-| Energy    | {F}                                              |
-| Damage    | 20                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 20 more damage. |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Breccia                    |
+| -------------- | -------------------------- |
+| Giapponese     | かわらわり                      |
+| Tipo           | Lotta                      |
+| Codice         | EBW01-005                  |
+| Pokémon        | Pinsir                     |
+| Energia        | {F}                        |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         | +20 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
-[Brick Break](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
+[Breccia](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
 
-#### Scissors Charge ?
+#### Tenaglia Carica ?
 
-| Name      | Scissors Charge ?                                                                |
-| --------- | -------------------------------------------------------------------------------- |
-| Japanese  | チャージばさみ                                                                          |
-| Tipo      | Grass                                                                            |
-| Code      | EBW01-006                                                                        |
-| Pokémon   | Pinsir                                                                           |
-| Energy    | {G}{G}                                                                           |
-| Damage    | 20                                                                               |
-| Effect    |                                                                                  |
-| Standing  | On your next turn, increase the number of Enekoro you roll by 1. |
-| Handstand |                                                                                  |
-| Back      | On your next turn, increase the number of Enekoro you roll by 1. |
-| Down      |                                                                                  |
-| Sideways  |                                                                                  |
+| Nome           | Tenaglia Carica ?                                                     |
+| -------------- | --------------------------------------------------------------------- |
+| Giapponese     | チャージばさみ                                                               |
+| Tipo           | Erba                                                                  |
+| Codice         | EBW01-006                                                             |
+| Pokémon        | Pinsir                                                                |
+| Energia        | {G}{G}                                                                |
+| Danni          | 20                                                                    |
+| Effetto        |                                                                       |
+| In Piedi       | Nel tuo prossimo turno, lancia 1 dadi energia in più. |
+| A testa in giù |                                                                       |
+| Supino         | Nel tuo prossimo turno, lancia 1 dadi energia in più. |
+| Prono          |                                                                       |
+| Sui fianchi    |                                                                       |
 
-[Scissors Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
+[Tenaglia Carica](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 
-#### Berserk Swing ?
+#### Oscillata Furiosa ?
 
-| Name      | Berserk Swing ?                                                                                      |
-| --------- | ---------------------------------------------------------------------------------------------------- |
-| Japanese  | ぎゃくじょうスイング                                                                                           |
-| Tipo      | Grass                                                                                                |
-| Code      | EBW01-007                                                                                            |
-| Pokémon   | Pinsir                                                                                               |
-| Energy    | {G}{G}{G}                                                                                            |
-| Damage    | 10                                                                                                   |
-| Effect    |                                                                                                      |
-| Standing  | During your last turn, if your Enekoro roll failed, this attack does 40 more damage. |
-| Handstand |                                                                                                      |
-| Back      |                                                                                                      |
-| Down      |                                                                                                      |
-| Sideways  | During your last turn, if your Enekoro roll failed, this attack does 40 more damage. |
+| Nome           | Oscillata Furiosa ?                                                                                      |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| Giapponese     | ぎゃくじょうスイング                                                                                               |
+| Tipo           | Erba                                                                                                     |
+| Codice         | EBW01-007                                                                                                |
+| Pokémon        | Pinsir                                                                                                   |
+| Energia        | {G}{G}{G}                                                                                                |
+| Danni          | 10                                                                                                       |
+| Effetto        |                                                                                                          |
+| In Piedi       | Se nel tuo turno precedente il tuo tiro di energia è fallito: +40 danni. |
+| A testa in giù |                                                                                                          |
+| Supino         |                                                                                                          |
+| Prono          |                                                                                                          |
+| Sui fianchi    | Se nel tuo turno precedente il tuo tiro di energia è fallito: +40 danni. |
 
-[Berserk Swing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
+[Oscillata Furiosa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard07.webp)
 
-#### Reckless Charge
+#### Assalto
 
-| Name      | Reckless Charge                                        |
-| --------- | ------------------------------------------------------ |
-| Japanese  | とつげき                                                   |
-| Tipo      | Grass                                                  |
-| Code      | EBW01-008                                              |
-| Pokémon   | Pinsir                                                 |
-| Energy    | {G}{G}{G}                                              |
-| Damage    | 30                                                     |
-| Effect    |                                                        |
-| Standing  | This attack does 20 more damage.       |
-| Handstand | This Pokémon does 20 damage to itself. |
-| Back      | This attack does 20 more damage.       |
-| Down      | This Pokémon does 20 damage to itself. |
-| Sideways  |                                                        |
+| Nome           | Assalto                                                |
+| -------------- | ------------------------------------------------------ |
+| Giapponese     | とつげき                                                   |
+| Tipo           | Erba                                                   |
+| Codice         | EBW01-008                                              |
+| Pokémon        | Pinsir                                                 |
+| Energia        | {G}{G}{G}                                              |
+| Danni          | 30                                                     |
+| Effetto        |                                                        |
+| In Piedi       | +20 danni.                             |
+| A testa in giù | Anche questo Pokémon subisce 20 danni. |
+| Supino         | +20 danni.                             |
+| Prono          | Anche questo Pokémon subisce 20 danni. |
+| Sui fianchi    |                                                        |
 
-[Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
+[Assalto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
-#### Deadly Scissors ?
+#### Tenaglia Letale ?
 
-| Name      | Deadly Scissors ?                                |
-| --------- | ------------------------------------------------ |
-| Japanese  | ひっさつばさみ                                          |
-| Tipo      | Grass                                            |
-| Code      | EBW01-009                                        |
-| Pokémon   | Pinsir                                           |
-| Energy    | {G}{G}{G}{G}                                     |
-| Damage    | 20                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 80 more damage. |
-| Handstand |                                                  |
-| Back      |                                                  |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Tenaglia Letale ?          |
+| -------------- | -------------------------- |
+| Giapponese     | ひっさつばさみ                    |
+| Tipo           | Erba                       |
+| Codice         | EBW01-009                  |
+| Pokémon        | Pinsir                     |
+| Energia        | {G}{G}{G}{G}               |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +80 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
-[Deadly Scissors](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
+[Tenaglia Letale](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
-#### Submission
+#### Sottomissione
 
-| Name      | Submission                                             |
-| --------- | ------------------------------------------------------ |
-| Japanese  | じごくぐるま                                                 |
-| Tipo      | Lotta                                                  |
-| Code      | EBW01-010                                              |
-| Pokémon   | Pinsir                                                 |
-| Energy    | {F}{C}{C}{C}                                           |
-| Damage    | 30                                                     |
-| Effect    | This Pokémon does 20 damage to itself. |
-| Standing  | This attack does 30 more damage.       |
-| Handstand | This attack does 30 more damage.       |
-| Back      | This attack does 30 more damage.       |
-| Down      | This attack does 30 more damage.       |
-| Sideways  |                                                        |
+| Nome           | Sottomissione                                          |
+| -------------- | ------------------------------------------------------ |
+| Giapponese     | じごくぐるま                                                 |
+| Tipo           | Lotta                                                  |
+| Codice         | EBW01-010                                              |
+| Pokémon        | Pinsir                                                 |
+| Energia        | {F}{C}{C}{C}                                           |
+| Danni          | 30                                                     |
+| Effetto        | Anche questo Pokémon subisce 20 danni. |
+| In Piedi       | +30 danni.                             |
+| A testa in giù | +30 danni.                             |
+| Supino         | +30 danni.                             |
+| Prono          | +30 danni.                             |
+| Sui fianchi    |                                                        |
 
-[Submission](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)
+[Sottomissione](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard10.webp)

@@ -13,7 +13,7 @@
 |   Buio  |   悪（あく）  |   {D}  |      ![Dark](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/dark.webp)     |
 | Acciaio |  鋼（はがね）  |   {M}  |     ![Steel](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/steel.webp)    |
 |  Dragon |  竜（ドラゴン） |   {N}  |    ![Dragon](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/dragon.webp)   |
-|  Flying |   空（そら）  |   {Y}  |    ![Flying](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/flying.webp)   |
+| Volante |   空（そら）  |   {Y}  |    ![Flying](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/flying.webp)   |
 |  Normal |  無（むしょく） |   {C}  |    ![Normal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/normal.webp)   |
 
 Japanese text (from FAQ) uses TCG terminology, but icons from webpage uses VGC types, I'll be using VGC types too.

@@ -7,7 +7,7 @@
 | Name      | Waterfall                                        |
 | --------- | ------------------------------------------------ |
 | Japanese  | たきのぼり                                            |
-| Type      | Water                                            |
+| Tipo      | Acqua                                            |
 | Code      | EBW02-001                                        |
 | Pokémon   | Greninja                                         |
 | Energy    | {W}{W}                                           |
@@ -26,7 +26,7 @@
 | Name      | Shifting Slash ?                                                                                                                                  |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Japanese  | へんげぎり                                                                                                                                             |
-| Type      | Water                                                                                                                                             |
+| Tipo      | Acqua                                                                                                                                             |
 | Code      | EBW02-002                                                                                                                                         |
 | Pokémon   | Greninja                                                                                                                                          |
 | Energy    | {W}{W}                                                                                                                                            |
@@ -45,7 +45,7 @@
 | Name      | Water Shuriken                                                                                           |
 | --------- | -------------------------------------------------------------------------------------------------------- |
 | Japanese  | みずしゅりけん                                                                                                  |
-| Type      | Water                                                                                                    |
+| Tipo      | Acqua                                                                                                    |
 | Code      | EBW02-003                                                                                                |
 | Pokémon   | Greninja                                                                                                 |
 | Energy    | {W}{W}{W}                                                                                                |
@@ -64,7 +64,7 @@
 | Name      | Shadow Sneak                                     |
 | --------- | ------------------------------------------------ |
 | Japanese  | かげうち                                             |
-| Type      | Psychic                                          |
+| Tipo      | Psico                                            |
 | Code      | EBW02-004                                        |
 | Pokémon   | Greninja                                         |
 | Energy    | {P}{C}{C}                                        |
@@ -83,7 +83,7 @@
 | Name      | Night Slash                                      |
 | --------- | ------------------------------------------------ |
 | Japanese  | つじぎり                                             |
-| Type      | Dark                                             |
+| Tipo      | Buio                                             |
 | Code      | EBW02-005                                        |
 | Pokémon   | Greninja                                         |
 | Energy    | {D}{C}{C}{C}                                     |
@@ -102,7 +102,7 @@
 | Name      | Water Gun                                        |
 | --------- | ------------------------------------------------ |
 | Japanese  | みずでっぽう                                           |
-| Type      | Water                                            |
+| Tipo      | Acqua                                            |
 | Code      | EBW02-006                                        |
 | Pokémon   | Greninja                                         |
 | Energy    | {W}                                              |
@@ -121,7 +121,7 @@
 | Name      | Mist Slash                                       |
 | --------- | ------------------------------------------------ |
 | Japanese  | かすみぎり                                            |
-| Type      | Water                                            |
+| Tipo      | Acqua                                            |
 | Code      | EBW02-007                                        |
 | Pokémon   | Greninja                                         |
 | Energy    | {W}{W}                                           |
@@ -140,7 +140,7 @@
 | Name      | Clone Jutsu ?                                                                                            |
 | --------- | -------------------------------------------------------------------------------------------------------- |
 | Japanese  | ぶんしんのじゅつ                                                                                                 |
-| Type      | Water                                                                                                    |
+| Tipo      | Acqua                                                                                                    |
 | Code      | EBW02-008                                                                                                |
 | Pokémon   | Greninja                                                                                                 |
 | Energy    | {W}{W}{W}{W}                                                                                             |
@@ -159,7 +159,7 @@
 | Name      | Trailblaze                                       |
 | --------- | ------------------------------------------------ |
 | Japanese  | くさわけ                                             |
-| Type      | Grass                                            |
+| Tipo      | Grass                                            |
 | Code      | EBW02-009                                        |
 | Pokémon   | Greninja                                         |
 | Energy    | {G}{C}{C}                                        |
@@ -178,7 +178,7 @@
 | Name      | Low Kick                                         |
 | --------- | ------------------------------------------------ |
 | Japanese  | けたぐり                                             |
-| Type      | Fighting                                         |
+| Tipo      | Lotta                                            |
 | Code      | EBW02-010                                        |
 | Pokémon   | Greninja                                         |
 | Energy    | {F}{C}{C}                                        |

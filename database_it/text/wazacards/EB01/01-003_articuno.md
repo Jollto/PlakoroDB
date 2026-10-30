@@ -64,7 +64,7 @@
 | Name      | Air Cutter                                       |
 | --------- | ------------------------------------------------ |
 | Japanese  | エアカッター                                           |
-| Tipo      | Flying                                           |
+| Tipo      | Volante                                          |
 | Code      | EBW01-024                                        |
 | Pokémon   | Articuno                                         |
 | Energy    | {Y}{C}{C}{C}                                     |
@@ -83,7 +83,7 @@
 | Name      | Roost                                                  |
 | --------- | ------------------------------------------------------ |
 | Japanese  | はねやすめ                                                  |
-| Tipo      | Flying                                                 |
+| Tipo      | Volante                                                |
 | Code      | EBW01-025                                              |
 | Pokémon   | Articuno                                               |
 | Energy    | {Y}{Y}                                                 |
@@ -178,7 +178,7 @@
 | Name      | Fly                                                                                              |
 | --------- | ------------------------------------------------------------------------------------------------ |
 | Japanese  | そらをとぶ                                                                                            |
-| Tipo      | Flying                                                                                           |
+| Tipo      | Volante                                                                                          |
 | Code      | EBW01-030                                                                                        |
 | Pokémon   | Articuno                                                                                         |
 | Energy    | {Y}{C}{C}                                                                                        |

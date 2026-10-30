@@ -1,174 +1,174 @@
 ## Grimer Cards
 
-### Exploration Box 1
+### Box Esplorazione 1
 
 #### Poison Gas
 
-| Name      | Poison Gas                                                                                |
-| --------- | ----------------------------------------------------------------------------------------- |
-| Japanese  | どくガス                                                                                      |
-| Tipo      | Buio                                                                                      |
-| Code      | EBW01-051                                                                                 |
-| Pokémon   | Grimer                                                                                    |
-| Energy    | {D}                                                                                       |
-| Damage    | 10                                                                                        |
-| Effect    |                                                                                           |
-| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Handstand |                                                                                           |
-| Back      |                                                                                           |
-| Down      |                                                                                           |
-| Sideways  | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Nome           | Poison Gas                                                                                |
+| -------------- | ----------------------------------------------------------------------------------------- |
+| Giapponese     | どくガス                                                                                      |
+| Tipo           | Buio                                                                                      |
+| Codice         | EBW01-051                                                                                 |
+| Pokémon        | Grimer                                                                                    |
+| Energia        | {D}                                                                                       |
+| Danni          | 10                                                                                        |
+| Effetto        |                                                                                           |
+| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| A testa in giù |                                                                                           |
+| Supino         |                                                                                           |
+| Prono          |                                                                                           |
+| Sui fianchi    | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
 
 [Poison Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard01.webp)
 
 #### Sludge Toss ?
 
-| Name      | Sludge Toss ?                                    |
-| --------- | ------------------------------------------------ |
-| Japanese  | ベトベトなげ                                           |
-| Tipo      | Buio                                             |
-| Code      | EBW01-052                                        |
-| Pokémon   | Grimer                                           |
-| Energy    | {D}{D}                                           |
-| Damage    | 20                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                                  |
-| Back      |                                                  |
-| Down      |                                                  |
-| Sideways  | This attack does 20 more damage. |
+| Nome           | Sludge Toss ?              |
+| -------------- | -------------------------- |
+| Giapponese     | ベトベトなげ                     |
+| Tipo           | Buio                       |
+| Codice         | EBW01-052                  |
+| Pokémon        | Grimer                     |
+| Energia        | {D}{D}                     |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    | +20 danni. |
 
 [Sludge Toss](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard02.webp)
 
 #### Toxic Heal ?
 
-| Name      | Toxic Heal ?                                                                                                                   |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | どくどくヒール                                                                                                                        |
-| Tipo      | Buio                                                                                                                           |
-| Code      | EBW01-053                                                                                                                      |
-| Pokémon   | Grimer                                                                                                                         |
-| Energy    | {D}{D}{D}                                                                                                                      |
-| Damage    | 30                                                                                                                             |
-| Effect    |                                                                                                                                |
-| Standing  | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
-| Handstand |                                                                                                                                |
-| Back      | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
-| Down      |                                                                                                                                |
-| Sideways  | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
+| Nome           | Toxic Heal ?                                                                                                                   |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Giapponese     | どくどくヒール                                                                                                                        |
+| Tipo           | Buio                                                                                                                           |
+| Codice         | EBW01-053                                                                                                                      |
+| Pokémon        | Grimer                                                                                                                         |
+| Energia        | {D}{D}{D}                                                                                                                      |
+| Danni          | 30                                                                                                                             |
+| Effetto        |                                                                                                                                |
+| In Piedi       | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
+| A testa in giù |                                                                                                                                |
+| Supino         | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
+| Prono          |                                                                                                                                |
+| Sui fianchi    | During your last turn, if this Pokémon's "Poison Gas" attack was successful, heal 30 damage from this Pokémon. |
 
 [Toxic Heal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard03.webp)
 
 #### Sludge Ring ?
 
-| Name      | Sludge Ring ?                                                                                                            |
-| --------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | ヘドロでかこむ                                                                                                                  |
-| Tipo      | Buio                                                                                                                     |
-| Code      | EBW01-054                                                                                                                |
-| Pokémon   | Grimer                                                                                                                   |
-| Energy    | {D}{D}{D}                                                                                                                |
-| Damage    | 30                                                                                                                       |
-| Effect    |                                                                                                                          |
-| Standing  | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
-| Handstand |                                                                                                                          |
-| Back      | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
-| Down      | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
-| Sideways  |                                                                                                                          |
+| Nome           | Sludge Ring ?                                                                                                            |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Giapponese     | ヘドロでかこむ                                                                                                                  |
+| Tipo           | Buio                                                                                                                     |
+| Codice         | EBW01-054                                                                                                                |
+| Pokémon        | Grimer                                                                                                                   |
+| Energia        | {D}{D}{D}                                                                                                                |
+| Danni          | 30                                                                                                                       |
+| Effetto        |                                                                                                                          |
+| In Piedi       | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
+| A testa in giù |                                                                                                                          |
+| Supino         | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
+| Prono          | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
+| Sui fianchi    |                                                                                                                          |
 
 [Sludge Ring](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard04.webp)
 
 #### Venom Punch ?
 
-| Name      | Venom Punch ?                                    |
-| --------- | ------------------------------------------------ |
-| Japanese  | ベノムパンチ                                           |
-| Tipo      | Buio                                             |
-| Code      | EBW01-055                                        |
-| Pokémon   | Grimer                                           |
-| Energy    | {D}{D}{D}{D}                                     |
-| Damage    | 40                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 30 more damage. |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Venom Punch ?              |
+| -------------- | -------------------------- |
+| Giapponese     | ベノムパンチ                     |
+| Tipo           | Buio                       |
+| Codice         | EBW01-055                  |
+| Pokémon        | Grimer                     |
+| Energia        | {D}{D}{D}{D}               |
+| Danni          | 40                         |
+| Effetto        |                            |
+| In Piedi       | +30 danni. |
+| A testa in giù |                            |
+| Supino         | +30 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Venom Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard05.webp)
 
 #### Venom Slip ?
 
-| Name      | Venom Slip ?                                                                                                                    |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | ベノムスリップ                                                                                                                         |
-| Tipo      | Buio                                                                                                                            |
-| Code      | EBW01-057                                                                                                                       |
-| Pokémon   | Grimer                                                                                                                          |
-| Energy    | {D}{D}                                                                                                                          |
-| Damage    | 20                                                                                                                              |
-| Effect    |                                                                                                                                 |
-| Standing  | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
-| Handstand |                                                                                                                                 |
-| Back      | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
-| Down      |                                                                                                                                 |
-| Sideways  | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
+| Nome           | Venom Slip ?                                                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | ベノムスリップ                                                                                                                         |
+| Tipo           | Buio                                                                                                                            |
+| Codice         | EBW01-057                                                                                                                       |
+| Pokémon        | Grimer                                                                                                                          |
+| Energia        | {D}{D}                                                                                                                          |
+| Danni          | 20                                                                                                                              |
+| Effetto        |                                                                                                                                 |
+| In Piedi       | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
+| A testa in giù |                                                                                                                                 |
+| Supino         | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
+| Prono          |                                                                                                                                 |
+| Sui fianchi    | Your opponent also rolls their Charakoro. On {hs}{do}{s1}{s2}, this attack does 20 more damage. |
 
 [Venom Slip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard07.webp)
 
 #### Toxic Blast ?
 
-| Name      | Toxic Blast ?                                                                                                                 |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | どくどくボンバー                                                                                                                      |
-| Tipo      | Buio                                                                                                                          |
-| Code      | EBW01-058                                                                                                                     |
-| Pokémon   | Grimer                                                                                                                        |
-| Energy    | {D}{D}{D}                                                                                                                     |
-| Damage    | 30                                                                                                                            |
-| Effect    |                                                                                                                               |
-| Standing  | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
-| Handstand |                                                                                                                               |
-| Back      | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
-| Down      | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
-| Sideways  |                                                                                                                               |
+| Nome           | Toxic Blast ?                                                                                                                 |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | どくどくボンバー                                                                                                                      |
+| Tipo           | Buio                                                                                                                          |
+| Codice         | EBW01-058                                                                                                                     |
+| Pokémon        | Grimer                                                                                                                        |
+| Energia        | {D}{D}{D}                                                                                                                     |
+| Danni          | 30                                                                                                                            |
+| Effetto        |                                                                                                                               |
+| In Piedi       | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
+| A testa in giù |                                                                                                                               |
+| Supino         | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
+| Prono          | During your last turn, if this Pokémon's "Poison Gas" attack was successful, this attack does 30 more damage. |
+| Sui fianchi    |                                                                                                                               |
 
 [Toxic Blast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard08.webp)
 
 #### Sludge Tackle ?
 
-| Name      | Sludge Tackle ?                                        |
-| --------- | ------------------------------------------------------ |
-| Japanese  | ヘドロタックル                                                |
-| Tipo      | Buio                                                   |
-| Code      | EBW01-059                                              |
-| Pokémon   | Grimer                                                 |
-| Energy    | {D}{D}{D}                                              |
-| Damage    | 20                                                     |
-| Effect    |                                                        |
-| Standing  | This attack does 40 more damage.       |
-| Handstand | This Pokémon does 20 damage to itself. |
-| Back      | This Pokémon does 20 damage to itself. |
-| Down      | This Pokémon does 20 damage to itself. |
-| Sideways  | This attack does 40 more damage.       |
+| Nome           | Sludge Tackle ?                                        |
+| -------------- | ------------------------------------------------------ |
+| Giapponese     | ヘドロタックル                                                |
+| Tipo           | Buio                                                   |
+| Codice         | EBW01-059                                              |
+| Pokémon        | Grimer                                                 |
+| Energia        | {D}{D}{D}                                              |
+| Danni          | 20                                                     |
+| Effetto        |                                                        |
+| In Piedi       | +40 danni.                             |
+| A testa in giù | Anche questo Pokémon subisce 20 danni. |
+| Supino         | Anche questo Pokémon subisce 20 danni. |
+| Prono          | Anche questo Pokémon subisce 20 danni. |
+| Sui fianchi    | +40 danni.                             |
 
 [Sludge Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard09.webp)
 
 #### Harassment Venom ?
 
-| Name      | Harassment Venom ?                                                                                               |
-| --------- | ---------------------------------------------------------------------------------------------------------------- |
-| Japanese  | いやがらせベノム                                                                                                         |
-| Tipo      | Buio                                                                                                             |
-| Code      | EBW01-060                                                                                                        |
-| Pokémon   | Grimer                                                                                                           |
-| Energy    | {D}{D}{D}{D}                                                                                                     |
-| Damage    | 20                                                                                                               |
-| Effect    |                                                                                                                  |
-| Standing  | During your opponent's last turn, if their Enekoro roll failed, this attack does 50 more damage. |
-| Handstand |                                                                                                                  |
-| Back      |                                                                                                                  |
-| Down      |                                                                                                                  |
-| Sideways  | During your opponent's last turn, if their Enekoro roll failed, this attack does 50 more damage. |
+| Nome           | Harassment Venom ?                                                                                               |
+| -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | いやがらせベノム                                                                                                         |
+| Tipo           | Buio                                                                                                             |
+| Codice         | EBW01-060                                                                                                        |
+| Pokémon        | Grimer                                                                                                           |
+| Energia        | {D}{D}{D}{D}                                                                                                     |
+| Danni          | 20                                                                                                               |
+| Effetto        |                                                                                                                  |
+| In Piedi       | During your opponent's last turn, if their Enekoro roll failed, this attack does 50 more damage. |
+| A testa in giù |                                                                                                                  |
+| Supino         |                                                                                                                  |
+| Prono          |                                                                                                                  |
+| Sui fianchi    | During your opponent's last turn, if their Enekoro roll failed, this attack does 50 more damage. |
 
 [Harassment Venom](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard10.webp)

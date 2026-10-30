@@ -1,193 +1,193 @@
 ## Zapdos Cards
 
-### Exploration Box 1
+### Box Esplorazione 1
 
 #### Thunder Flash ?
 
-| Name      | Thunder Flash ?                                  |
-| --------- | ------------------------------------------------ |
-| Japanese  | でんじフラッシュ                                         |
-| Tipo      | Elettro                                          |
-| Code      | EBW01-031                                        |
-| Pokémon   | Zapdos                                           |
-| Energy    | {L}{L}                                           |
-| Damage    | 20                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 30 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 30 more damage. |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Thunder Flash ?            |
+| -------------- | -------------------------- |
+| Giapponese     | でんじフラッシュ                   |
+| Tipo           | Elettro                    |
+| Codice         | EBW01-031                  |
+| Pokémon        | Zapdos                     |
+| Energia        | {L}{L}                     |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +30 danni. |
+| A testa in giù |                            |
+| Supino         | +30 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Thunder Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
 
 #### Thunder Shock
 
-| Name      | Thunder Shock                                    |
-| --------- | ------------------------------------------------ |
-| Japanese  | でんきショック                                          |
-| Tipo      | Elettro                                          |
-| Code      | EBW01-032                                        |
-| Pokémon   | Zapdos                                           |
-| Energy    | {L}                                              |
-| Damage    | 10                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 10 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 10 more damage. |
-| Down      |                                                  |
-| Sideways  | This attack does 10 more damage. |
+| Nome           | Thunder Shock              |
+| -------------- | -------------------------- |
+| Giapponese     | でんきショック                    |
+| Tipo           | Elettro                    |
+| Codice         | EBW01-032                  |
+| Pokémon        | Zapdos                     |
+| Energia        | {L}                        |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +10 danni. |
+| A testa in giù |                            |
+| Supino         | +10 danni. |
+| Prono          |                            |
+| Sui fianchi    | +10 danni. |
 
 [Thunder Shock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard02.webp)
 
 #### Volt Rush ?
 
-| Name      | Volt Rush ?                                                                                              |
-| --------- | -------------------------------------------------------------------------------------------------------- |
-| Japanese  | ボルトラッシュ                                                                                                  |
-| Tipo      | Elettro                                                                                                  |
-| Code      | EBW01-033                                                                                                |
-| Pokémon   | Zapdos                                                                                                   |
-| Energy    | {L}{L}{L}{L}                                                                                             |
-| Damage    | 10                                                                                                       |
-| Effect    | Roll your Charakoro 3 times.                                                             |
-| Standing  | Each time the Charakoro roll succeeds with this attack, this attack does 30 more damage. |
-| Handstand |                                                                                                          |
-| Back      |                                                                                                          |
-| Down      |                                                                                                          |
-| Sideways  | Each time the Charakoro roll succeeds with this attack, this attack does 30 more damage. |
+| Nome           | Volt Rush ?                                                                                              |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| Giapponese     | ボルトラッシュ                                                                                                  |
+| Tipo           | Elettro                                                                                                  |
+| Codice         | EBW01-033                                                                                                |
+| Pokémon        | Zapdos                                                                                                   |
+| Energia        | {L}{L}{L}{L}                                                                                             |
+| Danni          | 10                                                                                                       |
+| Effetto        | Roll your Charakoro 3 times.                                                             |
+| In Piedi       | Each time the Charakoro roll succeeds with this attack, this attack does 30 more damage. |
+| A testa in giù |                                                                                                          |
+| Supino         |                                                                                                          |
+| Prono          |                                                                                                          |
+| Sui fianchi    | Each time the Charakoro roll succeeds with this attack, this attack does 30 more damage. |
 
 [Volt Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard03.webp)
 
 #### Aerial Ace
 
-| Name      | Aerial Ace                                       |
-| --------- | ------------------------------------------------ |
-| Japanese  | つばめがえし                                           |
-| Tipo      | Volante                                          |
-| Code      | EBW01-034                                        |
-| Pokémon   | Zapdos                                           |
-| Energy    | {Y}                                              |
-| Damage    | 20                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 20 more damage. |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Aerial Ace                 |
+| -------------- | -------------------------- |
+| Giapponese     | つばめがえし                     |
+| Tipo           | Volante                    |
+| Codice         | EBW01-034                  |
+| Pokémon        | Zapdos                     |
+| Energia        | {Y}                        |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         | +20 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Aerial Ace](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard04.webp)
 
 #### Crackling Wing ?
 
-| Name      | Crackling Wing ?                                 |
-| --------- | ------------------------------------------------ |
-| Japanese  | バリバリウイング                                         |
-| Tipo      | Volante                                          |
-| Code      | EBW01-035                                        |
-| Pokémon   | Zapdos                                           |
-| Energy    | {Y}{C}{C}{C}{C}                                  |
-| Damage    | 40                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 40 more damage. |
-| Handstand |                                                  |
-| Back      |                                                  |
-| Down      |                                                  |
-| Sideways  | This attack does 40 more damage. |
+| Nome           | Crackling Wing ?           |
+| -------------- | -------------------------- |
+| Giapponese     | バリバリウイング                   |
+| Tipo           | Volante                    |
+| Codice         | EBW01-035                  |
+| Pokémon        | Zapdos                     |
+| Energia        | {Y}{C}{C}{C}{C}            |
+| Danni          | 40                         |
+| Effetto        |                            |
+| In Piedi       | +40 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    | +40 danni. |
 
 [Crackling Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
 
 #### Dual Thunder ?
 
-| Name      | Dual Thunder ?                                                                                           |
-| --------- | -------------------------------------------------------------------------------------------------------- |
-| Japanese  | ダブルサンダー                                                                                                  |
-| Tipo      | Elettro                                                                                                  |
-| Code      | EBW01-036                                                                                                |
-| Pokémon   | Zapdos                                                                                                   |
-| Energy    | {L}                                                                                                      |
-| Damage    |                                                                                                          |
-| Effect    | Roll your Charakoro 2 times.                                                             |
-| Standing  | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| Handstand |                                                                                                          |
-| Back      | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| Down      | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| Sideways  |                                                                                                          |
+| Nome           | Dual Thunder ?                                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| Giapponese     | ダブルサンダー                                                                                                  |
+| Tipo           | Elettro                                                                                                  |
+| Codice         | EBW01-036                                                                                                |
+| Pokémon        | Zapdos                                                                                                   |
+| Energia        | {L}                                                                                                      |
+| Danni          |                                                                                                          |
+| Effetto        | Roll your Charakoro 2 times.                                                             |
+| In Piedi       | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
+| A testa in giù |                                                                                                          |
+| Supino         | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
+| Prono          | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
+| Sui fianchi    |                                                                                                          |
 
 [Dual Thunder](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard06.webp)
 
 #### Electroarrow ?
 
-| Name      | Electroarrow ?                                   |
-| --------- | ------------------------------------------------ |
-| Japanese  | エレキアロー                                           |
-| Tipo      | Elettro                                          |
-| Code      | EBW01-037                                        |
-| Pokémon   | Zapdos                                           |
-| Energy    | {L}{L}                                           |
-| Damage    | 20                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 40 more damage. |
-| Handstand |                                                  |
-| Back      |                                                  |
-| Down      |                                                  |
-| Sideways  |                                                  |
+| Nome           | Electroarrow ?             |
+| -------------- | -------------------------- |
+| Giapponese     | エレキアロー                     |
+| Tipo           | Elettro                    |
+| Codice         | EBW01-037                  |
+| Pokémon        | Zapdos                     |
+| Energia        | {L}{L}                     |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +40 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Electroarrow](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard07.webp)
 
 #### Discharge
 
-| Name      | Discharge                                        |
-| --------- | ------------------------------------------------ |
-| Japanese  | ほうでん                                             |
-| Tipo      | Elettro                                          |
-| Code      | EBW01-038                                        |
-| Pokémon   | Zapdos                                           |
-| Energy    | {L}{L}{L}                                        |
-| Damage    | 30                                               |
-| Effect    |                                                  |
-| Standing  | This attack does 20 more damage. |
-| Handstand |                                                  |
-| Back      | This attack does 20 more damage. |
-| Down      | This attack does 20 more damage. |
-| Sideways  |                                                  |
+| Nome           | Discharge                  |
+| -------------- | -------------------------- |
+| Giapponese     | ほうでん                       |
+| Tipo           | Elettro                    |
+| Codice         | EBW01-038                  |
+| Pokémon        | Zapdos                     |
+| Energia        | {L}{L}{L}                  |
+| Danni          | 30                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         | +20 danni. |
+| Prono          | +20 danni. |
+| Sui fianchi    |                            |
 
 [Discharge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard08.webp)
 
 #### Thunder Chain ?
 
-| Name      | Thunder Chain ?                                                                                                                                              |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | サンダーチェイン                                                                                                                                                     |
-| Tipo      | Elettro                                                                                                                                                      |
-| Code      | EBW01-039                                                                                                                                                    |
-| Pokémon   | Zapdos                                                                                                                                                       |
-| Energy    | {L}{L}{L}{L}                                                                                                                                                 |
-| Damage    | 30                                                                                                                                                           |
-| Effect    |                                                                                                                                                              |
-| Standing  | This attack does 30 more damage. Reroll your Charakoro. (Can be repeated until it fails.) |
-| Handstand |                                                                                                                                                              |
-| Back      | This attack does 30 more damage. Reroll your Charakoro. (Can be repeated until it fails.) |
-| Down      | This attack does 30 more damage. Reroll your Charakoro. (Can be repeated until it fails.) |
-| Sideways  |                                                                                                                                                              |
+| Nome           | Thunder Chain ?                                                                                                                        |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | サンダーチェイン                                                                                                                               |
+| Tipo           | Elettro                                                                                                                                |
+| Codice         | EBW01-039                                                                                                                              |
+| Pokémon        | Zapdos                                                                                                                                 |
+| Energia        | {L}{L}{L}{L}                                                                                                                           |
+| Danni          | 30                                                                                                                                     |
+| Effetto        |                                                                                                                                        |
+| In Piedi       | +30 danni. Reroll your Charakoro. (Can be repeated until it fails.) |
+| A testa in giù |                                                                                                                                        |
+| Supino         | +30 danni. Reroll your Charakoro. (Can be repeated until it fails.) |
+| Prono          | +30 danni. Reroll your Charakoro. (Can be repeated until it fails.) |
+| Sui fianchi    |                                                                                                                                        |
 
 [Thunder Chain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
 
-#### Fly
+#### Volo
 
-| Name      | Fly                                                                                              |
-| --------- | ------------------------------------------------------------------------------------------------ |
-| Japanese  | そらをとぶ                                                                                            |
-| Tipo      | Volante                                                                                          |
-| Code      | EBW01-040                                                                                        |
-| Pokémon   | Zapdos                                                                                           |
-| Energy    | {Y}{C}{C}                                                                                        |
-| Damage    | 30                                                                                               |
-| Effect    |                                                                                                  |
-| Standing  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
-| Handstand | This attack does nothing.                                                        |
-| Back      | This attack does nothing.                                                        |
-| Down      | This attack does nothing.                                                        |
-| Sideways  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
+| Nome           | Volo                                                                                                     |
+| -------------- | -------------------------------------------------------------------------------------------------------- |
+| Giapponese     | そらをとぶ                                                                                                    |
+| Tipo           | Volante                                                                                                  |
+| Codice         | EBW01-040                                                                                                |
+| Pokémon        | Zapdos                                                                                                   |
+| Energia        | {Y}{C}{C}                                                                                                |
+| Danni          | 30                                                                                                       |
+| Effetto        |                                                                                                          |
+| In Piedi       | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. |
+| A testa in giù | Questa mossa fallisce.                                                                   |
+| Supino         | Questa mossa fallisce.                                                                   |
+| Prono          | Questa mossa fallisce.                                                                   |
+| Sui fianchi    | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

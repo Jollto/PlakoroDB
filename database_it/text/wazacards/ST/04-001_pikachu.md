@@ -74,7 +74,7 @@
 | A testa in giù | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
 | Supino         | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
 | Prono          | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
-| Sui fianchi    | +20 danni.                                             |
+| Sui fianchi    | +30 danni.                                             |
 
 [Thunderbolt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard04.webp)
 

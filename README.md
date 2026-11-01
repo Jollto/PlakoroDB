@@ -72,6 +72,34 @@ If you also want to help more, you can ask to be a proofreader and help control 
 
 Once everything is done, the cards will be translated, and the last step needed will be to create the cards. This probably needs automatization and I'll investigate that when possible, but meanwhile I'll do it manually, or well, you also can, adding the koro files too to the database and making pull requests to add them.
 
+## AI usage in Plakoro Database
+
+AI usage has been kept at a minimum, only used to extract the text from Wazacard spoilers people post online when an OCR program is not enough.
+
+This is my personal (u/Jollto) use. I can't control the contributions nor detect if AI was used, but I will appreciate if this guidelines are followed and we can minimize the use of AI.
+
+All translations are done by hand, trying to base the text effects on the TCG and translating it as often as possible by copying the TCG. Move names are copied from orignal Pokémon moves, either from the videogame or the TCG, and if there is no translation, then I'll try to find a new move name that sounds as good as possible.
+
+### Suggested steps to translate moves
+
+To have an easier time in this process, I do the following steps:
+
+1. Search the japanese move name in [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page), it finds all the videogame translations and some of the TCG.
+   - If you find it here, easy, copy it and done!
+2. Search for the japanese move name in [Pokémon Wiki JP](https://wiki.pokemonwiki.com/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8).
+   1. If the move exist in TCG, you will find a card here with said move. Open whatever entry and check that the text it found is from the move and not a description.
+   2. Search in [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) for that Pokémon card, and copy the translated official name.
+      - To search in Bulbapedia for that card, search first the Pokémon name, search in Bulbapedia for that Pokémon TCG (example: Mew TCG) to find all the cards printed for that Pokémon, and using the card number from the japanese wiki, locate the English version of that card, and found! Remember to check that the japanese name you were searching does appear there in Bulbapedia and that you didn't mistakenly found another card.
+3. If you still don't find any translations, it will be time to make your own. Here are my tips:
+   - Translate the name first using a classic text translator, to get an idea on what you're working.
+   - Search for definitions and try to choose a translation that sounds like a Pokémon name.
+   - For names with multiple words (like "Fire Wing"), try to find what halves of the japanese word mean each thing, and try to find translations that use that text as a reference.
+   - Try not to name the move as something that already exists as that name might get added in a future. To avoid this, after finding a name you like, search for that name in places like Bulbapedia or [cardmarket](https://www.cardmarket.com/en/Pokemon), as that will help you find cards with that name if it already exists. And if that's the case, well, try to find another name.
+
+I also used this to find translations in Spanish, searching first for a TCG card and then finding the localized version. Remember that not all cards have been translated, so maybe it exists in English but not in your language. In that case, follow again the steps above to try and find ideas for the move name.
+
+As the last thing for new names, remember to write a **?** after them in the files, and add it to the list of [original names](/extras/original_names.md).
+
 ## License
 
 Unless otherwise noted, my original contributions to this repository are dedicated to the public domain under **CC-BY-NC-4.0**.
@@ -99,4 +127,12 @@ This license does **not** apply to either Pokémon's and Plakoro's original artw
       - [EB01](/database/text/wazacards/EB01) : expansion box 01 Pokémon
         - one file for each Pokémon, with all the moves it has avaiable
     - [korocards](/database/text/korocards/): files for the moves to import to Plakoro Card Maker
+      - [characards](/database/text/korocards/characards/) : files for the Characards
+      - [wazacards](/database/text/korocards/wazacards/) : files for the wazacards, same structure as card images.
     - [faq.md](/database/text/faq.md): Frequently Asked Questions, updated 01/09/2026
+- database_XX : database in that language, same structure as above. Files in English unless translated with [Crowdin](#translating)
+- [extras](/extras/) : extra files, helpful for the project
+  - [icons](/extras/icons/) : images from the official webpage, for Charakoro directions and Enekoro energy.
+  - [playseat](/extras/playseat/) : images of translation for the playseat. Contribution made based on Thai Playseat uploaded on the official webpage.
+  - [faq_jp.md](/extras/faq_jp.md) : extracted FAQ from original webpage, to use as reference when it gets updated.
+  - [orignal_names.md](/extras/original_names.md) : file with names that could not be copied from an official source, and had to get original names. Used to keep control of translations and helpful to mark "checked and approved" translations after talking with the community (still a long work in progress).

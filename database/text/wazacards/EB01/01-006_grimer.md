@@ -70,10 +70,10 @@
 | Energy    | {D}{D}{D}                                                                                |
 | Damage    | 30                                                                                       |
 | Effect    |                                                                                          |
-| Standing  | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
+| Standing  | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
 | Handstand |                                                                                          |
-| Back      | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
-| Down      | Choose 1 of your opponent's attacks. During their next turn, they can't use this attack. |
+| Back      | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
+| Down      | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
 | Sideways  |                                                                                          |
 
 [Sludge Ring](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard04.webp)

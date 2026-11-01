@@ -200,7 +200,7 @@
 
 [Grimer](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_characard.webp)
 
-## Exploration Box 1
+## Exploration Box 2
 
 ### Greninja
 

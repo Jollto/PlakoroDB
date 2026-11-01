@@ -41,7 +41,7 @@ Choose $1 of your Enekoro and swap out as many chips as you like. (Use chips you
 On the opponent's next turn, choose $1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.)
 
 次の相手の番、相手が使うワザは自分が選ぶ。
-Choose 1 of your opponent's attacks. During their next turn, they use this attack.
+Choose 1 of your opponent's attacks. During their next turn, they use that attack.
 
 次の相手の番、相手のキャラコロの向きを(.+)にする。
 On your opponent's next turn, set the direction of their Charakoro to $1.

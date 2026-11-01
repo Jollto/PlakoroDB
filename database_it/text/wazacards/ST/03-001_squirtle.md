@@ -131,7 +131,7 @@
 | A testa in giù |                            |
 | Supino         |                            |
 | Prono          |                            |
-| Sui fianchi    | +20 danni. |
+| Sui fianchi    | +30 danni. |
 
 [Mud Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard07.webp)
 

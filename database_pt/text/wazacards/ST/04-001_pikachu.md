@@ -74,7 +74,7 @@
 | De ponta-cabeça | No seu próximo turno, você rola 2 Enekoro a menos. |
 | De costas       | No seu próximo turno, você rola 2 Enekoro a menos. |
 | De bruços       | No seu próximo turno, você rola 2 Enekoro a menos. |
-| De lado         | Este ataque causa 20 pontos de dano a mais.        |
+| De lado         | Este ataque causa 30 pontos de dano a mais.        |
 
 [Relâmpago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard04.webp)
 

@@ -74,7 +74,7 @@
 | Handstand | On your next turn, reduce the number of Enekoro you roll by 2. |
 | Back      | On your next turn, reduce the number of Enekoro you roll by 2. |
 | Down      | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Sideways  | This attack does 20 more damage.                               |
+| Sideways  | This attack does 30 more damage.                               |
 
 [Thunderbolt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard04.webp)
 

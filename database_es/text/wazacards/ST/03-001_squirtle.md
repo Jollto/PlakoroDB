@@ -99,20 +99,20 @@
 
 #### Hidrofuria ?
 
-| Nombre      | Hidrofuria ?                                                                             |
-| ----------- | ---------------------------------------------------------------------------------------- |
-| Japonés     | ハイドロアンガー                                                                         |
-| Tipo        | Agua                                                                                     |
-| Código      | STW03-006                                                                                |
-| Pokémon     | Squirtle                                                                                 |
-| Energía     | {W}{W}{W}{W}                                                                             |
-| Daño        | 40                                                                                       |
-| Efecto      |                                                                                          |
-| De pie      | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 60 puntos de daño más. |
-| De cabeza   |                                                                                          |
-| Boca arriba | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 60 puntos de daño más. |
-| Boca abajo  | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 60 puntos de daño más. |
-| De lado     |                                                                                          |
+| Nombre      | Hidrofuria ?                                                                 |
+| ----------- | ---------------------------------------------------------------------------- |
+| Japonés     | ハイドロアンガー                                                             |
+| Tipo        | Agua                                                                         |
+| Código      | STW03-006                                                                    |
+| Pokémon     | Squirtle                                                                     |
+| Energía     | {W}{W}{W}{W}                                                                 |
+| Daño        | 40                                                                           |
+| Efecto      |                                                                              |
+| De pie      | Si este Pokémon tiene 40 o menos PS, este ataque hace 60 puntos de daño más. |
+| De cabeza   |                                                                              |
+| Boca arriba | Si este Pokémon tiene 40 o menos PS, este ataque hace 60 puntos de daño más. |
+| Boca abajo  | Si este Pokémon tiene 40 o menos PS, este ataque hace 60 puntos de daño más. |
+| De lado     |                                                                              |
 
 [Hidrofuria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard06.webp)
 
@@ -131,7 +131,7 @@
 | De cabeza   |                                         |
 | Boca arriba |                                         |
 | Boca abajo  |                                         |
-| De lado     | Este ataque hace 20 puntos de daño más. |
+| De lado     | Este ataque hace 30 puntos de daño más. |
 
 [Disparo Lodo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard07.webp)
 

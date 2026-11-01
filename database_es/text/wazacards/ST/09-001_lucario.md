@@ -42,20 +42,20 @@
 
 #### Nudillo Aural
 
-| Nombre      | Nudillo Aural                                                                            |
-| ----------- | ---------------------------------------------------------------------------------------- |
-| Japonés     | はどうナックル                                                                           |
-| Tipo        | Lucha                                                                                    |
-| Código      | STW09-003                                                                                |
-| Pokémon     | Lucario                                                                                  |
-| Energía     | {F}{F}                                                                                   |
-| Daño        | 20                                                                                       |
-| Efecto      |                                                                                          |
-| De pie      | Si este Pokémon tiene 80 o menos puntos de vida, este ataque hace 30 puntos de daño más. |
-| De cabeza   |                                                                                          |
-| Boca arriba | Si este Pokémon tiene 80 o menos puntos de vida, este ataque hace 30 puntos de daño más. |
-| Boca abajo  | Si este Pokémon tiene 80 o menos puntos de vida, este ataque hace 30 puntos de daño más. |
-| De lado     |                                                                                          |
+| Nombre      | Nudillo Aural                                                                |
+| ----------- | ---------------------------------------------------------------------------- |
+| Japonés     | はどうナックル                                                               |
+| Tipo        | Lucha                                                                        |
+| Código      | STW09-003                                                                    |
+| Pokémon     | Lucario                                                                      |
+| Energía     | {F}{F}                                                                       |
+| Daño        | 20                                                                           |
+| Efecto      |                                                                              |
+| De pie      | Si este Pokémon tiene 80 o menos PS, este ataque hace 30 puntos de daño más. |
+| De cabeza   |                                                                              |
+| Boca arriba | Si este Pokémon tiene 80 o menos PS, este ataque hace 30 puntos de daño más. |
+| Boca abajo  | Si este Pokémon tiene 80 o menos PS, este ataque hace 30 puntos de daño más. |
+| De lado     |                                                                              |
 
 [Nudillo Aural](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard03.webp)
 
@@ -80,39 +80,39 @@
 
 #### Puya Aural ?
 
-| Nombre      | Puya Aural ?                                                                                                                                     |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japonés     | オーラづき                                                                                                                                       |
-| Tipo        | Lucha                                                                                                                                            |
-| Código      | STW09-005                                                                                                                                        |
-| Pokémon     | Lucario                                                                                                                                          |
-| Energía     | {F}{F}{F}                                                                                                                                        |
-| Daño        | 30                                                                                                                                               |
-| Efecto      |                                                                                                                                                  |
-| De pie      | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
-| De cabeza   |                                                                                                                                                  |
-| Boca arriba | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
-| Boca abajo  |                                                                                                                                                  |
-| De lado     | Si este Pokémon tiene 80 o menos puntos de vida, durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
+| Nombre      | Puya Aural ?                                                                                                                         |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Japonés     | オーラづき                                                                                                                           |
+| Tipo        | Lucha                                                                                                                                |
+| Código      | STW09-005                                                                                                                            |
+| Pokémon     | Lucario                                                                                                                              |
+| Energía     | {F}{F}{F}                                                                                                                            |
+| Daño        | 30                                                                                                                                   |
+| Efecto      |                                                                                                                                      |
+| De pie      | Si este Pokémon tiene 80 o menos PS, durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
+| De cabeza   |                                                                                                                                      |
+| Boca arriba | Si este Pokémon tiene 80 o menos PS, durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
+| Boca abajo  |                                                                                                                                      |
+| De lado     | Si este Pokémon tiene 80 o menos PS, durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon. |
 
 [Puya Aural](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard05.webp)
 
 #### Esfera Aural
 
-| Nombre      | Esfera Aural                                                                             |
-| ----------- | ---------------------------------------------------------------------------------------- |
-| Japonés     | はどうだん                                                                               |
-| Tipo        | Lucha                                                                                    |
-| Código      | STW09-006                                                                                |
-| Pokémon     | Lucario                                                                                  |
-| Energía     | {F}{F}{F}{F}                                                                             |
-| Daño        | 40                                                                                       |
-| Efecto      |                                                                                          |
-| De pie      | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 50 puntos de daño más. |
-| De cabeza   |                                                                                          |
-| Boca arriba | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 50 puntos de daño más. |
-| Boca abajo  | Si este Pokémon tiene 40 o menos puntos de vida, este ataque hace 50 puntos de daño más. |
-| De lado     |                                                                                          |
+| Nombre      | Esfera Aural                                                                 |
+| ----------- | ---------------------------------------------------------------------------- |
+| Japonés     | はどうだん                                                                   |
+| Tipo        | Lucha                                                                        |
+| Código      | STW09-006                                                                    |
+| Pokémon     | Lucario                                                                      |
+| Energía     | {F}{F}{F}{F}                                                                 |
+| Daño        | 40                                                                           |
+| Efecto      |                                                                              |
+| De pie      | Si este Pokémon tiene 40 o menos PS, este ataque hace 50 puntos de daño más. |
+| De cabeza   |                                                                              |
+| Boca arriba | Si este Pokémon tiene 40 o menos PS, este ataque hace 50 puntos de daño más. |
+| Boca abajo  | Si este Pokémon tiene 40 o menos PS, este ataque hace 50 puntos de daño más. |
+| De lado     |                                                                              |
 
 [Esfera Aural](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard06.webp)
 

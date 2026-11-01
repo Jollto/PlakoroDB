@@ -131,7 +131,7 @@
 | De ponta-cabeça |                                             |
 | De costas       |                                             |
 | De bruços       |                                             |
-| De lado         | Este ataque causa 20 pontos de dano a mais. |
+| De lado         | Este ataque causa 30 pontos de dano a mais. |
 
 [Tiro de Lama](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard07.webp)
 

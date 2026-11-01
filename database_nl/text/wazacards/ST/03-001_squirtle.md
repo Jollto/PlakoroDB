@@ -131,7 +131,7 @@
 | Handstand |                                  |
 | Back      |                                  |
 | Down      |                                  |
-| Sideways  | This attack does 20 more damage. |
+| Sideways  | This attack does 30 more damage. |
 
 [Mud Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard07.webp)
 

@@ -74,7 +74,7 @@
 | De cabeza   | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 | Boca arriba | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 | Boca abajo  | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
-| De lado     | Este ataque hace 20 puntos de daño más.                          |
+| De lado     | Este ataque hace 30 puntos de daño más.                          |
 
 [Rayo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard04.webp)
 

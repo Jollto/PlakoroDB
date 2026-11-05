@@ -1,10 +1,10 @@
-## Tinkatink Cards
+## Carte Tinkatink
 
-### Exploration Box 2
+### Box Eslporazione 2
 
-#### Beat
+#### Colpire
 
-| Nome           | Beat                       |
+| Nome           | Colpire                    |
 | -------------- | -------------------------- |
 | Giapponese     | たたく                        |
 | Tipo           | Psico                      |
@@ -19,11 +19,11 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Beat](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard01.webp)
+[Colpire](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard01.webp)
 
-#### Fairy Wind
+#### Vento di Fata
 
-| Nome           | Fairy Wind                 |
+| Nome           | Vento di Fata              |
 | -------------- | -------------------------- |
 | Giapponese     | ようせいのかぜ                    |
 | Tipo           | Psico                      |
@@ -38,11 +38,11 @@
 | Prono          |                            |
 | Sui fianchi    | +30 danni. |
 
-[Fairy Wind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard02.webp)
+[Vento di Fata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard02.webp)
 
-#### Hammer Strike ?
+#### Colpo martello ?
 
-| Nome           | Hammer Strike ?                                                                |
+| Nome           | Colpo martello ?                                                               |
 | -------------- | ------------------------------------------------------------------------------ |
 | Giapponese     | ハンマーストライク                                                                      |
 | Tipo           | Psico                                                                          |
@@ -57,26 +57,26 @@
 | Prono          | +60 danni.                                                     |
 | Sui fianchi    | On your next turn, reduce the number of Enekoro you roll by 2. |
 
-[Hammer Strike](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
+[Colpo martello](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
 
-#### Play Rough
+#### Carineria
 
-| Nome           | Play Rough                                                                                |
-| -------------- | ----------------------------------------------------------------------------------------- |
-| Giapponese     | じゃれつく                                                                                     |
-| Tipo           | Psico                                                                                     |
-| Codice         | EBW02-014                                                                                 |
-| Pokémon        | Tinkatink                                                                                 |
-| Energia        | {P}{P}{P}{P}                                                                              |
-| Danni          | 10                                                                                        |
-| Effetto        | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| In Piedi       | +40 danni.                                                                |
-| A testa in giù |                                                                                           |
-| Supino         |                                                                                           |
-| Prono          |                                                                                           |
-| Sui fianchi    | +40 danni.                                                                |
+| Nome           | Carineria                                                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------ |
+| Giapponese     | じゃれつく                                                                                            |
+| Tipo           | Psico                                                                                            |
+| Codice         | EBW02-014                                                                                        |
+| Pokémon        | Tinkatink                                                                                        |
+| Energia        | {P}{P}{P}{P}                                                                                     |
+| Danni          | 10                                                                                               |
+| Effetto        | Nel prossimo turno dell'avversario, reduce the number of Enekoro they roll by 1. |
+| In Piedi       | +40 danni.                                                                       |
+| A testa in giù |                                                                                                  |
+| Supino         |                                                                                                  |
+| Prono          |                                                                                                  |
+| Sui fianchi    | +40 danni.                                                                       |
 
-[Play Rough](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard04.webp)
+[Carineria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard04.webp)
 
 #### Metal Claw
 
@@ -97,9 +97,9 @@
 
 [Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard05.webp)
 
-#### Corkscrew Punch
+#### Bastonata
 
-| Nome           | Corkscrew Punch            |
+| Nome           | Bastonata                  |
 | -------------- | -------------------------- |
 | Giapponese     | どつく                        |
 | Tipo           | Psico                      |
@@ -114,11 +114,11 @@
 | Prono          |                            |
 | Sui fianchi    | +10 danni. |
 
-[Corkscrew Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard06.webp)
+[Bastonata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard06.webp)
 
-#### Draining Kiss
+#### Assorbibacio
 
-| Nome           | Draining Kiss                                     |
+| Nome           | Assorbibacio                                      |
 | -------------- | ------------------------------------------------- |
 | Giapponese     | ドレインキッス                                           |
 | Tipo           | Psico                                             |
@@ -133,11 +133,11 @@
 | Prono          |                                                   |
 | Sui fianchi    |                                                   |
 
-[Draining Kiss](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard07.webp)
+[Assorbibacio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard07.webp)
 
-#### Wail
+#### Pianto
 
-| Nome           | Wail                       |
+| Nome           | Pianto                     |
 | -------------- | -------------------------- |
 | Giapponese     | なきわめく                      |
 | Tipo           | Psico                      |
@@ -152,11 +152,11 @@
 | Prono          |                            |
 | Sui fianchi    | +30 danni. |
 
-[Wail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard08.webp)
+[Pianto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard08.webp)
 
-#### Wild Stamp ?
+#### Pestone selvaggio ?
 
-| Nome           | Wild Stamp ?                                           |
+| Nome           | Pestone selvaggio ?                                    |
 | -------------- | ------------------------------------------------------ |
 | Giapponese     | ワイルドスタンプ                                               |
 | Tipo           | Psico                                                  |
@@ -171,11 +171,11 @@
 | Prono          | Anche questo Pokémon subisce 30 danni. |
 | Sui fianchi    | This attack does 50 more damage.       |
 
-[Wild Stamp](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
+[Pestone selvaggio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
 
-#### Strange Impact ?
+#### Impatto Prodigioso ?
 
-| Nome           | Strange Impact ?           |
+| Nome           | Impatto Prodigioso ?       |
 | -------------- | -------------------------- |
 | Giapponese     | ワンダーインパクト                  |
 | Tipo           | Psico                      |
@@ -190,4 +190,4 @@
 | Prono          | +60 danni. |
 | Sui fianchi    |                            |
 
-[Strange Impact](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard10.webp)
+[Impatto Prodigioso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard10.webp)

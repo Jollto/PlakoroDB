@@ -42,20 +42,20 @@
 
 #### Lanciafiamme
 
-| Nome           | Lanciafiamme                                                                   |
-| -------------- | ------------------------------------------------------------------------------ |
-| Giapponese     | かえんほうしゃ                                                                        |
-| Tipo           | Fuoco                                                                          |
-| Codice         | STW02-003                                                                      |
-| Pokémon        | Charmander                                                                     |
-| Energia        | {R}{R}{R}                                                                      |
-| Danni          | 40                                                                             |
-| Effetto        |                                                                                |
-| In Piedi       | +20 danni.                                                     |
-| A testa in giù | On your next turn, reduce the number of Enekoro you roll by 1. |
-| Supino         | +20 danni.                                                     |
-| Prono          | On your next turn, reduce the number of Enekoro you roll by 1. |
-| Sui fianchi    | On your next turn, reduce the number of Enekoro you roll by 1. |
+| Nome           | Lanciafiamme                                                           |
+| -------------- | ---------------------------------------------------------------------- |
+| Giapponese     | かえんほうしゃ                                                                |
+| Tipo           | Fuoco                                                                  |
+| Codice         | STW02-003                                                              |
+| Pokémon        | Charmander                                                             |
+| Energia        | {R}{R}{R}                                                              |
+| Danni          | 40                                                                     |
+| Effetto        |                                                                        |
+| In Piedi       | +20 danni.                                             |
+| A testa in giù | Nel tuo prossimo turno, lancia 1 dado energia in meno. |
+| Supino         | +20 danni.                                             |
+| Prono          | Nel tuo prossimo turno, lancia 1 dado energia in meno. |
+| Sui fianchi    | Nel tuo prossimo turno, lancia 1 dado energia in meno. |
 
 [Flamethrower](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard03.webp)
 

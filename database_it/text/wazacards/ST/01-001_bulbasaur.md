@@ -42,39 +42,39 @@
 
 #### Leech Seed
 
-| Nome           | Leech Seed                                                                                                                                                      |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | やどりぎのタネ                                                                                                                                                         |
-| Tipo           | Erba                                                                                                                                                            |
-| Codice         | STW01-003                                                                                                                                                       |
-| Pokémon        | Bulbasaur                                                                                                                                                       |
-| Energia        | {G}{G}                                                                                                                                                          |
-| Danni          | 10                                                                                                                                                              |
-| Effetto        |                                                                                                                                                                 |
-| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 1. Nel tuo prossimo turno, lancia 1 dadi energia in più. |
-| A testa in giù |                                                                                                                                                                 |
-| Supino         | On the opponent's next turn, reduce the number of Enekoro they roll by 1. Nel tuo prossimo turno, lancia 1 dadi energia in più. |
-| Prono          |                                                                                                                                                                 |
-| Sui fianchi    | On the opponent's next turn, reduce the number of Enekoro they roll by 1. Nel tuo prossimo turno, lancia 1 dadi energia in più. |
+| Nome           | Leech Seed                                                                                                                                               |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | やどりぎのタネ                                                                                                                                                  |
+| Tipo           | Erba                                                                                                                                                     |
+| Codice         | STW01-003                                                                                                                                                |
+| Pokémon        | Bulbasaur                                                                                                                                                |
+| Energia        | {G}{G}                                                                                                                                                   |
+| Danni          | 10                                                                                                                                                       |
+| Effetto        |                                                                                                                                                          |
+| In Piedi       | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. Nel tuo prossimo turno, lancia 1 dadi energia in più. |
+| A testa in giù |                                                                                                                                                          |
+| Supino         | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. Nel tuo prossimo turno, lancia 1 dadi energia in più. |
+| Prono          |                                                                                                                                                          |
+| Sui fianchi    | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. Nel tuo prossimo turno, lancia 1 dadi energia in più. |
 
 [Leech Seed](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard03.webp)
 
 #### Grass Knot
 
-| Nome           | Grass Knot                                                                                                               |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Giapponese     | くさむすび                                                                                                                    |
-| Tipo           | Erba                                                                                                                     |
-| Codice         | STW01-004                                                                                                                |
-| Pokémon        | Bulbasaur                                                                                                                |
-| Energia        | {G}{G}{G}                                                                                                                |
-| Danni          | 30                                                                                                                       |
-| Effetto        |                                                                                                                          |
-| In Piedi       | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
-| A testa in giù |                                                                                                                          |
-| Supino         | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
-| Prono          | Choose 1 of your opponent's attacks. During their next turn, they can't use that attack. |
-| Sui fianchi    |                                                                                                                          |
+| Nome           | Grass Knot                                                                                          |
+| -------------- | --------------------------------------------------------------------------------------------------- |
+| Giapponese     | くさむすび                                                                                               |
+| Tipo           | Erba                                                                                                |
+| Codice         | STW01-004                                                                                           |
+| Pokémon        | Bulbasaur                                                                                           |
+| Energia        | {G}{G}{G}                                                                                           |
+| Danni          | 30                                                                                                  |
+| Effetto        |                                                                                                     |
+| In Piedi       | Scegli una mossa dell'avversario Non può usare quella mossa nel suo prossimo turno. |
+| A testa in giù |                                                                                                     |
+| Supino         | Scegli una mossa dell'avversario Non può usare quella mossa nel suo prossimo turno. |
+| Prono          | Scegli una mossa dell'avversario Non può usare quella mossa nel suo prossimo turno. |
+| Sui fianchi    |                                                                                                     |
 
 [Grass Knot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard04.webp)
 

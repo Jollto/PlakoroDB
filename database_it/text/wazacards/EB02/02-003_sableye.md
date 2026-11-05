@@ -61,20 +61,20 @@
 
 #### Instigate
 
-| Nome           | Instigate                                                                                                          |
-| -------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Giapponese     | そそのかす                                                                                                              |
-| Tipo           | Buio                                                                                                               |
-| Codice         | EBW02-024                                                                                                          |
-| Pokémon        | Sableye                                                                                                            |
-| Energia        | {D}{D}{D}                                                                                                          |
-| Danni          | 20                                                                                                                 |
-| Effetto        |                                                                                                                    |
-| In Piedi       | Choose 1 of your opponent's attacks. During their next turn, they use that attack. |
-| A testa in giù |                                                                                                                    |
-| Supino         |                                                                                                                    |
-| Prono          |                                                                                                                    |
-| Sui fianchi    | Choose 1 of your opponent's attacks. During their next turn, they use that attack. |
+| Nome           | Instigate                                                                                                       |
+| -------------- | --------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | そそのかす                                                                                                           |
+| Tipo           | Buio                                                                                                            |
+| Codice         | EBW02-024                                                                                                       |
+| Pokémon        | Sableye                                                                                                         |
+| Energia        | {D}{D}{D}                                                                                                       |
+| Danni          | 20                                                                                                              |
+| Effetto        |                                                                                                                 |
+| In Piedi       | Scegli una mossa dell'avversario. During their next turn, they use that attack. |
+| A testa in giù |                                                                                                                 |
+| Supino         |                                                                                                                 |
+| Prono          |                                                                                                                 |
+| Sui fianchi    | Scegli una mossa dell'avversario. During their next turn, they use that attack. |
 
 [Instigate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
 

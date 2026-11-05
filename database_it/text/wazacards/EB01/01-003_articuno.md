@@ -1,48 +1,48 @@
-## Articuno Cards
+## Carte Articuno
 
 ### Box Esplorazione 1
 
-#### Ice Wing
+#### Ala Gelata
 
-| Nome           | Ice Wing                                                                                  |
-| -------------- | ----------------------------------------------------------------------------------------- |
-| Giapponese     | アイスウイング                                                                                   |
-| Tipo           | Acqua                                                                                     |
-| Codice         | EBW01-021                                                                                 |
-| Pokémon        | Articuno                                                                                  |
-| Energia        | {W}{W}                                                                                    |
-| Danni          | 10                                                                                        |
-| Effetto        |                                                                                           |
-| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| A testa in giù |                                                                                           |
-| Supino         | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Prono          |                                                                                           |
-| Sui fianchi    | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Nome           | Ala Gelata                                                                         |
+| -------------- | ---------------------------------------------------------------------------------- |
+| Giapponese     | アイスウイング                                                                            |
+| Tipo           | Acqua                                                                              |
+| Codice         | EBW01-021                                                                          |
+| Pokémon        | Articuno                                                                           |
+| Energia        | {W}{W}                                                                             |
+| Danni          | 10                                                                                 |
+| Effetto        |                                                                                    |
+| In Piedi       | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| A testa in giù |                                                                                    |
+| Supino         | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| Prono          |                                                                                    |
+| Sui fianchi    | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
 
-[Ice Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard01.webp)
+[Ala Gelata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard01.webp)
 
-#### Freezing Blade ?
+#### Lama Gelida ?
 
-| Nome           | Freezing Blade ?                                                                |
-| -------------- | ------------------------------------------------------------------------------- |
-| Giapponese     | いてつくやいば                                                                         |
-| Tipo           | Acqua                                                                           |
-| Codice         | EBW01-022                                                                       |
-| Pokémon        | Articuno                                                                        |
-| Energia        | {W}{W}{W}                                                                       |
-| Danni          | 30                                                                              |
-| Effetto        |                                                                                 |
-| In Piedi       | On your opponent's next turn, they cannot roll their Charakoro. |
-| A testa in giù |                                                                                 |
-| Supino         |                                                                                 |
-| Prono          |                                                                                 |
-| Sui fianchi    | On your opponent's next turn, they cannot roll their Charakoro. |
+| Nome           | Lama Gelida ?                                                                         |
+| -------------- | ------------------------------------------------------------------------------------- |
+| Giapponese     | いてつくやいば                                                                               |
+| Tipo           | Acqua                                                                                 |
+| Codice         | EBW01-022                                                                             |
+| Pokémon        | Articuno                                                                              |
+| Energia        | {W}{W}{W}                                                                             |
+| Danni          | 30                                                                                    |
+| Effetto        |                                                                                       |
+| In Piedi       | Nel prossimo turno dell'avversario, non può lanciare il suo PokéDice. |
+| A testa in giù |                                                                                       |
+| Supino         |                                                                                       |
+| Prono          |                                                                                       |
+| Sui fianchi    | Nel prossimo turno dell'avversario, non può lanciare il suo PokéDice. |
 
-[Freezing Blade](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
+[Lama Gelida](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
 
-#### Blizzard Storm ?
+#### Tempesta Bufera ?
 
-| Nome           | Blizzard Storm ?           |
+| Nome           | Tempesta Bufera ?          |
 | -------------- | -------------------------- |
 | Giapponese     | ブリザードストーム                  |
 | Tipo           | Acqua                      |
@@ -57,11 +57,11 @@
 | Prono          |                            |
 | Sui fianchi    | +30 danni. |
 
-[Blizzard Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard03.webp)
+[Tempesta Bufera](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard03.webp)
 
-#### Air Cutter
+#### Aerasoio
 
-| Nome           | Air Cutter                 |
+| Nome           | Aerasoio                   |
 | -------------- | -------------------------- |
 | Giapponese     | エアカッター                     |
 | Tipo           | Volante                    |
@@ -76,30 +76,30 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Air Cutter](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard04.webp)
+[Aerasoio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard04.webp)
 
-#### Roost
+#### Trespolo
 
-| Nome           | Roost                                                  |
-| -------------- | ------------------------------------------------------ |
-| Giapponese     | はねやすめ                                                  |
-| Tipo           | Volante                                                |
-| Codice         | EBW01-025                                              |
-| Pokémon        | Articuno                                               |
-| Energia        | {Y}{Y}                                                 |
-| Danni          |                                                        |
-| Effetto        | Heal 20 damage from this Pokémon.      |
-| In Piedi       | Heal 20 more damage from this Pokémon. |
-| A testa in giù |                                                        |
-| Supino         |                                                        |
-| Prono          |                                                        |
-| Sui fianchi    | Heal 20 more damage from this Pokémon. |
+| Nome           | Trespolo                                       |
+| -------------- | ---------------------------------------------- |
+| Giapponese     | はねやすめ                                          |
+| Tipo           | Volante                                        |
+| Codice         | EBW01-025                                      |
+| Pokémon        | Articuno                                       |
+| Energia        | {Y}{Y}                                         |
+| Danni          |                                                |
+| Effetto        | Questo Pokémon recupera 20 HP. |
+| In Piedi       | Recupera altri 20.             |
+| A testa in giù |                                                |
+| Supino         |                                                |
+| Prono          |                                                |
+| Sui fianchi    | Recupera altri 20.             |
 
-[Roost](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard05.webp)
+[Trespolo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard05.webp)
 
-#### Freeze Dive ?
+#### Picchiata Gelida ?
 
-| Nome           | Freeze Dive ?              |
+| Nome           | Picchiata Gelida ?         |
 | -------------- | -------------------------- |
 | Giapponese     | フリーズダイブ                    |
 | Tipo           | Acqua                      |
@@ -114,11 +114,11 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Freeze Dive](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard06.webp)
+[Picchiata Gelida](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard06.webp)
 
-#### Ice Shot
+#### Colpo di Ghiaccio
 
-| Nome           | Ice Shot                   |
+| Nome           | Colpo di Ghiaccio          |
 | -------------- | -------------------------- |
 | Giapponese     | アイスショット                    |
 | Tipo           | Acqua                      |
@@ -133,45 +133,45 @@
 | Prono          |                            |
 | Sui fianchi    | +20 danni. |
 
-[Ice Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard07.webp)
+[Colpo di Ghiaccio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard07.webp)
 
-#### Cold Breath
+#### Soffio Freddo
 
-| Nome           | Cold Breath                                                                               |
-| -------------- | ----------------------------------------------------------------------------------------- |
-| Giapponese     | コールドブレス                                                                                   |
-| Tipo           | Acqua                                                                                     |
-| Codice         | EBW01-028                                                                                 |
-| Pokémon        | Articuno                                                                                  |
-| Energia        | {W}{W}{W}                                                                                 |
-| Danni          | 20                                                                                        |
-| Effetto        |                                                                                           |
-| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
-| A testa in giù |                                                                                           |
-| Supino         |                                                                                           |
-| Prono          |                                                                                           |
-| Sui fianchi    | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
+| Nome           | Soffio Freddo                                                                      |
+| -------------- | ---------------------------------------------------------------------------------- |
+| Giapponese     | コールドブレス                                                                            |
+| Tipo           | Acqua                                                                              |
+| Codice         | EBW01-028                                                                          |
+| Pokémon        | Articuno                                                                           |
+| Energia        | {W}{W}{W}                                                                          |
+| Danni          | 20                                                                                 |
+| Effetto        |                                                                                    |
+| In Piedi       | Nel prossimo turno dell'avversario, lancia 2 dadi energia in meno. |
+| A testa in giù |                                                                                    |
+| Supino         |                                                                                    |
+| Prono          |                                                                                    |
+| Sui fianchi    | Nel prossimo turno dell'avversario, lancia 2 dadi energia in meno. |
 
-[Cold Breath](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard08.webp)
+[Soffio Freddo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard08.webp)
 
-#### Sheer Cold
+#### Purogelo
 
-| Nome           | Sheer Cold                                                                                                                                  |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | ぜったいれいど                                                                                                                                     |
-| Tipo           | Acqua                                                                                                                                       |
-| Codice         | EBW01-029                                                                                                                                   |
-| Pokémon        | Articuno                                                                                                                                    |
-| Energia        | {W}{W}{W}{W}                                                                                                                                |
-| Danni          | 40                                                                                                                                          |
-| Effetto        |                                                                                                                                             |
-| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
-| A testa in giù |                                                                                                                                             |
-| Supino         | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
-| Prono          |                                                                                                                                             |
-| Sui fianchi    |                                                                                                                                             |
+| Nome           | Purogelo                                                                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Giapponese     | ぜったいれいど                                                                                                                              |
+| Tipo           | Acqua                                                                                                                                |
+| Codice         | EBW01-029                                                                                                                            |
+| Pokémon        | Articuno                                                                                                                             |
+| Energia        | {W}{W}{W}{W}                                                                                                                         |
+| Danni          | 40                                                                                                                                   |
+| Effetto        |                                                                                                                                      |
+| In Piedi       | Nel prossimo turno dell'avversario, lancia 2 dadi energia in meno. Non può lanciare il suo PokéDice. |
+| A testa in giù |                                                                                                                                      |
+| Supino         | Nel prossimo turno dell'avversario, lancia 2 dadi energia in meno. Non può lanciare il suo PokéDice. |
+| Prono          |                                                                                                                                      |
+| Sui fianchi    |                                                                                                                                      |
 
-[Sheer Cold](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
+[Purogelo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
 
 #### Volo
 
@@ -190,4 +190,4 @@
 | Prono          | Questa mossa fallisce.                                                                   |
 | Sui fianchi    | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. |
 
-[Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)
+[Volo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

@@ -61,20 +61,20 @@
 
 #### Shadow Bind
 
-| Nome           | Shadow Bind                                                                     |
-| -------------- | ------------------------------------------------------------------------------- |
-| Giapponese     | かげしばり                                                                           |
-| Tipo           | Buio                                                                            |
-| Codice         | STW07-004                                                                       |
-| Pokémon        | Gengar                                                                          |
-| Energia        | {D}{D}{D}                                                                       |
-| Danni          | 30                                                                              |
-| Effetto        |                                                                                 |
-| In Piedi       | On your opponent's next turn, they cannot roll their Charakoro. |
-| A testa in giù |                                                                                 |
-| Supino         | On your opponent's next turn, they cannot roll their Charakoro. |
-| Prono          |                                                                                 |
-| Sui fianchi    | On your opponent's next turn, they cannot roll their Charakoro. |
+| Nome           | Shadow Bind                                                                           |
+| -------------- | ------------------------------------------------------------------------------------- |
+| Giapponese     | かげしばり                                                                                 |
+| Tipo           | Buio                                                                                  |
+| Codice         | STW07-004                                                                             |
+| Pokémon        | Gengar                                                                                |
+| Energia        | {D}{D}{D}                                                                             |
+| Danni          | 30                                                                                    |
+| Effetto        |                                                                                       |
+| In Piedi       | Nel prossimo turno dell'avversario, non può lanciare il suo PokéDice. |
+| A testa in giù |                                                                                       |
+| Supino         | Nel prossimo turno dell'avversario, non può lanciare il suo PokéDice. |
+| Prono          |                                                                                       |
+| Sui fianchi    | Nel prossimo turno dell'avversario, non può lanciare il suo PokéDice. |
 
 [Shadow Bind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard04.webp)
 
@@ -139,19 +139,19 @@
 
 #### Night Lock ?
 
-| Nome           | Night Lock ?                                                                              |
-| -------------- | ----------------------------------------------------------------------------------------- |
-| Giapponese     | ナイトロック                                                                                    |
-| Tipo           | Buio                                                                                      |
-| Codice         | PRW02-1-08                                                                                |
-| Pokémon        | Gengar                                                                                    |
-| Energia        | {D}{D}{D}{D}                                                                              |
-| Danni          | 30                                                                                        |
-| Effetto        |                                                                                           |
-| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
-| A testa in giù |                                                                                           |
-| Supino         |                                                                                           |
-| Prono          |                                                                                           |
-| Sui fianchi    |                                                                                           |
+| Nome           | Night Lock ?                                                                       |
+| -------------- | ---------------------------------------------------------------------------------- |
+| Giapponese     | ナイトロック                                                                             |
+| Tipo           | Buio                                                                               |
+| Codice         | PRW02-1-08                                                                         |
+| Pokémon        | Gengar                                                                             |
+| Energia        | {D}{D}{D}{D}                                                                       |
+| Danni          | 30                                                                                 |
+| Effetto        |                                                                                    |
+| In Piedi       | Nel prossimo turno dell'avversario, lancia 2 dadi energia in meno. |
+| A testa in giù |                                                                                    |
+| Supino         |                                                                                    |
+| Prono          |                                                                                    |
+| Sui fianchi    |                                                                                    |
 
 [Night Lock](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img03.webp)

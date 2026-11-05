@@ -23,20 +23,20 @@
 
 #### Force Palm
 
-| Nome           | Force Palm                                                                                |
-| -------------- | ----------------------------------------------------------------------------------------- |
-| Giapponese     | はっけい                                                                                      |
-| Tipo           | Lotta                                                                                     |
-| Codice         | STW09-002                                                                                 |
-| Pokémon        | Lucario                                                                                   |
-| Energia        | {F}{F}                                                                                    |
-| Danni          | 20                                                                                        |
-| Effetto        |                                                                                           |
-| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| A testa in giù |                                                                                           |
-| Supino         | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Prono          |                                                                                           |
-| Sui fianchi    |                                                                                           |
+| Nome           | Force Palm                                                                         |
+| -------------- | ---------------------------------------------------------------------------------- |
+| Giapponese     | はっけい                                                                               |
+| Tipo           | Lotta                                                                              |
+| Codice         | STW09-002                                                                          |
+| Pokémon        | Lucario                                                                            |
+| Energia        | {F}{F}                                                                             |
+| Danni          | 20                                                                                 |
+| Effetto        |                                                                                    |
+| In Piedi       | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| A testa in giù |                                                                                    |
+| Supino         | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| Prono          |                                                                                    |
+| Sui fianchi    |                                                                                    |
 
 [Force Palm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard02.webp)
 

@@ -80,20 +80,20 @@
 
 #### Bubble Beam
 
-| Nome           | Bubble Beam                                                                               |
-| -------------- | ----------------------------------------------------------------------------------------- |
-| Giapponese     | バブルこうせん                                                                                   |
-| Tipo           | Acqua                                                                                     |
-| Codice         | STW03-005                                                                                 |
-| Pokémon        | Squirtle                                                                                  |
-| Energia        | {W}{W}{W}                                                                                 |
-| Danni          | 30                                                                                        |
-| Effetto        |                                                                                           |
-| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| A testa in giù |                                                                                           |
-| Supino         | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Prono          | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Sui fianchi    |                                                                                           |
+| Nome           | Bubble Beam                                                                        |
+| -------------- | ---------------------------------------------------------------------------------- |
+| Giapponese     | バブルこうせん                                                                            |
+| Tipo           | Acqua                                                                              |
+| Codice         | STW03-005                                                                          |
+| Pokémon        | Squirtle                                                                           |
+| Energia        | {W}{W}{W}                                                                          |
+| Danni          | 30                                                                                 |
+| Effetto        |                                                                                    |
+| In Piedi       | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| A testa in giù |                                                                                    |
+| Supino         | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| Prono          | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| Sui fianchi    |                                                                                    |
 
 [Bubble Beam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard05.webp)
 
@@ -139,19 +139,19 @@
 
 #### Hard Shell ?
 
-| Nome           | Hard Shell ?                                                                                      |
-| -------------- | ------------------------------------------------------------------------------------------------- |
-| Giapponese     | カチカチこうら                                                                                           |
-| Tipo           | Acqua                                                                                             |
-| Codice         | PRW01-3-08                                                                                        |
-| Pokémon        | Squirtle                                                                                          |
-| Energia        | {W}{W}{W}                                                                                         |
-| Danni          | 20                                                                                                |
-| Effetto        |                                                                                                   |
-| In Piedi       |                                                                                                   |
-| A testa in giù |                                                                                                   |
-| Supino         |                                                                                                   |
-| Prono          | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
-| Sui fianchi    |                                                                                                   |
+| Nome           | Hard Shell ?                                                                                        |
+| -------------- | --------------------------------------------------------------------------------------------------- |
+| Giapponese     | カチカチこうら                                                                                             |
+| Tipo           | Acqua                                                                                               |
+| Codice         | PRW01-3-08                                                                                          |
+| Pokémon        | Squirtle                                                                                            |
+| Energia        | {W}{W}{W}                                                                                           |
+| Danni          | 20                                                                                                  |
+| Effetto        |                                                                                                     |
+| In Piedi       |                                                                                                     |
+| A testa in giù |                                                                                                     |
+| Supino         |                                                                                                     |
+| Prono          | Durante il prossimo turno dell'avversario, questo Pokémon subisce 50 danni in meno. |
+| Sui fianchi    |                                                                                                     |
 
 [Hard Shell](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img03.webp)

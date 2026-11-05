@@ -97,9 +97,9 @@
 
 [Rock Tomb](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard05.webp)
 
-#### Ram
+#### Urto
 
-| Nome           | Ram                        |
+| Nome           | Urto                       |
 | -------------- | -------------------------- |
 | Giapponese     | ぶつかる                       |
 | Tipo           | Acciaio                    |
@@ -114,7 +114,7 @@
 | Prono          |                            |
 | Sui fianchi    | +10 danni. |
 
-[Ram](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard06.webp)
+[Urto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard06.webp)
 
 #### Steel Body ?
 

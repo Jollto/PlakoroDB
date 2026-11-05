@@ -40,28 +40,28 @@
 
 [Fluffy Flight](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 
-#### Roost
+#### Trespolo
 
-| Nome           | Roost                                                  |
-| -------------- | ------------------------------------------------------ |
-| Giapponese     | はねやすめ                                                  |
-| Tipo           | Volante                                                |
-| Codice         | STW10-003                                              |
-| Pokémon        | Altaria                                                |
-| Energia        | {Y}{Y}                                                 |
-| Danni          |                                                        |
-| Effetto        | Heal 20 damage from this Pokémon.      |
-| In Piedi       | Heal 20 more damage from this Pokémon. |
-| A testa in giù |                                                        |
-| Supino         |                                                        |
-| Prono          |                                                        |
-| Sui fianchi    | Heal 20 more damage from this Pokémon. |
+| Nome           | Trespolo                                       |
+| -------------- | ---------------------------------------------- |
+| Giapponese     | はねやすめ                                          |
+| Tipo           | Volante                                        |
+| Codice         | STW10-003                                      |
+| Pokémon        | Altaria                                        |
+| Energia        | {Y}{Y}                                         |
+| Danni          |                                                |
+| Effetto        | Questo Pokémon recupera 20 HP. |
+| In Piedi       | Recupera altri 20.             |
+| A testa in giù |                                                |
+| Supino         |                                                |
+| Prono          |                                                |
+| Sui fianchi    | Recupera altri 20.             |
 
 [Roost](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard03.webp)
 
-#### Aerial Ace
+#### Aeroassalto
 
-| Nome           | Aerial Ace                 |
+| Nome           | Aeroassalto                |
 | -------------- | -------------------------- |
 | Giapponese     | つばめがえし                     |
 | Tipo           | Volante                    |

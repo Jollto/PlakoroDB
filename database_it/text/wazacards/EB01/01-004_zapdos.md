@@ -1,10 +1,10 @@
-## Zapdos Cards
+## Carte di Zapdos
 
 ### Box Esplorazione 1
 
-#### Thunder Flash ?
+#### Lampo Elettrico ?
 
-| Nome           | Thunder Flash ?            |
+| Nome           | Lampo Elettrico ?          |
 | -------------- | -------------------------- |
 | Giapponese     | でんじフラッシュ                   |
 | Tipo           | Elettro                    |
@@ -19,11 +19,11 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Thunder Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
+[Lampo Elettrico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
 
-#### Thunder Shock
+#### Tuonoshock
 
-| Nome           | Thunder Shock              |
+| Nome           | Tuonoshock                 |
 | -------------- | -------------------------- |
 | Giapponese     | でんきショック                    |
 | Tipo           | Elettro                    |
@@ -38,30 +38,30 @@
 | Prono          |                            |
 | Sui fianchi    | +10 danni. |
 
-[Thunder Shock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard02.webp)
+[Tuonoshock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard02.webp)
 
-#### Volt Rush ?
+#### Carica Volt ?
 
-| Nome           | Volt Rush ?                                                                                              |
-| -------------- | -------------------------------------------------------------------------------------------------------- |
-| Giapponese     | ボルトラッシュ                                                                                                  |
-| Tipo           | Elettro                                                                                                  |
-| Codice         | EBW01-033                                                                                                |
-| Pokémon        | Zapdos                                                                                                   |
-| Energia        | {L}{L}{L}{L}                                                                                             |
-| Danni          | 10                                                                                                       |
-| Effetto        | Roll your Charakoro 3 times.                                                             |
-| In Piedi       | Each time the Charakoro roll succeeds with this attack, this attack does 30 more damage. |
-| A testa in giù |                                                                                                          |
-| Supino         |                                                                                                          |
-| Prono          |                                                                                                          |
-| Sui fianchi    | Each time the Charakoro roll succeeds with this attack, this attack does 30 more damage. |
+| Nome           | Carica Volt ?                                                          |
+| -------------- | ---------------------------------------------------------------------- |
+| Giapponese     | ボルトラッシュ                                                                |
+| Tipo           | Elettro                                                                |
+| Codice         | EBW01-033                                                              |
+| Pokémon        | Zapdos                                                                 |
+| Energia        | {L}{L}{L}{L}                                                           |
+| Danni          | 10                                                                     |
+| Effetto        | Lancia il PokéDice 3 volte in totale per questa mossa. |
+| In Piedi       | +30 danni per ogni PokéDice riuscito con questa mossa. |
+| A testa in giù |                                                                        |
+| Supino         |                                                                        |
+| Prono          |                                                                        |
+| Sui fianchi    | +30 danni per ogni PokéDice riuscito con questa mossa. |
 
-[Volt Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard03.webp)
+[Carica Volt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard03.webp)
 
-#### Aerial Ace
+#### Aeroassalto
 
-| Nome           | Aerial Ace                 |
+| Nome           | Aeroassalto                |
 | -------------- | -------------------------- |
 | Giapponese     | つばめがえし                     |
 | Tipo           | Volante                    |
@@ -76,11 +76,11 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Aerial Ace](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard04.webp)
+[Aeroassalto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard04.webp)
 
-#### Crackling Wing ?
+#### Ala Crepitante ?
 
-| Nome           | Crackling Wing ?           |
+| Nome           | Ala Crepitante ?           |
 | -------------- | -------------------------- |
 | Giapponese     | バリバリウイング                   |
 | Tipo           | Volante                    |
@@ -95,30 +95,30 @@
 | Prono          |                            |
 | Sui fianchi    | +40 danni. |
 
-[Crackling Wing](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
+[Ala Crepitante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
 
-#### Dual Thunder ?
+#### Doppio Tuono ?
 
-| Nome           | Dual Thunder ?                                                                                           |
-| -------------- | -------------------------------------------------------------------------------------------------------- |
-| Giapponese     | ダブルサンダー                                                                                                  |
-| Tipo           | Elettro                                                                                                  |
-| Codice         | EBW01-036                                                                                                |
-| Pokémon        | Zapdos                                                                                                   |
-| Energia        | {L}                                                                                                      |
-| Danni          |                                                                                                          |
-| Effetto        | Roll your Charakoro 2 times.                                                             |
-| In Piedi       | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| A testa in giù |                                                                                                          |
-| Supino         | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| Prono          | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| Sui fianchi    |                                                                                                          |
+| Nome           | Doppio Tuono ?                                                         |
+| -------------- | ---------------------------------------------------------------------- |
+| Giapponese     | ダブルサンダー                                                                |
+| Tipo           | Elettro                                                                |
+| Codice         | EBW01-036                                                              |
+| Pokémon        | Zapdos                                                                 |
+| Energia        | {L}                                                                    |
+| Danni          |                                                                        |
+| Effetto        | Lancia il PokéDice 2 volte in totale per questa mossa. |
+| In Piedi       | +20 danni per ogni PokéDice riuscito con questa mossa. |
+| A testa in giù |                                                                        |
+| Supino         | +20 danni per ogni PokéDice riuscito con questa mossa. |
+| Prono          | +20 danni per ogni PokéDice riuscito con questa mossa. |
+| Sui fianchi    |                                                                        |
 
-[Dual Thunder](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard06.webp)
+[Doppio Tuono](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard06.webp)
 
-#### Electroarrow ?
+#### Freccia Elettrica ?
 
-| Nome           | Electroarrow ?             |
+| Nome           | Freccia Elettrica ?        |
 | -------------- | -------------------------- |
 | Giapponese     | エレキアロー                     |
 | Tipo           | Elettro                    |
@@ -133,11 +133,11 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Electroarrow](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard07.webp)
+[Freccia Elettrica](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard07.webp)
 
-#### Discharge
+#### Scarica
 
-| Nome           | Discharge                  |
+| Nome           | Scarica                    |
 | -------------- | -------------------------- |
 | Giapponese     | ほうでん                       |
 | Tipo           | Elettro                    |
@@ -152,26 +152,26 @@
 | Prono          | +20 danni. |
 | Sui fianchi    |                            |
 
-[Discharge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard08.webp)
+[Scarica](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard08.webp)
 
-#### Thunder Chain ?
+#### Catena di Tuono
 
-| Nome           | Thunder Chain ?                                                                                                                        |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | サンダーチェイン                                                                                                                               |
-| Tipo           | Elettro                                                                                                                                |
-| Codice         | EBW01-039                                                                                                                              |
-| Pokémon        | Zapdos                                                                                                                                 |
-| Energia        | {L}{L}{L}{L}                                                                                                                           |
-| Danni          | 30                                                                                                                                     |
-| Effetto        |                                                                                                                                        |
-| In Piedi       | +30 danni. Reroll your Charakoro. (Can be repeated until it fails.) |
-| A testa in giù |                                                                                                                                        |
-| Supino         | +30 danni. Reroll your Charakoro. (Can be repeated until it fails.) |
-| Prono          | +30 danni. Reroll your Charakoro. (Can be repeated until it fails.) |
-| Sui fianchi    |                                                                                                                                        |
+| Nome           | Catena di Tuono                                                                                                                              |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | サンダーチェイン                                                                                                                                     |
+| Tipo           | Elettro                                                                                                                                      |
+| Codice         | EBW01-039                                                                                                                                    |
+| Pokémon        | Zapdos                                                                                                                                       |
+| Energia        | {L}{L}{L}{L}                                                                                                                                 |
+| Danni          | 30                                                                                                                                           |
+| Effetto        |                                                                                                                                              |
+| In Piedi       | +30 danni. Lancia di nuovo il PokéDice. (Ripetibile finché non fallisce.) |
+| A testa in giù |                                                                                                                                              |
+| Supino         | +30 danni. Lancia di nuovo il PokéDice. (Ripetibile finché non fallisce.) |
+| Prono          | +30 danni. Lancia di nuovo il PokéDice. (Ripetibile finché non fallisce.) |
+| Sui fianchi    |                                                                                                                                              |
 
-[Thunder Chain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
+[Catena di Tuono](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard09.webp)
 
 #### Volo
 
@@ -190,4 +190,4 @@
 | Prono          | Questa mossa fallisce.                                                                   |
 | Sui fianchi    | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. |
 
-[Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)
+[Volo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

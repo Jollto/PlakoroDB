@@ -1,6 +1,6 @@
 ## Aggron Cards
 
-### Exploration Box 2
+### Box Eslporazione 2
 
 #### Metal Claw
 
@@ -80,20 +80,20 @@
 
 #### Rock Tomb
 
-| Nome           | Rock Tomb                                                                                 |
-| -------------- | ----------------------------------------------------------------------------------------- |
-| Giapponese     | がんせきふうじ                                                                                   |
-| Tipo           | Lotta                                                                                     |
-| Codice         | EBW02-035                                                                                 |
-| Pokémon        | Aggron                                                                                    |
-| Energia        | {F}{C}{C}{C}                                                                              |
-| Danni          | 30                                                                                        |
-| Effetto        |                                                                                           |
-| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| A testa in giù |                                                                                           |
-| Supino         | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Prono          | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Sui fianchi    |                                                                                           |
+| Nome           | Rock Tomb                                                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------ |
+| Giapponese     | がんせきふうじ                                                                                          |
+| Tipo           | Lotta                                                                                            |
+| Codice         | EBW02-035                                                                                        |
+| Pokémon        | Aggron                                                                                           |
+| Energia        | {F}{C}{C}{C}                                                                                     |
+| Danni          | 30                                                                                               |
+| Effetto        |                                                                                                  |
+| In Piedi       | Nel prossimo turno dell'avversario, reduce the number of Enekoro they roll by 1. |
+| A testa in giù |                                                                                                  |
+| Supino         | Nel prossimo turno dell'avversario, reduce the number of Enekoro they roll by 1. |
+| Prono          | Nel prossimo turno dell'avversario, reduce the number of Enekoro they roll by 1. |
+| Sui fianchi    |                                                                                                  |
 
 [Rock Tomb](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard05.webp)
 
@@ -137,20 +137,20 @@
 
 #### Powerful Steel ?
 
-| Nome           | Powerful Steel ?                                                                                                                |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | パワフルスチール                                                                                                                        |
-| Tipo           | Acciaio                                                                                                                         |
-| Codice         | EBW02-038                                                                                                                       |
-| Pokémon        | Aggron                                                                                                                          |
-| Energia        | {M}{M}{M}                                                                                                                       |
-| Danni          | 20                                                                                                                              |
-| Effetto        |                                                                                                                                 |
-| In Piedi       | If this Pokémon was not damaged by an attack during your opponent's last turn, this attack does 40 more damage. |
-| A testa in giù |                                                                                                                                 |
-| Supino         |                                                                                                                                 |
-| Prono          |                                                                                                                                 |
-| Sui fianchi    | If this Pokémon was not damaged by an attack during your opponent's last turn, this attack does 40 more damage. |
+| Nome           | Powerful Steel ?                                                                                          |
+| -------------- | --------------------------------------------------------------------------------------------------------- |
+| Giapponese     | パワフルスチール                                                                                                  |
+| Tipo           | Acciaio                                                                                                   |
+| Codice         | EBW02-038                                                                                                 |
+| Pokémon        | Aggron                                                                                                    |
+| Energia        | {M}{M}{M}                                                                                                 |
+| Danni          | 20                                                                                                        |
+| Effetto        |                                                                                                           |
+| In Piedi       | If this Pokémon was not damaged by an attack during your opponent's last turn, +40 danni. |
+| A testa in giù |                                                                                                           |
+| Supino         |                                                                                                           |
+| Prono          |                                                                                                           |
+| Sui fianchi    | If this Pokémon was not damaged by an attack during your opponent's last turn, +40 danni. |
 
 [Powerful Steel](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
 

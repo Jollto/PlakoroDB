@@ -61,26 +61,26 @@
 
 #### Accerchiamento Fangoso ?
 
-| Nome           | Accerchiamento Fangoso ?                                                                            |
-| -------------- | --------------------------------------------------------------------------------------------------- |
-| Giapponese     | ヘドロでかこむ                                                                                             |
-| Tipo           | Buio                                                                                                |
-| Codice         | EBW01-054                                                                                           |
-| Pokémon        | Grimer                                                                                              |
-| Energia        | {D}{D}{D}                                                                                           |
-| Danni          | 30                                                                                                  |
-| Effetto        |                                                                                                     |
-| In Piedi       | Scegli una mossa dell'avversario Non può usare quella mossa nel suo prossimo turno. |
-| A testa in giù |                                                                                                     |
-| Supino         | Scegli una mossa dell'avversario Non può usare quella mossa nel suo prossimo turno. |
-| Prono          | Scegli una mossa dell'avversario Non può usare quella mossa nel suo prossimo turno. |
-| Sui fianchi    |                                                                                                     |
+| Nome           | Accerchiamento Fangoso ?                                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Giapponese     | ヘドロでかこむ                                                                                                            |
+| Tipo           | Buio                                                                                                               |
+| Codice         | EBW01-054                                                                                                          |
+| Pokémon        | Grimer                                                                                                             |
+| Energia        | {D}{D}{D}                                                                                                          |
+| Danni          | 30                                                                                                                 |
+| Effetto        |                                                                                                                    |
+| In Piedi       | Scegli 1 mossa dell'avversario. Non può usare quella mossa nel suo prossimo turno. |
+| A testa in giù |                                                                                                                    |
+| Supino         | Scegli 1 mossa dell'avversario. Non può usare quella mossa nel suo prossimo turno. |
+| Prono          | Scegli 1 mossa dell'avversario. Non può usare quella mossa nel suo prossimo turno. |
+| Sui fianchi    |                                                                                                                    |
 
 [Accerchiamento Fangoso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard04.webp)
 
-#### Pugno Veleno
+#### Pugno Veleno ?
 
-| Nome           | Pugno Veleno               |
+| Nome           | Pugno Veleno ?             |
 | -------------- | -------------------------- |
 | Giapponese     | ベノムパンチ                     |
 | Tipo           | Buio                       |
@@ -154,9 +154,9 @@
 
 [Azione Fangosa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard09.webp)
 
-#### Veleno Dispettoso
+#### Veleno Dispettoso ?
 
-| Nome           | Veleno Dispettoso                                                                                                    |
+| Nome           | Veleno Dispettoso ?                                                                                                  |
 | -------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Giapponese     | いやがらせベノム                                                                                                             |
 | Tipo           | Buio                                                                                                                 |

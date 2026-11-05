@@ -21,9 +21,9 @@
 
 [Gnaw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard01.webp)
 
-#### Thunder Shock
+#### Tuonoshock
 
-| Nome           | Thunder Shock              |
+| Nome           | Tuonoshock                 |
 | -------------- | -------------------------- |
 | Giapponese     | でんきショック                    |
 | Tipo           | Elettro                    |
@@ -51,9 +51,9 @@
 | Energia        | {L}{L}                                                                                                                |
 | Danni          | 20                                                                                                                    |
 | Effetto        | This attack's damage isn't affected by Weakness.                                                      |
-| In Piedi       | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
+| In Piedi       | Use "Electric Rush" 1 more time. (Ripetibile finché non fallisce.) |
 | A testa in giù |                                                                                                                       |
-| Supino         | Use "Electric Rush" 1 more time. (Can be repeated until it fails.) |
+| Supino         | Use "Electric Rush" 1 more time. (Ripetibile finché non fallisce.) |
 | Prono          |                                                                                                                       |
 | Sui fianchi    |                                                                                                                       |
 
@@ -116,22 +116,22 @@
 
 [Volt Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard06.webp)
 
-#### Iron Tail
+#### Codacciaio
 
-| Nome           | Iron Tail                                                                                         |
-| -------------- | ------------------------------------------------------------------------------------------------- |
-| Giapponese     | アイアンテール                                                                                           |
-| Tipo           | Acciaio                                                                                           |
-| Codice         | STW04-007                                                                                         |
-| Pokémon        | Pikachu                                                                                           |
-| Energia        | {M}                                                                                               |
-| Danni          | 20                                                                                                |
-| Effetto        |                                                                                                   |
-| In Piedi       | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
-| A testa in giù |                                                                                                   |
-| Supino         | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
-| Prono          | During your opponent's next turn, this Pokémon takes 10 less damage from attacks. |
-| Sui fianchi    |                                                                                                   |
+| Nome           | Codacciaio                                                                                          |
+| -------------- | --------------------------------------------------------------------------------------------------- |
+| Giapponese     | アイアンテール                                                                                             |
+| Tipo           | Acciaio                                                                                             |
+| Codice         | STW04-007                                                                                           |
+| Pokémon        | Pikachu                                                                                             |
+| Energia        | {M}                                                                                                 |
+| Danni          | 20                                                                                                  |
+| Effetto        |                                                                                                     |
+| In Piedi       | Durante il prossimo turno dell'avversario, questo Pokémon subisce 10 danni in meno. |
+| A testa in giù |                                                                                                     |
+| Supino         | Durante il prossimo turno dell'avversario, questo Pokémon subisce 10 danni in meno. |
+| Prono          | Durante il prossimo turno dell'avversario, questo Pokémon subisce 10 danni in meno. |
+| Sui fianchi    |                                                                                                     |
 
 [Iron Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
 

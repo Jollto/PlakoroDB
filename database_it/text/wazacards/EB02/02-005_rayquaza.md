@@ -1,6 +1,6 @@
 ## Rayquaza Cards
 
-### Exploration Box 2
+### Box Eslporazione 2
 
 #### Shred
 
@@ -42,20 +42,20 @@
 
 #### Breaking Swipe
 
-| Nome           | Breaking Swipe                                                                            |
-| -------------- | ----------------------------------------------------------------------------------------- |
-| Giapponese     | ワイドブレイカー                                                                                  |
-| Tipo           | Drago                                                                                     |
-| Codice         | EBW02-043                                                                                 |
-| Pokémon        | Rayquaza                                                                                  |
-| Energia        | {R}{R}{L}                                                                                 |
-| Danni          | 30                                                                                        |
-| Effetto        |                                                                                           |
-| In Piedi       |                                                                                           |
-| A testa in giù |                                                                                           |
-| Supino         |                                                                                           |
-| Prono          |                                                                                           |
-| Sui fianchi    | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
+| Nome           | Breaking Swipe                                                                                   |
+| -------------- | ------------------------------------------------------------------------------------------------ |
+| Giapponese     | ワイドブレイカー                                                                                         |
+| Tipo           | Drago                                                                                            |
+| Codice         | EBW02-043                                                                                        |
+| Pokémon        | Rayquaza                                                                                         |
+| Energia        | {R}{R}{L}                                                                                        |
+| Danni          | 30                                                                                               |
+| Effetto        |                                                                                                  |
+| In Piedi       |                                                                                                  |
+| A testa in giù |                                                                                                  |
+| Supino         |                                                                                                  |
+| Prono          |                                                                                                  |
+| Sui fianchi    | Nel prossimo turno dell'avversario, reduce the number of Enekoro they roll by 1. |
 
 [Breaking Swipe](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
 

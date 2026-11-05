@@ -126,7 +126,7 @@
 | Pokémon        | Chansey                                            |
 | Energia        | {Y}{Y}                                             |
 | Danni          |                                                    |
-| Effetto        | Heal 20 damage from this Pokémon.  |
+| Effetto        | Questo Pokémon recupera 20 HP.     |
 | In Piedi       | Heal all damage from this Pokémon. |
 | A testa in giù |                                                    |
 | Supino         |                                                    |

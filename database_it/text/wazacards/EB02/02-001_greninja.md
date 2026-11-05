@@ -50,7 +50,7 @@
 | Pokémon        | Greninja                                                                                                 |
 | Energia        | {W}{W}{W}                                                                                                |
 | Danni          |                                                                                                          |
-| Effetto        | Roll your Charakoro 3 times.                                                             |
+| Effetto        | Lancia il PokéDice 3 volte in totale per questa mossa.                                   |
 | In Piedi       | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
 | A testa in giù |                                                                                                          |
 | Supino         |                                                                                                          |
@@ -145,7 +145,7 @@
 | Pokémon        | Greninja                                                                                                 |
 | Energia        | {W}{W}{W}{W}                                                                                             |
 | Danni          |                                                                                                          |
-| Effetto        | Roll your Charakoro 2 times.                                                             |
+| Effetto        | Lancia il PokéDice 2 volte in totale per questa mossa.                                   |
 | In Piedi       | Each time the Charakoro roll succeeds with this attack, this attack does 40 more damage. |
 | A testa in giù |                                                                                                          |
 | Supino         |                                                                                                          |

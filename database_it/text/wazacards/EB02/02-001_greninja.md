@@ -1,193 +1,193 @@
-## Greninja Cards
+## Carte di Greninja
 
-### Exploration Box 2
+### Box Eslporazione 2
 
-#### Waterfall
+#### Cascata
 
-| Nome           | Waterfall  |
-| -------------- | ---------- |
-| Giapponese     | たきのぼり |
-| Tipo           | Acqua      |
-| Codice         | EBW02-001  |
-| Pokémon        | Greninja   |
-| Energia        | {W}{W}     |
-| Danni          | 20         |
-| Effetto        |            |
+| Nome           | Cascata                    |
+| -------------- | -------------------------- |
+| Giapponese     | たきのぼり                      |
+| Tipo           | Acqua                      |
+| Codice         | EBW02-001                  |
+| Pokémon        | Greninja                   |
+| Energia        | {W}{W}                     |
+| Danni          | 20                         |
+| Effetto        |                            |
 | In Piedi       | +20 danni. |
-| A testa in giù |            |
+| A testa in giù |                            |
 | Supino         | +20 danni. |
 | Prono          | +20 danni. |
-| Sui fianchi    |            |
+| Sui fianchi    |                            |
 
-[Waterfall](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard01.webp)
+[Cascata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard01.webp)
 
-#### Shifting Slash ?
+#### Taglio mutevole ?
 
-| Nome           | Shifting Slash ?                                                                               |
-| -------------- | ---------------------------------------------------------------------------------------------- |
-| Giapponese     | へんげぎり                                                                                     |
-| Tipo           | Acqua                                                                                          |
-| Codice         | EBW02-002                                                                                      |
-| Pokémon        | Greninja                                                                                       |
-| Energia        | {W}{W}                                                                                         |
-| Danni          | 20                                                                                             |
-| Effetto        |                                                                                                |
-| In Piedi       | Choose 1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.) |
-| A testa in giù |                                                                                                |
-| Supino         | Choose 1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.) |
-| Prono          |                                                                                                |
-| Sui fianchi    | Choose 1 of your Enekoro and swap out as many chips as you like. (Use chips you already have.) |
+| Nome           | Taglio mutevole ?                                                                                                                               |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | へんげぎり                                                                                                                                           |
+| Tipo           | Acqua                                                                                                                                           |
+| Codice         | EBW02-002                                                                                                                                       |
+| Pokémon        | Greninja                                                                                                                                        |
+| Energia        | {W}{W}                                                                                                                                          |
+| Danni          | 20                                                                                                                                              |
+| Effetto        |                                                                                                                                                 |
+| In Piedi       | Scegli 1 dei tuoi dadi energia e sostituisci quanti gettoni vuoi. (Usa gettoni che hai già.) |
+| A testa in giù |                                                                                                                                                 |
+| Supino         | Scegli 1 dei tuoi dadi energia e sostituisci quanti gettoni vuoi. (Usa gettoni che hai già.) |
+| Prono          |                                                                                                                                                 |
+| Sui fianchi    | Scegli 1 dei tuoi dadi energia e sostituisci quanti gettoni vuoi. (Usa gettoni che hai già.) |
 
-[Shifting Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard02.webp)
+[Taglio mutevole](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard02.webp)
 
-#### Water Shuriken
+#### Acqualame
 
-| Nome           | Water Shuriken                                                                           |
-| -------------- | ---------------------------------------------------------------------------------------- |
-| Giapponese     | みずしゅりけん                                                                           |
-| Tipo           | Acqua                                                                                    |
-| Codice         | EBW02-003                                                                                |
-| Pokémon        | Greninja                                                                                 |
-| Energia        | {W}{W}{W}                                                                                |
-| Danni          |                                                                                          |
-| Effetto        | Roll your Charakoro 3 times.                                                             |
-| In Piedi       | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| A testa in giù |                                                                                          |
-| Supino         |                                                                                          |
-| Prono          |                                                                                          |
-| Sui fianchi    | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
+| Nome           | Acqualame                                                               |
+| -------------- | ----------------------------------------------------------------------- |
+| Giapponese     | みずしゅりけん                                                                 |
+| Tipo           | Acqua                                                                   |
+| Codice         | EBW02-003                                                               |
+| Pokémon        | Greninja                                                                |
+| Energia        | {W}{W}{W}                                                               |
+| Danni          |                                                                         |
+| Effetto        | Lancia il PokéDice 3 volte in totale per questa mossa.  |
+| In Piedi       | per ogni PokéDice riuscito con questa mossa, +20 danni. |
+| A testa in giù |                                                                         |
+| Supino         |                                                                         |
+| Prono          |                                                                         |
+| Sui fianchi    | per ogni PokéDice riuscito con questa mossa, +20 danni. |
 
-[Water Shuriken](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard03.webp)
+[Acqualame](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard03.webp)
 
-#### Shadow Sneak
+#### Furtivombra
 
-| Nome           | Shadow Sneak |
-| -------------- | ------------ |
-| Giapponese     | かげうち     |
-| Tipo           | Psico        |
-| Codice         | EBW02-004    |
-| Pokémon        | Greninja     |
-| Energia        | {P}{C}{C}    |
-| Danni          | 20           |
-| Effetto        |              |
-| In Piedi       | +30 danni.   |
-| A testa in giù |              |
-| Supino         | +30 danni.   |
-| Prono          |              |
-| Sui fianchi    |              |
+| Nome           | Furtivombra                |
+| -------------- | -------------------------- |
+| Giapponese     | かげうち                       |
+| Tipo           | Psico                      |
+| Codice         | EBW02-004                  |
+| Pokémon        | Greninja                   |
+| Energia        | {P}{C}{C}                  |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +30 danni. |
+| A testa in giù |                            |
+| Supino         | +30 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
-[Shadow Sneak](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard04.webp)
+[Furtivombra](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard04.webp)
 
-#### Night Slash
+#### Nottesferza
 
-| Nome           | Night Slash  |
-| -------------- | ------------ |
-| Giapponese     | つじぎり     |
-| Tipo           | Buio         |
-| Codice         | EBW02-005    |
-| Pokémon        | Greninja     |
-| Energia        | {D}{C}{C}{C} |
-| Danni          | 30           |
-| Effetto        |              |
-| In Piedi       | +30 danni.   |
-| A testa in giù |              |
-| Supino         | +30 danni.   |
-| Prono          | +30 danni.   |
-| Sui fianchi    |              |
+| Nome           | Nottesferza                |
+| -------------- | -------------------------- |
+| Giapponese     | つじぎり                       |
+| Tipo           | Buio                       |
+| Codice         | EBW02-005                  |
+| Pokémon        | Greninja                   |
+| Energia        | {D}{C}{C}{C}               |
+| Danni          | 30                         |
+| Effetto        |                            |
+| In Piedi       | +30 danni. |
+| A testa in giù |                            |
+| Supino         | +30 danni. |
+| Prono          | +30 danni. |
+| Sui fianchi    |                            |
 
-[Night Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard05.webp)
+[Nottesferza](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard05.webp)
 
 #### Water Gun
 
-| Nome           | Water Gun    |
-| -------------- | ------------ |
-| Giapponese     | みずでっぽう |
-| Tipo           | Acqua        |
-| Codice         | EBW02-006    |
-| Pokémon        | Greninja     |
-| Energia        | {W}          |
-| Danni          | 10           |
-| Effetto        |              |
-| In Piedi       | +20 danni.   |
-| A testa in giù |              |
-| Supino         | +20 danni.   |
-| Prono          |              |
-| Sui fianchi    |              |
+| Nome           | Water Gun                  |
+| -------------- | -------------------------- |
+| Giapponese     | みずでっぽう                     |
+| Tipo           | Acqua                      |
+| Codice         | EBW02-006                  |
+| Pokémon        | Greninja                   |
+| Energia        | {W}                        |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         | +20 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Water Gun](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard06.webp)
 
-#### Mist Slash
+#### Taglio nebbioso
 
-| Nome           | Mist Slash |
-| -------------- | ---------- |
-| Giapponese     | かすみぎり |
-| Tipo           | Acqua      |
-| Codice         | EBW02-007  |
-| Pokémon        | Greninja   |
-| Energia        | {W}{W}     |
-| Danni          | 20         |
-| Effetto        |            |
+| Nome           | Taglio nebbioso            |
+| -------------- | -------------------------- |
+| Giapponese     | かすみぎり                      |
+| Tipo           | Acqua                      |
+| Codice         | EBW02-007                  |
+| Pokémon        | Greninja                   |
+| Energia        | {W}{W}                     |
+| Danni          | 20                         |
+| Effetto        |                            |
 | In Piedi       | +40 danni. |
-| A testa in giù |            |
-| Supino         |            |
-| Prono          |            |
-| Sui fianchi    |            |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
-[Mist Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard07.webp)
+[Taglio nebbioso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard07.webp)
 
-#### Clone Jutsu ?
+#### Tecnica clone ?
 
-| Nome           | Clone Jutsu ?                                                                            |
-| -------------- | ---------------------------------------------------------------------------------------- |
-| Giapponese     | ぶんしんのじゅつ                                                                         |
-| Tipo           | Acqua                                                                                    |
-| Codice         | EBW02-008                                                                                |
-| Pokémon        | Greninja                                                                                 |
-| Energia        | {W}{W}{W}{W}                                                                             |
-| Danni          |                                                                                          |
-| Effetto        | Roll your Charakoro 2 times.                                                             |
-| In Piedi       | Each time the Charakoro roll succeeds with this attack, this attack does 40 more damage. |
-| A testa in giù |                                                                                          |
-| Supino         |                                                                                          |
-| Prono          |                                                                                          |
-| Sui fianchi    | Each time the Charakoro roll succeeds with this attack, this attack does 40 more damage. |
+| Nome           | Tecnica clone ?                                                         |
+| -------------- | ----------------------------------------------------------------------- |
+| Giapponese     | ぶんしんのじゅつ                                                                |
+| Tipo           | Acqua                                                                   |
+| Codice         | EBW02-008                                                               |
+| Pokémon        | Greninja                                                                |
+| Energia        | {W}{W}{W}{W}                                                            |
+| Danni          |                                                                         |
+| Effetto        | Lancia il PokéDice 2 volte in totale per questa mossa.  |
+| In Piedi       | per ogni PokéDice riuscito con questa mossa, +40 danni. |
+| A testa in giù |                                                                         |
+| Supino         |                                                                         |
+| Prono          |                                                                         |
+| Sui fianchi    | per ogni PokéDice riuscito con questa mossa, +40 danni. |
 
 [Clone Jutsu](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard08.webp)
 
-#### Trailblaze
+#### Apripista
 
-| Nome           | Trailblaze |
-| -------------- | ---------- |
-| Giapponese     | くさわけ   |
-| Tipo           | Erba       |
-| Codice         | EBW02-009  |
-| Pokémon        | Greninja   |
-| Energia        | {G}{C}{C}  |
-| Danni          | 20         |
-| Effetto        |            |
+| Nome           | Apripista                  |
+| -------------- | -------------------------- |
+| Giapponese     | くさわけ                       |
+| Tipo           | Erba                       |
+| Codice         | EBW02-009                  |
+| Pokémon        | Greninja                   |
+| Energia        | {G}{C}{C}                  |
+| Danni          | 20                         |
+| Effetto        |                            |
 | In Piedi       | +30 danni. |
-| A testa in giù |            |
+| A testa in giù |                            |
 | Supino         | +30 danni. |
-| Prono          |            |
-| Sui fianchi    |            |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
-[Trailblaze](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard09.webp)
+[Apripista](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard09.webp)
 
-#### Low Kick
+#### Colpo Basso
 
-| Nome           | Low Kick   |
-| -------------- | ---------- |
-| Giapponese     | けたぐり   |
-| Tipo           | Lotta      |
-| Codice         | EBW02-010  |
-| Pokémon        | Greninja   |
-| Energia        | {F}{C}{C}  |
-| Danni          | 20         |
-| Effetto        |            |
+| Nome           | Colpo Basso                |
+| -------------- | -------------------------- |
+| Giapponese     | けたぐり                       |
+| Tipo           | Lotta                      |
+| Codice         | EBW02-010                  |
+| Pokémon        | Greninja                   |
+| Energia        | {F}{C}{C}                  |
+| Danni          | 20                         |
+| Effetto        |                            |
 | In Piedi       | +20 danni. |
-| A testa in giù |            |
-| Supino         |            |
-| Prono          |            |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
 | Sui fianchi    | +20 danni. |
 
-[Low Kick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard10.webp)
+[Colpo Basso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard10.webp)

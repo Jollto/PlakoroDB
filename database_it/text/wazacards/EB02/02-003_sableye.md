@@ -1,193 +1,193 @@
-## Sableye Cards
+## Carte Sableye
 
-### Exploration Box 2
+### Box Eslporazione 2
 
-#### Nail Scratch ?
+#### Graffio ?
 
-| Nome           | Nail Scratch ? |
-| -------------- | -------------- |
-| Giapponese     | ツメでひっかく |
-| Tipo           | Buio           |
-| Codice         | EBW02-021      |
-| Pokémon        | Sableye        |
-| Energia        | {D}            |
-| Danni          | 10             |
-| Effetto        |                |
-| In Piedi       | +10 danni.     |
-| A testa in giù |                |
-| Supino         | +10 danni.     |
-| Prono          | +10 danni.     |
-| Sui fianchi    |                |
+| Nome           | Graffio ?                  |
+| -------------- | -------------------------- |
+| Giapponese     | ツメでひっかく                    |
+| Tipo           | Buio                       |
+| Codice         | EBW02-021                  |
+| Pokémon        | Sableye                    |
+| Energia        | {D}                        |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +10 danni. |
+| A testa in giù |                            |
+| Supino         | +10 danni. |
+| Prono          | +10 danni. |
+| Sui fianchi    |                            |
 
-[Nail Scratch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard01.webp)
+[Graffio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard01.webp)
 
-#### Feint Attack
+#### Finta
 
-| Nome           | Feint Attack |
-| -------------- | ------------ |
-| Giapponese     | だましうち   |
-| Tipo           | Buio         |
-| Codice         | EBW02-022    |
-| Pokémon        | Sableye      |
-| Energia        | {D}{D}       |
-| Danni          | 20           |
-| Effetto        |              |
-| In Piedi       |              |
-| A testa in giù | +20 danni.   |
-| Supino         |              |
-| Prono          | +20 danni.   |
-| Sui fianchi    |              |
+| Nome           | Finta                      |
+| -------------- | -------------------------- |
+| Giapponese     | だましうち                      |
+| Tipo           | Buio                       |
+| Codice         | EBW02-022                  |
+| Pokémon        | Sableye                    |
+| Energia        | {D}{D}                     |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       |                            |
+| A testa in giù | +20 danni. |
+| Supino         |                            |
+| Prono          | +20 danni. |
+| Sui fianchi    |                            |
 
-[Feint Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard02.webp)
+[Finta](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard02.webp)
 
-#### Dig It Up
+#### Riscavare
 
-| Nome           | Dig It Up                                                                                                                  |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | ほりかえす                                                                                                                 |
-| Tipo           | Buio                                                                                                                       |
-| Codice         | EBW02-023                                                                                                                  |
-| Pokémon        | Sableye                                                                                                                    |
-| Energia        | {D}{D}                                                                                                                     |
-| Danni          | 30                                                                                                                         |
-| Effetto        |                                                                                                                            |
-| In Piedi       | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| A testa in giù |                                                                                                                            |
-| Supino         | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| Prono          |                                                                                                                            |
-| Sui fianchi    | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Nome           | Riscavare                                                                                                                                                                                   |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | ほりかえす                                                                                                                                                                                       |
+| Tipo           | Buio                                                                                                                                                                                        |
+| Codice         | EBW02-023                                                                                                                                                                                   |
+| Pokémon        | Sableye                                                                                                                                                                                     |
+| Energia        | {D}{D}                                                                                                                                                                                      |
+| Danni          | 30                                                                                                                                                                                          |
+| Effetto        |                                                                                                                                                                                             |
+| In Piedi       | Nel prossimo turno dell'avversario, scegli 1 dado energia lanciato, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
+| A testa in giù |                                                                                                                                                                                             |
+| Supino         | Nel prossimo turno dell'avversario, scegli 1 dado energia lanciato, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
+| Prono          |                                                                                                                                                                                             |
+| Sui fianchi    | Nel prossimo turno dell'avversario, scegli 1 dado energia lanciato, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
 
-[Dig It Up](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard03.webp)
+[Riscavare](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard03.webp)
 
-#### Instigate
+#### Istigare
 
-| Nome           | Instigate                                                                          |
-| -------------- | ---------------------------------------------------------------------------------- |
-| Giapponese     | そそのかす                                                                         |
-| Tipo           | Buio                                                                               |
-| Codice         | EBW02-024                                                                          |
-| Pokémon        | Sableye                                                                            |
-| Energia        | {D}{D}{D}                                                                          |
-| Danni          | 20                                                                                 |
-| Effetto        |                                                                                    |
-| In Piedi       | Choose 1 of your opponent's attacks. During their next turn, they use that attack. |
-| A testa in giù |                                                                                    |
-| Supino         |                                                                                    |
-| Prono          |                                                                                    |
-| Sui fianchi    | Choose 1 of your opponent's attacks. During their next turn, they use that attack. |
+| Nome           | Istigare                                                                                                      |
+| -------------- | ------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | そそのかす                                                                                                         |
+| Tipo           | Buio                                                                                                          |
+| Codice         | EBW02-024                                                                                                     |
+| Pokémon        | Sableye                                                                                                       |
+| Energia        | {D}{D}{D}                                                                                                     |
+| Danni          | 20                                                                                                            |
+| Effetto        |                                                                                                               |
+| In Piedi       | Scegli 1 mossa dell'avversario. Nel suo turno successivo, userà quella mossa. |
+| A testa in giù |                                                                                                               |
+| Supino         |                                                                                                               |
+| Prono          |                                                                                                               |
+| Sui fianchi    | Scegli 1 mossa dell'avversario. Nel suo turno successivo, userà quella mossa. |
 
-[Instigate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
+[Istigare](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
 
-#### Icy Wind
+#### Ventogelato
 
-| Nome           | Icy Wind     |
-| -------------- | ------------ |
-| Giapponese     | こごえるかぜ |
-| Tipo           | Acqua        |
-| Codice         | EBW02-025    |
-| Pokémon        | Sableye      |
-| Energia        | {W}          |
-| Danni          | 20           |
-| Effetto        |              |
-| In Piedi       | +20 danni.   |
-| A testa in giù |              |
-| Supino         | +20 danni.   |
-| Prono          |              |
-| Sui fianchi    |              |
+| Nome           | Ventogelato                |
+| -------------- | -------------------------- |
+| Giapponese     | こごえるかぜ                     |
+| Tipo           | Acqua                      |
+| Codice         | EBW02-025                  |
+| Pokémon        | Sableye                    |
+| Energia        | {W}                        |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         | +20 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
-[Icy Wind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard05.webp)
+[Ventogelato](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard05.webp)
 
-#### Dark Claw ?
+#### Artiglio Oscuro ?
 
-| Nome           | Dark Claw ?  |
-| -------------- | ------------ |
-| Giapponese     | ダーククロー |
-| Tipo           | Buio         |
-| Codice         | EBW02-026    |
-| Pokémon        | Sableye      |
-| Energia        | {D}          |
-| Danni          | 10           |
-| Effetto        |              |
-| In Piedi       | +30 danni.   |
-| A testa in giù |              |
-| Supino         |              |
-| Prono          |              |
-| Sui fianchi    |              |
+| Nome           | Artiglio Oscuro ?          |
+| -------------- | -------------------------- |
+| Giapponese     | ダーククロー                     |
+| Tipo           | Buio                       |
+| Codice         | EBW02-026                  |
+| Pokémon        | Sableye                    |
+| Energia        | {D}                        |
+| Danni          | 10                         |
+| Effetto        |                            |
+| In Piedi       | +30 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
-[Dark Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard06.webp)
+[Artiglio Oscuro](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard06.webp)
 
-#### Trip Over
+#### Sgambetto
 
-| Nome           | Trip Over                                                                   |
-| -------------- | --------------------------------------------------------------------------- |
-| Giapponese     | ころばす                                                                    |
-| Tipo           | Buio                                                                        |
-| Codice         | EBW02-027                                                                   |
-| Pokémon        | Sableye                                                                     |
-| Energia        | {D}{D}                                                                      |
-| Danni          | 20                                                                          |
-| Effetto        |                                                                             |
-| In Piedi       | On your opponent's next turn, set the direction of their Charakoro to {do}. |
-| A testa in giù |                                                                             |
-| Supino         | On your opponent's next turn, set the direction of their Charakoro to {do}. |
-| Prono          | On your opponent's next turn, set the direction of their Charakoro to {do}. |
-| Sui fianchi    |                                                                             |
+| Nome           | Sgambetto                                                                                         |
+| -------------- | ------------------------------------------------------------------------------------------------- |
+| Giapponese     | ころばす                                                                                              |
+| Tipo           | Buio                                                                                              |
+| Codice         | EBW02-027                                                                                         |
+| Pokémon        | Sableye                                                                                           |
+| Energia        | {D}{D}                                                                                            |
+| Danni          | 20                                                                                                |
+| Effetto        |                                                                                                   |
+| In Piedi       | Nel prossimo turno dell'avversario, l'orientamento del suo PokéDice diventa {do}. |
+| A testa in giù |                                                                                                   |
+| Supino         | Nel prossimo turno dell'avversario, l'orientamento del suo PokéDice diventa {do}. |
+| Prono          | Nel prossimo turno dell'avversario, l'orientamento del suo PokéDice diventa {do}. |
+| Sui fianchi    |                                                                                                   |
 
-[Trip Over](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard07.webp)
+[Sgambetto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard07.webp)
 
-#### Dark Pulse
+#### Neropulsar
 
-| Nome           | Dark Pulse   |
-| -------------- | ------------ |
-| Giapponese     | あくのはどう |
-| Tipo           | Buio         |
-| Codice         | EBW02-028    |
-| Pokémon        | Sableye      |
-| Energia        | {D}{D}{D}    |
-| Danni          | 20           |
-| Effetto        |              |
-| In Piedi       | +30 danni.   |
-| A testa in giù |              |
-| Supino         | +30 danni.   |
-| Prono          |              |
-| Sui fianchi    |              |
+| Nome           | Neropulsar                 |
+| -------------- | -------------------------- |
+| Giapponese     | あくのはどう                     |
+| Tipo           | Buio                       |
+| Codice         | EBW02-028                  |
+| Pokémon        | Sableye                    |
+| Energia        | {D}{D}{D}                  |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +30 danni. |
+| A testa in giù |                            |
+| Supino         | +30 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
-[Dark Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard08.webp)
+[Neropulsar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard08.webp)
 
-#### Jewel Flash ?
+#### Lampo gemma ?
 
-| Nome           | Jewel Flash ?                                                                                                              |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | ジュエルフラッシュ                                                                                                         |
-| Tipo           | Buio                                                                                                                       |
-| Codice         | EBW02-029                                                                                                                  |
-| Pokémon        | Sableye                                                                                                                    |
-| Energia        | {D}{D}{D}{D}                                                                                                               |
-| Danni          | 50                                                                                                                         |
-| Effetto        |                                                                                                                            |
-| In Piedi       | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| A testa in giù |                                                                                                                            |
-| Supino         | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| Prono          |                                                                                                                            |
-| Sui fianchi    | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Nome           | Lampo gemma ?                                                                                                                                                                              |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Giapponese     | ジュエルフラッシュ                                                                                                                                                                                  |
+| Tipo           | Buio                                                                                                                                                                                       |
+| Codice         | EBW02-029                                                                                                                                                                                  |
+| Pokémon        | Sableye                                                                                                                                                                                    |
+| Energia        | {D}{D}{D}{D}                                                                                                                                                                               |
+| Danni          | 50                                                                                                                                                                                         |
+| Effetto        |                                                                                                                                                                                            |
+| In Piedi       | Nel prossimo turno dell'avversario, scegli 2 dadi energia lanciati e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
+| A testa in giù |                                                                                                                                                                                            |
+| Supino         | Nel prossimo turno dell'avversario, scegli 2 dadi energia lanciati e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
+| Prono          |                                                                                                                                                                                            |
+| Sui fianchi    | Nel prossimo turno dell'avversario, scegli 2 dadi energia lanciati e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
 
-[Jewel Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
+[Lampo gemma](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
 
 #### Psybeam
 
-| Nome           | Psybeam        |
-| -------------- | -------------- |
-| Giapponese     | サイケこうせん |
-| Tipo           | Psico          |
-| Codice         | EBW02-030      |
-| Pokémon        | Sableye        |
-| Energia        | {P}{P}         |
-| Danni          | 30             |
-| Effetto        |                |
-| In Piedi       | +20 danni.     |
-| A testa in giù |                |
-| Supino         | +20 danni.     |
-| Prono          |                |
-| Sui fianchi    |                |
+| Nome           | Psybeam                    |
+| -------------- | -------------------------- |
+| Giapponese     | サイケこうせん                    |
+| Tipo           | Psico                      |
+| Codice         | EBW02-030                  |
+| Pokémon        | Sableye                    |
+| Energia        | {P}{P}                     |
+| Danni          | 30                         |
+| Effetto        |                            |
+| In Piedi       | +20 danni. |
+| A testa in giù |                            |
+| Supino         | +20 danni. |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Psybeam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard10.webp)

@@ -42,20 +42,20 @@
 
 #### Colpo martello ?
 
-| Nome           | Colpo martello ?                                                               |
-| -------------- | ------------------------------------------------------------------------------ |
-| Giapponese     | ハンマーストライク                                                                      |
-| Tipo           | Psico                                                                          |
-| Codice         | EBW02-013                                                                      |
-| Pokémon        | Tinkatink                                                                      |
-| Energia        | {P}{P}{P}                                                                      |
-| Danni          | 10                                                                             |
-| Effetto        |                                                                                |
-| In Piedi       | +60 danni.                                                     |
-| A testa in giù | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Supino         | +60 danni.                                                     |
-| Prono          | +60 danni.                                                     |
-| Sui fianchi    | On your next turn, reduce the number of Enekoro you roll by 2. |
+| Nome           | Colpo martello ?                                                       |
+| -------------- | ---------------------------------------------------------------------- |
+| Giapponese     | ハンマーストライク                                                              |
+| Tipo           | Psico                                                                  |
+| Codice         | EBW02-013                                                              |
+| Pokémon        | Tinkatink                                                              |
+| Energia        | {P}{P}{P}                                                              |
+| Danni          | 10                                                                     |
+| Effetto        |                                                                        |
+| In Piedi       | +60 danni.                                             |
+| A testa in giù | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
+| Supino         | +60 danni.                                             |
+| Prono          | +60 danni.                                             |
+| Sui fianchi    | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
 
 [Colpo martello](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
 

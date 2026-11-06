@@ -1,4 +1,4 @@
-## Carte di Grimer
+## Carte Grimer
 
 ### Box Esplorazione 1
 
@@ -6,7 +6,7 @@
 
 | Nome           | Velenogas                                                                          |
 | -------------- | ---------------------------------------------------------------------------------- |
-| Giapponese     | どくガス                                                                               |
+| Giapponese     | どくガス                                                                             |
 | Tipo           | Buio                                                                               |
 | Codice         | EBW01-051                                                                          |
 | Pokémon        | Grimer                                                                             |
@@ -25,7 +25,7 @@
 
 | Nome           | Lancio Viscido ?           |
 | -------------- | -------------------------- |
-| Giapponese     | ベトベトなげ                     |
+| Giapponese     | ベトベトなげ                  |
 | Tipo           | Buio                       |
 | Codice         | EBW01-052                  |
 | Pokémon        | Grimer                     |
@@ -44,7 +44,7 @@
 
 | Nome           | Cura Tossica ?                                                                                                                         |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | どくどくヒール                                                                                                                                |
+| Giapponese     | どくどくヒール                                                                                                                              |
 | Tipo           | Buio                                                                                                                                   |
 | Codice         | EBW01-053                                                                                                                              |
 | Pokémon        | Grimer                                                                                                                                 |
@@ -63,7 +63,7 @@
 
 | Nome           | Accerchiamento Fangoso ?                                                                                           |
 | -------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Giapponese     | ヘドロでかこむ                                                                                                            |
+| Giapponese     | ヘドロでかこむ                                                                                                          |
 | Tipo           | Buio                                                                                                               |
 | Codice         | EBW01-054                                                                                                          |
 | Pokémon        | Grimer                                                                                                             |
@@ -82,7 +82,7 @@
 
 | Nome           | Pugno Veleno ?             |
 | -------------- | -------------------------- |
-| Giapponese     | ベノムパンチ                     |
+| Giapponese     | ベノムパンチ                   |
 | Tipo           | Buio                       |
 | Codice         | EBW01-055                  |
 | Pokémon        | Grimer                     |
@@ -101,7 +101,7 @@
 
 | Nome           | Scivolata Velenosa ?                                                                                |
 | -------------- | --------------------------------------------------------------------------------------------------- |
-| Giapponese     | ベノムスリップ                                                                                             |
+| Giapponese     | ベノムスリップ                                                                                           |
 | Tipo           | Buio                                                                                                |
 | Codice         | EBW01-057                                                                                           |
 | Pokémon        | Grimer                                                                                              |
@@ -120,7 +120,7 @@
 
 | Nome           | Bomba Tossica ?                                                                                                    |
 | -------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Giapponese     | どくどくボンバー                                                                                                           |
+| Giapponese     | どくどくボンバー                                                                                                       |
 | Tipo           | Buio                                                                                                               |
 | Codice         | EBW01-058                                                                                                          |
 | Pokémon        | Grimer                                                                                                             |
@@ -139,7 +139,7 @@
 
 | Nome           | Azione Fangosa ?                                       |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ヘドロタックル                                                |
+| Giapponese     | ヘドロタックル                                               |
 | Tipo           | Buio                                                   |
 | Codice         | EBW01-059                                              |
 | Pokémon        | Grimer                                                 |
@@ -158,7 +158,7 @@
 
 | Nome           | Veleno Dispettoso ?                                                                                                  |
 | -------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | いやがらせベノム                                                                                                             |
+| Giapponese     | いやがらせベノム                                                                                                           |
 | Tipo           | Buio                                                                                                                 |
 | Codice         | EBW01-060                                                                                                            |
 | Pokémon        | Grimer                                                                                                               |

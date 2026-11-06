@@ -25,7 +25,7 @@
 
 | Nome           | Tuonoshock                 |
 | -------------- | -------------------------- |
-| Giapponese     | でんきショック                    |
+| Giapponese     | でんきショック                   |
 | Tipo           | Elettro                    |
 | Codice         | STW04-002                  |
 | Pokémon        | Pikachu                    |

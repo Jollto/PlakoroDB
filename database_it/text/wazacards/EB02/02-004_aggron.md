@@ -2,9 +2,9 @@
 
 ### Box Eslporazione 2
 
-#### Metal Claw
+#### Ferrartigli
 
-| Nome           | Metal Claw                 |
+| Nome           | Ferrartigli                |
 | -------------- | -------------------------- |
 | Giapponese     | メタルクロー                     |
 | Tipo           | Acciaio                    |
@@ -19,13 +19,13 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard01.webp)
+[Ferrartigli](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard01.webp)
 
 #### Testata d'acciaio
 
 | Nome           | Testata d'acciaio          |
 | -------------- | -------------------------- |
-| Giapponese     | はがねのずつき                    |
+| Giapponese     | はがねのずつき                  |
 | Tipo           | Acciaio                    |
 | Codice         | EBW02-032                  |
 | Pokémon        | Aggron                     |
@@ -44,7 +44,7 @@
 
 | Nome           | Scudo tiranno ?                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | タイラントシールド                                                                                                                                    |
+| Giapponese     | タイラントシールド                                                                                                                                   |
 | Tipo           | Acciaio                                                                                                                                      |
 | Codice         | EBW02-033                                                                                                                                    |
 | Pokémon        | Aggron                                                                                                                                       |
@@ -82,7 +82,7 @@
 
 | Nome           | Rocciatomba                                                                                                            |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | がんせきふうじ                                                                                                                |
+| Giapponese     | がんせきふうじ                                                                                                              |
 | Tipo           | Lotta                                                                                                                  |
 | Codice         | EBW02-035                                                                                                              |
 | Pokémon        | Aggron                                                                                                                 |
@@ -101,7 +101,7 @@
 
 | Nome           | Urto                       |
 | -------------- | -------------------------- |
-| Giapponese     | ぶつかる                       |
+| Giapponese     | ぶつかる                      |
 | Tipo           | Acciaio                    |
 | Codice         | EBW02-036                  |
 | Pokémon        | Aggron                     |
@@ -120,7 +120,7 @@
 
 | Nome           | Corpo d'acciaio ?                                                                                                                            |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | こうてつボディ                                                                                                                                      |
+| Giapponese     | こうてつボディ                                                                                                                                    |
 | Tipo           | Acciaio                                                                                                                                      |
 | Codice         | EBW02-037                                                                                                                                    |
 | Pokémon        | Aggron                                                                                                                                       |
@@ -139,7 +139,7 @@
 
 | Nome           | Acciaio potente ?                                                                                                   |
 | -------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | パワフルスチール                                                                                                            |
+| Giapponese     | パワフルスチール                                                                                                           |
 | Tipo           | Acciaio                                                                                                             |
 | Codice         | EBW02-038                                                                                                           |
 | Pokémon        | Aggron                                                                                                              |
@@ -158,7 +158,7 @@
 
 | Nome           | Metaltestata               |
 | -------------- | -------------------------- |
-| Giapponese     | アイアンヘッド                    |
+| Giapponese     | アイアンヘッド                   |
 | Tipo           | Acciaio                    |
 | Codice         | EBW02-039                  |
 | Pokémon        | Aggron                     |
@@ -177,7 +177,7 @@
 
 | Nome           | Gelopugno                  |
 | -------------- | -------------------------- |
-| Giapponese     | れいとうパンチ                    |
+| Giapponese     | れいとうパンチ                   |
 | Tipo           | Acqua                      |
 | Codice         | EBW02-040                  |
 | Pokémon        | Aggron                     |

@@ -63,7 +63,7 @@
 
 | Nome           | Schiaffo drenante                              |
 | -------------- | ---------------------------------------------- |
-| Giapponese     | ドレインビンタ                                        |
+| Giapponese     | ドレインビンタ                                      |
 | Tipo           | Normale                                        |
 | Codice         | EBW02-054                                      |
 | Pokémon        | Chansey                                        |
@@ -82,7 +82,7 @@
 
 | Nome           | Palla Ombra                |
 | -------------- | -------------------------- |
-| Giapponese     | シャドーボール                    |
+| Giapponese     | シャドーボール                  |
 | Tipo           | Psico                      |
 | Codice         | EBW02-055                  |
 | Pokémon        | Chansey                    |
@@ -120,7 +120,7 @@
 
 | Nome           | Covauova                                                    |
 | -------------- | ----------------------------------------------------------- |
-| Giapponese     | タマゴうみ                                                       |
+| Giapponese     | タマゴうみ                                                      |
 | Tipo           | Normale                                                     |
 | Codice         | EBW02-057                                                   |
 | Pokémon        | Chansey                                                     |
@@ -139,7 +139,7 @@
 
 | Nome           | Pugno Fortunato                                                          |
 | -------------- | ------------------------------------------------------------------------ |
-| Giapponese     | ラッキーパンチ                                                                  |
+| Giapponese     | ラッキーパンチ                                                                 |
 | Tipo           | Normale                                                                  |
 | Codice         | EBW02-058                                                                |
 | Pokémon        | Chansey                                                                  |
@@ -158,7 +158,7 @@
 
 | Nome           | Schianto                   |
 | -------------- | -------------------------- |
-| Giapponese     | ぶちかます                      |
+| Giapponese     | ぶちかます                     |
 | Tipo           | Normale                    |
 | Codice         | EBW02-059                  |
 | Pokémon        | Chansey                    |

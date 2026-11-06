@@ -1,4 +1,4 @@
-## Aggron Cards
+## Carte Aggron
 
 ### Box Eslporazione 2
 
@@ -21,9 +21,9 @@
 
 [Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard01.webp)
 
-#### Steel Headbutt
+#### Testata d'acciaio
 
-| Nome           | Steel Headbutt             |
+| Nome           | Testata d'acciaio          |
 | -------------- | -------------------------- |
 | Giapponese     | はがねのずつき                    |
 | Tipo           | Acciaio                    |
@@ -38,26 +38,26 @@
 | Prono          |                            |
 | Sui fianchi    | +20 danni. |
 
-[Steel Headbutt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
+[Testata d'acciaio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
 
-#### Tyrant Shield ?
+#### Scudo tiranno ?
 
-| Nome           | Tyrant Shield ?                                                                                                                    |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | タイラントシールド                                                                                                                          |
-| Tipo           | Acciaio                                                                                                                            |
-| Codice         | EBW02-033                                                                                                                          |
-| Pokémon        | Aggron                                                                                                                             |
-| Energia        | {M}{M}{M}                                                                                                                          |
-| Danni          | 30                                                                                                                                 |
-| Effetto        |                                                                                                                                    |
-| In Piedi       | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
-| A testa in giù |                                                                                                                                    |
-| Supino         | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
-| Prono          | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
-| Sui fianchi    |                                                                                                                                    |
+| Nome           | Scudo tiranno ?                                                                                                                              |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | タイラントシールド                                                                                                                                    |
+| Tipo           | Acciaio                                                                                                                                      |
+| Codice         | EBW02-033                                                                                                                                    |
+| Pokémon        | Aggron                                                                                                                                       |
+| Energia        | {M}{M}{M}                                                                                                                                    |
+| Danni          | 30                                                                                                                                           |
+| Effetto        |                                                                                                                                              |
+| In Piedi       | Nel prossimo turno dell'avversario, tutti i danni inflitti a questo Pokémon dalle mosse vengono annullati se sono 40 o meno. |
+| A testa in giù |                                                                                                                                              |
+| Supino         | Nel prossimo turno dell'avversario, tutti i danni inflitti a questo Pokémon dalle mosse vengono annullati se sono 40 o meno. |
+| Prono          | Nel prossimo turno dell'avversario, tutti i danni inflitti a questo Pokémon dalle mosse vengono annullati se sono 40 o meno. |
+| Sui fianchi    |                                                                                                                                              |
 
-[Tyrant Shield](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
+[Scudo tiranno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
 
 #### Assalto
 
@@ -78,24 +78,24 @@
 
 [Assalto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard04.webp)
 
-#### Rock Tomb
+#### Rocciatomba
 
-| Nome           | Rock Tomb                                                                                        |
-| -------------- | ------------------------------------------------------------------------------------------------ |
-| Giapponese     | がんせきふうじ                                                                                          |
-| Tipo           | Lotta                                                                                            |
-| Codice         | EBW02-035                                                                                        |
-| Pokémon        | Aggron                                                                                           |
-| Energia        | {F}{C}{C}{C}                                                                                     |
-| Danni          | 30                                                                                               |
-| Effetto        |                                                                                                  |
-| In Piedi       | Nel prossimo turno dell'avversario, reduce the number of Enekoro they roll by 1. |
-| A testa in giù |                                                                                                  |
-| Supino         | Nel prossimo turno dell'avversario, reduce the number of Enekoro they roll by 1. |
-| Prono          | Nel prossimo turno dell'avversario, reduce the number of Enekoro they roll by 1. |
-| Sui fianchi    |                                                                                                  |
+| Nome           | Rocciatomba                                                                                                            |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | がんせきふうじ                                                                                                                |
+| Tipo           | Lotta                                                                                                                  |
+| Codice         | EBW02-035                                                                                                              |
+| Pokémon        | Aggron                                                                                                                 |
+| Energia        | {F}{C}{C}{C}                                                                                                           |
+| Danni          | 30                                                                                                                     |
+| Effetto        |                                                                                                                        |
+| In Piedi       | Nel prossimo turno dell'avversario, Nel prossimo turno dell'avversario, lancia 1 dado energia in meno. |
+| A testa in giù |                                                                                                                        |
+| Supino         | Nel prossimo turno dell'avversario, Nel prossimo turno dell'avversario, lancia 1 dado energia in meno. |
+| Prono          | Nel prossimo turno dell'avversario, Nel prossimo turno dell'avversario, lancia 1 dado energia in meno. |
+| Sui fianchi    |                                                                                                                        |
 
-[Rock Tomb](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard05.webp)
+[Rocciatomba](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard05.webp)
 
 #### Urto
 
@@ -116,47 +116,47 @@
 
 [Urto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard06.webp)
 
-#### Steel Body ?
+#### Corpo d'acciaio
 
-| Nome           | Steel Body ?                                                                                                                       |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | こうてつボディ                                                                                                                            |
-| Tipo           | Acciaio                                                                                                                            |
-| Codice         | EBW02-037                                                                                                                          |
-| Pokémon        | Aggron                                                                                                                             |
-| Energia        | {M}{M}                                                                                                                             |
-| Danni          | 20                                                                                                                                 |
-| Effetto        |                                                                                                                                    |
-| In Piedi       | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
-| A testa in giù |                                                                                                                                    |
-| Supino         | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
-| Prono          |                                                                                                                                    |
-| Sui fianchi    | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
+| Nome           | Corpo d'acciaio                                                                                                                              |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | こうてつボディ                                                                                                                                      |
+| Tipo           | Acciaio                                                                                                                                      |
+| Codice         | EBW02-037                                                                                                                                    |
+| Pokémon        | Aggron                                                                                                                                       |
+| Energia        | {M}{M}                                                                                                                                       |
+| Danni          | 20                                                                                                                                           |
+| Effetto        |                                                                                                                                              |
+| In Piedi       | Nel prossimo turno dell'avversario, tutti i danni inflitti a questo Pokémon dalle mosse vengono annullati se sono 30 o meno. |
+| A testa in giù |                                                                                                                                              |
+| Supino         | Nel prossimo turno dell'avversario, tutti i danni inflitti a questo Pokémon dalle mosse vengono annullati se sono 30 o meno. |
+| Prono          |                                                                                                                                              |
+| Sui fianchi    | Nel prossimo turno dell'avversario, tutti i danni inflitti a questo Pokémon dalle mosse vengono annullati se sono 30 o meno. |
 
-[Steel Body](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard07.webp)
+[Corpo d'acciaio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard07.webp)
 
-#### Powerful Steel ?
+#### Acciaio potente ?
 
-| Nome           | Powerful Steel ?                                                                                          |
-| -------------- | --------------------------------------------------------------------------------------------------------- |
-| Giapponese     | パワフルスチール                                                                                                  |
-| Tipo           | Acciaio                                                                                                   |
-| Codice         | EBW02-038                                                                                                 |
-| Pokémon        | Aggron                                                                                                    |
-| Energia        | {M}{M}{M}                                                                                                 |
-| Danni          | 20                                                                                                        |
-| Effetto        |                                                                                                           |
-| In Piedi       | If this Pokémon was not damaged by an attack during your opponent's last turn, +40 danni. |
-| A testa in giù |                                                                                                           |
-| Supino         |                                                                                                           |
-| Prono          |                                                                                                           |
-| Sui fianchi    | If this Pokémon was not damaged by an attack during your opponent's last turn, +40 danni. |
+| Nome           | Acciaio potente ?                                                                                                   |
+| -------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | パワフルスチール                                                                                                            |
+| Tipo           | Acciaio                                                                                                             |
+| Codice         | EBW02-038                                                                                                           |
+| Pokémon        | Aggron                                                                                                              |
+| Energia        | {M}{M}{M}                                                                                                           |
+| Danni          | 20                                                                                                                  |
+| Effetto        |                                                                                                                     |
+| In Piedi       | Se questo Pokémon non ha subito danni da una mossa nel turno precedente dell'avversario, +40 danni. |
+| A testa in giù |                                                                                                                     |
+| Supino         |                                                                                                                     |
+| Prono          |                                                                                                                     |
+| Sui fianchi    | Se questo Pokémon non ha subito danni da una mossa nel turno precedente dell'avversario, +40 danni. |
 
-[Powerful Steel](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
+[Acciaio potente](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
 
-#### Iron Head
+#### Metaltestata
 
-| Nome           | Iron Head                  |
+| Nome           | Metaltestata               |
 | -------------- | -------------------------- |
 | Giapponese     | アイアンヘッド                    |
 | Tipo           | Acciaio                    |
@@ -171,11 +171,11 @@
 | Prono          | +20 danni. |
 | Sui fianchi    |                            |
 
-[Iron Head](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard09.webp)
+[Metaltestata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard09.webp)
 
-#### Ice Punch
+#### Gelopugno
 
-| Nome           | Ice Punch                  |
+| Nome           | Gelopugno                  |
 | -------------- | -------------------------- |
 | Giapponese     | れいとうパンチ                    |
 | Tipo           | Acqua                      |
@@ -190,4 +190,4 @@
 | Prono          |                            |
 | Sui fianchi    | +20 danni. |
 
-[Ice Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard10.webp)
+[Gelopugno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard10.webp)

@@ -25,7 +25,7 @@
 
 | Nome           | Vento di Fata              |
 | -------------- | -------------------------- |
-| Giapponese     | ようせいのかぜ                    |
+| Giapponese     | ようせいのかぜ                   |
 | Tipo           | Psico                      |
 | Codice         | EBW02-012                  |
 | Pokémon        | Tinkatink                  |
@@ -63,7 +63,7 @@
 
 | Nome           | Carineria                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | じゃれつく                                                                                                                  |
+| Giapponese     | じゃれつく                                                                                                                 |
 | Tipo           | Psico                                                                                                                  |
 | Codice         | EBW02-014                                                                                                              |
 | Pokémon        | Tinkatink                                                                                                              |
@@ -78,9 +78,9 @@
 
 [Carineria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard04.webp)
 
-#### Metal Claw
+#### Ferrartigli
 
-| Nome           | Metal Claw                 |
+| Nome           | Ferrartigli                |
 | -------------- | -------------------------- |
 | Giapponese     | メタルクロー                     |
 | Tipo           | Acciaio                    |
@@ -95,13 +95,13 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard05.webp)
+[Ferrartigli](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard05.webp)
 
 #### Bastonata
 
 | Nome           | Bastonata                  |
 | -------------- | -------------------------- |
-| Giapponese     | どつく                        |
+| Giapponese     | どつく                       |
 | Tipo           | Psico                      |
 | Codice         | EBW02-016                  |
 | Pokémon        | Tinkatink                  |
@@ -118,20 +118,20 @@
 
 #### Assorbibacio
 
-| Nome           | Assorbibacio                                      |
-| -------------- | ------------------------------------------------- |
-| Giapponese     | ドレインキッス                                           |
-| Tipo           | Psico                                             |
-| Codice         | EBW02-017                                         |
-| Pokémon        | Tinkatink                                         |
-| Energia        | {P}{P}                                            |
-| Danni          | 10                                                |
-| Effetto        | Heal 10 damage from this Pokémon. |
-| In Piedi       | +30 danni.                        |
-| A testa in giù |                                                   |
-| Supino         | +30 danni.                        |
-| Prono          |                                                   |
-| Sui fianchi    |                                                   |
+| Nome           | Assorbibacio                                   |
+| -------------- | ---------------------------------------------- |
+| Giapponese     | ドレインキッス                                       |
+| Tipo           | Psico                                          |
+| Codice         | EBW02-017                                      |
+| Pokémon        | Tinkatink                                      |
+| Energia        | {P}{P}                                         |
+| Danni          | 10                                             |
+| Effetto        | Questo Pokémon recupera 10 HP. |
+| In Piedi       | +30 danni.                     |
+| A testa in giù |                                                |
+| Supino         | +30 danni.                     |
+| Prono          |                                                |
+| Sui fianchi    |                                                |
 
 [Assorbibacio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard07.webp)
 
@@ -158,7 +158,7 @@
 
 | Nome           | Pestone selvaggio ?                                    |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ワイルドスタンプ                                               |
+| Giapponese     | ワイルドスタンプ                                             |
 | Tipo           | Psico                                                  |
 | Codice         | EBW02-019                                              |
 | Pokémon        | Tinkatink                                              |
@@ -177,7 +177,7 @@
 
 | Nome           | Impatto Prodigioso ?       |
 | -------------- | -------------------------- |
-| Giapponese     | ワンダーインパクト                  |
+| Giapponese     | ワンダーインパクト                |
 | Tipo           | Psico                      |
 | Codice         | EBW02-020                  |
 | Pokémon        | Tinkatink                  |

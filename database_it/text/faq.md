@@ -1,32 +1,32 @@
 # PLAKORO FAQ
 
-## About Wazacards
+## Info sulle Wazacards
 
 #### 1
 
 D: Ho superato con successo i tiri Enekoro e Charakoro per la mossa di Bulbasaur "Parasseme".  
-How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?
+Come si applica l'effetto "Nel tuo prossimo turno, aumenta di 1 il numero di Enekoro che tiri"?
 
-A: First, roll 3 Enekoro.  
-Next, choose any one of the rolled Enekoro and roll it again.  
-The player rolling the Enekoro chooses which one to add.  
-All the Energy revealed during this process counts as the Energy produced this turn.  
-If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.
+A: Per prima cosa, lancia 3 Enekoro.  
+Successivamente, prendi uno degli Enekoro lanciati e rilancialo.  
+Il giocatore che lancia l'Enekoro sceglie quale aggiungere.  
+Tutta l'Energia svelata durante questo processo conta come l'Energia prodotta in questo turno.  
+Se hai 4 o più Enekoro, puoi aggiungere un Enekoro a tua scelta e lanciarli tutti contemporaneamente.
 
-R: [Leech Seed](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
+[Parassiseme](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
 
 #### 2
 
-Q: When Bulbasaur's HP was 120, I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Giga Drain".  
-In this case, can I raise its HP to 160?
+D: Quando gli HP di Bulbasaur sono 120, ed ho superato con successo i tiri Enekoro e Charakoro per la mossa di Bulbasaur "Giga Drain".  
+In questo caso, posso aumentare i sui HP a 160?
 
-A: No, you cannot. Bulbasaur's max HP is 120.
+No Gli HP massimi di Bulbasaur sono 120.
 
-R: [Giga Drain](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)
+[Gigassorbimento](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)
 
 #### 3
 
-Q: Due to the self-damage effect of Bulbasaur's move "Reckless Charge", both my Pokémon and my opponent's Pokémon lost all their HP at the same time.  
+Q: A causa dell'effetto autolesionismo della mossa di Bulbasauro "carica incauta", sia il mio Pokeæmon che il Pokeæmon del mio avversario hanno perso tutti i loro HP allo stesso tempo.  
 In this case, who wins or loses?
 
 A: You lose.  
@@ -40,10 +40,10 @@ Q: I successfully passed the Enekoro and Charakoro rolls for Charmander's move "
 How is the effect "On your next turn, increase the number of Enekoro you roll by 2." applied?  
 Also, who chooses which Enekoro to add?
 
-A: First, roll 3 Enekoro.  
+A: Per prima cosa, lancia 3 Enekoro.  
 Next, choose two of the rolled Enekoro and roll them again.  
 (If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.)  
-All the Energy revealed during this process counts as the Energy produced this turn.  
+Tutta l'Energia svelata durante questo processo conta come l'Energia prodotta in questo turno.  
 The player rolling the Enekoro chooses which one to add to increase the number of Enekoro.
 
 R: [Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)
@@ -198,13 +198,13 @@ R: [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png), [Iron Ta
 #### 19
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Pinsir's move "Scissors Charge".  
-How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?  
+Come si applica l'effetto "Nel tuo prossimo turno, aumenta di 1 il numero di Enekoro che tiri"?  
 Also, who gets to choose which Enekoro to add?
 
 A: After rolling 3 Enekoro, choose any one of them and roll it again.  
-All the Energy revealed during this process counts as the Energy produced this turn.  
-If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.  
-The player rolling the Enekoro chooses which one to add.
+Tutta l'Energia svelata durante questo processo conta come l'Energia prodotta in questo turno.  
+Se hai 4 o più Enekoro, puoi aggiungere un Enekoro a tua scelta e lanciarli tutti contemporaneamente.  
+Il giocatore che lancia l'Enekoro sceglie quale aggiungere.
 
 R: [Scissors Charge](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)
 
@@ -214,7 +214,7 @@ Q: I used Pinsir's move "Guillotine".
 The Enekoro roll showed 4 Grass{G} Energy, and the Charakoro roll was {st}.  
 In this case, can I deal damage?
 
-A: No, you cannot.  
+No  
 As the Enekoro roll failed, the move fails.  
 In this case, the Charakoro check is not carried out, and the turn ends.
 
@@ -307,7 +307,7 @@ R: [Harassment Venom](/database/cards/wazacards/EB01/01-006_grimer/EBW01-060.png
 Q: When Lucario's HP is 120, I successfully passed the Enekoro and Charakoro rolls for Lucario's move "Aura Knuckle".  
 In this case, can I deal additional damage?
 
-A: No, you cannot.  
+No  
 You can only deal additional damage via the Charakoro effect of "Aura Knuckle" when HP is 80 or less.
 
 R: [Aura Knuckle](/database/cards/wazacards/ST/09-001_lucario/STW09-003.png)
@@ -388,7 +388,7 @@ A: No, you don't need to match them.
 
 Q: Can I swap out Enekoro's chips during a battle?
 
-A: No, you cannot.
+No
 
 #### 5
 
@@ -402,8 +402,8 @@ If you can't, reattach the chip after performing the Enekoro check.
 Q: I need to roll a large number of Enekoro due to a move's effect or similar reason. How should I roll them in this case?
 
 A: After rolling 3 Enekoro, select a number of Enekoro from among them equal to the number you want to roll additionally, and roll them again.  
-All the Energy revealed during this process counts as the Energy produced this turn.  
-If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.
+Tutta l'Energia svelata durante questo processo conta come l'Energia prodotta in questo turno.  
+Se hai 4 o più Enekoro, puoi aggiungere un Enekoro a tua scelta e lanciarli tutti contemporaneamente.
 
 #### 7
 
@@ -441,7 +441,7 @@ A: Yes, you can.
 
 Q: Can I use a Charakoro for a Pokémon other than the one on the Characard?
 
-A: No, you cannot.  
+No  
 Please use the Charakoro with the same name as the Pokémon shown on the Characard.
 
 #### 13
@@ -462,20 +462,20 @@ The move is successful if you have at least as many Energies as the number shown
 
 Q: Can I mix and use Wazacards from different Pokémon?
 
-A: No, you cannot.  
+No  
 Only the Pokémon listed under "Pokémon that can use this move" on a Wazacard can use this move.
 
 #### 16
 
 Q: Can I include multiple copies of the same Wazacard?
 
-A: No, you cannot.
+No
 
 #### 17
 
 Q: Can I start a match while keeping the contents of my Wazacards secret from my opponent?
 
-A: No, you cannot.  
+No  
 Once both players are ready to begin the match, all Wazacards must be turned face up.
 
 #### 18
@@ -494,19 +494,19 @@ A: Moves with a low energy cost are more likely to succeed. If your moves aren't
 
 Q: If a move fails, can I still apply the Charakoro effect?
 
-A: No, you cannot. If a move fails, the Charakoro check is not carried out and the turn ends immediately.
+No If a move fails, the Charakoro check is not carried out and the turn ends immediately.
 
 #### 21
 
 Q: Can I start a match with fewer than four Wazacards (for example, just three)?
 
-A: No, you cannot.
+No
 
 #### 22
 
 Q: Can I "pass" without using a move?
 
-A: No, you cannot.  
+No  
 You must choose one move to use during your turn.
 
 #### 23
@@ -520,13 +520,13 @@ Although you can only roll two Enekoro during your first turn when going first, 
 
 Q: If I roll more Energy than a move requires, can I switch to a different move?
 
-A: No, you cannot.
+No
 
 #### 25
 
 Q: Can the "Weakness +20" effect be applied to both the damage dealt by a successful move and the damage caused by a "Charakoro" effect?
 
-A: No, you cannot.  
+No  
 The Weakness effect is calculated after the damage from the move and the damage from the "Charakoro" effect have been combined.
 
 #### 26
@@ -540,7 +540,7 @@ Whatever an effect states something like "Heal XX HP from this Pokémon", the Li
 
 Q: Can I heal a character beyond the "120 HP" stated on their Characard?
 
-A: No, you cannot.  
+No  
 You cannot heal a Pokémon beyond the maximum HP stated on their Characard.
 
 #### 28
@@ -587,21 +587,21 @@ For example, if a Wazacard shows 5 "Normal" Energy, the Energy Check is successf
 
 Q: Can I choose my Charakoro and Enekoro after seeing my opponent's Charakoro?
 
-A: No, you cannot.  
+No  
 Charakoros and Enekoros are revealed simultaneously.
 
 #### 35
 
 Q: Can I customise my Enekoro after seeing my opponent's Charakoro?
 
-A: No, you cannot.  
+No  
 Charakoros and Enekoros are revealed simultaneously.
 
 #### 36
 
 Q: Can I change my Charakoro during a battle?
 
-A: No, you cannot.  
+No  
 Even if it is the same Pokémon, you cannot switch to a Charakoro with a different pose mid-battle.
 
 #### 37
@@ -617,7 +617,7 @@ When you wish to increase your Enekoro, please show your opponent the additional
 Q: I added more Enekoros during the battle to roll more of them, due to a move’s effect or similar.  
 In this case, can I choose to use the added Enekoros even on turns when the effect that increases the number of Enekoros is not in effect?
 
-A: No, you cannot.  
+No  
 On turns when the effect that increases the number of Enekoros is not in effect, you must roll the three Enekoros you showed your opponent during battle preparation.
 
 #### 39
@@ -632,7 +632,7 @@ Please show your opponent the Enekoro each time you add them.
 
 Q: Can I choose my Charako and Enekoro types after looking at my opponent's Wazacards?
 
-A: No, you cannot.  
+No  
 You must reveal your Charakoro and Enekoro to each other at the same time while preparing for the battle.  
 Once al preparations for the battle are complete, turn all four Wazacards face up and start the battle.
 

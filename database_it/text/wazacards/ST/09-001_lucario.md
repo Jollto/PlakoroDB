@@ -116,9 +116,9 @@
 
 [Aura Sphere](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard06.webp)
 
-#### Metal Claw
+#### Ferrartigli
 
-| Nome           | Metal Claw                 |
+| Nome           | Ferrartigli                |
 | -------------- | -------------------------- |
 | Giapponese     | メタルクロー                     |
 | Tipo           | Acciaio                    |

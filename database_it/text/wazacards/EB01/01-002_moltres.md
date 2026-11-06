@@ -6,7 +6,7 @@
 
 | Nome           | Ali di Fuoco                                           |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ほのおのつばさ                                                |
+| Giapponese     | ほのおのつばさ                                               |
 | Tipo           | Fuoco                                                  |
 | Codice         | EBW01-011                                              |
 | Pokémon        | Moltres                                                |
@@ -25,7 +25,7 @@
 
 | Nome           | Ondacalda                  |
 | -------------- | -------------------------- |
-| Giapponese     | ねっぷう                       |
+| Giapponese     | ねっぷう                      |
 | Tipo           | Fuoco                      |
 | Codice         | EBW01-012                  |
 | Pokémon        | Moltres                    |
@@ -63,7 +63,7 @@
 
 | Nome           | Fuococarica                                            |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | フレアドライブ                                                |
+| Giapponese     | フレアドライブ                                              |
 | Tipo           | Fuoco                                                  |
 | Codice         | EBW01-014                                              |
 | Pokémon        | Moltres                                                |
@@ -82,7 +82,7 @@
 
 | Nome           | Tifone                     |
 | -------------- | -------------------------- |
-| Giapponese     | ぼうふう                       |
+| Giapponese     | ぼうふう                      |
 | Tipo           | Volante                    |
 | Codice         | EBW01-015                  |
 | Pokémon        | Moltres                    |
@@ -101,7 +101,7 @@
 
 | Nome           | Turbofuoco                                                             |
 | -------------- | ---------------------------------------------------------------------- |
-| Giapponese     | ほのおのうず                                                                 |
+| Giapponese     | ほのおのうず                                                                |
 | Tipo           | Fuoco                                                                  |
 | Codice         | EBW01-016                                                              |
 | Pokémon        | Moltres                                                                |
@@ -120,7 +120,7 @@
 
 | Nome           | Soffio Rovente                                         |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ヒートブレス                                                 |
+| Giapponese     | ヒートブレス                                                |
 | Tipo           | Fuoco                                                  |
 | Codice         | EBW01-017                                              |
 | Pokémon        | Moltres                                                |
@@ -158,7 +158,7 @@
 
 | Nome           | Carica Alata ?             |
 | -------------- | -------------------------- |
-| Giapponese     | ウイングラッシュ                   |
+| Giapponese     | ウイングラッシュ                  |
 | Tipo           | Volante                    |
 | Codice         | EBW01-019                  |
 | Pokémon        | Moltres                    |
@@ -177,7 +177,7 @@
 
 | Nome           | Volo                                                                                                     |
 | -------------- | -------------------------------------------------------------------------------------------------------- |
-| Giapponese     | そらをとぶ                                                                                                    |
+| Giapponese     | そらをとぶ                                                                                                   |
 | Tipo           | Volante                                                                                                  |
 | Codice         | EBW01-020                                                                                                |
 | Pokémon        | Moltres                                                                                                  |

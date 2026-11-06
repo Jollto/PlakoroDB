@@ -6,7 +6,7 @@
 
 | Nome           | Graffio ?                  |
 | -------------- | -------------------------- |
-| Giapponese     | ツメでひっかく                    |
+| Giapponese     | ツメでひっかく                   |
 | Tipo           | Buio                       |
 | Codice         | EBW02-021                  |
 | Pokémon        | Sableye                    |
@@ -25,7 +25,7 @@
 
 | Nome           | Finta                      |
 | -------------- | -------------------------- |
-| Giapponese     | だましうち                      |
+| Giapponese     | だましうち                     |
 | Tipo           | Buio                       |
 | Codice         | EBW02-022                  |
 | Pokémon        | Sableye                    |
@@ -82,7 +82,7 @@
 
 | Nome           | Ventogelato                |
 | -------------- | -------------------------- |
-| Giapponese     | こごえるかぜ                     |
+| Giapponese     | こごえるかぜ                   |
 | Tipo           | Acqua                      |
 | Codice         | EBW02-025                  |
 | Pokémon        | Sableye                    |
@@ -101,7 +101,7 @@
 
 | Nome           | Artiglio Oscuro ?          |
 | -------------- | -------------------------- |
-| Giapponese     | ダーククロー                     |
+| Giapponese     | ダーククロー                    |
 | Tipo           | Buio                       |
 | Codice         | EBW02-026                  |
 | Pokémon        | Sableye                    |
@@ -120,7 +120,7 @@
 
 | Nome           | Sgambetto                                                                                         |
 | -------------- | ------------------------------------------------------------------------------------------------- |
-| Giapponese     | ころばす                                                                                              |
+| Giapponese     | ころばす                                                                                             |
 | Tipo           | Buio                                                                                              |
 | Codice         | EBW02-027                                                                                         |
 | Pokémon        | Sableye                                                                                           |
@@ -139,7 +139,7 @@
 
 | Nome           | Neropulsar                 |
 | -------------- | -------------------------- |
-| Giapponese     | あくのはどう                     |
+| Giapponese     | あくのはどう                    |
 | Tipo           | Buio                       |
 | Codice         | EBW02-028                  |
 | Pokémon        | Sableye                    |
@@ -158,7 +158,7 @@
 
 | Nome           | Lampo gemma ?                                                                                                                                                                              |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Giapponese     | ジュエルフラッシュ                                                                                                                                                                                  |
+| Giapponese     | ジュエルフラッシュ                                                                                                                                                                                 |
 | Tipo           | Buio                                                                                                                                                                                       |
 | Codice         | EBW02-029                                                                                                                                                                                  |
 | Pokémon        | Sableye                                                                                                                                                                                    |

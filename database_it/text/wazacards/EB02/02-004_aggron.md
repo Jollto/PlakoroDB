@@ -63,7 +63,7 @@
 
 | Nome           | Assalto                                                |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | とつげき                                                   |
+| Giapponese     | とつげき                                                  |
 | Tipo           | Acciaio                                                |
 | Codice         | EBW02-034                                              |
 | Pokémon        | Aggron                                                 |
@@ -116,9 +116,9 @@
 
 [Urto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard06.webp)
 
-#### Corpo d'acciaio
+#### Corpo d'acciaio ?
 
-| Nome           | Corpo d'acciaio                                                                                                                              |
+| Nome           | Corpo d'acciaio ?                                                                                                                            |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Giapponese     | こうてつボディ                                                                                                                                      |
 | Tipo           | Acciaio                                                                                                                                      |

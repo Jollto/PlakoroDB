@@ -1,10 +1,10 @@
-## Chansey Cards
+## Carte Chansey
 
 ### Box Eslporazione 2
 
-#### Pound
+#### Botta
 
-| Nome           | Pound                      |
+| Nome           | Botta                      |
 | -------------- | -------------------------- |
 | Giapponese     | はたく                        |
 | Tipo           | Normale                    |
@@ -19,30 +19,30 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Pound](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard01.webp)
+[Botta](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard01.webp)
 
-#### Chance Tackle ?
+#### Placcaggio fortuito ?
 
-| Nome           | Chance Tackle ?                                                   |
-| -------------- | ----------------------------------------------------------------- |
-| Giapponese     | チャンスタックル                                                          |
-| Tipo           | Normale                                                           |
-| Codice         | EBW02-052                                                         |
-| Pokémon        | Chansey                                                           |
-| Energia        | {Y}{Y}                                                            |
-| Danni          | 20                                                                |
-| Effetto        | On your next turn, you can reroll your Charakoro. |
-| In Piedi       | You can reroll it twice, not just once.           |
-| A testa in giù |                                                                   |
-| Supino         |                                                                   |
-| Prono          |                                                                   |
-| Sui fianchi    |                                                                   |
+| Nome           | Placcaggio fortuito ?                                                    |
+| -------------- | ------------------------------------------------------------------------ |
+| Giapponese     | チャンスタックル                                                                 |
+| Tipo           | Normale                                                                  |
+| Codice         | EBW02-052                                                                |
+| Pokémon        | Chansey                                                                  |
+| Energia        | {Y}{Y}                                                                   |
+| Danni          | 20                                                                       |
+| Effetto        | Nel tuo prossimo turno, puoi rilanciare il tuo PokéDice. |
+| In Piedi       | Puoi rilanciarlo due volte, non solo una.                |
+| A testa in giù |                                                                          |
+| Supino         |                                                                          |
+| Prono          |                                                                          |
+| Sui fianchi    |                                                                          |
 
-[Chance Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard02.webp)
+[Placcaggio fortuito](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard02.webp)
 
-#### Curve Strike
+#### Attacco a palla
 
-| Nome           | Curve Strike                                     |
+| Nome           | Attacco a palla                                  |
 | -------------- | ------------------------------------------------ |
 | Giapponese     | まるまるアタック                                         |
 | Tipo           | Normale                                          |
@@ -57,30 +57,30 @@
 | Prono          |                                                  |
 | Sui fianchi    |                                                  |
 
-[Curve Strike](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard03.webp)
+[Attacco a palla](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard03.webp)
 
-#### Drain Slap
+#### Schiaffo drenante
 
-| Nome           | Drain Slap                                        |
-| -------------- | ------------------------------------------------- |
-| Giapponese     | ドレインビンタ                                           |
-| Tipo           | Normale                                           |
-| Codice         | EBW02-054                                         |
-| Pokémon        | Chansey                                           |
-| Energia        | {Y}{Y}{Y}{Y}                                      |
-| Danni          | 30                                                |
-| Effetto        |                                                   |
-| In Piedi       | Heal 50 damage from this Pokémon. |
-| A testa in giù |                                                   |
-| Supino         |                                                   |
-| Prono          |                                                   |
-| Sui fianchi    |                                                   |
+| Nome           | Schiaffo drenante                              |
+| -------------- | ---------------------------------------------- |
+| Giapponese     | ドレインビンタ                                        |
+| Tipo           | Normale                                        |
+| Codice         | EBW02-054                                      |
+| Pokémon        | Chansey                                        |
+| Energia        | {Y}{Y}{Y}{Y}                                   |
+| Danni          | 30                                             |
+| Effetto        |                                                |
+| In Piedi       | Questo Pokémon recupera 50 HP. |
+| A testa in giù |                                                |
+| Supino         |                                                |
+| Prono          |                                                |
+| Sui fianchi    |                                                |
 
-[Drain Slap](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard04.webp)
+[Schiaffo drenante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard04.webp)
 
-#### Shadow Ball
+#### Palla Ombra
 
-| Nome           | Shadow Ball                |
+| Nome           | Palla Ombra                |
 | -------------- | -------------------------- |
 | Giapponese     | シャドーボール                    |
 | Tipo           | Psico                      |
@@ -95,11 +95,11 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Shadow Ball](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard05.webp)
+[Palla Ombra](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard05.webp)
 
-#### Smack
+#### Colpo a mano aperta
 
-| Nome           | Smack                      |
+| Nome           | Colpo a mano aperta        |
 | -------------- | -------------------------- |
 | Giapponese     | ひらてうち                      |
 | Tipo           | Normale                    |
@@ -114,49 +114,49 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Smack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard06.webp)
+[Colpo a mano aperta](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard06.webp)
 
-#### Soft-Boiled
+#### Covauova
 
-| Nome           | Soft-Boiled                                        |
-| -------------- | -------------------------------------------------- |
-| Giapponese     | タマゴうみ                                              |
-| Tipo           | Normale                                            |
-| Codice         | EBW02-057                                          |
-| Pokémon        | Chansey                                            |
-| Energia        | {Y}{Y}                                             |
-| Danni          |                                                    |
-| Effetto        | Questo Pokémon recupera 20 HP.     |
-| In Piedi       | Heal all damage from this Pokémon. |
-| A testa in giù |                                                    |
-| Supino         |                                                    |
-| Prono          |                                                    |
-| Sui fianchi    |                                                    |
+| Nome           | Covauova                                                    |
+| -------------- | ----------------------------------------------------------- |
+| Giapponese     | タマゴうみ                                                       |
+| Tipo           | Normale                                                     |
+| Codice         | EBW02-057                                                   |
+| Pokémon        | Chansey                                                     |
+| Energia        | {Y}{Y}                                                      |
+| Danni          |                                                             |
+| Effetto        | Questo Pokémon recupera 20 HP.              |
+| In Piedi       | Questo Pokémon recupera tutti gli HP persi. |
+| A testa in giù |                                                             |
+| Supino         |                                                             |
+| Prono          |                                                             |
+| Sui fianchi    |                                                             |
 
-[Soft-Boiled](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard07.webp)
+[Covauova](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard07.webp)
 
-#### Lucky Punch
+#### Pugno Fortunato
 
-| Nome           | Lucky Punch                                                       |
-| -------------- | ----------------------------------------------------------------- |
-| Giapponese     | ラッキーパンチ                                                           |
-| Tipo           | Normale                                                           |
-| Codice         | EBW02-058                                                         |
-| Pokémon        | Chansey                                                           |
-| Energia        | {Y}{Y}{Y}                                                         |
-| Danni          | 30                                                                |
-| Effetto        |                                                                   |
-| In Piedi       | On your next turn, you can reroll your Charakoro. |
-| A testa in giù |                                                                   |
-| Supino         |                                                                   |
-| Prono          |                                                                   |
-| Sui fianchi    |                                                                   |
+| Nome           | Pugno Fortunato                                                          |
+| -------------- | ------------------------------------------------------------------------ |
+| Giapponese     | ラッキーパンチ                                                                  |
+| Tipo           | Normale                                                                  |
+| Codice         | EBW02-058                                                                |
+| Pokémon        | Chansey                                                                  |
+| Energia        | {Y}{Y}{Y}                                                                |
+| Danni          | 30                                                                       |
+| Effetto        |                                                                          |
+| In Piedi       | Nel tuo prossimo turno, puoi rilanciare il tuo PokéDice. |
+| A testa in giù |                                                                          |
+| Supino         |                                                                          |
+| Prono          |                                                                          |
+| Sui fianchi    |                                                                          |
 
-[Lucky Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard08.webp)
+[Pugno Fortunato](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard08.webp)
 
-#### Hammer In
+#### Schianto
 
-| Nome           | Hammer In                  |
+| Nome           | Schianto                   |
 | -------------- | -------------------------- |
 | Giapponese     | ぶちかます                      |
 | Tipo           | Normale                    |
@@ -171,23 +171,23 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Hammer In](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard09.webp)
+[Schianto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard09.webp)
 
 #### Lanciafiamme
 
-| Nome           | Lanciafiamme                                                                   |
-| -------------- | ------------------------------------------------------------------------------ |
-| Giapponese     | かえんほうしゃ                                                                        |
-| Tipo           | Fuoco                                                                          |
-| Codice         | EBW02-060                                                                      |
-| Pokémon        | Chansey                                                                        |
-| Energia        | {R}{C}{C}{C}                                                                   |
-| Danni          | 30                                                                             |
-| Effetto        |                                                                                |
-| In Piedi       | +30 danni.                                                     |
-| A testa in giù | On your next turn, reduce the number of Enekoro you roll by 1. |
-| Supino         |                                                                                |
-| Prono          |                                                                                |
-| Sui fianchi    |                                                                                |
+| Nome           | Lanciafiamme                                                           |
+| -------------- | ---------------------------------------------------------------------- |
+| Giapponese     | かえんほうしゃ                                                                |
+| Tipo           | Fuoco                                                                  |
+| Codice         | EBW02-060                                                              |
+| Pokémon        | Chansey                                                                |
+| Energia        | {R}{C}{C}{C}                                                           |
+| Danni          | 30                                                                     |
+| Effetto        |                                                                        |
+| In Piedi       | +30 danni.                                             |
+| A testa in giù | Nel tuo prossimo turno, lancia 1 dado energia in meno. |
+| Supino         |                                                                        |
+| Prono          |                                                                        |
+| Sui fianchi    |                                                                        |
 
 [Lanciafiamme](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard10.webp)

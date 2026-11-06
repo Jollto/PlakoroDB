@@ -44,7 +44,7 @@
 
 | Nome           | Colpo di Corno ?           |
 | -------------- | -------------------------- |
-| Giapponese     | つのでたたく                     |
+| Giapponese     | つのでたたく                    |
 | Tipo           | Erba                       |
 | Codice         | EBW01-003                  |
 | Pokémon        | Pinsir                     |
@@ -63,7 +63,7 @@
 
 | Nome           | Ghigliottina                        |
 | -------------- | ----------------------------------- |
-| Giapponese     | ハサミギロチン                             |
+| Giapponese     | ハサミギロチン                            |
 | Tipo           | Normale                             |
 | Codice         | EBW01-004                           |
 | Pokémon        | Pinsir                              |
@@ -101,7 +101,7 @@
 
 | Nome           | Tenaglia Carica ?                                                     |
 | -------------- | --------------------------------------------------------------------- |
-| Giapponese     | チャージばさみ                                                               |
+| Giapponese     | チャージばさみ                                                             |
 | Tipo           | Erba                                                                  |
 | Codice         | EBW01-006                                                             |
 | Pokémon        | Pinsir                                                                |
@@ -120,7 +120,7 @@
 
 | Nome           | Oscillata Furiosa ?                                                                                      |
 | -------------- | -------------------------------------------------------------------------------------------------------- |
-| Giapponese     | ぎゃくじょうスイング                                                                                               |
+| Giapponese     | ぎゃくじょうスイング                                                                                            |
 | Tipo           | Erba                                                                                                     |
 | Codice         | EBW01-007                                                                                                |
 | Pokémon        | Pinsir                                                                                                   |
@@ -139,7 +139,7 @@
 
 | Nome           | Assalto                                                |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | とつげき                                                   |
+| Giapponese     | とつげき                                                  |
 | Tipo           | Erba                                                   |
 | Codice         | EBW01-008                                              |
 | Pokémon        | Pinsir                                                 |
@@ -158,7 +158,7 @@
 
 | Nome           | Tenaglia Letale ?          |
 | -------------- | -------------------------- |
-| Giapponese     | ひっさつばさみ                    |
+| Giapponese     | ひっさつばさみ                   |
 | Tipo           | Erba                       |
 | Codice         | EBW01-009                  |
 | Pokémon        | Pinsir                     |
@@ -177,7 +177,7 @@
 
 | Nome           | Sottomissione                                          |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | じごくぐるま                                                 |
+| Giapponese     | じごくぐるま                                              |
 | Tipo           | Lotta                                                  |
 | Codice         | EBW01-010                                              |
 | Pokémon        | Pinsir                                                 |

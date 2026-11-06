@@ -2,9 +2,9 @@
 
 ### Box Eslporazione 2
 
-#### Shred
+#### Lacerare
 
-| Nome           | Shred                      |
+| Nome           | Lacerare                   |
 | -------------- | -------------------------- |
 | Giapponese     | ひきさく                       |
 | Tipo           | Drago                      |
@@ -19,7 +19,7 @@
 | Prono          |                            |
 | Sui fianchi    | +10 danni. |
 
-[Shred](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard01.webp)
+[Lacerare](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard01.webp)
 
 #### Dragon Pulse
 
@@ -44,7 +44,7 @@
 
 | Nome           | Vastoimpatto                                                                                                           |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | ワイドブレイカー                                                                                                               |
+| Giapponese     | ワイドブレイカー                                                                                                             |
 | Tipo           | Drago                                                                                                                  |
 | Codice         | EBW02-043                                                                                                              |
 | Pokémon        | Rayquaza                                                                                                               |
@@ -63,7 +63,7 @@
 
 | Nome           | Furia scatenata ?          |
 | -------------- | -------------------------- |
-| Giapponese     | げきりんランページ                  |
+| Giapponese     | げきりんランページ               |
 | Tipo           | Drago                      |
 | Codice         | EBW02-044                  |
 | Pokémon        | Rayquaza                   |
@@ -82,7 +82,7 @@
 
 | Nome           | Fiamma drago                                           |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ドラゴンフレイム                                               |
+| Giapponese     | ドラゴンフレイム                                             |
 | Tipo           | Fuoco                                                  |
 | Codice         | EBW02-045                                              |
 | Pokémon        | Rayquaza                                               |
@@ -120,7 +120,7 @@
 
 | Nome           | Dragartigli                |
 | -------------- | -------------------------- |
-| Giapponese     | ドラゴンクロー                    |
+| Giapponese     | ドラゴンクロー                  |
 | Tipo           | Drago                      |
 | Codice         | EBW02-047                  |
 | Pokémon        | Rayquaza                   |
@@ -139,7 +139,7 @@
 
 | Nome           | Codadrago                  |
 | -------------- | -------------------------- |
-| Giapponese     | ドラゴンテール                    |
+| Giapponese     | ドラゴンテール                  |
 | Tipo           | Drago                      |
 | Codice         | EBW02-048                  |
 | Pokémon        | Rayquaza                   |
@@ -158,7 +158,7 @@
 
 | Nome           | Esplosione drago                                                              |
 | -------------- | ----------------------------------------------------------------------------- |
-| Giapponese     | ドラゴンバースト                                                                      |
+| Giapponese     | ドラゴンバースト                                                                   |
 | Tipo           | Drago                                                                         |
 | Codice         | EBW02-049                                                                     |
 | Pokémon        | Rayquaza                                                                      |
@@ -173,9 +173,9 @@
 
 [Esplosione drago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
 
-#### Thunder
+#### Tuono
 
-| Nome           | Thunder                    |
+| Nome           | Tuono                      |
 | -------------- | -------------------------- |
 | Giapponese     | かみなり                       |
 | Tipo           | Elettro                    |
@@ -190,4 +190,4 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Thunder](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard10.webp)
+[Tuono](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard10.webp)

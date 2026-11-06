@@ -61,20 +61,20 @@
 
 #### Carineria
 
-| Nome           | Carineria                                                                                        |
-| -------------- | ------------------------------------------------------------------------------------------------ |
-| Giapponese     | じゃれつく                                                                                            |
-| Tipo           | Psico                                                                                            |
-| Codice         | EBW02-014                                                                                        |
-| Pokémon        | Tinkatink                                                                                        |
-| Energia        | {P}{P}{P}{P}                                                                                     |
-| Danni          | 10                                                                                               |
-| Effetto        | Nel prossimo turno dell'avversario, reduce the number of Enekoro they roll by 1. |
-| In Piedi       | +40 danni.                                                                       |
-| A testa in giù |                                                                                                  |
-| Supino         |                                                                                                  |
-| Prono          |                                                                                                  |
-| Sui fianchi    | +40 danni.                                                                       |
+| Nome           | Carineria                                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | じゃれつく                                                                                                                  |
+| Tipo           | Psico                                                                                                                  |
+| Codice         | EBW02-014                                                                                                              |
+| Pokémon        | Tinkatink                                                                                                              |
+| Energia        | {P}{P}{P}{P}                                                                                                           |
+| Danni          | 10                                                                                                                     |
+| Effetto        | Nel prossimo turno dell'avversario, Nel prossimo turno dell'avversario, lancia 1 dado energia in meno. |
+| In Piedi       | +40 danni.                                                                                             |
+| A testa in giù |                                                                                                                        |
+| Supino         |                                                                                                                        |
+| Prono          |                                                                                                                        |
+| Sui fianchi    | +40 danni.                                                                                             |
 
 [Carineria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard04.webp)
 

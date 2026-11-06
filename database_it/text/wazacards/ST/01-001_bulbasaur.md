@@ -1,14 +1,14 @@
-## Bulbasaur Cards
+## Carte Bulbasaur
 
 ### Set Starter
 
-#### Vine Whip
+#### Frustata
 
-| Nome           | Vine Whip                  |
+| Nome           | Frustata                   |
 | -------------- | -------------------------- |
 | Giapponese     | つるのムチ                      |
 | Tipo           | Erba                       |
-| Codice         | STW01-001                  |
+| Codice         | STC01-001                  |
 | Pokémon        | Bulbasaur                  |
 | Energia        | {G}                        |
 | Danni          | 10                         |
@@ -19,13 +19,13 @@
 | Prono          | +20 danni. |
 | Sui fianchi    |                            |
 
-[Vine Whip](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard01.webp)
+[Frustata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard01.webp)
 
-#### Razor Leaf
+#### Foglielama
 
-| Nome           | Razor Leaf                 |
+| Nome           | Foglielama                 |
 | -------------- | -------------------------- |
-| Giapponese     | はっぱカッター                    |
+| Giapponese     | はっぱカッター                   |
 | Tipo           | Erba                       |
 | Codice         | STW01-002                  |
 | Pokémon        | Bulbasaur                  |
@@ -38,13 +38,13 @@
 | Prono          |                            |
 | Sui fianchi    | +20 danni. |
 
-[Razor Leaf](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard02.webp)
+[Foglielama](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard02.webp)
 
-#### Leech Seed
+#### Parassiseme
 
-| Nome           | Leech Seed                                                                                                                                               |
+| Nome           | Parassiseme                                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | やどりぎのタネ                                                                                                                                                  |
+| Giapponese     | やどりぎのタネ                                                                                                                                                |
 | Tipo           | Erba                                                                                                                                                     |
 | Codice         | STW01-003                                                                                                                                                |
 | Pokémon        | Bulbasaur                                                                                                                                                |
@@ -57,32 +57,32 @@
 | Prono          |                                                                                                                                                          |
 | Sui fianchi    | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. Nel tuo prossimo turno, lancia 1 dadi energia in più. |
 
-[Leech Seed](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard03.webp)
+[Parassiseme](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard03.webp)
 
-#### Grass Knot
+#### Laccioerboso
 
-| Nome           | Grass Knot                                                                                          |
-| -------------- | --------------------------------------------------------------------------------------------------- |
-| Giapponese     | くさむすび                                                                                               |
-| Tipo           | Erba                                                                                                |
-| Codice         | STW01-004                                                                                           |
-| Pokémon        | Bulbasaur                                                                                           |
-| Energia        | {G}{G}{G}                                                                                           |
-| Danni          | 30                                                                                                  |
-| Effetto        |                                                                                                     |
-| In Piedi       | Scegli una mossa dell'avversario Non può usare quella mossa nel suo prossimo turno. |
-| A testa in giù |                                                                                                     |
-| Supino         | Scegli una mossa dell'avversario Non può usare quella mossa nel suo prossimo turno. |
-| Prono          | Scegli una mossa dell'avversario Non può usare quella mossa nel suo prossimo turno. |
-| Sui fianchi    |                                                                                                     |
+| Nome           | Laccioerboso                                                                                                       |
+| -------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Giapponese     | くさむすび                                                                                                             |
+| Tipo           | Erba                                                                                                               |
+| Codice         | STW01-004                                                                                                          |
+| Pokémon        | Bulbasaur                                                                                                          |
+| Energia        | {G}{G}{G}                                                                                                          |
+| Danni          | 30                                                                                                                 |
+| Effetto        |                                                                                                                    |
+| In Piedi       | Scegli 1 mossa dell'avversario. Non può usare quella mossa nel suo prossimo turno. |
+| A testa in giù |                                                                                                                    |
+| Supino         | Scegli 1 mossa dell'avversario. Non può usare quella mossa nel suo prossimo turno. |
+| Prono          | Scegli 1 mossa dell'avversario. Non può usare quella mossa nel suo prossimo turno. |
+| Sui fianchi    |                                                                                                                    |
 
-[Grass Knot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard04.webp)
+[Laccioerboso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard04.webp)
 
 #### Assalto
 
 | Nome           | Assalto                                                |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | とつげき                                                   |
+| Giapponese     | とつげき                                                  |
 | Tipo           | Erba                                                   |
 | Codice         | STW01-005                                              |
 | Pokémon        | Bulbasaur                                              |
@@ -95,32 +95,32 @@
 | Prono          | Anche questo Pokémon subisce 30 danni. |
 | Sui fianchi    |                                                        |
 
-[Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard05.webp)
+[Assalto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard05.webp)
 
-#### Giga Drain
+#### Gigassorbimento
 
-| Nome           | Giga Drain                                        |
-| -------------- | ------------------------------------------------- |
-| Giapponese     | ギガドレイン                                            |
-| Tipo           | Erba                                              |
-| Codice         | STW01-006                                         |
-| Pokémon        | Bulbasaur                                         |
-| Energia        | {G}{G}{G}{G}                                      |
-| Danni          | 40                                                |
-| Effetto        |                                                   |
-| In Piedi       | Heal 40 damage from this Pokémon. |
-| A testa in giù |                                                   |
-| Supino         |                                                   |
-| Prono          |                                                   |
-| Sui fianchi    | Heal 40 damage from this Pokémon. |
+| Nome           | Gigassorbimento                                |
+| -------------- | ---------------------------------------------- |
+| Giapponese     | ギガドレイン                                      |
+| Tipo           | Erba                                           |
+| Codice         | STW01-006                                      |
+| Pokémon        | Bulbasaur                                      |
+| Energia        | {G}{G}{G}{G}                                   |
+| Danni          | 40                                             |
+| Effetto        |                                                |
+| In Piedi       | Questo Pokémon recupera 40 HP. |
+| A testa in giù |                                                |
+| Supino         |                                                |
+| Prono          |                                                |
+| Sui fianchi    | Questo Pokémon recupera 40 HP. |
 
-[Giga Drain](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard06.webp)
+[Gigassorbimento](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard06.webp)
 
-#### Acid Spray
+#### Acidobomba
 
-| Nome           | Acid Spray                 |
+| Nome           | Acidobomba                 |
 | -------------- | -------------------------- |
-| Giapponese     | アシッドボム                     |
+| Giapponese     | アシッドボム                   |
 | Tipo           | Buio                       |
 | Codice         | STW01-007                  |
 | Pokémon        | Bulbasaur                  |
@@ -133,25 +133,25 @@
 | Prono          |                            |
 | Sui fianchi    | +20 danni. |
 
-[Acid Spray](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard07.webp)
+[Acidobomba](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard07.webp)
 
 ### Promo
 
-#### Aroma Storm ?
+#### Tempesta aromatica ?
 
-| Nome           | Aroma Storm ?                                     |
-| -------------- | ------------------------------------------------- |
-| Giapponese     | アロマストーム                                           |
-| Tipo           | Erba                                              |
-| Codice         | PRW01-1-08                                        |
-| Pokémon        | Bulbasaur                                         |
-| Energia        | {G}{G}{G}{G}                                      |
-| Danni          | 30                                                |
-| Effetto        |                                                   |
-| In Piedi       | Heal 50 damage from this Pokémon. |
-| A testa in giù |                                                   |
-| Supino         |                                                   |
-| Prono          |                                                   |
-| Sui fianchi    |                                                   |
+| Nome           | Tempesta aromatica ?                           |
+| -------------- | ---------------------------------------------- |
+| Giapponese     | アロマストーム                                        |
+| Tipo           | Erba                                           |
+| Codice         | PRW01-1-08                                     |
+| Pokémon        | Bulbasaur                                      |
+| Energia        | {G}{G}{G}{G}                                   |
+| Danni          | 30                                             |
+| Effetto        |                                                |
+| In Piedi       | Questo Pokémon recupera 50 HP. |
+| A testa in giù |                                                |
+| Supino         |                                                |
+| Prono          |                                                |
+| Sui fianchi    |                                                |
 
-[Aroma Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img01.webp)
+[Tempesta aromatica](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img01.webp)

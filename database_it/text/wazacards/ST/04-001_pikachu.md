@@ -1,12 +1,12 @@
-### Pikachu Cards
+### Carte Pikachu
 
 ### Set Starter
 
-#### Gnaw
+#### Rosicchiare
 
-| Nome           | Gnaw                       |
+| Nome           | Rosicchiare                |
 | -------------- | -------------------------- |
-| Giapponese     | かじる                        |
+| Giapponese     | かじる                       |
 | Tipo           | Elettro                    |
 | Codice         | STW04-001                  |
 | Pokémon        | Pikachu                    |
@@ -19,7 +19,7 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Gnaw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard01.webp)
+[Rosicchiare](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard01.webp)
 
 #### Tuonoshock
 
@@ -38,32 +38,32 @@
 | Prono          |                            |
 | Sui fianchi    | +20 danni. |
 
-[Thunder Shock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard02.webp)
+[Tuonoshock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard02.webp)
 
-#### Electric Rush ?
+#### Elettrocarica ?
 
-| Nome           | Electric Rush ?                                                                                                       |
-| -------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | エレキラッシュ                                                                                                               |
-| Tipo           | Elettro                                                                                                               |
-| Codice         | STW04-003                                                                                                             |
-| Pokémon        | Pikachu                                                                                                               |
-| Energia        | {L}{L}                                                                                                                |
-| Danni          | 20                                                                                                                    |
-| Effetto        | This attack's damage isn't affected by Weakness.                                                      |
-| In Piedi       | Use "Electric Rush" 1 more time. (Ripetibile finché non fallisce.) |
-| A testa in giù |                                                                                                                       |
-| Supino         | Use "Electric Rush" 1 more time. (Ripetibile finché non fallisce.) |
-| Prono          |                                                                                                                       |
-| Sui fianchi    |                                                                                                                       |
+| Nome           | Elettrocarica ?                                                                                                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | エレキラッシュ                                                                                                                                                                                 |
+| Tipo           | Elettro                                                                                                                                                                                 |
+| Codice         | STW04-003                                                                                                                                                                               |
+| Pokémon        | Pikachu                                                                                                                                                                                 |
+| Energia        | {L}{L}                                                                                                                                                                                  |
+| Danni          | 20                                                                                                                                                                                      |
+| Effetto        | La debolezza non si applica a questa mossa.                                                                                                                             |
+| In Piedi       | Usa di nuovo “Elettrocarica”. (Ripetibile finché non fallisce.) (Ripetibile finché non fallisce.) |
+| A testa in giù |                                                                                                                                                                                         |
+| Supino         | Usa di nuovo “Elettrocarica”. (Ripetibile finché non fallisce.) (Ripetibile finché non fallisce.) |
+| Prono          |                                                                                                                                                                                         |
+| Sui fianchi    |                                                                                                                                                                                         |
 
-[Electric Rush](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard03.webp)
+[Elettrocarica](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard03.webp)
 
-#### Thunderbolt
+#### Fulmine
 
-| Nome           | Thunderbolt                                                            |
+| Nome           | Fulmine                                                                |
 | -------------- | ---------------------------------------------------------------------- |
-| Giapponese     | 10まんボルト                                                                |
+| Giapponese     | 10まんボルト                                                               |
 | Tipo           | Elettro                                                                |
 | Codice         | STW04-004                                                              |
 | Pokémon        | Pikachu                                                                |
@@ -76,11 +76,11 @@
 | Prono          | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
 | Sui fianchi    | +30 danni.                                             |
 
-[Thunderbolt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard04.webp)
+[Fulmine](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard04.webp)
 
-#### Thunder
+#### Tuono
 
-| Nome           | Thunder                    |
+| Nome           | Tuono                      |
 | -------------- | -------------------------- |
 | Giapponese     | かみなり                       |
 | Tipo           | Elettro                    |
@@ -95,13 +95,13 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Thunder](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard05.webp)
+[Tuono](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard05.webp)
 
-#### Volt Tackle
+#### Locomovolt
 
-| Nome           | Volt Tackle                                            |
+| Nome           | Locomovolt                                             |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ボルテッカー                                                 |
+| Giapponese     | ボルテッカー                                                |
 | Tipo           | Elettro                                                |
 | Codice         | STW04-006                                              |
 | Pokémon        | Pikachu                                                |
@@ -114,7 +114,7 @@
 | Prono          | +40 danni.                             |
 | Sui fianchi    |                                                        |
 
-[Volt Tackle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard06.webp)
+[Locomovolt](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard06.webp)
 
 #### Codacciaio
 
@@ -133,15 +133,15 @@
 | Prono          | Durante il prossimo turno dell'avversario, questo Pokémon subisce 10 danni in meno. |
 | Sui fianchi    |                                                                                                     |
 
-[Iron Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
+[Codacciaio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard07.webp)
 
 ### Promo
 
-#### Critical Bolt ?
+#### Fulmine critico ?
 
-| Nome           | Critical Bolt ?            |
+| Nome           | Fulmine critico ?          |
 | -------------- | -------------------------- |
-| Giapponese     | クリティカルボルト                  |
+| Giapponese     | クリティカルボルト                 |
 | Tipo           | Elettro                    |
 | Codice         | PRW01-008                  |
 | Pokémon        | Pikachu                    |
@@ -154,4 +154,4 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Critical Bolt](https://x.com/plakoro_pokepla/status/2082994699628150947/photo/1)
+[Fulmine critico](https://x.com/plakoro_pokepla/status/2082994699628150947/photo/1)

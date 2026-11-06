@@ -1,4 +1,4 @@
-## Rayquaza Cards
+## Carte Rayquaza
 
 ### Box Eslporazione 2
 
@@ -23,26 +23,26 @@
 
 #### Dragon Pulse
 
-| Nome           | Dragon Pulse                                                                   |
-| -------------- | ------------------------------------------------------------------------------ |
-| Giapponese     | りゅうのはどう                                                                        |
-| Tipo           | Drago                                                                          |
-| Codice         | EBW02-042                                                                      |
-| Pokémon        | Rayquaza                                                                       |
-| Energia        | {R}{R}                                                                         |
-| Danni          | 30                                                                             |
-| Effetto        |                                                                                |
-| In Piedi       | +30 danni.                                                     |
-| A testa in giù | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Supino         | +30 danni.                                                     |
-| Prono          | On your next turn, reduce the number of Enekoro you roll by 2. |
-| Sui fianchi    |                                                                                |
+| Nome           | Dragon Pulse                                                           |
+| -------------- | ---------------------------------------------------------------------- |
+| Giapponese     | りゅうのはどう                                                                |
+| Tipo           | Drago                                                                  |
+| Codice         | EBW02-042                                                              |
+| Pokémon        | Rayquaza                                                               |
+| Energia        | {R}{R}                                                                 |
+| Danni          | 30                                                                     |
+| Effetto        |                                                                        |
+| In Piedi       | +30 danni.                                             |
+| A testa in giù | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
+| Supino         | +30 danni.                                             |
+| Prono          | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
+| Sui fianchi    |                                                                        |
 
 [Dragon Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard02.webp)
 
-#### Breaking Swipe
+#### Vastoimpatto
 
-| Nome           | Breaking Swipe                                                                                                         |
+| Nome           | Vastoimpatto                                                                                                           |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Giapponese     | ワイドブレイカー                                                                                                               |
 | Tipo           | Drago                                                                                                                  |
@@ -57,11 +57,11 @@
 | Prono          |                                                                                                                        |
 | Sui fianchi    | Nel prossimo turno dell'avversario, Nel prossimo turno dell'avversario, lancia 1 dado energia in meno. |
 
-[Breaking Swipe](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
+[Vastoimpatto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
 
-#### Wild Rampage ?
+#### Furia scatenata ?
 
-| Nome           | Wild Rampage ?             |
+| Nome           | Furia scatenata ?          |
 | -------------- | -------------------------- |
 | Giapponese     | げきりんランページ                  |
 | Tipo           | Drago                      |
@@ -76,11 +76,11 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Wild Rampage](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
+[Furia scatenata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
 
-#### Dragon Flame
+#### Fiamma drago
 
-| Nome           | Dragon Flame                                           |
+| Nome           | Fiamma drago                                           |
 | -------------- | ------------------------------------------------------ |
 | Giapponese     | ドラゴンフレイム                                               |
 | Tipo           | Fuoco                                                  |
@@ -95,11 +95,11 @@
 | Prono          | Anche questo Pokémon subisce 30 danni. |
 | Sui fianchi    | +30 danni.                             |
 
-[Dragon Flame](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
+[Fiamma drago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
 
-#### Twister
+#### Tornado
 
-| Nome           | Twister                    |
+| Nome           | Tornado                    |
 | -------------- | -------------------------- |
 | Giapponese     | たつまき                       |
 | Tipo           | Drago                      |
@@ -114,11 +114,11 @@
 | Prono          |                            |
 | Sui fianchi    | +10 danni. |
 
-[Twister](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard06.webp)
+[Tornado](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard06.webp)
 
-#### Dragon Claw
+#### Dragartigli
 
-| Nome           | Dragon Claw                |
+| Nome           | Dragartigli                |
 | -------------- | -------------------------- |
 | Giapponese     | ドラゴンクロー                    |
 | Tipo           | Drago                      |
@@ -133,11 +133,11 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Dragon Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard07.webp)
+[Dragartigli](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard07.webp)
 
-#### Dragon Tail
+#### Codadrago
 
-| Nome           | Dragon Tail                |
+| Nome           | Codadrago                  |
 | -------------- | -------------------------- |
 | Giapponese     | ドラゴンテール                    |
 | Tipo           | Drago                      |
@@ -152,26 +152,26 @@
 | Prono          |                            |
 | Sui fianchi    | +20 danni. |
 
-[Dragon Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard08.webp)
+[Codadrago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard08.webp)
 
-#### Dragon Burst
+#### Esplosione drago
 
-| Nome           | Dragon Burst                                                             |
-| -------------- | ------------------------------------------------------------------------ |
-| Giapponese     | ドラゴンバースト                                                                 |
-| Tipo           | Drago                                                                    |
-| Codice         | EBW02-049                                                                |
-| Pokémon        | Rayquaza                                                                 |
-| Energia        | {R}{C}{C}{C}                                                             |
-| Danni          | 10                                                                       |
-| Effetto        |                                                                          |
-| In Piedi       | This attack does 20 damage for each {L} energy produced. |
-| A testa in giù |                                                                          |
-| Supino         | This attack does 20 damage for each {L} energy produced. |
-| Prono          |                                                                          |
-| Sui fianchi    |                                                                          |
+| Nome           | Esplosione drago                                                              |
+| -------------- | ----------------------------------------------------------------------------- |
+| Giapponese     | ドラゴンバースト                                                                      |
+| Tipo           | Drago                                                                         |
+| Codice         | EBW02-049                                                                     |
+| Pokémon        | Rayquaza                                                                      |
+| Energia        | {R}{C}{C}{C}                                                                  |
+| Danni          | 10                                                                            |
+| Effetto        |                                                                               |
+| In Piedi       | Questa mossa infligge 20 danni per ogni energia {L} ottenuta. |
+| A testa in giù |                                                                               |
+| Supino         | Questa mossa infligge 20 danni per ogni energia {L} ottenuta. |
+| Prono          |                                                                               |
+| Sui fianchi    |                                                                               |
 
-[Dragon Burst](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
+[Esplosione drago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
 
 #### Thunder
 

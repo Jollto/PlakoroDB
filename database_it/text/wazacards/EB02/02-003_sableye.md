@@ -173,9 +173,9 @@
 
 [Lampo gemma](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
 
-#### Psybeam
+#### Psicoraggio
 
-| Nome           | Psybeam                    |
+| Nome           | Psicoraggio                |
 | -------------- | -------------------------- |
 | Giapponese     | サイケこうせん                    |
 | Tipo           | Psico                      |
@@ -190,4 +190,4 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Psybeam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard10.webp)
+[Psicoraggio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard10.webp)

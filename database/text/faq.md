@@ -4,6 +4,335 @@
 
 #### 1
 
+Q: ラッキーのワザ「チャンスタックル」のキャラコロ効果で、次の番、自分が振るキャラコロを振りなおせることになりました。
+この場合、キャラコロを1度も振りなおさないことはできますか？
+
+A: はい、できます。
+
+R: チャンスタックル
+
+#### 2
+
+Q: ラッキーのワザ「チャンスタックル」のキャラコロ効果で、次の番、自分が振るキャラコロを2回振りなおせることになりました。
+1回振りなおしたあと、2回目は振りなおさないことはできますか？
+
+A: はい、できます。
+
+R: チャンスタックル
+
+#### 3
+
+Q: ラッキーのワザ「チャンスタックル」のキャラコロ効果で、次の番、自分が振るキャラコロを振りなおせることになりました。
+次の相手の番、ゲンガーのワザ「まっさかさま」のキャラコロ効果を受けました。
+次の番、最初に振ったキャラコロと振りなおしたキャラコロの向きはそれぞれどうなりますか？
+
+A: この番に振るキャラコロの向きがすべて{hs}になるので、振りなおしても{hs}になります。
+
+R: チャンスタックル, まっさかさま
+
+#### 4
+
+Q:ヤミラミのワザ「そそのかす」のエネコロチェックとキャラコロチェックに成功しました。
+次の相手の番、相手が使うワザを自分が選ぶ時、前の相⼿の番に相⼿が使ったワザを選んで使わせることはできますか？
+
+A: いいえ、できません。
+
+R: そそのかす
+
+#### 5
+
+Q:ヤミラミのワザ「ジュエルフラッシュ」のエネコロチェックとキャラコロチェックに成功しました。
+次の相⼿の番、相⼿のワザが失敗した場合でも、エネコロを2個選んで振りなおさせますか？
+
+A: はい。必ず2つ選んで振りなおさせます。
+
+R: ジュエルフラッシュ
+
+#### 6
+
+Q: ヤミラミのワザ「ジュエルフラッシュ」のキャラコロ効果がはたらいている時に、相手のヒトカゲのワザ「ヒートアップ」のキャラコロ効果で、次の相手の番、相手が振れるエネコロが2個多くなりました。
+この場合、「次の相手の番、相手のエネコロを2個選んで振りなおさせる。」はどのように行いますか？
+
+A: エネコロが3個しかない場合は最初に振った3個のエネコロの中から2個を選んで、振りなおさせます。
+その後、キャラコロ効果で増えた分のエネコロをもう一度振ります。
+振りなおさせた分を含む3個と、キャラコロ効果で増えた分の2個で出たエネルギーがすべて、この番に出たエネルギーになります。
+別のエネコロを追加して同時に振る場合は、その中から好きなエネコロを2個選んで振りなおさせます。
+
+R: ジュエルフラッシュ, ヒートアップ
+
+#### 7
+
+Q: ボスゴドラのワザ「タイラントシールド」のキャラコロ効果がはたらいている時に、相手のミュウのワザ「サイコショット」のエネコロチェックとキャラコロチェックが成功して、50ダメージを受けることになりました。
+この場合、この番に自分が受けるダメージは何ダメージですか？
+
+A: 50ダメージです。
+相手からのダメージが40以下の場合はダメージを受けませんが、50以上のダメージはそのまま受けます。
+
+R: タイラントシールド
+
+#### 8
+
+Q: ボスゴドラのワザ「タイラントシールド」のキャラコロ効果がはたらいている時に、相手のルカリオのワザ「オーラづき」で、30ダメージを受けることになりました。
+この場合、この番に自分が受けるダメージは何ダメージですか？
+
+A: 50ダメージです。
+ボスゴドラの弱点は闘なので、受けるダメージは30＋20＝50ダメージになります。
+その場合、この番に受けるダメージは50以上となるため、ワザのダメージはそのまま受けます。
+
+R: タイラントシールド, オーラづき
+
+#### 9
+
+Q: 相⼿がワザに失敗した次の番、ボスゴドラのワザ「パワフルスチール」のエネコロチェックとキャラコロチェックに成功しました。
+この場合、相手に与えるダメージは何ダメージですか？
+
+A: 60ダメージです。
+ワザ成功の20ダメージに加えて、前の相手の番、ボスゴドラがワザのダメージを受けていないため、40ダメージを追加することができます。
+
+R: パワフルスチール
+
+#### 10
+
+Q: 先攻初回の番、ボスゴドラのワザ「パワフルスチール」のエネコロチェックとキャラコロチェックに成功しました。
+この場合、キャラコロ効果でダメージを追加することはできますか？
+
+A: いいえ、できません。
+まだ相手が番を行っていないので、ダメージを追加することはできません。
+
+R: パワフルスチール
+
+#### 11
+
+Q: レックウザのワザ「げきりんランページ」を選びました。
+エネコロチェックは{R}{L}、{R}{L}、{R}{L}、キャラコロチェックは{hs}でした。
+この場合、相手に与えるダメージは何ダメージですか？
+
+A: 60ダメージです。
+ワザに必要なエネコスト{R}{R}{R}{L}{L}ぶんのエネルギーが出ているため、エネコロチェックは成功となります。
+キャラコロチェックは失敗のため、相手に60ダメージを与えて番は終了となります。
+
+R: げきりんランページ
+
+#### 12
+
+Q: レックウザのワザ「ドラゴンバースト」を選びました。
+エネコロチェックは{R}{L}、{R}{L}、{R}{L}、キャラコロチェックは立ちでした。
+この場合、相手に与えるダメージは何ダメージですか？
+
+A:70ダメージです。
+エネコロチェックが成功したぶんの10ダメージに、「ドラゴンバースト」のキャラコロ効果によって「エネコロで出た{L}エネルギーの数×20ダメージ」を追加できるため、20×3=60ダメージを追加します。
+
+R: ドラゴンバースト
+
+#### 13
+
+Q: 「へんげぎり」のキャラコロ効果に成功した場合、つけ替えるカスタムチップはどのように準備すればよいですか？
+
+A: 対戦準備の時に⽤意しておきます。（相⼿に⾒せる必要はありません。）
+
+R: へんげぎり
+
+#### 14
+
+Q: ゲッコウガのワザ「へんげぎり」のキャラコロ効果で、自分のエネコロのカスタムチップをつけ替えられることになりました。
+カスタムチップを1枚もつけ替えないことはできますか？
+
+A: はい、できます。
+その場合は、つけ替えないことを相⼿に伝えて番を終わります。
+
+R: へんげぎり
+
+#### 15
+
+Q: ゲッコウガのワザ「へんげぎり」のキャラコロ効果で、自分のエネコロのカスタムチップをつけ替えられることになりました。
+カスタムチップをつけ替えるのではなく、⾃分が持っている別のエネコロを選んで交換することは出来ますか？
+
+A: いいえ、できません。交換できるのはカスタムチップのみです。
+
+R: へんげぎり
+
+#### 16
+
+Q: カヌチャンのワザ「ハンマーストライク」のキャラコロ効果で、次の自分の番、自分が振れるエネコロが2個少なくなりました。
+さらに、次の相手の番、相手のルカリオのワザ「はっけい」のキャラコロ効果で、次の自分の番、自分が振れるエネコロが1個少なくなりました。
+この場合、次の番に自分が振れるエネコロは何個ですか？
+
+A: 0個です。
+振れるエネコロが0個の番も、この番に使うワザを選択して、キャラコロだけを振ってください。
+結果が出たら、この番は終了となります。
+
+R: ハンマーストライク, はっけい
+
+#### 17
+
+Q: ゲンガーのワザ「まっさかさま」のエネコロチェックとキャラコロチェックに成功しました。
+「次の相手の番、相手のキャラコロの向きを{hs}にする。」とはどのように行いますか？
+
+A: 次の相⼿の番、相⼿はキャラコロを振った後、{hs}にします。
+これにより、相手が次の番に複数回キャラコロを振る場合でも、すべてのキャラコロの向きが{hs}になります。
+
+R: まっさかさま
+
+#### 18
+
+Q: ゲンガーのワザ「まっさかさま」のエネコロチェックとキャラコロチェックに成功しました。
+次の相⼿の番、相⼿がサンダーのワザ「ダブルサンダー」のエネコロチェックとキャラコロチェックを成功させました。
+この場合、次の番に相手が振るキャラコロの向きはどうなりますか？
+
+A: 次の番、相⼿が振るキャラコロの向きはすべて{hs}になります。
+これにより、「ダブルサンダー」キャラコロチェックはすべて失敗となります。
+
+R: まっさかさま, ダブルサンダー
+
+#### 19
+
+Q: メタグロスのワザ「しそくえんざん」のエネコロチェックに成功して、キャラコロで立ちが出ました。
+次の相⼿の番、相手がゲンガーのワザ「まっさかさま」のエネコロチェックとキャラコロチェックを成功させました。
+この場合、次の番に相手が振るキャラコロの向きはどうなりますか？
+
+A: 「まっさかさま」のキャラコロ効果で、キャラコロの向きは{hs}になります。
+
+R: しそくえんざん, まっさかさま
+
+#### 20
+
+Q: メタグロスのワザ「しそくえんざん」のエネコロチェックに成功して、キャラコロで立ちが出ました。
+次の相⼿の番、相手がゲンガーのワザ「かげしばり」のエネコロチェックとキャラコロチェックを成功させました。
+この場合、次の番に自分が振るキャラコロの向きはどうなりますか？
+
+A: 「かげしばり」のキャラコロ効果で、キャラコロを振れなくなります。
+
+R: しそくえんざん, かげしばり
+
+#### 21
+
+Q: メタグロスのワザ「だいばくはつ」のワザ効果で、⾃分もダメージを受けて、おたがいのポケモンのHPが同時になくなりました。
+この場合、勝敗はどうなりますか？
+
+A: 自分の負けです。
+同時にHPがなくなった場合、ワザを使った⽅が負けになります。
+
+R: だいばくはつ
+
+#### 22
+
+Q: ルカリオのHPが120の時に、ルカリオのワザ「はどうナックル」のエネコロチェックとキャラコロチェックに成功しました。
+この場合、ダメージを追加することはできますか？
+
+A: いいえ、できません。
+「はどうナックル」のキャラコロ効果でダメージを追加できるのは、HPが80以下のときだけです。
+
+R: はどうナックル
+
+#### 23
+
+Q: ベトベターのワザ「どくガス」を使いました。
+エネコロチェックは成功、キャラコロチェックは失敗でした。
+次の自分の番、ベトベターのワザ「どくどくボンバー」のエネコロチェックとキャラコロチェックに成功した場合、ダメージを追加することはできますか？
+
+A: はい、できます。
+
+R: どくガス, どくどくボンバー
+
+#### 24
+
+Q: 相手がピカチュウのワザ「エレキラッシュ」を使いました。
+1回目のエネコロチェックとキャラコロチェックは成功、2回目のエネコロチェックは失敗でした。
+次の自分の番、ベトベターのワザ「いやがらせベノム」のエネコロチェックとキャラコロチェックに成功した場合、ダメージを追加することはできますか？
+
+A: はい、できます。
+
+R: いやがらせベノム, エレキラッシュ
+
+#### 25
+
+Q: イワークのワザ「ロックウォール」のエネコロチェックとキャラコロチェックに成功しました。
+次の相手の番、相手がピカチュウのワザ「エレキラッシュ」を2回成功させました。
+この場合、自分が受けるダメージは何ダメージですか？
+
+A: 0ダメージです。
+ワザを1回受けるたびに、受けるダメージを-30することができます。
+
+R: ロックウォール, エレキラッシュ
+
+#### 26
+
+Q: イワークのワザ「ロックウォール」のエネコロチェックとキャラコロチェックに成功しました。
+次の相手の番、相手がサンダーのワザ「ボルトラッシュ」のキャラコロチェックを2回成功させました。
+この場合、自分が受けるダメージは何ダメージですか？
+
+A: 40ダメージです。
+「ボルトラッシュ」の合計ダメージから、受けるダメージを-30することができます。
+
+R: ロックウォール, ボルトラッシュ
+
+#### 27
+
+Q: カイロスのワザ「チャージばさみ」のエネコロチェックとキャラコロチェックに成功しました。
+「次の自分の番、自分のエネコロを1個多くする。」とはどのように行いますか？
+また、多くするエネコロを選ぶのは誰ですか？
+
+A: 3個エネコロを振った後に、その中から好きな1個を選んでもう⼀度振ります。
+その間に出たエネルギーがすべて、この番に出たエネルギーになります。
+エネコロを4つ以上持っている場合は、好きなエネコロを追加して、同時に振っても良いです。
+多くするエネコロをどれにするかは、エネコロを振る人が選びます。
+
+R: チャージばさみ
+
+#### 28
+
+Q: カイロスのワザ「ハサミギロチン」を使いました。
+エネコロチェックは草エネルギー4つ、キャラコロチェックは{st}でした。
+この場合、ダメージを与えることはできますか？
+
+A: いいえ、できません。
+エネコロチェックに失敗しているため、ワザは失敗となります。
+その場合、キャラコロチェックは行わず、番は終了となります。
+
+R: ハサミギロチン
+
+#### 29
+
+Q: フリーザーのワザ「アイスウイング」のキャラコロ効果で、次の相手の番、相手が振れるエネコロが1個少なくなりました。
+少なくするエネコロを選ぶのは誰ですか？
+
+A: 相手です。
+少なくするエネコロをどれにするかは、エネコロを振る人が選びます。
+
+R: アイスウイング
+
+#### 30
+
+Q: ヒトカゲのワザ「ヒートアップ」のキャラコロ効果で、次の自分の番、自分が振れるエネコロが2個多くなりました。
+ただし、相手のフリーザーのワザ「コールドブレス」のキャラコロ効果で、次の自分の番、自分が振れるエネコロが2個少なくなりました。
+この場合、次の番に自分が振れるエネコロは何個ですか？
+
+A: 3個です。
+
+R: コールドブレス, ヒートアップ
+
+#### 31
+
+Q: サンダーのワザ「サンダーチェイン」のエネコロチェックとキャラコロチェックに成功しました。
+「もう1回キャラコロを振る。（失敗するまで繰り返せる。）」とはどのように行いますか？
+
+A: {st}{ba}{do}以外が出るまで、キャラコロを振ります。
+{st}{ba}{do}が出た回数×30ダメージを追加して、相⼿のポケモンにダメージを与えます。
+
+R: サンダーチェイン
+
+#### 32
+
+Q: ファイヤーのワザ「ほのおのつばさ」のキャラコロ効果で、⾃分もダメージを受けて、おたがいのポケモンのHPが同時になくなりました。
+この場合、勝敗はどうなりますか？
+
+A: 自分の負けです。
+同時にHPがなくなった場合、ワザを使った⽅が負けになります。
+
+R: ほのおのつばさ
+
+#### 33
+
 Q: I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed".  
 How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?
 
@@ -15,7 +344,7 @@ If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll t
 
 R: [Leech Seed](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
 
-#### 2
+#### 34
 
 Q: When Bulbasaur's HP was 120, I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Giga Drain".  
 In this case, can I raise its HP to 160?
@@ -24,7 +353,7 @@ A: No, you cannot. Bulbasaur's max HP is 120.
 
 R: [Giga Drain](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)
 
-#### 3
+#### 35
 
 Q: Due to the self-damage effect of Bulbasaur's move "Reckless Charge", both my Pokémon and my opponent's Pokémon lost all their HP at the same time.  
 In this case, who wins or loses?
@@ -34,7 +363,7 @@ If both Pokémon lose all their HP at the same time, the player who used the mov
 
 R: [Reckless Charge](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-005.png)
 
-#### 4
+#### 36
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Charmander's move "Heat Up".  
 How is the effect "On your next turn, increase the number of Enekoro you roll by 2." applied?  
@@ -48,7 +377,7 @@ The player rolling the Enekoro chooses which one to add to increase the number o
 
 R: [Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)
 
-#### 5
+#### 37
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Charmander's move "Flare Storm".  
 I got 5 Fire{R} Energy symbols.  
@@ -58,7 +387,7 @@ A: 70 damage (base 20 + 10 \* 5 fire energy).
 
 R: [Flare Storm](/database/cards/wazacards/ST/02-001_charmander/STW02-005.png)
 
-#### 6
+#### 38
 
 Q: On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack".  
 On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip".  
@@ -69,7 +398,7 @@ A: 0 damage.
 
 R: [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png), [Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)
 
-#### 7
+#### 39
 
 Q: On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack".  
 On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip" and successfully passed the Enekoro and Charakoro rolls.  
@@ -79,7 +408,7 @@ A: 10 damage.
 
 R: [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png), [Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)
 
-#### 8
+#### 40
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush".  
 How is the effect "Use "Electric Rush" 1 more time. (Can be repeated until it fails.)" applied?
@@ -89,7 +418,7 @@ Repeat this until you fail either the Enekoro or Charakoro rolls.
 
 R: [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
-#### 9
+#### 41
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Thunderbolt".  
 How is the effect "On your next turn, reduce the number of Enekoro you roll by 2" applied?  
@@ -100,7 +429,7 @@ The player rolling the Enekoro chooses which one to reduce.
 
 R: [Thunderbolt](/database/cards/wazacards/ST/04-001_pikachu/STW04-004.png)
 
-#### 10
+#### 42
 
 Q: Due to the self-damage effect of Pikachu's move "Volt Tackle", Pikachu also took damage, and both Pokémon lost all their HP at the same time.  
 In this case, who wins or loses?
@@ -110,7 +439,7 @@ If both Pokémon lose all their HP at the same time, the player who used the mov
 
 R: [Volt Tackle](/database/cards/wazacards/ST/04-001_pikachu/STW04-006.png)
 
-#### 11
+#### 43
 
 Q: My opponent successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed".  
 On my next turn, with 2 Enekoro remaining, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush".  
@@ -121,7 +450,7 @@ Even if you continue to succeed, the number of Enekoro you can roll remains at 2
 
 R: [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png), [Leech Seed](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)
 
-#### 12
+#### 44
 
 Q: In the first turn of the first player, with 2 Enekoro, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush".  
 When I use "Electric Rush" for the second time in a row, how many Enekoro can I spend?
@@ -131,7 +460,7 @@ Even if you continue to succeed, the number of Enekoro you can roll remains at 2
 
 R: [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
-#### 13
+#### 45
 
 Q: I used Eevee's move "Take Down".  
 The Enekoro roll showed 3 Flying{Y} energy, and the Charakoro roll was sideways{s1}.  
@@ -141,7 +470,7 @@ A: 30 damage.
 
 R: [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)
 
-#### 14
+#### 46
 
 Q: I used Eevee's move "Best Dash".  
 How many energies of which type do I need to succeed?
@@ -150,7 +479,7 @@ A: This move succeeds as long as you have 5 energies - any type will do.
 
 R: [Best Dash](/database/cards/wazacards/ST/05-001_eevee/STW05-005.png)
 
-#### 15
+#### 47
 
 Q: Due to the self-damage effect of Eevee's move "Take Down", Eevee also took damage, and both Pokémon lost all their HP at the same time.  
 In this case, who wins or loses?
@@ -160,7 +489,7 @@ If both Pokémon lose all their HP at the same time, the player who used the mov
 
 R: [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)
 
-#### 16
+#### 48
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Mew's move "Psychic".  
 My opponent rolled their Enekoro, and got one Grass{G} energy, one Fire{R} energy and one Water{W} energy.  
@@ -171,7 +500,7 @@ Since the number of the most common Energy type is 1, 1x10 = 10 damage is added.
 
 R: [Psychic](/database/cards/wazacards/ST/06-001_mew/STW06-006.png)
 
-#### 17
+#### 49
 
 Q: My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Gnaw", and I took 40 damage.  
 On my next turn, I successfully passed the Enekoro and Charakoro rolls for Mew's move "Reflection".  
@@ -183,7 +512,7 @@ Because the Charakoro effect of "Reflection" allows you to deal double that amou
 
 R: [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png), [Gnaw](/database/cards/wazacards/ST/04-001_pikachu/STW04-001.png)
 
-#### 18
+#### 50
 
 Q: My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Iron Tail", and I took 20 damage.  
 On my next turn, I successfully passed the Enekoro and Charakoro rolls for Mew's move "Reflection".  
@@ -195,7 +524,9 @@ However, as the opponent can reduce the damage taken by 10 due to the effect of 
 
 R: [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png), [Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)
 
-#### 19
+### Deleted
+
+#### 51
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Pinsir's move "Scissors Charge".  
 How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?  
@@ -208,7 +539,7 @@ The player rolling the Enekoro chooses which one to add.
 
 R: [Scissors Charge](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)
 
-#### 20
+#### 52
 
 Q: I used Pinsir's move "Guillotine".  
 The Enekoro roll showed 4 Grass{G} Energy, and the Charakoro roll was {st}.  
@@ -220,7 +551,7 @@ In this case, the Charakoro check is not carried out, and the turn ends.
 
 R: [Guillotine](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)
 
-#### 21
+#### 53
 
 Q: Due to the self-damage effect of Moltres' move "Fire Wing", I also took damage, and both Pokémon lost all their HP at the same time.  
 In this case, who wins or loses?
@@ -230,7 +561,7 @@ If both Pokémon lose all their HP at the same time, the player who used the mov
 
 R: [Fire Wing](/database/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)
 
-#### 22
+#### 54
 
 Q: Due to the Charakoro effect of Articuno's move "Ice Wing", the opponent has to roll one Enekoro less during their next turn.  
 Who decides which Enekoro to remove?
@@ -240,7 +571,7 @@ The player who rolls the Enekoro decides which one to remove.
 
 R: [Ice Wing](/database/cards/wazacards/EB01/01-003_articuno/EBW01-021.png)
 
-#### 23
+#### 55
 
 Q: Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn.  
 However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 less Enekoro to roll on my next turn.  
@@ -250,7 +581,7 @@ A: 3 Enekoro.
 
 R: [Cold Breath](/database/cards/wazacards/EB01/01-003_articuno/EBW01-028.png), [Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)
 
-#### 24
+#### 56
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Thunder Chain".  
 How is the effect "Reroll your Charakoro. (Can be repeated until it fails.)" applied?
@@ -260,7 +591,7 @@ Inflict damage on your opponent's Pokémon equal to the number of times {st}{ba}
 
 R: [Thunder Chain](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-039.png)
 
-#### 25
+#### 57
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall".  
 On my opponent's next turn, they successfully used Pikachu's move "Electric Rush" twice.  
@@ -271,7 +602,7 @@ Each time you take a hit from a move, you can reduce the damage you take by 30.
 
 R: [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
-#### 26
+#### 58
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall".  
 On my opponent's next turn, they successfully rolled the Charakoro for Pikachu's move "Volt Rush" twice.  
@@ -282,7 +613,7 @@ You can subtract 30 from the total damage dealt by "Volt Rush".
 
 R: [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png), [Volt Rush](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)
 
-#### 27
+#### 59
 
 Q: I used Grimer's move "Poison Gas".  
 The Enekoro roll succeeded, but the Charakoro roll failed.  
@@ -292,7 +623,7 @@ A: Yes, you can.
 
 R: [Poison Gas](/database/cards/wazacards/EB01/01-006_grimer/EBW01-051.png), [Toxic Blast](/database/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)
 
-#### 28
+#### 60
 
 Q: My opponent used Pikachu's move "Electric Rush".  
 The first Enekoro and Charakoro rolls were successful, but the second Enekoro roll failed.  
@@ -302,7 +633,7 @@ A: Yes, you can.
 
 R: [Harassment Venom](/database/cards/wazacards/EB01/01-006_grimer/EBW01-060.png), [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)
 
-#### 29
+#### 61
 
 Q: When Lucario's HP is 120, I successfully passed the Enekoro and Charakoro rolls for Lucario's move "Aura Knuckle".  
 In this case, can I deal additional damage?
@@ -312,7 +643,7 @@ You can only deal additional damage via the Charakoro effect of "Aura Knuckle" w
 
 R: [Aura Knuckle](/database/cards/wazacards/ST/09-001_lucario/STW09-003.png)
 
-#### 30
+#### 62
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".  
 How is the effect "On the opponent's next turn, set the direction of their Charakoro to {hs}." applied?
@@ -322,7 +653,7 @@ This ensures that even if the opponent rolls the Charakoro multiple times on the
 
 R: [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)
 
-#### 31
+#### 63
 
 Q: I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".  
 On my opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Dual Thunder".  
@@ -333,7 +664,7 @@ As a result, all "Dual Thunder" Charakoro checks will fail.
 
 R: [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png), [Dual Thunder](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-036.png)
 
-#### 32
+#### 64
 
 Q: I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}.  
 On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".  
@@ -343,7 +674,7 @@ A: Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will b
 
 R: [Basic Calculation](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png), [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)
 
-#### 33
+#### 65
 
 Q: I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}.  
 On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Shadow Bind".  
@@ -353,7 +684,7 @@ A: Due to the "Shadow Bind" Charakoro effect, you will be unable to roll the Cha
 
 R: [Basic Calculation](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png), [Shadow Bind](/database/cards/wazacards/ST/07-001_gengar/STW07-004.png)
 
-#### 34
+#### 66
 
 Q: Due to the move effect of Metagross' "Explosion", Metagross also took damage, and both Pokémon lost all their HP at the same time.  
 In this case, who wins or loses?
@@ -642,3 +973,20 @@ Q: What should I do if the number of Enekoro I can roll becomes 0 due to a move'
 
 A: Even on a turn where you have 0 Enekoro to roll, select the move you wish to use for that turn and roll only the Charakoro.  
 Once the result is determined, that turn ends.
+
+#### 42
+
+Q: キャラコロ効果などで、バトルの途中でカスタムチップをつけ替えたいです。
+この場合、つけ替えるカスタムチップを、バトルの準備の時に相手に見せる必要はありますか？
+
+A: いいえ、バトルの準備の時に見せる必要はありません。
+カスタムチップをつけ替える時に、つけ替えたいカスタムチップを相手に見せてください。
+
+#### 43
+
+Q: キャラコロ効果などで、バトルの途中でカスタムチップをつけ替えたいです。
+この場合、カスタムチップ以外の面をつけ替えることはできますか？
+
+A: いいえ、できません。
+
+![](../extras/icons/faq/img_customchips.webp)

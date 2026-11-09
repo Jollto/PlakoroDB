@@ -27,16 +27,16 @@ A: No, non puoi. Gli HP massimi di Bulbasaur sono 120.
 #### 3
 
 Q: A causa dell'effetto autolesionismo della mossa di Bulbasauro "carica incauta", sia il mio Pokeæmon che il Pokeæmon del mio avversario hanno perso tutti i loro HP allo stesso tempo.  
-In this case, who wins or loses?
+In questo caso, chi vince o perde?
 
-A: You lose.  
-If both Pokémon lose all their HP at the same time, the player who used the move loses.
+A: perdi.  
+Se entrambi i Pokémon perdono tutti i loro HP allo stesso tempo, il giocatore che ha usato la mossa perde.
 
 R: [Reckless Charge](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-005.png)
 
 #### 4
 
-Q: I successfully passed the Enekoro and Charakoro rolls for Charmander's move "Heat Up".  
+D: Ho superato con successo i rotoli Energia e Pokedice per la mossa di Charmander "Riscaldamento".  
 How is the effect "On your next turn, increase the number of Enekoro you roll by 2." applied?  
 Also, who chooses which Enekoro to add?
 
@@ -103,10 +103,10 @@ R: [Thunderbolt](/database/cards/wazacards/ST/04-001_pikachu/STW04-004.png)
 #### 10
 
 Q: Due to the self-damage effect of Pikachu's move "Volt Tackle", Pikachu also took damage, and both Pokémon lost all their HP at the same time.  
-In this case, who wins or loses?
+In questo caso, chi vince o perde?
 
-A: You lose.  
-If both Pokémon lose all their HP at the same time, the player who used the move loses.
+A: perdi.  
+Se entrambi i Pokémon perdono tutti i loro HP allo stesso tempo, il giocatore che ha usato la mossa perde.
 
 R: [Volt Tackle](/database/cards/wazacards/ST/04-001_pikachu/STW04-006.png)
 
@@ -153,10 +153,10 @@ R: [Best Dash](/database/cards/wazacards/ST/05-001_eevee/STW05-005.png)
 #### 15
 
 Q: Due to the self-damage effect of Eevee's move "Take Down", Eevee also took damage, and both Pokémon lost all their HP at the same time.  
-In this case, who wins or loses?
+In questo caso, chi vince o perde?
 
-A: You lose.  
-If both Pokémon lose all their HP at the same time, the player who used the move loses.
+A: perdi.  
+Se entrambi i Pokémon perdono tutti i loro HP allo stesso tempo, il giocatore che ha usato la mossa perde.
 
 R: [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)
 
@@ -223,10 +223,10 @@ R: [Guillotine](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)
 #### 21
 
 Q: Due to the self-damage effect of Moltres' move "Fire Wing", I also took damage, and both Pokémon lost all their HP at the same time.  
-In this case, who wins or loses?
+In questo caso, chi vince o perde?
 
-A: You lose.  
-If both Pokémon lose all their HP at the same time, the player who used the move loses.
+A: perdi.  
+Se entrambi i Pokémon perdono tutti i loro HP allo stesso tempo, il giocatore che ha usato la mossa perde.
 
 R: [Fire Wing](/database/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)
 
@@ -356,10 +356,10 @@ R: [Basic Calculation](/database/cards/wazacards/ST/08-001_metagross/STW08-002.p
 #### 34
 
 Q: Due to the move effect of Metagross' "Explosion", Metagross also took damage, and both Pokémon lost all their HP at the same time.  
-In this case, who wins or loses?
+In questo caso, chi vince o perde?
 
-A: You lose.  
-If both Pokémon lose all their HP at the same time, the player who used the move loses.
+A: perdi.  
+Se entrambi i Pokémon perdono tutti i loro HP allo stesso tempo, il giocatore che ha usato la mossa perde.
 
 R: [Explosion](/database/cards/wazacards/ST/08-001_metagross/STW08-007.png)
 

@@ -20,9 +20,9 @@ Se hai 4 o più Enekoro, puoi aggiungere un Enekoro a tua scelta e lanciarli tut
 D: Quando gli HP di Bulbasaur sono 120, ed ho superato con successo i tiri Enekoro e Charakoro per la mossa di Bulbasaur "Giga Drain".  
 In questo caso, posso aumentare i sui HP a 160?
 
-No Gli HP massimi di Bulbasaur sono 120.
+A: No, non puoi. Gli HP massimi di Bulbasaur sono 120.
 
-[Gigassorbimento](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)
+[Gigassorbimento](/database_it/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)
 
 #### 3
 
@@ -214,7 +214,7 @@ Q: I used Pinsir's move "Guillotine".
 The Enekoro roll showed 4 Grass{G} Energy, and the Charakoro roll was {st}.  
 In this case, can I deal damage?
 
-No  
+A: No, non puoi.  
 As the Enekoro roll failed, the move fails.  
 In this case, the Charakoro check is not carried out, and the turn ends.
 
@@ -307,7 +307,7 @@ R: [Harassment Venom](/database/cards/wazacards/EB01/01-006_grimer/EBW01-060.png
 Q: When Lucario's HP is 120, I successfully passed the Enekoro and Charakoro rolls for Lucario's move "Aura Knuckle".  
 In this case, can I deal additional damage?
 
-No  
+A: No, non puoi.  
 You can only deal additional damage via the Charakoro effect of "Aura Knuckle" when HP is 80 or less.
 
 R: [Aura Knuckle](/database/cards/wazacards/ST/09-001_lucario/STW09-003.png)
@@ -388,7 +388,7 @@ A: No, you don't need to match them.
 
 Q: Can I swap out Enekoro's chips during a battle?
 
-No
+A: No, non puoi.
 
 #### 5
 
@@ -441,7 +441,7 @@ A: Yes, you can.
 
 Q: Can I use a Charakoro for a Pokémon other than the one on the Characard?
 
-No  
+A: No, non puoi.  
 Please use the Charakoro with the same name as the Pokémon shown on the Characard.
 
 #### 13
@@ -462,20 +462,20 @@ The move is successful if you have at least as many Energies as the number shown
 
 Q: Can I mix and use Wazacards from different Pokémon?
 
-No  
+A: No, non puoi.  
 Only the Pokémon listed under "Pokémon that can use this move" on a Wazacard can use this move.
 
 #### 16
 
 Q: Can I include multiple copies of the same Wazacard?
 
-No
+A: No, non puoi.
 
 #### 17
 
 Q: Can I start a match while keeping the contents of my Wazacards secret from my opponent?
 
-No  
+A: No, non puoi.  
 Once both players are ready to begin the match, all Wazacards must be turned face up.
 
 #### 18
@@ -494,19 +494,19 @@ A: Moves with a low energy cost are more likely to succeed. If your moves aren't
 
 Q: If a move fails, can I still apply the Charakoro effect?
 
-No If a move fails, the Charakoro check is not carried out and the turn ends immediately.
+A: No, non puoi. If a move fails, the Charakoro check is not carried out and the turn ends immediately.
 
 #### 21
 
 Q: Can I start a match with fewer than four Wazacards (for example, just three)?
 
-No
+A: No, non puoi.
 
 #### 22
 
 Q: Can I "pass" without using a move?
 
-No  
+A: No, non puoi.  
 You must choose one move to use during your turn.
 
 #### 23
@@ -520,13 +520,13 @@ Although you can only roll two Enekoro during your first turn when going first, 
 
 Q: If I roll more Energy than a move requires, can I switch to a different move?
 
-No
+A: No, non puoi.
 
 #### 25
 
 Q: Can the "Weakness +20" effect be applied to both the damage dealt by a successful move and the damage caused by a "Charakoro" effect?
 
-No  
+A: No, non puoi.  
 The Weakness effect is calculated after the damage from the move and the damage from the "Charakoro" effect have been combined.
 
 #### 26
@@ -540,7 +540,7 @@ Whatever an effect states something like "Heal XX HP from this Pokémon", the Li
 
 Q: Can I heal a character beyond the "120 HP" stated on their Characard?
 
-No  
+A: No, non puoi.  
 You cannot heal a Pokémon beyond the maximum HP stated on their Characard.
 
 #### 28
@@ -587,21 +587,21 @@ For example, if a Wazacard shows 5 "Normal" Energy, the Energy Check is successf
 
 Q: Can I choose my Charakoro and Enekoro after seeing my opponent's Charakoro?
 
-No  
+A: No, non puoi.  
 Charakoros and Enekoros are revealed simultaneously.
 
 #### 35
 
 Q: Can I customise my Enekoro after seeing my opponent's Charakoro?
 
-No  
+A: No, non puoi.  
 Charakoros and Enekoros are revealed simultaneously.
 
 #### 36
 
 Q: Can I change my Charakoro during a battle?
 
-No  
+A: No, non puoi.  
 Even if it is the same Pokémon, you cannot switch to a Charakoro with a different pose mid-battle.
 
 #### 37
@@ -617,7 +617,7 @@ When you wish to increase your Enekoro, please show your opponent the additional
 Q: I added more Enekoros during the battle to roll more of them, due to a move’s effect or similar.  
 In this case, can I choose to use the added Enekoros even on turns when the effect that increases the number of Enekoros is not in effect?
 
-No  
+A: No, non puoi.  
 On turns when the effect that increases the number of Enekoros is not in effect, you must roll the three Enekoros you showed your opponent during battle preparation.
 
 #### 39
@@ -632,7 +632,7 @@ Please show your opponent the Enekoro each time you add them.
 
 Q: Can I choose my Charako and Enekoro types after looking at my opponent's Wazacards?
 
-No  
+A: No, non puoi.  
 You must reveal your Charakoro and Enekoro to each other at the same time while preparing for the battle.  
 Once al preparations for the battle are complete, turn all four Wazacards face up and start the battle.
 

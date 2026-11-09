@@ -21,11 +21,11 @@
 
 [Lacerare](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard01.webp)
 
-#### Dragon Pulse
+#### Dragopulsar
 
-| Nome           | Dragon Pulse                                                           |
+| Nome           | Dragopulsar                                                            |
 | -------------- | ---------------------------------------------------------------------- |
-| Giapponese     | りゅうのはどう                                                                |
+| Giapponese     | りゅうのはどう                                                               |
 | Tipo           | Drago                                                                  |
 | Codice         | EBW02-042                                                              |
 | Pokémon        | Rayquaza                                                               |
@@ -38,7 +38,7 @@
 | Prono          | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
 | Sui fianchi    |                                                                        |
 
-[Dragon Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard02.webp)
+[Dragopulsar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard02.webp)
 
 #### Vastoimpatto
 

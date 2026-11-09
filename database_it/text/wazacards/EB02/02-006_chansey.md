@@ -42,20 +42,20 @@
 
 #### Attacco a palla
 
-| Nome           | Attacco a palla                                  |
-| -------------- | ------------------------------------------------ |
-| Giapponese     | まるまるアタック                                         |
-| Tipo           | Normale                                          |
-| Codice         | EBW02-053                                        |
-| Pokémon        | Chansey                                          |
-| Energia        | {Y}{Y}{Y}                                        |
-| Danni          | 20                                               |
-| Effetto        |                                                  |
-| In Piedi       | This attack does 50 more damage. |
-| A testa in giù |                                                  |
-| Supino         |                                                  |
-| Prono          |                                                  |
-| Sui fianchi    |                                                  |
+| Nome           | Attacco a palla            |
+| -------------- | -------------------------- |
+| Giapponese     | まるまるアタック                   |
+| Tipo           | Normale                    |
+| Codice         | EBW02-053                  |
+| Pokémon        | Chansey                    |
+| Energia        | {Y}{Y}{Y}                  |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +50 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
 [Attacco a palla](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard03.webp)
 

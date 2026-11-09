@@ -1,12 +1,12 @@
-## Metagross Cards
+## Carte Metagross
 
 ### Set Starter
 
-#### Beam
+#### Raggio
 
-| Nome           | Beam                       |
+| Nome           | Raggio                     |
 | -------------- | -------------------------- |
-| Giapponese     | ビーム                        |
+| Giapponese     | ビーム                       |
 | Tipo           | Acciaio                    |
 | Codice         | STW08-001                  |
 | Pokémon        | Metagross                  |
@@ -19,26 +19,26 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Beam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard01.webp)
+[Raggio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard01.webp)
 
-#### Basic Calculation ?
+#### Calcolo Quadrupede
 
-| Nome           | Basic Calculation ?                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | しそくえんざん                                                                                                                   |
-| Tipo           | Acciaio                                                                                                                   |
-| Codice         | STW08-002                                                                                                                 |
-| Pokémon        | Metagross                                                                                                                 |
-| Energia        | {M}{M}                                                                                                                    |
-| Danni          | 20                                                                                                                        |
-| Effetto        |                                                                                                                           |
-| In Piedi       | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this attack. |
-| A testa in giù |                                                                                                                           |
-| Supino         | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this attack. |
-| Prono          |                                                                                                                           |
-| Sui fianchi    | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this attack. |
+| Nome           | Calcolo Quadrupede                                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------------------ |
+| Giapponese     | しそくえんざん                                                                                                     |
+| Tipo           | Acciaio                                                                                                      |
+| Codice         | STW08-002                                                                                                    |
+| Pokémon        | Metagross                                                                                                    |
+| Energia        | {M}{M}                                                                                                       |
+| Danni          | 20                                                                                                           |
+| Effetto        |                                                                                                              |
+| In Piedi       | Nel tuo prossimo turno, il tuo PokéDice conta come l'orientamento ottenuto con questa mossa. |
+| A testa in giù |                                                                                                              |
+| Supino         | Nel tuo prossimo turno, il tuo PokéDice conta come l'orientamento ottenuto con questa mossa. |
+| Prono          |                                                                                                              |
+| Sui fianchi    | Nel tuo prossimo turno, il tuo PokéDice conta come l'orientamento ottenuto con questa mossa. |
 
-[Basic Calculation](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
+[Calcolo Quadrupede](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
 
 #### Wide Press ?
 
@@ -63,7 +63,7 @@
 
 | Nome           | Straight Stamp ?           |
 | -------------- | -------------------------- |
-| Giapponese     | ストレートスタンプ                  |
+| Giapponese     | ストレートスタンプ                 |
 | Tipo           | Acciaio                    |
 | Codice         | STW08-004                  |
 | Pokémon        | Metagross                  |

@@ -165,11 +165,11 @@
 | Energia        | {P}{P}{P}                                              |
 | Danni          | 10                                                     |
 | Effetto        |                                                        |
-| In Piedi       | This attack does 50 more damage.       |
+| In Piedi       | +50 danni.                             |
 | A testa in giù | Anche questo Pokémon subisce 30 danni. |
 | Supino         | Anche questo Pokémon subisce 30 danni. |
 | Prono          | Anche questo Pokémon subisce 30 danni. |
-| Sui fianchi    | This attack does 50 more damage.       |
+| Sui fianchi    | +50 danni.                             |
 
 [Pestone selvaggio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
 

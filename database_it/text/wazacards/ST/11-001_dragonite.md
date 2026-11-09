@@ -1,12 +1,12 @@
-## Dragonite Cards
+## Carte Dragonite
 
 ### Set Starter
 
-#### Dragon Pulse
+#### Dragopulsar
 
-| Nome           | Dragon Pulse                                                           |
+| Nome           | Dragopulsar                                                            |
 | -------------- | ---------------------------------------------------------------------- |
-| Giapponese     | りゅうのはどう                                                                |
+| Giapponese     | りゅうのはどう                                                               |
 | Tipo           | Drago                                                                  |
 | Codice         | STW11-001                                                              |
 | Pokémon        | Dragonite                                                              |
@@ -19,13 +19,13 @@
 | Prono          | Nel tuo prossimo turno, lancia 1 dado energia in meno. |
 | Sui fianchi    |                                                                        |
 
-[Dragon Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard01.webp)
+[Dragopulsar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard01.webp)
 
-#### Claw Slash
+#### Lacerartiglio
 
-| Nome           | Claw Slash                 |
+| Nome           | Lacerartiglio              |
 | -------------- | -------------------------- |
-| Giapponese     | ツメできりさく                    |
+| Giapponese     | ツメできりさく                   |
 | Tipo           | Drago                      |
 | Codice         | STW11-002                  |
 | Pokémon        | Dragonite                  |
@@ -38,13 +38,13 @@
 | Prono          |                            |
 | Sui fianchi    | +20 danni. |
 
-[Claw Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard02.webp)
+[Lacerartiglio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard02.webp)
 
-#### Wrack Down
+#### Abbattere
 
-| Nome           | Wrack Down                 |
+| Nome           | Abbattere                  |
 | -------------- | -------------------------- |
-| Giapponese     | たたきつぶす                     |
+| Giapponese     | たたきつぶす                    |
 | Tipo           | Drago                      |
 | Codice         | STW11-003                  |
 | Pokémon        | Dragonite                  |
@@ -57,13 +57,13 @@
 | Prono          | +30 danni. |
 | Sui fianchi    |                            |
 
-[Wrack Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard03.webp)
+[Abbattere](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard03.webp)
 
-#### Dragon Blast
+#### Calciorullo
 
-| Nome           | Dragon Blast               |
+| Nome           | Calciorullo                |
 | -------------- | -------------------------- |
-| Giapponese     | まわしげり                      |
+| Giapponese     | まわしげり                     |
 | Tipo           | Drago                      |
 | Codice         | STW11-004                  |
 | Pokémon        | Dragonite                  |
@@ -76,13 +76,13 @@
 | Prono          | +40 danni. |
 | Sui fianchi    |                            |
 
-[Dragon Blast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard04.webp)
+[Calciorullo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard04.webp)
 
-#### Scale Press ?
+#### Pressa di squame
 
-| Nome           | Scale Press ?                                                                                       |
+| Nome           | Pressa di squame                                                                                    |
 | -------------- | --------------------------------------------------------------------------------------------------- |
-| Giapponese     | スケイルプレス                                                                                             |
+| Giapponese     | スケイルプレス                                                                                            |
 | Tipo           | Acqua                                                                                               |
 | Codice         | STW11-005                                                                                           |
 | Pokémon        | Dragonite                                                                                           |
@@ -95,11 +95,11 @@
 | Prono          |                                                                                                     |
 | Sui fianchi    |                                                                                                     |
 
-[Scale Press](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
+[Pressa di squame](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
 
-#### Hurricane Tail
+#### Coda uragano
 
-| Nome           | Hurricane Tail                                                         |
+| Nome           | Coda uragano                                                           |
 | -------------- | ---------------------------------------------------------------------- |
 | Giapponese     | ハリケーンテール                                                               |
 | Tipo           | Elettro                                                                |
@@ -114,11 +114,11 @@
 | Prono          |                                                                        |
 | Sui fianchi    | +20 danni per ogni PokéDice riuscito con questa mossa. |
 
-[Hurricane Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard06.webp)
+[Coda uragano](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard06.webp)
 
-#### Extreme Speed
+#### Extrarapido
 
-| Nome           | Extreme Speed              |
+| Nome           | Extrarapido                |
 | -------------- | -------------------------- |
 | Giapponese     | しんそく                       |
 | Tipo           | Normale                    |
@@ -133,4 +133,4 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Extreme Speed](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard07.webp)
+[Extrarapido](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard07.webp)

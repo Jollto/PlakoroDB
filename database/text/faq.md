@@ -116,17 +116,17 @@
 
 #### 17
 
-|   Q   | ゲンガーのワザ「まっさかさま」のエネコロチェックとキャラコロチェックに成功しました。<br>「次の相手の番、相手のキャラコロの向きを{hs}にする。」とはどのように行いますか？ |
-| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 次の相⼿の番、相⼿はキャラコロを振った後、{hs}にします。<br>これにより、相手が次の番に複数回キャラコロを振る場合でも、すべてのキャラコロの向きが{hs}になります。           |
-|   R   | まっさかさま                                                                                                                                                             |
+|   Q   | I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".<br>How is the effect "On the opponent's next turn, set the direction of their Charakoro to {hs}." applied?                             |
+| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | On the opponent's next turn, after the opponent rolls the Charakoro, they set it to {hs}.<br>This ensures that even if the opponent rolls the Charakoro multiple times on their next turn, all Charakoro will be set to {hs}. |
+|   R   | [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                       |
 
 #### 18
 
-|   Q   | ゲンガーのワザ「まっさかさま」のエネコロチェックとキャラコロチェックに成功しました。<br>次の相⼿の番、相⼿がサンダーのワザ「ダブルサンダー」のエネコロチェックとキャラコロチェックを成功させました。<br>この場合、次の番に相手が振るキャラコロの向きはどうなりますか？ |
-| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 次の番、相⼿が振るキャラコロの向きはすべて{hs}になります。<br>これにより、「ダブルサンダー」キャラコロチェックはすべて失敗となります。                                                                                                                                |
-|   R   | まっさかさま<br>ダブルサンダー                                                                                                                                                                                                                                       |
+|   Q   | I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".<br>On my opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Dual Thunder".<br>In this case, what will be the orientation of the Charakoro the opponent rolls on their next turn? |
+| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | On the next turn, all the Charakoro the opponent rolls will be {hs}.<br>As a result, all "Dual Thunder" Charakoro checks will fail.                                                                                                                                                                                          |
+|   R   | [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)<br>[Dual Thunder](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-036.png)                                                                                                                                                                        |
 
 #### 19
 
@@ -144,38 +144,38 @@
 
 #### 21
 
-|   Q   | メタグロスのワザ「だいばくはつ」のワザ効果で、⾃分もダメージを受けて、おたがいのポケモンのHPが同時になくなりました。<br>この場合、勝敗はどうなりますか？ |
-| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   A   | 自分の負けです。<br>同時にHPがなくなった場合、ワザを使った⽅が負けになります。                                                                           |
-|   R   | だいばくはつ                                                                                                                                            |
+|   Q   | Due to the move effect of Metagross' "Explosion", Metagross also took damage, and both Pokémon lost all their HP at the same time.<br>In this case, who wins or loses? |
+| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | You lose.<br>If both Pokémon lose all their HP at the same time, the player who used the move loses.                                                                   |
+|   R   | [Explosion](/database/cards/wazacards/ST/08-001_metagross/STW08-007.png)                                                                                               |
 
 #### 22
 
-|   Q   | ルカリオのHPが120の時に、ルカリオのワザ「はどうナックル」のエネコロチェックとキャラコロチェックに成功しました。<br>この場合、ダメージを追加することはできますか？ |
+|   Q   | When Lucario's HP is 120, I successfully passed the Enekoro and Charakoro rolls for Lucario's move "Aura Knuckle".<br>In this case, can I deal additional damage? |
 | :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | いいえ、できません。<br>「はどうナックル」のキャラコロ効果でダメージを追加できるのは、HPが80以下のときだけです。                                                  |
-|   R   | はどうナックル                                                                                                                                                    |
+|   A   | No, you cannot.<br>You can only deal additional damage via the Charakoro effect of "Aura Knuckle" when HP is 80 or less.                                          |
+|   R   | [Aura Knuckle](/database/cards/wazacards/ST/09-001_lucario/STW09-003.png)                                                                                         |
 
 #### 23
 
-|   Q   | ベトベターのワザ「どくガス」を使いました。<br>エネコロチェックは成功、キャラコロチェックは失敗でした。<br>次の自分の番、ベトベターのワザ「どくどくボンバー」のエネコロチェックとキャラコロチェックに成功した場合、ダメージを追加することはできますか？ |
-| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | はい、できます。                                                                                                                                                                                                                                       |
-|   R   | どくガス<br>どくどくボンバー                                                                                                                                                                                                                           |
+|   Q   | I used Grimer's move "Poison Gas".<br>The Enekoro roll succeeded, but the Charakoro roll failed.<br>On my next turn, if I succeed at both the Enekoro and Charakoro rolls for Grimer's move "Toxic Blast", can I deal additiona damage? |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | Yes, you can.                                                                                                                                                                                                                           |
+|   R   | [Poison Gas](/database/cards/wazacards/EB01/01-006_grimer/EBW01-051.png)<br>[Toxic Blast](/database/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)                                                                                   |
 
 #### 24
 
-|   Q   | 相手がピカチュウのワザ「エレキラッシュ」を使いました。<br>1回目のエネコロチェックとキャラコロチェックは成功、2回目のエネコロチェックは失敗でした。<br>次の自分の番、ベトベターのワザ「いやがらせベノム」のエネコロチェックとキャラコロチェックに成功した場合、ダメージを追加することはできますか？ |
-| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | はい、できます。                                                                                                                                                                                                                                                                                   |
-|   R   | いやがらせベノム<br>エレキラッシュ                                                                                                                                                                                                                                                                 |
+|   Q   | My opponent used Pikachu's move "Electric Rush".<br>The first Enekoro and Charakoro rolls were successful, but the second Enekoro roll failed.<br>On my next turn, if I succeed at the Enekoro and Charakoro rolls for Grimer's move "Harassment Venom", can I deal additional damage? |
+| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | Yes, you can.                                                                                                                                                                                                                                                                          |
+|   R   | [Harassment Venom](/database/cards/wazacards/EB01/01-006_grimer/EBW01-060.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                           |
 
 #### 25
 
-|   Q   | イワークのワザ「ロックウォール」のエネコロチェックとキャラコロチェックに成功しました。<br>次の相手の番、相手がピカチュウのワザ「エレキラッシュ」を2回成功させました。<br>この場合、自分が受けるダメージは何ダメージですか？ |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 0ダメージです。<br>ワザを1回受けるたびに、受けるダメージを-30することができます。                                                                                                                                           |
-|   R   | ロックウォール<br>エレキラッシュ                                                                                                                                                                                            |
+|   Q   | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall".<br>On my opponent's next turn, they successfully used Pikachu's move "Electric Rush" twice.<br>In this case, how much damage do I take? |
+| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | 0 damage.<br>Each time you take a hit from a move, you can reduce the damage you take by 30.                                                                                                                               |
+|   R   | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                        |
 
 #### 26
 
@@ -186,45 +186,45 @@
 
 #### 27
 
-|   Q   | カイロスのワザ「チャージばさみ」のエネコロチェックとキャラコロチェックに成功しました。<br>「次の自分の番、自分のエネコロを1個多くする。」とはどのように行いますか？<br>また、多くするエネコロを選ぶのは誰ですか？                                                                                      |
-| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 3個エネコロを振った後に、その中から好きな1個を選んでもう⼀度振ります。<br>その間に出たエネルギーがすべて、この番に出たエネルギーになります。<br>エネコロを4つ以上持っている場合は、好きなエネコロを追加して、同時に振っても良いです。<br>多くするエネコロをどれにするかは、エネコロを振る人が選びます。 |
-|   R   | チャージばさみ                                                                                                                                                                                                                                                                                         |
+|   Q   | I successfully passed the Enekoro and Charakoro rolls for Pinsir's move "Scissors Charge".<br>How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?<br>Also, who gets to choose which Enekoro to add?                                                                                       |
+| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | After rolling 3 Enekoro, choose any one of them and roll it again.<br>All the Energy revealed during this process counts as the Energy produced this turn.<br>If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.<br>The player rolling the Enekoro chooses which one to add. |
+|   R   | [Scissors Charge](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)                                                                                                                                                                                                                                                       |
 
 #### 28
 
-|   Q   | カイロスのワザ「ハサミギロチン」を使いました。<br>エネコロチェックは草エネルギー4つ、キャラコロチェックは{st}でした。<br>この場合、ダメージを与えることはできますか？ |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | いいえ、できません。<br>エネコロチェックに失敗しているため、ワザは失敗となります。<br>その場合、キャラコロチェックは行わず、番は終了となります。                      |
-|   R   | ハサミギロチン                                                                                                                                                        |
+|   Q   | I used Pinsir's move "Guillotine".<br>The Enekoro roll showed 4 Grass{G} Energy, and the Charakoro roll was {st}.<br>In this case, can I deal damage? |
+| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | No, you cannot.<br>As the Enekoro roll failed, the move fails.<br>In this case, the Charakoro check is not carried out, and the turn ends.            |
+|   R   | [Guillotine](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)                                                                              |
 
 #### 29
 
-|   Q   | フリーザーのワザ「アイスウイング」のキャラコロ効果で、次の相手の番、相手が振れるエネコロが1個少なくなりました。<br>少なくするエネコロを選ぶのは誰ですか？ |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 相手です。<br>少なくするエネコロをどれにするかは、エネコロを振る人が選びます。                                                                            |
-|   R   | アイスウイング                                                                                                                                            |
+|   Q   | Due to the Charakoro effect of Articuno's move "Ice Wing", the opponent has to roll one Enekoro less during their next turn.<br>Who decides which Enekoro to remove? |
+| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | The opponent.<br>The player who rolls the Enekoro decides which one to remove.                                                                                       |
+|   R   | [Ice Wing](/database/cards/wazacards/EB01/01-003_articuno/EBW01-021.png)                                                                                             |
 
 #### 30
 
-|   Q   | ヒトカゲのワザ「ヒートアップ」のキャラコロ効果で、次の自分の番、自分が振れるエネコロが2個多くなりました。<br>ただし、相手のフリーザーのワザ「コールドブレス」のキャラコロ効果で、次の自分の番、自分が振れるエネコロが2個少なくなりました。<br>この場合、次の番に自分が振れるエネコロは何個ですか？ |
-| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 3個です。                                                                                                                                                                                                                                                                                          |
-|   R   | コールドブレス<br>ヒートアップ                                                                                                                                                                                                                                                                     |
+|   Q   | Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn.<br>However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 less Enekoro to roll on my next turn.<br>In this case, how many Enekoro can I roll on my next turn? |
+| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | 3 Enekoro.                                                                                                                                                                                                                                                                                             |
+|   R   | [Cold Breath](/database/cards/wazacards/EB01/01-003_articuno/EBW01-028.png)<br>[Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                 |
 
 #### 31
 
-|   Q   | サンダーのワザ「サンダーチェイン」のエネコロチェックとキャラコロチェックに成功しました。<br>「もう1回キャラコロを振る。（失敗するまで繰り返せる。）」とはどのように行いますか？ |
-| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   A   | {st}{ba}{do}以外が出るまで、キャラコロを振ります。<br>{st}{ba}{do}が出た回数×30ダメージを追加して、相⼿のポケモンにダメージを与えます。                                          |
-|   R   | サンダーチェイン                                                                                                                                                                |
+|   Q   | I successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Thunder Chain".<br>How is the effect "Reroll your Charakoro. (Can be repeated until it fails.)" applied?                       |
+| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | Roll the Charakoro until a result other than {st}{ba}{do} appears.<br>Inflict damage on your opponent's Pokémon equal to the number of times {st}{ba}{do} appeared multiplied by 30, plus the base 30. |
+|   R   | [Thunder Chain](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-039.png)                                                                                                                            |
 
 #### 32
 
-|   Q   | ファイヤーのワザ「ほのおのつばさ」のキャラコロ効果で、⾃分もダメージを受けて、おたがいのポケモンのHPが同時になくなりました。<br>この場合、勝敗はどうなりますか？ |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 自分の負けです。<br>同時にHPがなくなった場合、ワザを使った⽅が負けになります。                                                                                   |
-|   R   | ほのおのつばさ                                                                                                                                                  |
+|   Q   | Due to the self-damage effect of Moltres' move "Fire Wing", I also took damage, and both Pokémon lost all their HP at the same time.<br>In this case, who wins or loses? |
+| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | You lose.<br>If both Pokémon lose all their HP at the same time, the player who used the move loses.                                                                     |
+|   R   | [Fire Wing](/database/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)                                                                                                 |
 
 #### 33
 
@@ -356,115 +356,24 @@
 
 #### 51
 
-|   Q   | I successfully passed the Enekoro and Charakoro rolls for Pinsir's move "Scissors Charge".<br>How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?<br>Also, who gets to choose which Enekoro to add?                                                                                       |
-| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | After rolling 3 Enekoro, choose any one of them and roll it again.<br>All the Energy revealed during this process counts as the Energy produced this turn.<br>If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time.<br>The player rolling the Enekoro chooses which one to add. |
-|   R   | [Scissors Charge](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)                                                                                                                                                                                                                                                       |
-
-#### 52
-
-|   Q   | I used Pinsir's move "Guillotine".<br>The Enekoro roll showed 4 Grass{G} Energy, and the Charakoro roll was {st}.<br>In this case, can I deal damage? |
-| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot.<br>As the Enekoro roll failed, the move fails.<br>In this case, the Charakoro check is not carried out, and the turn ends.            |
-|   R   | [Guillotine](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)                                                                              |
-
-#### 53
-
-|   Q   | Due to the self-damage effect of Moltres' move "Fire Wing", I also took damage, and both Pokémon lost all their HP at the same time.<br>In this case, who wins or loses? |
-| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | You lose.<br>If both Pokémon lose all their HP at the same time, the player who used the move loses.                                                                     |
-|   R   | [Fire Wing](/database/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)                                                                                                 |
-
-#### 54
-
-|   Q   | Due to the Charakoro effect of Articuno's move "Ice Wing", the opponent has to roll one Enekoro less during their next turn.<br>Who decides which Enekoro to remove? |
-| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | The opponent.<br>The player who rolls the Enekoro decides which one to remove.                                                                                       |
-|   R   | [Ice Wing](/database/cards/wazacards/EB01/01-003_articuno/EBW01-021.png)                                                                                             |
-
-#### 55
-
-|   Q   | Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn.<br>However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 less Enekoro to roll on my next turn.<br>In this case, how many Enekoro can I roll on my next turn? |
-| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 3 Enekoro.                                                                                                                                                                                                                                                                                             |
-|   R   | [Cold Breath](/database/cards/wazacards/EB01/01-003_articuno/EBW01-028.png)<br>[Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                 |
-
-#### 56
-
-|   Q   | I successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Thunder Chain".<br>How is the effect "Reroll your Charakoro. (Can be repeated until it fails.)" applied?                       |
-| :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | Roll the Charakoro until a result other than {st}{ba}{do} appears.<br>Inflict damage on your opponent's Pokémon equal to the number of times {st}{ba}{do} appeared multiplied by 30, plus the base 30. |
-|   R   | [Thunder Chain](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-039.png)                                                                                                                            |
-
-#### 57
-
-|   Q   | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall".<br>On my opponent's next turn, they successfully used Pikachu's move "Electric Rush" twice.<br>In this case, how much damage do I take? |
-| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 0 damage.<br>Each time you take a hit from a move, you can reduce the damage you take by 30.                                                                                                                               |
-|   R   | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                        |
-
-#### 58
-
 |   Q   | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall".<br>On my opponent's next turn, they successfully rolled the Charakoro for Pikachu's move "Volt Rush" twice.<br>In this case, how much damage do I take? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | 40 damage.<br>You can subtract 30 from the total damage dealt by "Volt Rush".                                                                                                                                                              |
 |   R   | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Volt Rush](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)                                                                                           |
 
-#### 59
-
-|   Q   | I used Grimer's move "Poison Gas".<br>The Enekoro roll succeeded, but the Charakoro roll failed.<br>On my next turn, if I succeed at both the Enekoro and Charakoro rolls for Grimer's move "Toxic Blast", can I deal additiona damage? |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | Yes, you can.                                                                                                                                                                                                                           |
-|   R   | [Poison Gas](/database/cards/wazacards/EB01/01-006_grimer/EBW01-051.png)<br>[Toxic Blast](/database/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)                                                                                   |
-
-#### 60
-
-|   Q   | My opponent used Pikachu's move "Electric Rush".<br>The first Enekoro and Charakoro rolls were successful, but the second Enekoro roll failed.<br>On my next turn, if I succeed at the Enekoro and Charakoro rolls for Grimer's move "Harassment Venom", can I deal additional damage? |
-| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | Yes, you can.                                                                                                                                                                                                                                                                          |
-|   R   | [Harassment Venom](/database/cards/wazacards/EB01/01-006_grimer/EBW01-060.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                           |
-
-#### 61
-
-|   Q   | When Lucario's HP is 120, I successfully passed the Enekoro and Charakoro rolls for Lucario's move "Aura Knuckle".<br>In this case, can I deal additional damage? |
-| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot.<br>You can only deal additional damage via the Charakoro effect of "Aura Knuckle" when HP is 80 or less.                                          |
-|   R   | [Aura Knuckle](/database/cards/wazacards/ST/09-001_lucario/STW09-003.png)                                                                                         |
-
-#### 62
-
-|   Q   | I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".<br>How is the effect "On the opponent's next turn, set the direction of their Charakoro to {hs}." applied?                             |
-| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | On the opponent's next turn, after the opponent rolls the Charakoro, they set it to {hs}.<br>This ensures that even if the opponent rolls the Charakoro multiple times on their next turn, all Charakoro will be set to {hs}. |
-|   R   | [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                       |
-
-#### 63
-
-|   Q   | I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".<br>On my opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Dual Thunder".<br>In this case, what will be the orientation of the Charakoro the opponent rolls on their next turn? |
-| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | On the next turn, all the Charakoro the opponent rolls will be {hs}.<br>As a result, all "Dual Thunder" Charakoro checks will fail.                                                                                                                                                                                          |
-|   R   | [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)<br>[Dual Thunder](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-036.png)                                                                                                                                                                        |
-
-#### 64
+#### 52
 
 |   Q   | I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}.<br>On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down".<br>In this case, what will be the orientation of the Charakoro I roll on my next turn? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will be {hs}.                                                                                                                                                                                                                                                       |
 |   R   | [Basic Calculation](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png)<br>[Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                |
 
-#### 65
+#### 53
 
 |   Q   | I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}.<br>On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Shadow Bind".<br>In this case, what will be the orientation of the Charakoro I roll on my next turn? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | Due to the "Shadow Bind" Charakoro effect, you will be unable to roll the Charakoro.                                                                                                                                                                                                                                                       |
 |   R   | [Basic Calculation](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png)<br>[Shadow Bind](/database/cards/wazacards/ST/07-001_gengar/STW07-004.png)                                                                                                                                                                                |
-
-#### 66
-
-|   Q   | Due to the move effect of Metagross' "Explosion", Metagross also took damage, and both Pokémon lost all their HP at the same time.<br>In this case, who wins or loses? |
-| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | You lose.<br>If both Pokémon lose all their HP at the same time, the player who used the move loses.                                                                   |
-|   R   | [Explosion](/database/cards/wazacards/ST/08-001_metagross/STW08-007.png)                                                                                               |
 
 ## About the Basic Rules
 

@@ -1,10 +1,10 @@
-## Lucario Cards
+## Carte Lucario
 
 ### Set Starter
 
-#### Kick
+#### Calcio
 
-| Nome           | Kick                       |
+| Nome           | Calcio                     |
 | -------------- | -------------------------- |
 | Giapponese     | キック                        |
 | Tipo           | Lotta                      |
@@ -19,11 +19,11 @@
 | Prono          | +10 danni. |
 | Sui fianchi    |                            |
 
-[Kick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard01.webp)
+[Calcio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard01.webp)
 
-#### Force Palm
+#### Palmoforza
 
-| Nome           | Force Palm                                                                         |
+| Nome           | Palmoforza                                                                         |
 | -------------- | ---------------------------------------------------------------------------------- |
 | Giapponese     | はっけい                                                                               |
 | Tipo           | Lotta                                                                              |
@@ -38,32 +38,32 @@
 | Prono          |                                                                                    |
 | Sui fianchi    |                                                                                    |
 
-[Force Palm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard02.webp)
+[Palmoforza](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard02.webp)
 
-#### Aura Knuckle
+#### Aurapugno
 
-| Nome           | Aura Knuckle                                                                                  |
-| -------------- | --------------------------------------------------------------------------------------------- |
-| Giapponese     | はどうナックル                                                                                       |
-| Tipo           | Lotta                                                                                         |
-| Codice         | STW09-003                                                                                     |
-| Pokémon        | Lucario                                                                                       |
-| Energia        | {F}{F}                                                                                        |
-| Danni          | 20                                                                                            |
-| Effetto        |                                                                                               |
-| In Piedi       | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
-| A testa in giù |                                                                                               |
-| Supino         | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
-| Prono          | If this Pokémon has 80 or less HP remaining, this attack does 30 more damage. |
-| Sui fianchi    |                                                                                               |
+| Nome           | Aurapugno                                                                     |
+| -------------- | ----------------------------------------------------------------------------- |
+| Giapponese     | はどうナックル                                                                      |
+| Tipo           | Lotta                                                                         |
+| Codice         | STW09-003                                                                     |
+| Pokémon        | Lucario                                                                       |
+| Energia        | {F}{F}                                                                        |
+| Danni          | 20                                                                            |
+| Effetto        |                                                                               |
+| In Piedi       | Se questo Pokémon ha 80 HP o meno: +30 danni. |
+| A testa in giù |                                                                               |
+| Supino         | Se questo Pokémon ha 80 HP o meno: +30 danni. |
+| Prono          | Se questo Pokémon ha 80 HP o meno: +30 danni. |
+| Sui fianchi    |                                                                               |
 
-[Aura Knuckle](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard03.webp)
+[Aurapugno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard03.webp)
 
-#### Rolling Kick
+#### Calciorullo
 
-| Nome           | Rolling Kick               |
+| Nome           | Calciorullo                |
 | -------------- | -------------------------- |
-| Giapponese     | まわしげり                      |
+| Giapponese     | まわしげり                     |
 | Tipo           | Lotta                      |
 | Codice         | STW09-004                  |
 | Pokémon        | Lucario                    |
@@ -76,45 +76,45 @@
 | Prono          |                            |
 | Sui fianchi    | +30 danni. |
 
-[Rolling Kick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard04.webp)
+[Calciorullo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard04.webp)
 
-#### Aura Jab ?
+#### Aurastoccata ?
 
-| Nome           | Aura Jab ?                                                                                                                                     |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | オーラづき                                                                                                                                          |
-| Tipo           | Lotta                                                                                                                                          |
-| Codice         | STW09-005                                                                                                                                      |
-| Pokémon        | Lucario                                                                                                                                        |
-| Energia        | {F}{F}{F}                                                                                                                                      |
-| Danni          | 30                                                                                                                                             |
-| Effetto        |                                                                                                                                                |
-| In Piedi       | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| A testa in giù |                                                                                                                                                |
-| Supino         | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
-| Prono          |                                                                                                                                                |
-| Sui fianchi    | If this Pokémon has 80 or less HP remaining, during your opponent's next turn, this Pokémon takes 20 less damage from attacks. |
+| Nome           | Aurastoccata ?                                                                                                                         |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | オーラづき                                                                                                                                 |
+| Tipo           | Lotta                                                                                                                                  |
+| Codice         | STW09-005                                                                                                                              |
+| Pokémon        | Lucario                                                                                                                                |
+| Energia        | {F}{F}{F}                                                                                                                              |
+| Danni          | 30                                                                                                                                     |
+| Effetto        |                                                                                                                                        |
+| In Piedi       | Se questo Pokémon ha 80 HP o meno, durante il prossimo turno dell'avversario, questo Pokémon subisce 20 danni in meno. |
+| A testa in giù |                                                                                                                                        |
+| Supino         | Se questo Pokémon ha 80 HP o meno, durante il prossimo turno dell'avversario, questo Pokémon subisce 20 danni in meno. |
+| Prono          |                                                                                                                                        |
+| Sui fianchi    | Se questo Pokémon ha 80 HP o meno, durante il prossimo turno dell'avversario, questo Pokémon subisce 20 danni in meno. |
 
-[Aura Jab](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard05.webp)
+[Aurastoccata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard05.webp)
 
-#### Aura Sphere
+#### Forzasfera
 
-| Nome           | Aura Sphere                                                                                   |
-| -------------- | --------------------------------------------------------------------------------------------- |
-| Giapponese     | はどうだん                                                                                         |
-| Tipo           | Lotta                                                                                         |
-| Codice         | STW09-006                                                                                     |
-| Pokémon        | Lucario                                                                                       |
-| Energia        | {F}{F}{F}{F}                                                                                  |
-| Danni          | 40                                                                                            |
-| Effetto        |                                                                                               |
-| In Piedi       | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
-| A testa in giù |                                                                                               |
-| Supino         | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
-| Prono          | If this Pokémon has 40 or less HP remaining, this attack does 50 more damage. |
-| Sui fianchi    |                                                                                               |
+| Nome           | Forzasfera                                                                    |
+| -------------- | ----------------------------------------------------------------------------- |
+| Giapponese     | はどうだん                                                                       |
+| Tipo           | Lotta                                                                         |
+| Codice         | STW09-006                                                                     |
+| Pokémon        | Lucario                                                                       |
+| Energia        | {F}{F}{F}{F}                                                                  |
+| Danni          | 40                                                                            |
+| Effetto        |                                                                               |
+| In Piedi       | Se questo Pokémon ha 40 HP o meno: +50 danni. |
+| A testa in giù |                                                                               |
+| Supino         | Se questo Pokémon ha 40 HP o meno: +50 danni. |
+| Prono          | Se questo Pokémon ha 40 HP o meno: +50 danni. |
+| Sui fianchi    |                                                                               |
 
-[Aura Sphere](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard06.webp)
+[Forzasfera](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard06.webp)
 
 #### Ferrartigli
 
@@ -133,25 +133,25 @@
 | Prono          |                            |
 | Sui fianchi    |                            |
 
-[Metal Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard07.webp)
+[Ferrartigli](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard07.webp)
 
 ### Promo
 
-#### Vacuum Wave
+#### Vuotonda
 
-| Nome           | Vacuum Wave                                      |
-| -------------- | ------------------------------------------------ |
-| Giapponese     | しんくうは                                            |
-| Tipo           | Lotta                                            |
-| Codice         | PRW02-3-08                                       |
-| Pokémon        | Lucario                                          |
-| Energia        | {F}{F}{F}                                        |
-| Danni          | 20                                               |
-| Effetto        |                                                  |
-| In Piedi       | This attack does 50 more damage. |
-| A testa in giù |                                                  |
-| Supino         |                                                  |
-| Prono          |                                                  |
-| Sui fianchi    |                                                  |
+| Nome           | Vuotonda                   |
+| -------------- | -------------------------- |
+| Giapponese     | しんくうは                      |
+| Tipo           | Lotta                      |
+| Codice         | PRW02-3-08                 |
+| Pokémon        | Lucario                    |
+| Energia        | {F}{F}{F}                  |
+| Danni          | 20                         |
+| Effetto        |                            |
+| In Piedi       | +50 danni. |
+| A testa in giù |                            |
+| Supino         |                            |
+| Prono          |                            |
+| Sui fianchi    |                            |
 
-[Vacuum Wave](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img02.webp)
+[Vuotonda](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img02.webp)

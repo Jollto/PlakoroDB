@@ -2,20 +2,20 @@
 
 ## Modelo
 
-| Nome            |     |
-| --------------- | --- |
-| Japonês         |     |
-| Tipo            |     |
-| Código          |     |
-| Pokémon         |     |
-| Energia         |     |
-| Dano            |     |
-| Efeito          |     |
-| Em pé           |     |
-| De ponta-cabeça |     |
-| De costas       |     |
-| De bruços       |     |
-| De lado         |     |
+| Nome            |   |
+| --------------- | - |
+| Japonês         |   |
+| Tipo            |   |
+| Código          |   |
+| Pokémon         |   |
+| Energia         |   |
+| Dano            |   |
+| Efeito          |   |
+| Em pé           |   |
+| De ponta-cabeça |   |
+| De costas       |   |
+| De bruços       |   |
+| De lado         |   |
 
 ## Starter Set
 

@@ -1,86 +1,86 @@
-## Gengar Cards
+## Carte Gengar
 
 ### Set Starter
 
-#### Suffocating Gas
+#### Avvolgi Gas
 
-| Nome           | Suffocating Gas |
+| Nome           | Avvolgi Gas  |
+| -------------- | ------------ |
+| Giapponese     | ガスでつつむ |
+| Tipo           | Buio         |
+| Codice         | STW07-001    |
+| Pokémon        | Gengar       |
+| Energia        | {D}          |
+| Danni          | 10           |
+| Effetto        |              |
+| In Piedi       | +10 danni.   |
+| A testa in giù |              |
+| Supino         |              |
+| Prono          |              |
+| Sui fianchi    | +10 danni.   |
+
+[Avvolgi Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard01.webp)
+
+#### Colpo Spettrale
+
+| Nome           | Colpo Spettrale |
 | -------------- | --------------- |
-| Giapponese     | ガスでつつむ    |
+| Giapponese     | ホロウショット  |
 | Tipo           | Buio            |
-| Codice         | STW07-001       |
+| Codice         | STW07-002       |
 | Pokémon        | Gengar          |
-| Energia        | {D}             |
-| Danni          | 10              |
+| Energia        | {D}{D}          |
+| Danni          | 20              |
 | Effetto        |                 |
-| In Piedi       | +10 danni.      |
+| In Piedi       | +20 danni.      |
 | A testa in giù |                 |
-| Supino         |                 |
-| Prono          |                 |
-| Sui fianchi    | +10 danni.      |
+| Supino         | +20 danni.      |
+| Prono          | +20 danni.      |
+| Sui fianchi    |                 |
 
-[Suffocating Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard01.webp)
+[Colpo Spettrale](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard02.webp)
 
-#### Spooky Shot
+#### Caduta a Picco ?
 
-| Nome           | Spooky Shot    |
-| -------------- | -------------- |
-| Giapponese     | ホロウショット |
-| Tipo           | Buio           |
-| Codice         | STW07-002      |
-| Pokémon        | Gengar         |
-| Energia        | {D}{D}         |
-| Danni          | 20             |
-| Effetto        |                |
-| In Piedi       | +20 danni.     |
-| A testa in giù |                |
-| Supino         | +20 danni.     |
-| Prono          | +20 danni.     |
-| Sui fianchi    |                |
+| Nome           | Caduta a Picco ?                                                     |
+| -------------- | -------------------------------------------------------------------- |
+| Giapponese     | まっさかさま                                                         |
+| Tipo           | Buio                                                                 |
+| Codice         | STW07-003                                                            |
+| Pokémon        | Gengar                                                               |
+| Energia        | {D}{D}                                                               |
+| Danni          | 20                                                                   |
+| Effetto        |                                                                      |
+| In Piedi       | Nel prossimo turno dell'avversario, il suo PokéDice conta come {hs}. |
+| A testa in giù |                                                                      |
+| Supino         |                                                                      |
+| Prono          |                                                                      |
+| Sui fianchi    | Nel prossimo turno dell'avversario, il suo PokéDice conta come {hs}. |
 
-[Spooky Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard02.webp)
+[Caduta a Picco](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard03.webp)
 
-#### Upside Down ?
+#### Legame d'Ombra
 
-| Nome           | Upside Down ?                                                               |
-| -------------- | --------------------------------------------------------------------------- |
-| Giapponese     | まっさかさま                                                                |
-| Tipo           | Buio                                                                        |
-| Codice         | STW07-003                                                                   |
-| Pokémon        | Gengar                                                                      |
-| Energia        | {D}{D}                                                                      |
-| Danni          | 20                                                                          |
-| Effetto        |                                                                             |
-| In Piedi       | On your opponent's next turn, set the direction of their Charakoro to {hs}. |
-| A testa in giù |                                                                             |
-| Supino         |                                                                             |
-| Prono          |                                                                             |
-| Sui fianchi    | On your opponent's next turn, set the direction of their Charakoro to {hs}. |
+| Nome           | Legame d'Ombra                                                        |
+| -------------- | --------------------------------------------------------------------- |
+| Giapponese     | かげしばり                                                            |
+| Tipo           | Buio                                                                  |
+| Codice         | STW07-004                                                             |
+| Pokémon        | Gengar                                                                |
+| Energia        | {D}{D}{D}                                                             |
+| Danni          | 30                                                                    |
+| Effetto        |                                                                       |
+| In Piedi       | Nel prossimo turno dell'avversario, non può lanciare il suo PokéDice. |
+| A testa in giù |                                                                       |
+| Supino         | Nel prossimo turno dell'avversario, non può lanciare il suo PokéDice. |
+| Prono          |                                                                       |
+| Sui fianchi    | Nel prossimo turno dell'avversario, non può lanciare il suo PokéDice. |
 
-[Upside Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard03.webp)
+[Legame d'Ombra](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard04.webp)
 
-#### Shadow Bind
+#### Fangobomba
 
-| Nome           | Shadow Bind                                                     |
-| -------------- | --------------------------------------------------------------- |
-| Giapponese     | かげしばり                                                      |
-| Tipo           | Buio                                                            |
-| Codice         | STW07-004                                                       |
-| Pokémon        | Gengar                                                          |
-| Energia        | {D}{D}{D}                                                       |
-| Danni          | 30                                                              |
-| Effetto        |                                                                 |
-| In Piedi       | On your opponent's next turn, they cannot roll their Charakoro. |
-| A testa in giù |                                                                 |
-| Supino         | On your opponent's next turn, they cannot roll their Charakoro. |
-| Prono          |                                                                 |
-| Sui fianchi    | On your opponent's next turn, they cannot roll their Charakoro. |
-
-[Shadow Bind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard04.webp)
-
-#### Sludge Bomb
-
-| Nome           | Sludge Bomb    |
+| Nome           | Fangobomba     |
 | -------------- | -------------- |
 | Giapponese     | ヘドロばくだん |
 | Tipo           | Buio           |
@@ -95,30 +95,30 @@
 | Prono          |                |
 | Sui fianchi    | +20 danni.     |
 
-[Sludge Bomb](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard05.webp)
+[Fangobomba](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard05.webp)
 
-#### Phantom Trick ?
+#### Trucco Fantasma ?
 
-| Nome           | Phantom Trick ?                                                                                       |
-| -------------- | ----------------------------------------------------------------------------------------------------- |
-| Giapponese     | ファントムトリック                                                                                    |
-| Tipo           | Buio                                                                                                  |
-| Codice         | STW07-006                                                                                             |
-| Pokémon        | Gengar                                                                                                |
-| Energia        | {D}{D}{D}{D}                                                                                          |
-| Danni          | 10                                                                                                    |
-| Effetto        |                                                                                                       |
-| In Piedi       | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, this attack does 40 more damage. |
-| A testa in giù | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, this attack does 40 more damage. |
-| Supino         | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, this attack does 40 more damage. |
-| Prono          | Your opponent also rolls their Charakoro 3 times. For each {hs}{do}, this attack does 40 more damage. |
-| Sui fianchi    |                                                                                                       |
+| Nome           | Trucco Fantasma ?                                                              |
+| -------------- | ------------------------------------------------------------------------------ |
+| Giapponese     | ファントムトリック                                                             |
+| Tipo           | Buio                                                                           |
+| Codice         | STW07-006                                                                      |
+| Pokémon        | Gengar                                                                         |
+| Energia        | {D}{D}{D}{D}                                                                   |
+| Danni          | 10                                                                             |
+| Effetto        |                                                                                |
+| In Piedi       | Il tuo avversario lancia il suo PokéDice 3 volte. +40 danni per ogni {hs}{do}. |
+| A testa in giù | Il tuo avversario lancia il suo PokéDice 3 volte. +40 danni per ogni {hs}{do}. |
+| Supino         | Il tuo avversario lancia il suo PokéDice 3 volte. +40 danni per ogni {hs}{do}. |
+| Prono          | Il tuo avversario lancia il suo PokéDice 3 volte. +40 danni per ogni {hs}{do}. |
+| Sui fianchi    |                                                                                |
 
-[Phantom Trick](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard06.webp)
+[Trucco Fantasma](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard06.webp)
 
-#### Psywave
+#### Psiconda
 
-| Nome           | Psywave        |
+| Nome           | Psiconda       |
 | -------------- | -------------- |
 | Giapponese     | サイコウェーブ |
 | Tipo           | Psico          |
@@ -133,25 +133,25 @@
 | Prono          |                |
 | Sui fianchi    |                |
 
-[Psywave](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard07.webp)
+[Psiconda](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard07.webp)
 
 ### Promo
 
-#### Night Lock ?
+#### Roccia notturna ?
 
-| Nome           | Night Lock ?                                                              |
-| -------------- | ------------------------------------------------------------------------- |
-| Giapponese     | ナイトロック                                                              |
-| Tipo           | Buio                                                                      |
-| Codice         | PRW02-1-08                                                                |
-| Pokémon        | Gengar                                                                    |
-| Energia        | {D}{D}{D}{D}                                                              |
-| Danni          | 30                                                                        |
-| Effetto        |                                                                           |
-| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
-| A testa in giù |                                                                           |
-| Supino         |                                                                           |
-| Prono          |                                                                           |
-| Sui fianchi    |                                                                           |
+| Nome           | Roccia notturna ?                                                  |
+| -------------- | ------------------------------------------------------------------ |
+| Giapponese     | ナイトロック                                                       |
+| Tipo           | Buio                                                               |
+| Codice         | PRW02-1-08                                                         |
+| Pokémon        | Gengar                                                             |
+| Energia        | {D}{D}{D}{D}                                                       |
+| Danni          | 30                                                                 |
+| Effetto        |                                                                    |
+| In Piedi       | Nel prossimo turno dell'avversario, lancia 2 dadi energia in meno. |
+| A testa in giù |                                                                    |
+| Supino         |                                                                    |
+| Prono          |                                                                    |
+| Sui fianchi    |                                                                    |
 
-[Night Lock](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img03.webp)
+[Roccia notturna](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img03.webp)

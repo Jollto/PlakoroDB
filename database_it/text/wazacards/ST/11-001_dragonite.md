@@ -1,29 +1,29 @@
-## Dragonite Cards
+## Carte Dragonite
 
 ### Set Starter
 
-#### Dragon Pulse
+#### Dragopulsar
 
-| Nome           | Dragon Pulse                                                   |
-| -------------- | -------------------------------------------------------------- |
-| Giapponese     | りゅうのはどう                                                 |
-| Tipo           | Drago                                                          |
-| Codice         | STW11-001                                                      |
-| Pokémon        | Dragonite                                                      |
-| Energia        | {W}{L}                                                         |
-| Danni          | 20                                                             |
-| Effetto        |                                                                |
-| In Piedi       | +30 danni.                                                     |
-| A testa in giù | On your next turn, reduce the number of Enekoro you roll by 1. |
-| Supino         | +30 danni.                                                     |
-| Prono          | On your next turn, reduce the number of Enekoro you roll by 1. |
-| Sui fianchi    |                                                                |
+| Nome           | Dragopulsar                                            |
+| -------------- | ------------------------------------------------------ |
+| Giapponese     | りゅうのはどう                                         |
+| Tipo           | Drago                                                  |
+| Codice         | STW11-001                                              |
+| Pokémon        | Dragonite                                              |
+| Energia        | {W}{L}                                                 |
+| Danni          | 20                                                     |
+| Effetto        |                                                        |
+| In Piedi       | +30 danni.                                             |
+| A testa in giù | Nel tuo prossimo turno, lancia 1 dado energia in meno. |
+| Supino         | +30 danni.                                             |
+| Prono          | Nel tuo prossimo turno, lancia 1 dado energia in meno. |
+| Sui fianchi    |                                                        |
 
-[Dragon Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard01.webp)
+[Dragopulsar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard01.webp)
 
-#### Claw Slash
+#### Lacerartiglio
 
-| Nome           | Claw Slash     |
+| Nome           | Lacerartiglio  |
 | -------------- | -------------- |
 | Giapponese     | ツメできりさく |
 | Tipo           | Drago          |
@@ -38,11 +38,11 @@
 | Prono          |                |
 | Sui fianchi    | +20 danni.     |
 
-[Claw Slash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard02.webp)
+[Lacerartiglio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard02.webp)
 
-#### Wrack Down
+#### Abbattere
 
-| Nome           | Wrack Down   |
+| Nome           | Abbattere    |
 | -------------- | ------------ |
 | Giapponese     | たたきつぶす |
 | Tipo           | Drago        |
@@ -57,11 +57,11 @@
 | Prono          | +30 danni.   |
 | Sui fianchi    |              |
 
-[Wrack Down](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard03.webp)
+[Abbattere](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard03.webp)
 
-#### Dragon Blast
+#### Calciorullo
 
-| Nome           | Dragon Blast    |
+| Nome           | Calciorullo     |
 | -------------- | --------------- |
 | Giapponese     | まわしげり      |
 | Tipo           | Drago           |
@@ -76,61 +76,61 @@
 | Prono          | +40 danni.      |
 | Sui fianchi    |                 |
 
-[Dragon Blast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard04.webp)
+[Calciorullo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard04.webp)
 
-#### Scale Press ?
+#### Pressa di squame
 
-| Nome           | Scale Press ?                                                                     |
-| -------------- | --------------------------------------------------------------------------------- |
-| Giapponese     | スケイルプレス                                                                    |
-| Tipo           | Acqua                                                                             |
-| Codice         | STW11-005                                                                         |
-| Pokémon        | Dragonite                                                                         |
-| Energia        | {W}{W}{C}{C}                                                                      |
-| Danni          | 30                                                                                |
-| Effetto        |                                                                                   |
-| In Piedi       | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
-| A testa in giù |                                                                                   |
-| Supino         | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
-| Prono          |                                                                                   |
-| Sui fianchi    |                                                                                   |
+| Nome           | Pressa di squame                                                                    |
+| -------------- | ----------------------------------------------------------------------------------- |
+| Giapponese     | スケイルプレス                                                                      |
+| Tipo           | Acqua                                                                               |
+| Codice         | STW11-005                                                                           |
+| Pokémon        | Dragonite                                                                           |
+| Energia        | {W}{W}{C}{C}                                                                        |
+| Danni          | 30                                                                                  |
+| Effetto        |                                                                                     |
+| In Piedi       | Durante il prossimo turno dell'avversario, questo Pokémon subisce 50 danni in meno. |
+| A testa in giù |                                                                                     |
+| Supino         | Durante il prossimo turno dell'avversario, questo Pokémon subisce 50 danni in meno. |
+| Prono          |                                                                                     |
+| Sui fianchi    |                                                                                     |
 
-[Scale Press](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
+[Pressa di squame](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
 
-#### Hurricane Tail
+#### Coda uragano
 
-| Nome           | Hurricane Tail                                                                           |
-| -------------- | ---------------------------------------------------------------------------------------- |
-| Giapponese     | ハリケーンテール                                                                         |
-| Tipo           | Elettro                                                                                  |
-| Codice         | STW11-006                                                                                |
-| Pokémon        | Dragonite                                                                                |
-| Energia        | {L}{L}{C}{C}                                                                             |
-| Danni          | 20                                                                                       |
-| Effetto        | Roll your Charakoro 3 times.                                                             |
-| In Piedi       | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
-| A testa in giù |                                                                                          |
-| Supino         |                                                                                          |
-| Prono          |                                                                                          |
-| Sui fianchi    | Each time the Charakoro roll succeeds with this attack, this attack does 20 more damage. |
+| Nome           | Coda uragano                                           |
+| -------------- | ------------------------------------------------------ |
+| Giapponese     | ハリケーンテール                                       |
+| Tipo           | Elettro                                                |
+| Codice         | STW11-006                                              |
+| Pokémon        | Dragonite                                              |
+| Energia        | {L}{L}{C}{C}                                           |
+| Danni          | 20                                                     |
+| Effetto        | Lancia il PokéDice 3 volte in totale per questa mossa. |
+| In Piedi       | +20 danni per ogni PokéDice riuscito con questa mossa. |
+| A testa in giù |                                                        |
+| Supino         |                                                        |
+| Prono          |                                                        |
+| Sui fianchi    | +20 danni per ogni PokéDice riuscito con questa mossa. |
 
-[Hurricane Tail](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard06.webp)
+[Coda uragano](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard06.webp)
 
-#### Extreme Speed
+#### Extrarapido
 
-| Nome           | Extreme Speed |
-| -------------- | ------------- |
-| Giapponese     | しんそく      |
-| Tipo           | Normale       |
-| Codice         | STW11-007     |
-| Pokémon        | Dragonite     |
-| Energia        | {C}{C}{C}{C}  |
-| Danni          | 30            |
-| Effetto        |               |
-| In Piedi       | +40 danni.    |
-| A testa in giù |               |
-| Supino         |               |
-| Prono          |               |
-| Sui fianchi    |               |
+| Nome           | Extrarapido  |
+| -------------- | ------------ |
+| Giapponese     | しんそく     |
+| Tipo           | Normale      |
+| Codice         | STW11-007    |
+| Pokémon        | Dragonite    |
+| Energia        | {C}{C}{C}{C} |
+| Danni          | 30           |
+| Effetto        |              |
+| In Piedi       | +40 danni.   |
+| A testa in giù |              |
+| Supino         |              |
+| Prono          |              |
+| Sui fianchi    |              |
 
-[Extreme Speed](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard07.webp)
+[Extrarapido](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard07.webp)

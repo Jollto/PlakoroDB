@@ -1,10 +1,10 @@
-## Squirtle Cards
+## Carte Squirtle
 
 ### Set Starter
 
-#### Water Gun
+#### Pistolacqua
 
-| Nome           | Water Gun    |
+| Nome           | Pistolacqua  |
 | -------------- | ------------ |
 | Giapponese     | みずでっぽう |
 | Tipo           | Acqua        |
@@ -19,11 +19,11 @@
 | Prono          | +20 danni.   |
 | Sui fianchi    |              |
 
-[Water Gun](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard01.webp)
+[Pistolacqua](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard01.webp)
 
-#### Withdraw
+#### Ritirata
 
-| Nome           | Withdraw                                                                            |
+| Nome           | Ritirata                                                                            |
 | -------------- | ----------------------------------------------------------------------------------- |
 | Giapponese     | からにこもる                                                                        |
 | Tipo           | Acqua                                                                               |
@@ -35,14 +35,14 @@
 | In Piedi       |                                                                                     |
 | A testa in giù |                                                                                     |
 | Supino         |                                                                                     |
-| Prono          | Heal 30 damage from this Pokémon.                                                   |
+| Prono          | Questo Pokémon recupera 30 HP.                                                      |
 | Sui fianchi    |                                                                                     |
 
-[Withdraw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard02.webp)
+[Ritirata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard02.webp)
 
-#### Water Pulse
+#### Idropulsar
 
-| Nome           | Water Pulse  |
+| Nome           | Idropulsar   |
 | -------------- | ------------ |
 | Giapponese     | みずのはどう |
 | Tipo           | Acqua        |
@@ -57,11 +57,11 @@
 | Prono          |              |
 | Sui fianchi    | +20 danni.   |
 
-[Water Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard03.webp)
+[Idropulsar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard03.webp)
 
-#### Shell Attack
+#### Attacco Guscio
 
-| Nome           | Shell Attack                                                                        |
+| Nome           | Attacco Guscio                                                                      |
 | -------------- | ----------------------------------------------------------------------------------- |
 | Giapponese     | シェルアタック                                                                      |
 | Tipo           | Acqua                                                                               |
@@ -76,49 +76,49 @@
 | Prono          | Durante il prossimo turno dell'avversario, questo Pokémon subisce 20 danni in meno. |
 | Sui fianchi    |                                                                                     |
 
-[Shell Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard04.webp)
+[Attacco Guscio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard04.webp)
 
-#### Bubble Beam
+#### Bollaraggio
 
-| Nome           | Bubble Beam                                                               |
-| -------------- | ------------------------------------------------------------------------- |
-| Giapponese     | バブルこうせん                                                            |
-| Tipo           | Acqua                                                                     |
-| Codice         | STW03-005                                                                 |
-| Pokémon        | Squirtle                                                                  |
-| Energia        | {W}{W}{W}                                                                 |
-| Danni          | 30                                                                        |
-| Effetto        |                                                                           |
-| In Piedi       | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| A testa in giù |                                                                           |
-| Supino         | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Prono          | On the opponent's next turn, reduce the number of Enekoro they roll by 1. |
-| Sui fianchi    |                                                                           |
+| Nome           | Bollaraggio                                                        |
+| -------------- | ------------------------------------------------------------------ |
+| Giapponese     | バブルこうせん                                                     |
+| Tipo           | Acqua                                                              |
+| Codice         | STW03-005                                                          |
+| Pokémon        | Squirtle                                                           |
+| Energia        | {W}{W}{W}                                                          |
+| Danni          | 30                                                                 |
+| Effetto        |                                                                    |
+| In Piedi       | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| A testa in giù |                                                                    |
+| Supino         | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| Prono          | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| Sui fianchi    |                                                                    |
 
-[Bubble Beam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard05.webp)
+[Bollaraggio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard05.webp)
 
-#### Hydro Rage ?
+#### Idrofuria ?
 
-| Nome           | Hydro Rage ?                                                                  |
-| -------------- | ----------------------------------------------------------------------------- |
-| Giapponese     | ハイドロアンガー                                                              |
-| Tipo           | Acqua                                                                         |
-| Codice         | STW03-006                                                                     |
-| Pokémon        | Squirtle                                                                      |
-| Energia        | {W}{W}{W}{W}                                                                  |
-| Danni          | 40                                                                            |
-| Effetto        |                                                                               |
-| In Piedi       | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
-| A testa in giù |                                                                               |
-| Supino         | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
-| Prono          | If this Pokémon has 40 or less HP remaining, this attack does 60 more damage. |
-| Sui fianchi    |                                                                               |
+| Nome           | Idrofuria ?                                   |
+| -------------- | --------------------------------------------- |
+| Giapponese     | ハイドロアンガー                              |
+| Tipo           | Acqua                                         |
+| Codice         | STW03-006                                     |
+| Pokémon        | Squirtle                                      |
+| Energia        | {W}{W}{W}{W}                                  |
+| Danni          | 40                                            |
+| Effetto        |                                               |
+| In Piedi       | Se questo Pokémon ha 40 HP o meno: +60 danni. |
+| A testa in giù |                                               |
+| Supino         | Se questo Pokémon ha 40 HP o meno: +60 danni. |
+| Prono          | Se questo Pokémon ha 40 HP o meno: +60 danni. |
+| Sui fianchi    |                                               |
 
-[Hydro Rage](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard06.webp)
+[Idrofuria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard06.webp)
 
-#### Mud Shot
+#### Colpo fango
 
-| Nome           | Mud Shot       |
+| Nome           | Colpo fango    |
 | -------------- | -------------- |
 | Giapponese     | マッドショット |
 | Tipo           | Lotta          |
@@ -133,25 +133,25 @@
 | Prono          |                |
 | Sui fianchi    | +30 danni.     |
 
-[Mud Shot](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard07.webp)
+[Colpo Fango](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard07.webp)
 
 ### Promo
 
-#### Hard Shell ?
+#### Guscio duro ?
 
-| Nome           | Hard Shell ?                                                                      |
-| -------------- | --------------------------------------------------------------------------------- |
-| Giapponese     | カチカチこうら                                                                    |
-| Tipo           | Acqua                                                                             |
-| Codice         | PRW01-3-08                                                                        |
-| Pokémon        | Squirtle                                                                          |
-| Energia        | {W}{W}{W}                                                                         |
-| Danni          | 20                                                                                |
-| Effetto        |                                                                                   |
-| In Piedi       |                                                                                   |
-| A testa in giù |                                                                                   |
-| Supino         |                                                                                   |
-| Prono          | During your opponent's next turn, this Pokémon takes 50 less damage from attacks. |
-| Sui fianchi    |                                                                                   |
+| Nome           | Guscio duro ?                                                                       |
+| -------------- | ----------------------------------------------------------------------------------- |
+| Giapponese     | カチカチこうら                                                                      |
+| Tipo           | Acqua                                                                               |
+| Codice         | PRW01-3-08                                                                          |
+| Pokémon        | Squirtle                                                                            |
+| Energia        | {W}{W}{W}                                                                           |
+| Danni          | 20                                                                                  |
+| Effetto        |                                                                                     |
+| In Piedi       |                                                                                     |
+| A testa in giù |                                                                                     |
+| Supino         |                                                                                     |
+| Prono          | Durante il prossimo turno dell'avversario, questo Pokémon subisce 50 danni in meno. |
+| Sui fianchi    |                                                                                     |
 
-[Hard Shell](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img03.webp)
+[Guscio Duro](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260717_01/img03.webp)

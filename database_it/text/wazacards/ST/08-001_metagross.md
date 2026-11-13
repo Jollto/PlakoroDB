@@ -1,10 +1,10 @@
-## Metagross Cards
+## Carte Metagross
 
 ### Set Starter
 
-#### Beam
+#### Raggio
 
-| Nome           | Beam       |
+| Nome           | Raggio     |
 | -------------- | ---------- |
 | Giapponese     | ビーム     |
 | Tipo           | Acciaio    |
@@ -19,49 +19,49 @@
 | Prono          |            |
 | Sui fianchi    |            |
 
-[Beam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard01.webp)
+[Raggio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard01.webp)
 
-#### Basic Calculation ?
+#### Calcolo Quadrupede ?
 
-| Nome           | Basic Calculation ?                                                                                       |
-| -------------- | --------------------------------------------------------------------------------------------------------- |
-| Giapponese     | しそくえんざん                                                                                            |
-| Tipo           | Acciaio                                                                                                   |
-| Codice         | STW08-002                                                                                                 |
-| Pokémon        | Metagross                                                                                                 |
-| Energia        | {M}{M}                                                                                                    |
-| Danni          | 20                                                                                                        |
-| Effetto        |                                                                                                           |
-| In Piedi       | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this attack. |
-| A testa in giù |                                                                                                           |
-| Supino         | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this attack. |
-| Prono          |                                                                                                           |
-| Sui fianchi    | On your next turn, the direction of your Charakoro becomes the same direction it rolled with this attack. |
+| Nome           | Calcolo Quadrupede ?                                                                         |
+| -------------- | -------------------------------------------------------------------------------------------- |
+| Giapponese     | しそくえんざん                                                                               |
+| Tipo           | Acciaio                                                                                      |
+| Codice         | STW08-002                                                                                    |
+| Pokémon        | Metagross                                                                                    |
+| Energia        | {M}{M}                                                                                       |
+| Danni          | 20                                                                                           |
+| Effetto        |                                                                                              |
+| In Piedi       | Nel tuo prossimo turno, il tuo PokéDice conta come l'orientamento ottenuto con questa mossa. |
+| A testa in giù |                                                                                              |
+| Supino         | Nel tuo prossimo turno, il tuo PokéDice conta come l'orientamento ottenuto con questa mossa. |
+| Prono          |                                                                                              |
+| Sui fianchi    | Nel tuo prossimo turno, il tuo PokéDice conta come l'orientamento ottenuto con questa mossa. |
 
-[Basic Calculation](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
+[Calcolo Quadrupede](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
 
-#### Wide Press ?
+#### Pressa Ampia ?
 
-| Nome           | Wide Press ? |
-| -------------- | ------------ |
-| Giapponese     | ワイドプレス |
-| Tipo           | Acciaio      |
-| Codice         | STW08-003    |
-| Pokémon        | Metagross    |
-| Energia        | {M}{M}       |
-| Danni          | 20           |
-| Effetto        |              |
-| In Piedi       |              |
-| A testa in giù |              |
-| Supino         |              |
-| Prono          |              |
-| Sui fianchi    | +30 danni.   |
+| Nome           | Pressa Ampia ? |
+| -------------- | -------------- |
+| Giapponese     | ワイドプレス   |
+| Tipo           | Acciaio        |
+| Codice         | STW08-003      |
+| Pokémon        | Metagross      |
+| Energia        | {M}{M}         |
+| Danni          | 20             |
+| Effetto        |                |
+| In Piedi       |                |
+| A testa in giù |                |
+| Supino         |                |
+| Prono          |                |
+| Sui fianchi    | +30 danni.     |
 
-[Wide Press](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard03.webp)
+[Pressa Ampia](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard03.webp)
 
-#### Straight Stamp ?
+#### Pestone Diretto ?
 
-| Nome           | Straight Stamp ?   |
+| Nome           | Pestone Diretto ?  |
 | -------------- | ------------------ |
 | Giapponese     | ストレートスタンプ |
 | Tipo           | Acciaio            |
@@ -76,11 +76,11 @@
 | Prono          | +20 danni.         |
 | Sui fianchi    |                    |
 
-[Straight Stamp](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard04.webp)
+[Pestone Diretto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard04.webp)
 
-#### Meteor Mash
+#### Meteorpugno
 
-| Nome           | Meteor Mash    |
+| Nome           | Meteorpugno    |
 | -------------- | -------------- |
 | Giapponese     | コメットパンチ |
 | Tipo           | Acciaio        |
@@ -95,11 +95,11 @@
 | Prono          |                |
 | Sui fianchi    |                |
 
-[Meteor Mash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard05.webp)
+[Meteorpugno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard05.webp)
 
-#### Heavy Slam
+#### Pesobomba
 
-| Nome           | Heavy Slam                                             |
+| Nome           | Pesobomba                                              |
 | -------------- | ------------------------------------------------------ |
 | Giapponese     | ヘビーボンバー                                         |
 | Tipo           | Acciaio                                                |
@@ -114,44 +114,44 @@
 | Prono          | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
 | Sui fianchi    | +40 danni.                                             |
 
-[Heavy Slam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard06.webp)
+[Pesobomba](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard06.webp)
 
-#### Explosion
+#### Esplosione
 
-| Nome           | Explosion                                                |
-| -------------- | -------------------------------------------------------- |
-| Giapponese     | だいばくはつ                                             |
-| Tipo           | Normale                                                  |
-| Codice         | STW08-007                                                |
-| Pokémon        | Metagross                                                |
-| Energia        | {C}{C}{C}{C}{C}                                          |
-| Danni          | 100                                                      |
-| Effetto        | This Pokémon does 120 damage to itself.                  |
-| In Piedi       | Prevent the damage this attack would do to your Pokémon. |
-| A testa in giù |                                                          |
-| Supino         |                                                          |
-| Prono          |                                                          |
-| Sui fianchi    |                                                          |
+| Nome           | Esplosione                                        |
+| -------------- | ------------------------------------------------- |
+| Giapponese     | だいばくはつ                                      |
+| Tipo           | Normale                                           |
+| Codice         | STW08-007                                         |
+| Pokémon        | Metagross                                         |
+| Energia        | {C}{C}{C}{C}{C}                                   |
+| Danni          | 100                                               |
+| Effetto        | Anche questo Pokémon subisce 120 danni.           |
+| In Piedi       | Questa mossa non infligge danni a questo Pokémon. |
+| A testa in giù |                                                   |
+| Supino         |                                                   |
+| Prono          |                                                   |
+| Sui fianchi    |                                                   |
 
-[Explosion](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)
+[Esplosione](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard07.webp)
 
 ### Promo
 
-#### Steel Claw ?
+#### Artiglio d'acciaio ?
 
-| Nome           | Steel Claw ?   |
-| -------------- | -------------- |
-| Giapponese     | こうてつのツメ |
-| Tipo           | Acciaio        |
-| Codice         | PRW02-2-08     |
-| Pokémon        | Metagross      |
-| Energia        | {M}            |
-| Danni          | 10             |
-| Effetto        |                |
-| In Piedi       | +30 danni.     |
-| A testa in giù |                |
-| Supino         |                |
-| Prono          |                |
-| Sui fianchi    |                |
+| Nome           | Artiglio d'acciaio ? |
+| -------------- | -------------------- |
+| Giapponese     | こうてつのツメ       |
+| Tipo           | Acciaio              |
+| Codice         | PRW02-2-08           |
+| Pokémon        | Metagross            |
+| Energia        | {M}                  |
+| Danni          | 10                   |
+| Effetto        |                      |
+| In Piedi       | +30 danni.           |
+| A testa in giù |                      |
+| Supino         |                      |
+| Prono          |                      |
+| Sui fianchi    |                      |
 
-[Steel Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img04.webp)
+[Artiglio d'acciaio](https://bandai-hobby.net/site/pokemon/plakoro/images/event/20260930/img04.webp)

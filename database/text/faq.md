@@ -158,10 +158,10 @@
 
 #### 23
 
-|  Q  | I used Grimer's move "Poison Gas".<br>The Enekoro roll succeeded, but the Charakoro roll failed.<br>On my next turn, if I succeed at both the Enekoro and Charakoro rolls for Grimer's move "Toxic Blast", can I deal additiona damage? |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | Yes, you can.                                                                                                                                                                                                                           |
-|  R  | [Poison Gas](/database/cards/wazacards/EB01/01-006_grimer/EBW01-051.png)<br>[Toxic Blast](/database/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)                                                                                   |
+|  Q  | I used Grimer's move "Poison Gas".<br>The Enekoro roll succeeded, but the Charakoro roll failed.<br>On my next turn, if I succeed at both the Enekoro and Charakoro rolls for Grimer's move "Toxic Blast", can I deal additional damage? |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | Yes, you can.                                                                                                                                                                                                                            |
+|  R  | [Poison Gas](/database/cards/wazacards/EB01/01-006_grimer/EBW01-051.png)<br>[Toxic Blast](/database/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)                                                                                    |
 
 #### 24
 

@@ -60,7 +60,7 @@
 
 #### 9
 
-|           P          | On the turn after my opponent failed a move, I successfully passed the Enekoro and Charakoro rolls for Aggron's move "Powerful Steel". <br>In this case, how much damage do I deal to my opponent?  |
+|           P          | On the turn after my opponent failed a move, I successfully passed the Enekoro and Charakoro rolls for Aggron's move "Powerful Steel". <br>Nesse caso, quanto dano eu causo ao meu oponente?        |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |           R          | 60 damage. <br>In addition to the 20 damage dealt by the move, as Aggron did not take any damage drom a move during the opponent's previous turn, you deal an additional 40 damage. |
 | Ref. | [Powerful Steel](/database/cards/wazacards/EB02/02-004_aggron/EBW02-038.png)                                                                                                                                        |
@@ -74,17 +74,17 @@
 
 #### 11
 
-|           P          | I choose Rayquaza's move "Wild Rampage". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>In this case, how much damage do I deal to my opponent?                                |
+|           P          | I choose Rayquaza's move "Wild Rampage". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>Nesse caso, quanto dano eu causo ao meu oponente?                                      |
 | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | 60 damage. <br>As the energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage. |
 | Ref. | [Wild Rampage](/database/cards/wazacards/EB02/02-005_rayquaza/EBW02-044.png)                                                                                                                                                                          |
 
 #### 12
 
-|           P          | I chose Rayquaza's move "Dragon Burst". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>In this case, how much damage do I deal to my opponent? |
-| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 70 damage. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} energy produced, adding 20 x 3 = 60 damage.       |
-| Ref. | [Dragon Burst](/database/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                                          |
+|           P          | I chose Rayquaza's move "Dragon Burst". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 70 damage. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} energy produced, adding 20 x 3 = 60 damage. |
+| Ref. | [Dragon Burst](/database/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                                    |
 
 #### 13
 
@@ -144,17 +144,17 @@
 
 #### 21
 
-|           P          | Due to the self-damage effect of Metagross' "Explosion", Metagross also took damage, and both Pokémon lost all their HP at the same time. <br>In this case, who wins or loses? |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | You lose. <br>If both Pokémon lose all their HP at the same time, the player who used the move loses.                                                          |
-| Ref. | [Explosion](/database/cards/wazacards/ST/08-001_metagross/STW08-007.png)                                                                                                                       |
+|           P          | Por causa do dano a si mesmo do golpe "Explosão" do Metagross, o Metagross também recebeu dano, e os dois Pokémon perderam todos os PS ao mesmo tempo. <br>Nesse caso, quem ganha e quem perde? |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                                       |
+| Ref. | [Explosão](/database_pt/cards/wazacards/ST/08-001_metagross/STW08-007.png)                                                                                                                                      |
 
 #### 22
 
 |           P          | Com o Lucario com 120 PS, fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Punho de Aura" do Lucario. <br>Nesse caso, posso causar dano adicional? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Não, não pode. <br>You can only deal additional damage via the Charakoro effect of "Aura Knuckle" when HP is 80 or less.                         |
-| Ref. | [Aura Knuckle](/database/cards/wazacards/ST/09-001_lucario/STW09-003.png)                                                                                                        |
+|           R          | Não, não pode. <br>Você só pode causar dano adicional com o efeito de Charakoro de "Punho de Aura" quando os PS forem 80 ou menos.               |
+| Ref. | [Punho de Aura](/database_pt/cards/wazacards/ST/09-001_lucario/STW09-003.png)                                                                                                    |
 
 #### 23
 
@@ -186,10 +186,10 @@
 
 #### 27
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Pinsir's move "Scissors Charge". <br>Como funciona o efeito "No seu próximo turno, você rola 1 Enekoro a mais."? <br>Also, who chooses which Enekoro to add?                                                                                                                                                            |
-| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | After rolling 3 Enekoro, choose 1 of them and roll it again. <br>Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno. <br>If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time. <br>O jogador que rola os Enekoro escolhe qual deles será adicionado. |
-| Ref. | [Scissors Charge](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)                                                                                                                                                                                                                                                                                                                                     |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Investida de Pinças" do Pinsir. <br>Como funciona o efeito "No seu próximo turno, você rola 1 Enekoro a mais."? <br>Além disso, quem escolhe quais Enekoro serão adicionados?                                                                                                                                                  |
+| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Depois de rolar 3 Enekoro, escolha qualquer um deles e role-o novamente. <br>Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno. <br>Se você tiver 4 ou mais Enekoro, pode adicionar qualquer Enekoro que quiser e rolar todos ao mesmo tempo. <br>O jogador que rola os Enekoro escolhe qual deles será adicionado. |
+| Ref. | [Scissors Charge](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)                                                                                                                                                                                                                                                                                                                                                 |
 
 #### 28
 
@@ -221,45 +221,45 @@
 
 #### 32
 
-|           P          | Due to the self-damage effect of Moltres' move "Fire Wing", Moltres also took damage, and both Pokémon lost all their HP at the same time. <br>In this case, who wins or loses? |
-| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | You lose. <br>If both Pokémon lose all their HP at the same time, the player who used the move loses.                                                           |
-| Ref. | [Fire Wing](/database/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)                                                                                                                        |
+|           P          | Due to the self-damage effect of Moltres' move "Fire Wing", Moltres also took damage, and both Pokémon lost all their HP at the same time. <br>Nesse caso, quem ganha e quem perde? |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                           |
+| Ref. | [Fire Wing](/database/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)                                                                                                                            |
 
 #### 33
 
 |           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Semente Sanguessuga" do Bulbasaur. <br>Como funciona o efeito "No seu próximo turno, você rola 1 Enekoro a mais."?                                                                                                                                                                                                                                                          |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Primeiro, role 3 Enekoro. <br>Em seguida, escolha qualquer um dos Enekoro rolados e role-o novamente. <br>O jogador que rola os Enekoro escolhe qual deles será adicionado. <br>Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno. <br>If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time. |
+|           R          | Primeiro, role 3 Enekoro. <br>Em seguida, escolha qualquer um dos Enekoro rolados e role-o novamente. <br>O jogador que rola os Enekoro escolhe qual deles será adicionado. <br>Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno. <br>Se você tiver 4 ou mais Enekoro, pode adicionar qualquer Enekoro que quiser e rolar todos ao mesmo tempo. |
 | Ref. | [Semente Sanguessuga](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)                                                                                                                                                                                                                                                                                                                                                                                      |
 
 #### 34
 
-|           P          | When Bulbasaur's HP was 120, I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Giga Drain". <br>In this case, can I raise its HP to 160? |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Não, não pode. O máximo de PS do Bulbasaur é 120.                                                                                                  |
-| Ref. | [Giga Drain](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)                                                                                                          |
+|           P          | Com o Bulbasaur com 120 PS, fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Gigadreno" do Bulbasaur. <br>Nesse caso, posso aumentar os PS dele para 160? |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Não, não pode. O máximo de PS do Bulbasaur é 120.                                                                                                       |
+| Ref. | [Gigadreno](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)                                                                                                             |
 
 #### 35
 
-|           P          | Due to the self-damage effect of Bulbasaur's move "Reckless Charge", Bulbasaur also took damage, and both Pokémon lost all their HP at the same time. <br>In this case, who wins or loses? |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | You lose. <br>If both Pokémon lose all their HP at the same time, the player who used the move loses.                                                                      |
-| Ref. | [Reckless Charge](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-005.png)                                                                                                                             |
+|           P          | Por causa do dano a si mesmo do golpe "Carga Indomável" do Bulbasaur, o Bulbasaur também recebeu dano, e os dois Pokémon perderam todos os PS ao mesmo tempo. <br>Nesse caso, quem ganha e quem perde? |
+| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                                              |
+| Ref. | [Carga Indomável](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-005.png)                                                                                                                                      |
 
 #### 36
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Charmander's move "Heat Up". <br>How is the effect "On your next turn, increase the number of Enekoro you roll by 2." applied? <br>Also, who chooses which Enekoro to add?                                                                                                                                                                                         |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Primeiro, role 3 Enekoro. <br>Next, choose 2 of the rolled Enekoro and roll them again. <br>If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time. <br>Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno. <br>O jogador que rola os Enekoro escolhe qual deles será adicionado. |
-| Ref. | [Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                                                                                                                                                                                                                                                      |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Aquecimento" do Charmander. <br>Como funciona o efeito "No seu próximo turno, você rola 2 Enekoro a mais."? <br>Além disso, quem escolhe quais Enekoro serão adicionados?                                                                                                                                                                                             |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Primeiro, role 3 Enekoro. <br>Em seguida, escolha dois dos Enekoro rolados e role-os novamente. <br>Se você tiver 4 ou mais Enekoro, pode adicionar qualquer Enekoro que quiser e rolar todos ao mesmo tempo. <br>Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno. <br>O jogador que rola os Enekoro escolhe qual deles será adicionado. |
+| Ref. | [Aquecimento](/database_pt/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                                                                                                                                                                                                                                                       |
 
 #### 37
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Charmander's move "Flare Storm". <br>I got 5 Fire {R} Energy symbols. <br>In this case, how much damage do I deal to my opponent? |
-| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 70 damage.                                                                                                                                                                                                  |
-| Ref. | [Flare Storm](/database/cards/wazacards/ST/02-001_charmander/STW02-005.png)                                                                                                                                                 |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Tempestade de Chamas" do Charmander. <br>Tirei 5 símbolos de Energia de Fogo {R}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 70 damage.                                                                                                                                                                                                             |
+| Ref. | [Flare Storm](/database/cards/wazacards/ST/02-001_charmander/STW02-005.png)                                                                                                                                                            |
 
 #### 38
 
@@ -291,10 +291,10 @@
 
 #### 42
 
-|           P          | Due to the self-damage effect of Pikachu's move "Volt Tackle", Pikachu also took damage, and both Pokémon lost all their HP at the same time. <br>In this case, who wins or loses? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | You lose. <br>If both Pokémon lose all their HP at the same time, the player who used the move loses.                                                              |
-| Ref. | [Volt Tackle](/database/cards/wazacards/ST/04-001_pikachu/STW04-006.png)                                                                                                                           |
+|           P          | Due to the self-damage effect of Pikachu's move "Volt Tackle", Pikachu also took damage, and both Pokémon lost all their HP at the same time. <br>Nesse caso, quem ganha e quem perde? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                              |
+| Ref. | [Volt Tackle](/database/cards/wazacards/ST/04-001_pikachu/STW04-006.png)                                                                                                                               |
 
 #### 43
 
@@ -312,10 +312,10 @@
 
 #### 45
 
-|           P          | I used Eevee's move "Take Down". <br>The Enekoro roll showed 3 Flying {Y} energy, and the Charakoro roll was {s1}. <br>In this case, how much damage do I deal to my opponent? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 30 damage.                                                                                                                                                                                     |
-| Ref. | [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                                           |
+|           P          | I used Eevee's move "Take Down". <br>The Enekoro roll showed 3 Flying {Y} energy, and the Charakoro roll was {s1}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 30 damage.                                                                                                                                                                               |
+| Ref. | [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                                     |
 
 #### 46
 
@@ -326,31 +326,31 @@
 
 #### 47
 
-|           P          | Due to the self-damage effect of Eevee's move "Take Down", Eevee also took damage, and both Pokémon lost all their HP at the same time. <br>In this case, who wins or loses? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | You lose. <br>If both Pokémon lose all their HP at the same time, the player who used the move loses.                                                        |
-| Ref. | [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                         |
+|           P          | Due to the self-damage effect of Eevee's move "Take Down", Eevee also took damage, and both Pokémon lost all their HP at the same time. <br>Nesse caso, quem ganha e quem perde? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                        |
+| Ref. | [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                             |
 
 #### 48
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Mew's move "Psychic". <br>My opponent rolled their Enekoro, and got one Grass {G} energy, one Fire {R} energy and one Water {W} energy. <br>In this case, how much damage do I deal to my opponent? |
-| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 30 damage. <br>Since the number of the most common Energy type is 1, 1 x 10 = 10 damage is added.                                                                                                                                                             |
-| Ref. | [Psychic](/database/cards/wazacards/ST/06-001_mew/STW06-006.png)                                                                                                                                                                                                                              |
+|           P          | I successfully passed the Enekoro and Charakoro rolls for Mew's move "Psychic". <br>My opponent rolled their Enekoro, and got one Grass {G} energy, one Fire {R} energy and one Water {W} energy. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 30 damage. <br>Since the number of the most common Energy type is 1, 1 x 10 = 10 damage is added.                                                                                                                                                       |
+| Ref. | [Psychic](/database/cards/wazacards/ST/06-001_mew/STW06-006.png)                                                                                                                                                                                                                        |
 
 #### 49
 
-|           P          | My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Gnaw", and I took 40 damage. <br>On my next turn, I successfully passed the Enekoro and Charakoro rolls for Mew's move "Reflection". <br>In this case, how much damage do I deal to my opponent? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 20 damage. <br>"The damage of your opponent's last selected attack" is 10 damage. <br>Because the Charakoro effect of "Reflection" allows you to deal 2 times that amount, the damage is 10 x 2 = 20 damage.                                                         |
-| Ref. | [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Gnaw](/database/cards/wazacards/ST/04-001_pikachu/STW04-001.png)                                                                                                                                                                             |
+|           P          | My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Gnaw", and I took 40 damage. <br>On my next turn, I successfully passed the Enekoro and Charakoro rolls for Mew's move "Reflection". <br>Nesse caso, quanto dano eu causo ao meu oponente? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 20 damage. <br>"The damage of your opponent's last selected attack" is 10 damage. <br>Because the Charakoro effect of "Reflection" allows you to deal 2 times that amount, the damage is 10 x 2 = 20 damage.                                                   |
+| Ref. | [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Gnaw](/database/cards/wazacards/ST/04-001_pikachu/STW04-001.png)                                                                                                                                                                       |
 
 #### 50
 
-|           P          | My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Iron Tail", and I took 20 damage. <br>On my next turn, I successfully passed the Enekoro rolls for Mew's move "Reflection". <br>In this case, how much damage do I deal to my opponent? |
-| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 10 damage. <br>"The damage of your opponent's last selected attack" is 20 damage. <br>However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20 - 10 = 10.                                         |
-| Ref. | [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)                                                                                                                                                               |
+|           P          | My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Iron Tail", and I took 20 damage. <br>On my next turn, I successfully passed the Enekoro rolls for Mew's move "Reflection". <br>Nesse caso, quanto dano eu causo ao meu oponente? |
+| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 10 damage. <br>"The damage of your opponent's last selected attack" is 20 damage. <br>However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20 - 10 = 10.                                   |
+| Ref. | [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)                                                                                                                                                         |
 
 ## Sobre as Regras Básicas
 
@@ -388,7 +388,7 @@
 
 |  P  | Due to a move's effect, I need to roll more Enekoro. Como devo rolá-los nesse caso?                                                                                                                                                                                                                                                                                                        |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | After rolling 3 Enekoro, select a number of Enekoro from among them equal to the number you want to roll additionally, and roll them again. <br>Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno. <br>If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time. |
+|  R  | After rolling 3 Enekoro, select a number of Enekoro from among them equal to the number you want to roll additionally, and roll them again. <br>Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno. <br>Se você tiver 4 ou mais Enekoro, pode adicionar qualquer Enekoro que quiser e rolar todos ao mesmo tempo. |
 
 #### 7
 

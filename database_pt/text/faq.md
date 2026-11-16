@@ -7,35 +7,35 @@
 |           P          | Due to the move effect of Chansey's "Chance Tackle", next turn, I can reroll the Charakoro 1 time. <br>In this case, can I choose not to reroll it? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |           R          | Sim, pode.                                                                                                                                          |
-| Ref. | [Chance Tackle](/database/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                        |
+| Ref. | [Investida Oportuna](/database_pt/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                |
 
 #### 2
 
 |           P          | Due to the move effect of Chansey's "Chance Tackle", next turn, I can reroll the Charakoro 2 times. <br>If I rerolled it once, can I choose not reroll it the 2nd time? |
 | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | Sim, pode.                                                                                                                                                              |
-| Ref. | [Chance Tackle](/database/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                                            |
+| Ref. | [Investida Oportuna](/database_pt/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                                    |
 
 #### 3
 
-|           P          | Due to the move effect of Chansey's "Chance Tackle", next turn, I can reroll the Charakoro 1 time. <br>On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down". <br>In this case, what will be the orientation of the Charakoro I roll and the one I reroll on my next turn, respectively? |
-| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | As the orientation of all the Charakoro rolled next turn will be {hs}, it will remain {hs} even if you reroll them.                                                                                                                                                                                                                                                             |
-| Ref. | [Chance Tackle](/database/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)<br>[Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                                                                         |
+|           P          | Due to the move effect of Chansey's "Chance Tackle", next turn, I can reroll the Charakoro 1 time. <br>No turno seguinte, meu oponente foi bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "De Ponta-Cabeça" do Gengar. <br>In this case, what will be the orientation of the Charakoro I roll and the one I reroll on my next turn, respectively? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | As the orientation of all the Charakoro rolled next turn will be {hs}, it will remain {hs} even if you reroll them.                                                                                                                                                                                                                                                          |
+| Ref. | [Investida Oportuna](/database_pt/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)<br>[De Ponta-Cabeça](/database_pt/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                                                       |
 
 #### 4
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Sableye's move "Instigate". <br>Can I choose the move my opponent used during their previous turn and make them use it again during their next turn? |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Não, não pode.                                                                                                                                                                                                 |
-| Ref. | [Instigate](/database/cards/wazacards/EB02/02-003_sableye/EBW02-024.png)                                                                                                                                                       |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Instigar" do Sableye. <br>Can I choose the move my opponent used during their previous turn and make them use it again during their next turn? |
+| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Não, não pode.                                                                                                                                                                                                |
+| Ref. | [Instigar](/database_pt/cards/wazacards/EB02/02-003_sableye/EBW02-024.png)                                                                                                                                                    |
 
 #### 5
 
 |           P          | I successfully passed the Enekoro and Charakoro rolls for Sableye's move "Jewel Flash". <br>On the opponent's next turn, if their move fails, do I still choose 2 Enekoros and have them roll them again? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |           R          | Sim. You must choose 2 Enekoros and have them roll them again.                                                                                                                            |
-| Ref. | [Jewel Flash](/database/cards/wazacards/EB02/02-003_sableye/EBW02-029.png)                                                                                                                                                |
+| Ref. | [Flash de Joia](/database_pt/cards/wazacards/EB02/02-003_sableye/EBW02-029.png)                                                                                                                                           |
 
 #### 6
 
@@ -130,10 +130,10 @@
 
 #### 19
 
-|           P          | I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}. <br>On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down". <br>In this case, what will be the orientation of the Charakoro I roll on my next turn? |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will be {hs}.                                                                                                                                                                                                                                                                         |
-| Ref. | [Basic Calculation](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png)<br>[Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                                                  |
+|           P          | I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}. <br>No turno seguinte, meu oponente foi bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "De Ponta-Cabeça" do Gengar. <br>In this case, what will be the orientation of the Charakoro I roll on my next turn? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           R          | Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will be {hs}.                                                                                                                                                                                                                                                                      |
+| Ref. | [Basic Calculation](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png)<br>[Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                                               |
 
 #### 20
 

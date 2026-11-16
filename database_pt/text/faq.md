@@ -168,21 +168,21 @@
 |           P          | Meu oponente usou o golpe "Investida Elétrica" do Pikachu. <br>As primeiras rolagens de Enekoro e Charakoro foram bem-sucedidas, mas a segunda rolagem de Enekoro falhou. <br>No meu próximo turno, se eu for bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Veneno Importuno" do Grimer, posso causar dano adicional? |
 | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | Sim, pode.                                                                                                                                                                                                                                                                                                                                         |
-| Ref. | [Harassment Venom](/database/cards/wazacards/EB01/01-006_grimer/EBW01-060.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                                                                       |
+| Ref. | [Veneno Importuno](/database_pt/cards/wazacards/EB01/01-006_grimer/EBW01-060.png)<br>[Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                                                            |
 
 #### 25
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall". <br>On my opponent's next turn, they successfully used Pikachu's move "Electric Rush" twice. <br>Nesse caso, quanto dano eu recebo? |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 0 damage. <br>Each time you take a hit from a move, you can reduce the damage you take by 30.                                                                                                                          |
-| Ref. | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                    |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Muralha de Rocha" do Onix. <br>No turno seguinte, meu oponente usou com sucesso o golpe "Investida Elétrica" do Pikachu duas vezes. <br>Nesse caso, quanto dano eu recebo? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           R          | 0 de dano. <br>Cada vez que você é atingido por um golpe, pode reduzir em 30 o dano recebido.                                                                                                                                             |
+| Ref. | [Muralha de Rocha](/database_pt/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                     |
 
 #### 26
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall". <br>On my opponent's next turn, they successfully rolled the Charakoro for Zapdos' move "Volt Rush" twice. <br>Nesse caso, quanto dano eu recebo? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 40 damage. <br>You can reduce the damage taken by 30 from the total damage dealt by "Volt Rush".                                                                                                                                     |
-| Ref. | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Volt Rush](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)                                                                                                                     |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Muralha de Rocha" do Onix. <br>No turno seguinte, meu oponente foi bem-sucedido duas vezes na rolagem de Charakoro do golpe "Investida Voltaica" do Zapdos. <br>Nesse caso, quanto dano eu recebo? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           R          | 40 de dano. <br>Você pode subtrair 30 do dano total causado por "Investida Voltaica".                                                                                                                                                                             |
+| Ref. | [Muralha de Rocha](/database_pt/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Investida Voltaica](/database_pt/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)                                                                                                                            |
 
 #### 27
 
@@ -193,10 +193,10 @@
 
 #### 28
 
-|           P          | I used Pinsir's move "Guillotine". <br>The Enekoro roll showed 4 Grass{G} Energy, and the Charakoro roll was {st}. <br>In this case, can I deal damage?     |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           R          | Não, não pode. <br>As the Enekoro roll failed, the move fails. <br>In this case, the Charakoro check is not carried out, and the turn ends. |
-| Ref. | [Guillotine](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)                                                                                                                    |
+|           P          | Usei o golpe "Guilhotina" do Pinsir. <br>The Enekoro roll showed 4 Grass {G} Energy, and the Charakoro roll was {st}. <br>Nesse caso, posso causar dano?       |
+| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Não, não pode. <br>Como a rolagem de Enekoro falhou, o golpe falha. <br>Nesse caso, a verificação de Charakoro não é feita, e o turno termina. |
+| Ref. | [Guilhotina](/database_pt/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)                                                                                                                    |
 
 #### 29
 
@@ -265,7 +265,7 @@
 
 |           P          | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip". <br>A rolagem de Enekoro foi bem-sucedida, mas a rolagem de Charakoro falhou. <br>Nesse caso, quanto dano eu recebo? |
 | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 0 damage.                                                                                                                                                                                                                                                                                                                                          |
+|           R          | 0 de dano.                                                                                                                                                                                                                                                                                                                                         |
 | Ref. | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                                                             |
 
 #### 39

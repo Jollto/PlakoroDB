@@ -32,115 +32,115 @@
 
 #### 5
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Sableye's move "Jewel Flash". <br>On the opponent's next turn, if their move fails, do I still choose 2 Enekoros and have them roll them again? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           R          | Sim. You must choose 2 Enekoros and have them roll them again.                                                                                                                            |
-| Ref. | [Flash de Joia](/database_pt/cards/wazacards/EB02/02-003_sableye/EBW02-029.png)                                                                                                                                           |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Flash de Joia" do Sableye. <br>On the opponent's next turn, if their move fails, do I still choose 2 Enekoros and have them roll them again? |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Sim. You must choose 2 Enekoros and have them roll them again.                                                                                                                              |
+| Ref. | [Flash de Joia](/database_pt/cards/wazacards/EB02/02-003_sableye/EBW02-029.png)                                                                                                                                             |
 
 #### 6
 
 |           P          | While the Charakoro effect of Sableye's move "Jewel Flash" was active, the Charakoro effect of the opponent's Charmander's move "Heat Up" meant that the opponent had 2 more Enekoro to roll on their next turn. <br>How is the effect "On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again." applied?                                                                                                                                                                              |
 | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | If your opponent only has 3 Enekoro, choose 2 of the 3 originally rolled Enekoro and have them roll them again. <br>Then, they reroll the Enekoro added due to the Charakoro effect. <br>All the Energy revealed during this process, including the first 3 ones after rerolls and the 2 extra from the Charakoro effect, counts as the Energy produced this turn. <br>If additional Enekoro are added and rolled simultaneously, choose 2 rolled Enekoro and have them roll again. |
-| Ref. | [Jewel Flash](/database/cards/wazacards/EB02/02-003_sableye/EBW02-029.png)<br>[Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                                                                                                                                                                                                                                                               |
+| Ref. | [Flash de Joia](/database_pt/cards/wazacards/EB02/02-003_sableye/EBW02-029.png)<br>[Aquecimento](/database_pt/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                                                                                                                                                                                                                                                   |
 
 #### 7
 
-|           P          | While the Charakoro effect of Aggron's move "Tyrant Shield" was active, my opponent successfully passed the Enekoro and Charakoro rolls for Mew's move "Psyshot", and I took 50 damage. <br>In this case, how much damage do I take? |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 50 damage. <br>If the damage dealt by the opponent is 40 or less, you will not take any damage; however, if it is 50 or more, you will take the full amount of damage.                                               |
-| Ref. | [Tyrant Shield](/database/cards/wazacards/EB02/02-004_aggron/EBW02-033.png)<br>[Psyshot](/database/cards/wazacards/ST/06-001_mew/STW06-005.png)                                                                                                      |
+|           P          | While the Charakoro effect of Aggron's move "Tyrant Shield" was active, my opponent successfully passed the Enekoro and Charakoro rolls for Mew's move "Psyshot", and I took 50 damage. <br>Nesse caso, quanto dano eu recebo? |
+| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 50 de dano. <br>If the damage dealt by the opponent is 40 or less, you will not take any damage; however, if it is 50 or more, you will take the full amount of damage.                                        |
+| Ref. | [Escudo Tirano](/database_pt/cards/wazacards/EB02/02-004_aggron/EBW02-033.png)<br>[Tiro Psíquico](/database_pt/cards/wazacards/ST/06-001_mew/STW06-005.png)                                                                                    |
 
 #### 8
 
-|           P          | While the Charakoro effect of Aggron's move "Tyrant Shield" was active, I took 30 damage from my oponent's Lucario's move "Aura Jab". <br>In this case, how much damage do I take?                                                           |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 50 damage. <br>As Aggron's weakness is Fighting-type attacks, the damage it takes is 30 + 20 = 50 damage. <br>In this case, as the damage taken will be 50 or more, you will take the full amount of damage. |
-| Ref. | [Tyrant Shield](/database/cards/wazacards/EB02/02-004_aggron/EBW02-033.png)<br>[Aura Jab](/database/cards/wazacards/ST/09-001_lucario/STW09-005.png)                                                                                                         |
+|           P          | While the Charakoro effect of Aggron's move "Tyrant Shield" was active, I took 30 damage from my oponent's Lucario's move "Aura Jab". <br>Nesse caso, quanto dano eu recebo?                                                                  |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           R          | 50 de dano. <br>As Aggron's weakness is Fighting-type attacks, the damage it takes is 30 + 20 = 50 damage. <br>In this case, as the damage taken will be 50 or more, you will take the full amount of damage. |
+| Ref. | [Escudo Tirano](/database_pt/cards/wazacards/EB02/02-004_aggron/EBW02-033.png)<br>[Soco Aura](/database_pt/cards/wazacards/ST/09-001_lucario/STW09-005.png)                                                                                                   |
 
 #### 9
 
-|           P          | On the turn after my opponent failed a move, I successfully passed the Enekoro and Charakoro rolls for Aggron's move "Powerful Steel". <br>Nesse caso, quanto dano eu causo ao meu oponente?        |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           R          | 60 damage. <br>In addition to the 20 damage dealt by the move, as Aggron did not take any damage drom a move during the opponent's previous turn, you deal an additional 40 damage. |
-| Ref. | [Powerful Steel](/database/cards/wazacards/EB02/02-004_aggron/EBW02-038.png)                                                                                                                                        |
+|           P          | On the turn after my opponent failed a move, I successfully passed the Enekoro and Charakoro rolls for Aggron's move "Powerful Steel". <br>Nesse caso, quanto dano eu causo ao meu oponente?         |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 60 de dano. <br>In addition to the 20 damage dealt by the move, as Aggron did not take any damage drom a move during the opponent's previous turn, you deal an additional 40 damage. |
+| Ref. | [Aço Poderoso](/database_pt/cards/wazacards/EB02/02-004_aggron/EBW02-038.png)                                                                                                                                        |
 
 #### 10
 
 |           P          | On the first turn of the match, I successfully passed the Enekoro and Charakoro rolls for Aggron's move "Powerful Steel". <br>In this case, can I deal additional damage with the Charakoro effect? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |           R          | Não, não pode. <br>Since the opponent has not taken a turn, you cannot deal any additional damage.                                                                                  |
-| Ref. | [Powerful Steel](/database/cards/wazacards/EB02/02-004_aggron/EBW02-038.png)                                                                                                                                        |
+| Ref. | [Aço Poderoso](/database_pt/cards/wazacards/EB02/02-004_aggron/EBW02-038.png)                                                                                                                                       |
 
 #### 11
 
-|           P          | I choose Rayquaza's move "Wild Rampage". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>Nesse caso, quanto dano eu causo ao meu oponente?                                      |
-| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 60 damage. <br>As the energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage. |
-| Ref. | [Wild Rampage](/database/cards/wazacards/EB02/02-005_rayquaza/EBW02-044.png)                                                                                                                                                                          |
+|           P          | I choose Rayquaza's move "Wild Rampage". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>Nesse caso, quanto dano eu causo ao meu oponente?                                       |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 60 de dano. <br>As the energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage. |
+| Ref. | [Ultraje Feroz](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-044.png)                                                                                                                                                                       |
 
 #### 12
 
-|           P          | I chose Rayquaza's move "Dragon Burst". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
-| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 70 damage. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} energy produced, adding 20 x 3 = 60 damage. |
-| Ref. | [Dragon Burst](/database/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                                    |
+|           P          | I chose Rayquaza's move "Dragon Burst". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>Nesse caso, quanto dano eu causo ao meu oponente?  |
+| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 70 de dano. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} energy produced, adding 20 x 3 = 60 damage. |
+| Ref. | [Rajada do Dragão](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                              |
 
 #### 13
 
 |           P          | If the Charakoro effect of Greninja's move "Shifting Slash" is successful, how should I prepare the custom chips for the swap?                                 |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | Please prepare this when you’re getting ready for a match. (You do not need to show them at your opponent.) |
-| Ref. | [Shifting Slash](/database/cards/wazacards/EB02/02-001_greninja/EBW02-002.png)                                                                                 |
+| Ref. | [Corte Mutante](/database_pt/cards/wazacards/EB02/02-001_greninja/EBW02-002.png)                                                                               |
 
 #### 14
 
 |           P          | Due to the Charakoro effect of Greninja's move "Shifting Slash", I can now swap out the custom chips on my Enekoro. <br>Is it possible not to swap any of the custom chips? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |           R          | Sim, pode. <br>In that case, inform your opponent that you will not be swapping any, and end the round.                                                     |
-| Ref. | [Shifting Slash](/database/cards/wazacards/EB02/02-001_greninja/EBW02-002.png)                                                                                                              |
+| Ref. | [Corte Mutante](/database_pt/cards/wazacards/EB02/02-001_greninja/EBW02-002.png)                                                                                                            |
 
 #### 15
 
 |           P          | Due to the Charakoro effect of Greninja's move "Shifting Slash", I can now swap out the custom chips on my Enekoro. <br>Rather than changing the custom chips, can I swap it for another Enekoro I own? |
 | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | Não, não pode. Only custom chips can be swapped.                                                                                                                                        |
-| Ref. | [Shifting Slash](/database/cards/wazacards/EB02/02-001_greninja/EBW02-002.png)                                                                                                                                          |
+| Ref. | [Corte Mutante](/database_pt/cards/wazacards/EB02/02-001_greninja/EBW02-002.png)                                                                                                                                        |
 
 #### 16
 
-|           P          | Due to the Charakoro effect of Tinkatink's move "Hammer Strike", I have 2 less Enekoro to roll on my next turn. <br>On my opponent's next turn, due to the Charakoro effect of Lucario's move "Force Palm", I will have 1 less Enekoro to roll on my next turn. <br>In this case, how many Enekoro can I roll on my next turn? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 0 Enekoro. <br>Even on a turn where you have 0 Enekoro to roll, select the move you wish to use for that turn and roll only the Charakoro. <br>After the outcome is known, the turn will end.                                                                                                                  |
-| Ref. | [Hammer Strike](/database/cards/wazacards/EB02/02-002_tinkatink/EBW02-013.png)<br>[Force Palm](/database/cards/wazacards/ST/09-001_lucario/STW09-002.png)                                                                                                                                                                                                      |
+|           P          | Por causa do efeito de Charakoro do golpe "Golpe de Martelo" do Tinkatink, tenho 2 Enekoro a menos para rolar no meu próximo turno. <br>On my opponent's next turn, due to the Charakoro effect of Lucario's move "Force Palm", I will have 1 less Enekoro to roll on my next turn. <br>Nesse caso, quantos Enekoro posso rolar no meu próximo turno? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           R          | 0 Enekoro. <br>Even on a turn where you have 0 Enekoro to roll, select the move you wish to use for that turn and roll only the Charakoro. <br>After the outcome is known, the turn will end.                                                                                                                                         |
+| Ref. | [Golpe de Martelo](/database_pt/cards/wazacards/EB02/02-002_tinkatink/EBW02-013.png)<br>[Palma da Força](/database_pt/cards/wazacards/ST/09-001_lucario/STW09-002.png)                                                                                                                                                                                                                |
 
 #### 17
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down". <br>How is the effect "On the opponent's next turn, set the direction of their Charakoro to {hs}." applied?                             |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | On the opponent's next turn, after the opponent rolls the Charakoro, they set it to {hs}. <br>This ensures that even if the opponent rolls the Charakoro multiple times on their next turn, all Charakoro will be set to {hs}. |
-| Ref. | [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                        |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "De Ponta-Cabeça" do Gengar. <br>Como funciona o efeito "No próximo turno do oponente, a orientação do Charakoro dele passa a ser {hs}."?        |
+| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | No próximo turno do oponente, depois que ele rolar o Charakoro, ele o coloca em {hs}. <br>Assim, mesmo que o oponente role o Charakoro várias vezes no próximo turno dele, todos os Charakoro ficarão em {hs}. |
+| Ref. | [De Ponta-Cabeça](/database_pt/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                 |
 
 #### 18
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down". <br>On my opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Dual Thunder". <br>In this case, what will be the orientation of the Charakoro the opponent rolls on their next turn? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | On the next turn, all the Charakoro the opponent rolls will be {hs}. <br>As a result, all "Dual Thunder" Charakoro checks will fail.                                                                                                                                                                                           |
-| Ref. | [Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)<br>[Dual Thunder](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-036.png)                                                                                                                                                                                                          |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "De Ponta-Cabeça" do Gengar. <br>No turno seguinte, meu oponente foi bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Trovão Duplo" do Zapdos. <br>Nesse caso, qual será a orientação do Charakoro que o oponente rolar no próximo turno dele? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | No próximo turno, todos os Charakoro que o oponente rolar ficarão em {hs}. <br>Como resultado, todas as verificações de Charakoro de "Trovão Duplo" falharão.                                                                                                                                                          |
+| Ref. | [De Ponta-Cabeça](/database_pt/cards/wazacards/ST/07-001_gengar/STW07-003.png)<br>[Trovão Duplo](/database_pt/cards/wazacards/EB01/01-004_zapdos/EBW01-036.png)                                                                                                                                                                                        |
 
 #### 19
 
-|           P          | I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}. <br>No turno seguinte, meu oponente foi bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "De Ponta-Cabeça" do Gengar. <br>In this case, what will be the orientation of the Charakoro I roll on my next turn? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           R          | Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will be {hs}.                                                                                                                                                                                                                                                                      |
-| Ref. | [Basic Calculation](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png)<br>[Upside Down](/database/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                                               |
+|           P          | Fui bem-sucedido na rolagem de Enekoro do golpe "Quatro Operações" do Metagross, e o resultado do Charakoro foi {st}. <br>No turno seguinte, meu oponente foi bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "De Ponta-Cabeça" do Gengar. <br>Nesse caso, qual será a orientação do Charakoro que eu rolar no meu próximo turno? |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Por causa do efeito de Charakoro de "De Ponta-Cabeça", a orientação do Charakoro será {hs}.                                                                                                                                                                                                                                                                 |
+| Ref. | [Quatro Operações](/database_pt/cards/wazacards/ST/08-001_metagross/STW08-002.png)<br>[De Ponta-Cabeça](/database_pt/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                                        |
 
 #### 20
 
-|           P          | I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}. <br>On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Shadow Bind". <br>In this case, what will be the orientation of the Charakoro I roll on my next turn? |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Due to the "Shadow Bind" Charakoro effect, you will be unable to roll the Charakoro.                                                                                                                                                                                                                                                                         |
-| Ref. | [Basic Calculation](/database/cards/wazacards/ST/08-001_metagross/STW08-002.png)<br>[Shadow Bind](/database/cards/wazacards/ST/07-001_gengar/STW07-004.png)                                                                                                                                                                                                                  |
+|           P          | Fui bem-sucedido na rolagem de Enekoro do golpe "Quatro Operações" do Metagross, e o resultado do Charakoro foi {st}. <br>No turno seguinte, meu oponente foi bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Aprisionamento Sombrio" do Gengar. <br>Nesse caso, qual será a orientação do Charakoro que eu rolar no meu próximo turno? |
+| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Por causa do efeito de Charakoro de "Aprisionamento Sombrio", você não poderá rolar o Charakoro.                                                                                                                                                                                                                                                                   |
+| Ref. | [Quatro Operações](/database_pt/cards/wazacards/ST/08-001_metagross/STW08-002.png)<br>[Aprisionamento Sombrio](/database_pt/cards/wazacards/ST/07-001_gengar/STW07-004.png)                                                                                                                                                                                                        |
 
 #### 21
 
@@ -158,31 +158,31 @@
 
 #### 23
 
-|           P          | I used Grimer's move "Poison Gas". <br>The Enekoro roll succeeded, but the Charakoro roll failed. <br>On my next turn, if I succeed at the Enekoro and Charakoro rolls for Grimer's move "Toxic Blast", can I deal additional damage? |
-| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Sim, pode.                                                                                                                                                                                                                                            |
-| Ref. | [Poison Gas](/database/cards/wazacards/EB01/01-006_grimer/EBW01-051.png)<br>[Toxic Blast](/database/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)                                                                                                                 |
+|           P          | Usei o golpe "Gás Venenoso" do Grimer. <br>A rolagem de Enekoro foi bem-sucedida, mas a rolagem de Charakoro falhou. <br>No meu próximo turno, se eu for bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Bomba Tóxica" do Grimer, posso causar dano adicional? |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Sim, pode.                                                                                                                                                                                                                                                                                |
+| Ref. | [Gás Venenoso](/database_pt/cards/wazacards/EB01/01-006_grimer/EBW01-051.png)<br>[Bomba Tóxica](/database_pt/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)                                                                                                                                            |
 
 #### 24
 
-|           P          | My opponent used Pikachu's move "Electric Rush". <br>The first Enekoro and Charakoro rolls were successful, but the second Enekoro roll failed. <br>On my next turn, if I succeed at the Enekoro and Charakoro rolls for Grimer's move "Harassment Venom", can I deal additional damage? |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Sim, pode.                                                                                                                                                                                                                                                                                               |
-| Ref. | [Harassment Venom](/database/cards/wazacards/EB01/01-006_grimer/EBW01-060.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                             |
+|           P          | Meu oponente usou o golpe "Investida Elétrica" do Pikachu. <br>As primeiras rolagens de Enekoro e Charakoro foram bem-sucedidas, mas a segunda rolagem de Enekoro falhou. <br>No meu próximo turno, se eu for bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Veneno Importuno" do Grimer, posso causar dano adicional? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Sim, pode.                                                                                                                                                                                                                                                                                                                                         |
+| Ref. | [Harassment Venom](/database/cards/wazacards/EB01/01-006_grimer/EBW01-060.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                                                                       |
 
 #### 25
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall". <br>On my opponent's next turn, they successfully used Pikachu's move "Electric Rush" twice. <br>In this case, how much damage do I take? |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 0 damage. <br>Each time you take a hit from a move, you can reduce the damage you take by 30.                                                                                                                                |
-| Ref. | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                          |
+|           P          | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall". <br>On my opponent's next turn, they successfully used Pikachu's move "Electric Rush" twice. <br>Nesse caso, quanto dano eu recebo? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 0 damage. <br>Each time you take a hit from a move, you can reduce the damage you take by 30.                                                                                                                          |
+| Ref. | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                    |
 
 #### 26
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall". <br>On my opponent's next turn, they successfully rolled the Charakoro for Zapdos' move "Volt Rush" twice. <br>In this case, how much damage do I take? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 40 damage. <br>You can reduce the damage taken by 30 from the total damage dealt by "Volt Rush".                                                                                                                                           |
-| Ref. | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Volt Rush](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)                                                                                                                           |
+|           P          | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall". <br>On my opponent's next turn, they successfully rolled the Charakoro for Zapdos' move "Volt Rush" twice. <br>Nesse caso, quanto dano eu recebo? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 40 damage. <br>You can reduce the damage taken by 30 from the total damage dealt by "Volt Rush".                                                                                                                                     |
+| Ref. | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Volt Rush](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)                                                                                                                     |
 
 #### 27
 
@@ -207,10 +207,10 @@
 
 #### 30
 
-|           P          | Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn. <br>However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 less Enekoro to roll on my next turn. <br>In this case, how many Enekoro can I roll on my next turn? |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 3 Enekoro.                                                                                                                                                                                                                                                                                                               |
-| Ref. | [Cold Breath](/database/cards/wazacards/EB01/01-003_articuno/EBW01-028.png)<br>[Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                                                   |
+|           P          | Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn. <br>However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 less Enekoro to roll on my next turn. <br>Nesse caso, quantos Enekoro posso rolar no meu próximo turno? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           R          | 3 Enekoro.                                                                                                                                                                                                                                                                                                                  |
+| Ref. | [Cold Breath](/database/cards/wazacards/EB01/01-003_articuno/EBW01-028.png)<br>[Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                                                      |
 
 #### 31
 
@@ -258,22 +258,22 @@
 
 |           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Tempestade de Chamas" do Charmander. <br>Tirei 5 símbolos de Energia de Fogo {R}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 70 damage.                                                                                                                                                                                                             |
+|           R          | 70 de dano.                                                                                                                                                                                                            |
 | Ref. | [Flare Storm](/database/cards/wazacards/ST/02-001_charmander/STW02-005.png)                                                                                                                                                            |
 
 #### 38
 
-|           P          | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip". <br>The Enekoro roll succeeded, but the Charakoro roll failed. <br>In this case, how much damage do I take? |
-| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 0 damage.                                                                                                                                                                                                                                                                                                                                 |
-| Ref. | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                                                    |
+|           P          | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip". <br>A rolagem de Enekoro foi bem-sucedida, mas a rolagem de Charakoro falhou. <br>Nesse caso, quanto dano eu recebo? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 0 damage.                                                                                                                                                                                                                                                                                                                                          |
+| Ref. | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                                                             |
 
 #### 39
 
-|           P          | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip" and successfully passed the Enekoro and Charakoro rolls. <br>In this case, how much damage do I take? |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 10 damage.                                                                                                                                                                                                                                                                                                         |
-| Ref. | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                             |
+|           P          | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip" and successfully passed the Enekoro and Charakoro rolls. <br>Nesse caso, quanto dano eu recebo? |
+| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 10 damage.                                                                                                                                                                                                                                                                                                   |
+| Ref. | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                       |
 
 #### 40
 

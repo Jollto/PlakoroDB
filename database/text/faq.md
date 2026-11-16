@@ -193,10 +193,10 @@
 
 #### 28
 
-|  Q  | I used Pinsir's move "Guillotine". <br>The Enekoro roll showed 4 Grass{G} Energy, and the Charakoro roll was {st}. <br>In this case, can I deal damage? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  A  | No, you cannot. <br>As the Enekoro roll failed, the move fails. <br>In this case, the Charakoro check is not carried out, and the turn ends.            |
-|  R  | [Guillotine](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)                                                                                |
+|  Q  | I used Pinsir's move "Guillotine". <br>The Enekoro roll showed 4 Grass {G} Energy, and the Charakoro roll was {st}. <br>In this case, can I deal damage? |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | No, you cannot. <br>As the Enekoro roll failed, the move fails. <br>In this case, the Charakoro check is not carried out, and the turn ends.             |
+|  R  | [Guillotine](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)                                                                                 |
 
 #### 29
 

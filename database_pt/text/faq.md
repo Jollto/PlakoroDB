@@ -270,17 +270,17 @@
 
 #### 39
 
-|           P          | No meu turno anterior, fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Ataque Carapaça" do Squirtle. <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip" and successfully passed the Enekoro and Charakoro rolls. <br>Nesse caso, quanto dano eu recebo? |
-| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 10 damage.                                                                                                                                                                                                                                                                                                        |
-| Ref. | [Ataque Carapaça](/database_pt/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Chicote de Vinha](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                            |
+|           P          | No meu turno anterior, fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Ataque Carapaça" do Squirtle. <br>No turno seguinte, meu oponente usou o golpe "Chicote de Vinha" do Bulbasaur e foi bem-sucedido nas rolagens de Enekoro e Charakoro. <br>Nesse caso, quanto dano eu recebo? |
+| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 10 de dano.                                                                                                                                                                                                                                                                                                         |
+| Ref. | [Ataque Carapaça](/database_pt/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Chicote de Vinha](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                              |
 
 #### 40
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush". <br>How is the effect "Use 'Electric Rush' 1 more time. (Pode ser repetido até falhar.)"? |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Roll the Enekoro and Charakoro again to attempt "Electric Rush".<br> Repita isso até falhar na rolagem de Enekoro ou na de Charakoro.                                                                                  |
-| Ref. | [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                                             |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Investida Elétrica" do Pikachu. <br>Como funciona o efeito "Use 'Investida Elétrica' mais 1 vez. (Pode ser repetido até falhar.)"? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Roll the Enekoro and Charakoro again to attempt "Electric Rush".<br> Repita isso até falhar na rolagem de Enekoro ou na de Charakoro.                                                                                                |
+| Ref. | [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                                                           |
 
 #### 41
 
@@ -349,7 +349,7 @@
 
 |           P          | My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Iron Tail", and I took 20 damage. <br>On my next turn, I successfully passed the Enekoro rolls for Mew's move "Reflection". <br>Nesse caso, quanto dano eu causo ao meu oponente? |
 | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 10 damage. <br>"The damage of your opponent's last selected attack" is 20 damage. <br>However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20 - 10 = 10.                                   |
+|           R          | 10 de dano. <br>"The damage of your opponent's last selected attack" is 20 damage. <br>However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20 - 10 = 10.                                  |
 | Ref. | [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)                                                                                                                                                         |
 
 ## Sobre as Regras Básicas

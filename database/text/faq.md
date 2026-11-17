@@ -74,17 +74,17 @@
 
 #### 11
 
-|  Q  | I choose Rayquaza's move "Wild Rampage". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 60 damage. <br>As the energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage.     |
-|  R  | [Wild Rampage](/database/cards/wazacards/EB02/02-005_rayquaza/EBW02-044.png)                                                                                                           |
+|  Q  | I used Rayquaza's move "Wild Rampage". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>In this case, how much damage do I deal to my opponent? |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 60 damage. <br>As the energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage.   |
+|  R  | [Wild Rampage](/database/cards/wazacards/EB02/02-005_rayquaza/EBW02-044.png)                                                                                                         |
 
 #### 12
 
-|  Q  | I chose Rayquaza's move "Dragon Burst". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  A  | 70 damage. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} energy produced, adding 20 x 3 = 60 damage.       |
-|  R  | [Dragon Burst](/database/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                          |
+|  Q  | I used Rayquaza's move "Dragon Burst". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>In this case, how much damage do I deal to my opponent? |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 70 damage. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} energy produced, adding 20 x 3 = 60 damage.      |
+|  R  | [Dragon Burst](/database/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                         |
 
 #### 13
 
@@ -144,10 +144,10 @@
 
 #### 21
 
-|  Q  | Due to the self-damage effect of Metagross' "Explosion", Metagross also took damage, and both Pokémon lost all their HP at the same time. <br>In this case, who wins or loses? |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | You lose. <br>If both Pokémon lose all their HP at the same time, the player who used the move loses.                                                                          |
-|  R  | [Explosion](/database/cards/wazacards/ST/08-001_metagross/STW08-007.png)                                                                                                       |
+|  Q  | Due to the self-damage effect of Metagross' move "Explosion", Metagross also took damage, and both Pokémon lost all their HP at the same time. <br>In this case, who wins or loses? |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | You lose. <br>If both Pokémon lose all their HP at the same time, the player who used the move loses.                                                                               |
+|  R  | [Explosion](/database/cards/wazacards/ST/08-001_metagross/STW08-007.png)                                                                                                            |
 
 #### 22
 
@@ -279,12 +279,12 @@
 
 |  Q  | I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush". <br>How is the effect "Use 'Electric Rush' 1 more time. (Can be repeated until it fails.)" applied? |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | Roll the Enekoro and Charakoro again to attempt "Electric Rush".<br> Repeat this until you fail either the Enekoro or Charakoro rolls.                                                        |
+|  A  | Roll the Enekoro and Charakoro again to attempt "Electric Rush". <br>Repeat this until you fail either the Enekoro or Charakoro rolls.                                                        |
 |  R  | [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                    |
 
 #### 41
 
-|  Q  | I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Thunderbolt". <br>How is the effect "On your next turn, reduce the number of Enekoro you roll by 2." applied? <br>Also, who chooses which Enekoro to reduce? |
+|  Q  | I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Thunderbolt". <br>How is the effect "On your next turn, reduce the number of Enekoro you roll by 2." applied? <br>Also, who chooses which Enekoro to remove? |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  A  | Choose any 1 of your 3 Enekoro and roll it. <br>The player rolling the Enekoro chooses which one to remove.                                                                                                                            |
 |  R  | [Thunderbolt](/database/cards/wazacards/ST/04-001_pikachu/STW04-004.png)                                                                                                                                                               |
@@ -298,10 +298,10 @@
 
 #### 43
 
-|  Q  | I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed", so on my next turn, I will roll 1 less Enekoro. <br>On my next turn, with 2 Enekoro remaining, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush". <br>When I use "Electric Rush" for the 2nd time in a row, how many Enekoro do I have to use? |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 2 Enekoro. <br>Even if you continue to succeed, the number of Enekoro you can roll remains at 2.                                                                                                                                                                                                                                                                               |
-|  R  | [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)<br>[Leech Seed](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)                                                                                                                                                                                                                        |
+|  Q  | My opponent successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed", so on my next turn, I will roll 1 less Enekoro. <br>On my next turn, with 2 Enekoro remaining, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush". <br>When I use "Electric Rush" for the 2nd time in a row, how many Enekoro do I have to use? |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 2 Enekoro. <br>Even if you continue to succeed, the number of Enekoro you can roll remains at 2.                                                                                                                                                                                                                                                                                         |
+|  R  | [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)<br>[Leech Seed](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)                                                                                                                                                                                                                                  |
 
 #### 44
 

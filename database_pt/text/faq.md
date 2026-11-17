@@ -74,17 +74,17 @@
 
 #### 11
 
-|           P          | I used Rayquaza's move "Wild Rampage". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>Nesse caso, quanto dano eu causo ao meu oponente?                                         |
+|           P          | Usei o golpe "Ultraje Feroz" do Rayquaza. <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>Nesse caso, quanto dano eu causo ao meu oponente?                                      |
 | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | 60 de dano. <br>As the energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage. |
 | Ref. | [Ultraje Feroz](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-044.png)                                                                                                                                                                       |
 
 #### 12
 
-|           P          | I used Rayquaza's move "Dragon Burst". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>Nesse caso, quanto dano eu causo ao meu oponente?   |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 70 de dano. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} energy produced, adding 20 x 3 = 60 damage. |
-| Ref. | [Rajada do Dragão](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                              |
+|           P          | Usei o golpe "Rajada do Dragão" do Rayquaza. <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 70 de dano. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} energy produced, adding 20 x 3 = 60 damage.     |
+| Ref. | [Rajada do Dragão](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                                  |
 
 #### 13
 

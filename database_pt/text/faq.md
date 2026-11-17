@@ -74,14 +74,14 @@
 
 #### 11
 
-|           P          | I choose Rayquaza's move "Wild Rampage". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>Nesse caso, quanto dano eu causo ao meu oponente?                                       |
+|           P          | I used Rayquaza's move "Wild Rampage". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>Nesse caso, quanto dano eu causo ao meu oponente?                                         |
 | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | 60 de dano. <br>As the energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage. |
 | Ref. | [Ultraje Feroz](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-044.png)                                                                                                                                                                       |
 
 #### 12
 
-|           P          | I chose Rayquaza's move "Dragon Burst". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>Nesse caso, quanto dano eu causo ao meu oponente?  |
+|           P          | I used Rayquaza's move "Dragon Burst". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>Nesse caso, quanto dano eu causo ao meu oponente?   |
 | :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | 70 de dano. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} energy produced, adding 20 x 3 = 60 damage. |
 | Ref. | [Rajada do Dragão](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                              |
@@ -144,10 +144,10 @@
 
 #### 21
 
-|           P          | Por causa do dano a si mesmo do golpe "Explosão" do Metagross, o Metagross também recebeu dano, e os dois Pokémon perderam todos os PS ao mesmo tempo. <br>Nesse caso, quem ganha e quem perde? |
-| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                                       |
-| Ref. | [Explosão](/database_pt/cards/wazacards/ST/08-001_metagross/STW08-007.png)                                                                                                                                      |
+|           P          | Due to the self-damage effect of Metagross' move "Explosion", Metagross also took damage, and both Pokémon lost all their HP at the same time. <br>Nesse caso, quem ganha e quem perde? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                               |
+| Ref. | [Explosão](/database_pt/cards/wazacards/ST/08-001_metagross/STW08-007.png)                                                                                                                              |
 
 #### 22
 
@@ -279,43 +279,43 @@
 
 |           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Investida Elétrica" do Pikachu. <br>Como funciona o efeito "Use 'Investida Elétrica' mais 1 vez. (Pode ser repetido até falhar.)"? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Roll the Enekoro and Charakoro again to attempt "Electric Rush".<br> Repita isso até falhar na rolagem de Enekoro ou na de Charakoro.                                                                                                |
-| Ref. | [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                                                           |
+|           R          | Roll the Enekoro and Charakoro again to attempt "Electric Rush". <br>Repeat this until you fail either the Enekoro or Charakoro rolls.                                                                                               |
+| Ref. | [Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                                                   |
 
 #### 41
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Thunderbolt". <br>How is the effect "On your next turn, reduce the number of Enekoro you roll by 2." applied? <br>Also, who chooses which Enekoro to reduce? |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Choose any 1 of your 3 Enekoro and roll it. <br>O jogador que rola os Enekoro escolhe quais serão removidos.                                                                                                                           |
-| Ref. | [Thunderbolt](/database/cards/wazacards/ST/04-001_pikachu/STW04-004.png)                                                                                                                                                                                               |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Relâmpago" do Pikachu. <br>Como funciona o efeito "No seu próximo turno, você rola 2 Enekoro a menos."? <br>Also, who chooses which Enekoro to remove? |
+| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Escolha qualquer um dos seus três Enekoro e role-o. <br>O jogador que rola os Enekoro escolhe quais serão removidos.                                                                                                  |
+| Ref. | [Relâmpago](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-004.png)                                                                                                                                                                             |
 
 #### 42
 
-|           P          | Due to the self-damage effect of Pikachu's move "Volt Tackle", Pikachu also took damage, and both Pokémon lost all their HP at the same time. <br>Nesse caso, quem ganha e quem perde? |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                              |
-| Ref. | [Volt Tackle](/database/cards/wazacards/ST/04-001_pikachu/STW04-006.png)                                                                                                                               |
+|           P          | Por causa do dano a si mesmo do golpe "Investida Trovão" do Pikachu, o Pikachu também recebeu dano, e os dois Pokémon perderam todos os PS ao mesmo tempo. <br>Nesse caso, quem ganha e quem perde? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                                           |
+| Ref. | [Investida Trovão](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-006.png)                                                                                                                                    |
 
 #### 43
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed", so on my next turn, I will roll 1 less Enekoro. <br>On my next turn, with 2 Enekoro remaining, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush". <br>When I use "Electric Rush" for the 2nd time in a row, how many Enekoro do I have to use? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 2 Enekoro. <br>Even if you continue to succeed, the number of Enekoro you can roll remains at 2.                                                                                                                                                                                                                                                                               |
-| Ref. | [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)<br>[Leech Seed](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)                                                                                                                                                                                                                                                        |
+|           P          | My opponent successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed", so on my next turn, I will roll 1 less Enekoro. <br>No meu turno seguinte, com 2 Enekoro restantes, fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Investida Elétrica" do Pikachu. <br>Quando uso "Investida Elétrica" pela segunda vez seguida, quantos Enekoro preciso usar? |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 2 Enekoro. <br>Mesmo que você continue tendo sucesso, o número de Enekoro que você pode rolar continua sendo 2.                                                                                                                                                                                                                                                                                   |
+| Ref. | [Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png)<br>[Semente Sanguessuga](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)                                                                                                                                                                                                                                                       |
 
 #### 44
 
-|           P          | In the first turn of the first player, with 2 Enekoro, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush". <br>When I use "Electric Rush" for the 2nd time in a row, how many Enekoro do I have to use? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           R          | 2 Enekoro. <br>Even if you continue to succeed, the number of Enekoro you can roll remains at 2.                                                                                                                              |
-| Ref. | [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                                                    |
+|           P          | No primeiro turno do primeiro jogador, com 2 Enekoro, fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Investida Elétrica" do Pikachu. <br>Quando uso "Investida Elétrica" pela segunda vez seguida, quantos Enekoro preciso usar? |
+| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 2 Enekoro. <br>Mesmo que você continue tendo sucesso, o número de Enekoro que você pode rolar continua sendo 2.                                                                                                                  |
+| Ref. | [Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                                               |
 
 #### 45
 
-|           P          | I used Eevee's move "Take Down". <br>The Enekoro roll showed 3 Flying {Y} energy, and the Charakoro roll was {s1}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 30 damage.                                                                                                                                                                               |
-| Ref. | [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                                     |
+|           P          | Usei o golpe "Desmantelar" do Eevee. <br>The Enekoro roll showed 3 Flying {Y} energy, and the Charakoro roll was {s1}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 30 damage.                                                                                                                                                                                   |
+| Ref. | [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                                         |
 
 #### 46
 

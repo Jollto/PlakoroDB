@@ -193,38 +193,38 @@
 
 #### 28
 
-|           P          | Usei o golpe "Guilhotina" do Pinsir. <br>The Enekoro roll showed 4 Grass {G} Energy, and the Charakoro roll was {st}. <br>Nesse caso, posso causar dano?       |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Não, não pode. <br>Como a rolagem de Enekoro falhou, o golpe falha. <br>Nesse caso, a verificação de Charakoro não é feita, e o turno termina. |
-| Ref. | [Guilhotina](/database_pt/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)                                                                                                                    |
+|           P          | Usei o golpe "Guilhotina" do Pinsir. <br>A rolagem de Enekoro mostrou 4 Energias de Planta {G}, e a rolagem de Charakoro deu {st}. <br>Nesse caso, posso causar dano? |
+| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Não, não pode. <br>Como a rolagem de Enekoro falhou, o golpe falha. <br>Nesse caso, a verificação de Charakoro não é feita, e o turno termina.        |
+| Ref. | [Guilhotina](/database_pt/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)                                                                                                                           |
 
 #### 29
 
-|           P          | Due to the Charakoro effect of Articuno's move "Ice Wing", the opponent has to roll 1 Enekoro less during their next turn. <br>Who chooses which Enekoro to remove? |
-| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | The opponent. <br>The player rolling the Enekoro chooses which one to remove.                                                                       |
-| Ref. | [Ice Wing](/database/cards/wazacards/EB01/01-003_articuno/EBW01-021.png)                                                                                                            |
+|           P          | Por causa do efeito de Charakoro do golpe "Asa de Gelo" do Articuno, o oponente precisa rolar um Enekoro a menos no próximo turno dele. <br>Quem escolhe quais Enekoro serão removidos? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           R          | O oponente. <br>O jogador que rola os Enekoro escolhe quais serão removidos.                                                                                            |
+| Ref. | [Asa de Gelo](/database_pt/cards/wazacards/EB01/01-003_articuno/EBW01-021.png)                                                                                                                          |
 
 #### 30
 
-|           P          | Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn. <br>However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 less Enekoro to roll on my next turn. <br>Nesse caso, quantos Enekoro posso rolar no meu próximo turno? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           R          | 3 Enekoro.                                                                                                                                                                                                                                                                                                                  |
-| Ref. | [Cold Breath](/database/cards/wazacards/EB01/01-003_articuno/EBW01-028.png)<br>[Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                                                      |
+|           P          | Por causa do efeito de Charakoro do golpe "Aquecimento" do Charmander, tenho 2 Enekoro a mais para rolar no meu próximo turno. <br>Porém, por causa do efeito de Charakoro do golpe "Respiração Fria" do Articuno, também tenho 2 Enekoro a menos para rolar no meu próximo turno. <br>Nesse caso, quantos Enekoro posso rolar no meu próximo turno? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 3 Enekoro.                                                                                                                                                                                                                                                                                                                                                           |
+| Ref. | [Respiração Fria](/database_pt/cards/wazacards/EB01/01-003_articuno/EBW01-028.png)<br>[Aquecimento](/database_pt/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                                                                                 |
 
 #### 31
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Zapdos' move "Thunder Chain". <br>How is the effect "Reroll your Charakoro. (Pode ser repetido até falhar.)"? |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Roll the Charakoro until a result other than {st}{ba}{do} appears. <br>Inflict damage on your opponent's Pokémon equal to the number of times {st}{ba}{do} appeared multiplied by 30, plus the base 30.    |
-| Ref. | [Thunder Chain](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-039.png)                                                                                                                                                                |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Corrente de Trovão" do Zapdos. <br>Como funciona o efeito "Role o seu Charakoro novamente. (Pode ser repetido até falhar.)"? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Role o Charakoro até sair um resultado diferente de {st}{ba}{do}. <br>Cause ao Pokémon do oponente um dano igual ao número de vezes que {st}{ba}{do} apareceu multiplicado por 30, mais os 30 de base.                         |
+| Ref. | [Corrente de Trovão](/database_pt/cards/wazacards/EB01/01-004_zapdos/EBW01-039.png)                                                                                                                                                                            |
 
 #### 32
 
-|           P          | Due to the self-damage effect of Moltres' move "Fire Wing", Moltres also took damage, and both Pokémon lost all their HP at the same time. <br>Nesse caso, quem ganha e quem perde? |
-| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                           |
-| Ref. | [Fire Wing](/database/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)                                                                                                                            |
+|           P          | Por causa do dano a si mesmo do golpe "Asa de Fogo" do Moltres, o Moltres também recebi dano, e os dois Pokémon perderam todos os PS ao mesmo tempo. <br>Nesse caso, quem ganha e quem perde? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                                     |
+| Ref. | [Asa de Fogo](/database_pt/cards/wazacards/EB01/01-002_moltres/EBW01-011.png)                                                                                                                                 |
 
 #### 33
 
@@ -259,21 +259,21 @@
 |           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Tempestade de Chamas" do Charmander. <br>Tirei 5 símbolos de Energia de Fogo {R}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | 70 de dano.                                                                                                                                                                                                            |
-| Ref. | [Flare Storm](/database/cards/wazacards/ST/02-001_charmander/STW02-005.png)                                                                                                                                                            |
+| Ref. | [Tempestade de Chamas](/database_pt/cards/wazacards/ST/02-001_charmander/STW02-005.png)                                                                                                                                                |
 
 #### 38
 
-|           P          | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip". <br>A rolagem de Enekoro foi bem-sucedida, mas a rolagem de Charakoro falhou. <br>Nesse caso, quanto dano eu recebo? |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 0 de dano.                                                                                                                                                                                                                                                                                                                                         |
-| Ref. | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                                                             |
+|           P          | No meu turno anterior, fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Ataque Carapaça" do Squirtle. <br>No turno seguinte, meu oponente usou o golpe "Chicote de Vinha" do Bulbasaur. <br>A rolagem de Enekoro foi bem-sucedida, mas a rolagem de Charakoro falhou. <br>Nesse caso, quanto dano eu recebo? |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 0 de dano.                                                                                                                                                                                                                                                                                                                                                 |
+| Ref. | [Ataque Carapaça](/database_pt/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Chicote de Vinha](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                                                     |
 
 #### 39
 
-|           P          | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip" and successfully passed the Enekoro and Charakoro rolls. <br>Nesse caso, quanto dano eu recebo? |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 10 damage.                                                                                                                                                                                                                                                                                                   |
-| Ref. | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                       |
+|           P          | No meu turno anterior, fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Ataque Carapaça" do Squirtle. <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip" and successfully passed the Enekoro and Charakoro rolls. <br>Nesse caso, quanto dano eu recebo? |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 10 damage.                                                                                                                                                                                                                                                                                                        |
+| Ref. | [Ataque Carapaça](/database_pt/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Chicote de Vinha](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                            |
 
 #### 40
 
@@ -286,7 +286,7 @@
 
 |           P          | I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Thunderbolt". <br>How is the effect "On your next turn, reduce the number of Enekoro you roll by 2." applied? <br>Also, who chooses which Enekoro to reduce? |
 | :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Choose any 1 of your 3 Enekoro and roll it. <br>The player rolling the Enekoro chooses which one to remove.                                                                                                                            |
+|           R          | Choose any 1 of your 3 Enekoro and roll it. <br>O jogador que rola os Enekoro escolhe quais serão removidos.                                                                                                                           |
 | Ref. | [Thunderbolt](/database/cards/wazacards/ST/04-001_pikachu/STW04-004.png)                                                                                                                                                                                               |
 
 #### 42

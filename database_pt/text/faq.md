@@ -144,10 +144,10 @@
 
 #### 21
 
-|           P          | Due to the self-damage effect of Metagross' move "Explosion", Metagross also took damage, and both Pokémon lost all their HP at the same time. <br>Nesse caso, quem ganha e quem perde? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                               |
-| Ref. | [Explosão](/database_pt/cards/wazacards/ST/08-001_metagross/STW08-007.png)                                                                                                                              |
+|           P          | Por causa do dano a si mesmo do golpe "Explosão" do Metagross, o Metagross também recebeu dano, e os dois Pokémon perderam todos os PS ao mesmo tempo. <br>Nesse caso, quem ganha e quem perde? |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                                       |
+| Ref. | [Explosão](/database_pt/cards/wazacards/ST/08-001_metagross/STW08-007.png)                                                                                                                                      |
 
 #### 22
 
@@ -279,7 +279,7 @@
 
 |           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Investida Elétrica" do Pikachu. <br>Como funciona o efeito "Use 'Investida Elétrica' mais 1 vez. (Pode ser repetido até falhar.)"? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Roll the Enekoro and Charakoro again to attempt "Electric Rush". <br>Repeat this until you fail either the Enekoro or Charakoro rolls.                                                                                               |
+|           R          | Role os Enekoro e o Charakoro novamente para tentar "Investida Elétrica". <br>Repita isso até falhar na rolagem de Enekoro ou na de Charakoro.                                                                                       |
 | Ref. | [Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                                                   |
 
 #### 41

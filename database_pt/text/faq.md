@@ -349,194 +349,194 @@
 
 |           P          | Meu oponente foi bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Cauda de Ferro" do Pikachu, e eu recebi 20 pontos de dano. <br>No meu turno seguinte, fui bem-sucedido nas rolagens de Enekoro do golpe "Reflexão" do Mew. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
 | :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 10 pontos de dano. <br>"The damage of your opponent's last selected attack" is 20 damage. <br>However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20 - 10 = 10.                                                  |
-| Ref. | [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)                                                                                                                                                                                |
+|           R          | 10 pontos de dano. <br>"O dano do último ataque escolhido pelo seu oponente" é 20 de dano. <br>However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20 - 10 = 10.                                                 |
+| Ref. | [Reflexão](/database_pt/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Cauda de Ferro](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-007.png)                                                                                                                                                                       |
 
 ## Sobre as Regras Básicas
 
 #### 1
 
-|  P  | What is an Enekoro?                                                                                                             |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------ |
-|  R  | It's a die that shows the Energy needed to use a move. <br>You roll it during battle to use it. |
+|  P  | O que é um Enekoro?                                                                                                                          |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | É um dado que mostra a Energia necessária para usar um golpe. <br>Você o rola durante a batalha para usá-lo. |
 
 #### 2
 
-|  P  | Can I customize the combination of Enekoro's chips however I like? |
-| :-: | :----------------------------------------------------------------- |
-|  R  | Sim, pode.                                         |
+|  P  | Posso personalizar a combinação de peças do Enekoro como eu quiser? |
+| :-: | :------------------------------------------------------------------ |
+|  R  | Sim, pode.                                          |
 
 #### 3
 
-|  P  | When assembling the Enekoro, do I need to match the two parts by color? |
-| :-: | :---------------------------------------------------------------------- |
-|  R  | No, you don't need to match them.                       |
+|  P  | Ao montar o Enekoro, preciso combinar as duas partes pela cor? |
+| :-: | :------------------------------------------------------------- |
+|  R  | Não, não precisa combiná-las.                  |
 
 #### 4
 
-|  P  | Can I swap out Enekoro's chips during a battle? |
-| :-: | :---------------------------------------------- |
-|  R  | Não, não pode.                  |
+|  P  | Posso trocar as peças do Enekoro durante uma batalha? |
+| :-: | :---------------------------------------------------- |
+|  R  | Não, não pode.                        |
 
 #### 5
 
-|  P  | What should I do if an Enekoro's chip comes off during a battle?                                                                                                              |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | If you can see the face of the chip that came off, reattach it there. <br>If you can't, reattach the chip after performing the Enekoro check. |
+|  P  | O que devo fazer se uma peça do Enekoro se soltar durante uma batalha?                                                                                                                              |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Se você conseguir ver a face da peça que se soltou, encaixe-a de volta ali. <br>Se não conseguir, encaixe a peça de volta depois de fazer a verificação de Enekoro. |
 
 #### 6
 
-|  P  | Due to a move's effect, I need to roll more Enekoro. Como devo rolá-los nesse caso?                                                                                                                                                                                                                                                                                                        |
+|  P  | Por causa do efeito de um golpe, preciso rolar mais Enekoro. Como devo rolá-los nesse caso?                                                                                                                                                                                                                                                                                                |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | After rolling 3 Enekoro, select a number of Enekoro from among them equal to the number you want to roll additionally, and roll them again. <br>Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno. <br>Se você tiver 4 ou mais Enekoro, pode adicionar qualquer Enekoro que quiser e rolar todos ao mesmo tempo. |
+|  R  | Depois de rolar 3 Enekoro, escolha entre eles uma quantidade igual ao número de Enekoro adicionais que você quer rolar e role-os novamente. <br>Todas as Energias reveladas durante esse processo contam como Energia produzida neste turno. <br>Se você tiver 4 ou mais Enekoro, pode adicionar qualquer Enekoro que quiser e rolar todos ao mesmo tempo. |
 
 #### 7
 
-|  P  | Due to a move's effect, I need to roll less Enekoro. Como devo rolá-los nesse caso?                                                                                                                      |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Before rolling the Enekoro, select the ones you want to remove. <br>Roll the remaining Enekoro, and all the Energy revealed during this process counts as the Energy produced this turn. |
+|  P  | Por causa do efeito de um golpe, preciso rolar menos Enekoro. Como devo rolá-los nesse caso?                                                                                            |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  R  | Antes de rolar os Enekoro, escolha os que você quer remover. <br>Role os Enekoro restantes, e toda a Energia produzida nessa rolagem será a Energia gerada neste turno. |
 
 #### 8
 
-|  P  | Do I reroll Enekoro or Charakoro that have fallen off the table?                                                                                                 |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | If an Enekoro or Charakoro falls in a spot where neither you nor your opponent can see it, only the fallen Enekoro or Charakoro is rolled again. |
+|  P  | Devo rolar de novo os Enekoro ou Charakoro que caírem da mesa?                                                                                                        |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Se um Enekoro ou Charakoro cair num lugar onde nem você nem o seu oponente consigam vê-lo, apenas o Enekoro ou Charakoro que caiu é rolado novamente. |
 
 #### 9
 
-|  P  | Can I roll the Enekoro and Charakoro separately?                                                                                                                                          |
+|  P  | Posso rolar os Enekoro e o Charakoro separadamente?                                                                                                                                       |
 | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Generally, you roll them at the same time. <br>However, if you cannot hold both the Enekoro and Charakoro at the same time, you may roll them separately. |
+|  R  | Em geral, eles são rolados ao mesmo tempo. <br>Porém, se você não conseguir segurar os Enekoro e o Charakoro ao mesmo tempo, pode rolá-los separadamente. |
 
 #### 10
 
-|  P  | What is a Characard?                                                                                                                                                    |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | It is a card showing the Pokémon you are using, along with its HP and weakness. <br>You place it in the Characard zone during a battle. |
+|  P  | O que é uma Characard?                                                                                                                                                            |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | É uma carta que mostra o Pokémon que você está usando, junto com os PS e a Fraqueza dele. <br>You place it in the Characard zone during a battle. |
 
 #### 11
 
-|  P  | If a Charakoro lands diagonally, can I roll it again? |
-| :-: | :---------------------------------------------------- |
-|  R  | Sim, pode.                            |
+|  P  | Se um Charakoro parar na diagonal, posso rolá-lo novamente? |
+| :-: | :---------------------------------------------------------- |
+|  R  | Sim, pode.                                  |
 
 #### 12
 
-|  P  | Can I use a Charakoro for a Pokémon other than the one on the Characard?                                                              |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------ |
-|  R  | Não, não pode. <br>Please use the Charakoro with the same name as the Pokémon shown on the Characard. |
+|  P  | Posso usar um Charakoro de um Pokémon diferente do que está na Characard?                                             |
+| :-: | :-------------------------------------------------------------------------------------------------------------------- |
+|  R  | Não, não pode. <br>Use o Charakoro com o mesmo nome do Pokémon mostrado na Characard. |
 
 #### 13
 
-|  P  | What is a Life Counter?                                                                                                                                                                      |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | It is an item that represents a Pokémon's HP. <br>You start the battle by setting the number on the Life Counter to match the figure shown on the Characard. |
+|  P  | O que é um Contador de Vida?                                                                                                                                                       |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | É um item que representa os PS de um Pokémon. <br>Você começa a batalha ajustando o número do Contador de Vida para o valor mostrado na Characard. |
 
 #### 14
 
-|  P  | What is a Wazacard?                                                                                                                                                                        |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | It is a card that allows a Pokémon to use a move. <br>The move is successful if you have at least as many Energies as the number shown on the chosen move. |
+|  P  | O que é uma Wazacard?                                                                                                                                                                             |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  R  | É uma carta que permite a um Pokémon usar um golpe. <br>O golpe tem sucesso se você tiver pelo menos tantas Energias quanto o número indicado no golpe escolhido. |
 
 #### 15
 
-|  P  | Can I mix and use Wazacards from different Pokémon?                                                                                                |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Não, não pode. <br>Only the Pokémon listed under "Pokémon that can use this move" on a Wazacard can use this move. |
+|  P  | Posso misturar e usar Wazacards de Pokémon diferentes?                                                                                               |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Não, não pode. <br>Apenas o Pokémon indicado em "Pokémon que pode usar este golpe" na Wazacard pode usar esse golpe. |
 
 #### 16
 
-|  P  | Can I include multiple copies of the same Wazacard? |
-| :-: | :-------------------------------------------------- |
-|  R  | Não, não pode.                      |
+|  P  | Posso incluir várias cópias da mesma Wazacard? |
+| :-: | :--------------------------------------------- |
+|  R  | Não, não pode.                 |
 
 #### 17
 
-|  P  | Can I start a match while keeping the contents of my Wazacards secret from my opponent?                                                  |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Não, não pode. <br>Once both players are ready to begin the match, all Wazacards must be turned face up. |
+|  P  | Posso começar uma partida mantendo o conteúdo das minhas Wazacards em segredo do meu oponente?                                                                        |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Não, não pode. <br>Quando os dois jogadores estiverem prontos para começar a partida, todas as Wazacards devem ser viradas para cima. |
 
 #### 18
 
-|  P  | Can I continue to use two different moves alternately every turn? |
-| :-: | :---------------------------------------------------------------- |
-|  R  | Sim, pode.                                        |
+|  P  | Posso continuar usando dois golpes diferentes alternadamente a cada turno? |
+| :-: | :------------------------------------------------------------------------- |
+|  R  | Sim, pode.                                                 |
 
 #### 19
 
-|  P  | Are there any tips for using moves?                                                                                                                                   |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Moves with a low Energy cost are more likely to succeed. If your moves aren't landing, try using moves with an Energy cost of 1 or 2. |
+|  P  | Existe alguma dica para usar golpes?                                                                                                                                                 |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Golpes com custo de Energia baixo têm mais chance de sucesso. Se seus golpes não estiverem acertando, tente usar golpes com custo de Energia 1 ou 2. |
 
 #### 20
 
-|  P  | If a move fails, can I still apply the Charakoro effect?                                                                              |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------ |
-|  R  | Não, não pode. If a move fails, the Charakoro check is not carried out and the turn ends immediately. |
+|  P  | If a move fails, can I still apply the Charakoro effect?                                                              |
+| :-: | :-------------------------------------------------------------------------------------------------------------------- |
+|  R  | Não, não pode. Nesse caso, a verificação de Charakoro não é feita, e o turno termina. |
 
 #### 21
 
-|  P  | Can I start a match with fewer than four Wazacards (for example, just three)? |
-| :-: | :----------------------------------------------------------------------------------------------- |
-|  R  | Não, não pode.                                                                   |
+|  P  | Posso começar uma partida com menos de quatro Wazacards (por exemplo, só três)? |
+| :-: | :------------------------------------------------------------------------------------------------- |
+|  R  | Não, não pode.                                                                     |
 
 #### 22
 
-|  P  | Can I "pass" without using a move?                                                                 |
-| :-: | :------------------------------------------------------------------------------------------------- |
-|  R  | Não, não pode. <br>You must choose 1 move to use during your turn. |
+|  P  | Posso "passar" a vez sem usar um golpe?                                                                          |
+| :-: | :--------------------------------------------------------------------------------------------------------------- |
+|  R  | Não, não pode. <br>Você precisa escolher um golpe para usar durante o seu turno. |
 
 #### 23
 
-|  P  | Can I deal damage to my opponent from my very first turn when I go first?                                                                                                                             |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Sim, pode. <br>Although you can only roll 2 Enekoro during your first turn when going first, you can deal damage provided you have enough Energy to pay for the move. |
+|  P  | Posso causar dano ao meu oponente logo no meu primeiro turno quando começo jogando?                                                                                                                         |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Sim, pode. <br>Embora você só possa rolar dois Enekoro no seu primeiro turno quando começa jogando, pode causar dano desde que tenha Energia suficiente para pagar o golpe. |
 
 #### 24
 
-|  P  | If I roll more Energy than a move requires, can I switch to a different move? |
-| :-: | :---------------------------------------------------------------------------- |
-|  R  | Não, não pode.                                                |
+|  P  | Se eu rolar mais Energia do que um golpe exige, posso trocar para outro golpe? |
+| :-: | :----------------------------------------------------------------------------- |
+|  R  | Não, não pode.                                                 |
 
 #### 25
 
-|  P  | Can the "Weakness +20" effect be applied to both the damage dealt by a successful move and the damage caused by a "Charakoro" effect?                                              |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Não, não pode. <br>The Weakness effect is calculated after the damage from the move and the damage from the "Charakoro" effect have been combined. |
+|  P  | O efeito "Fraqueza +20" pode ser aplicado tanto ao dano causado por um golpe bem-sucedido quanto ao dano causado por um efeito de "Charakoro"?                |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  R  | Não, não pode. <br>O efeito de Fraqueza é calculado depois que o dano do golpe e o dano do efeito de "Charakoro" são somados. |
 
 #### 26
 
-|  P  | What is healing?                                                                                                                                                                                                                                   |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | It is the act of restoring a Pokémon's HP that has been reduced by damage. <br>Whatever an effect states something like "Heal XX HP from this Pokémon.", the Life Counter is restored accordingly. |
+|  P  | O que é curar?                                                                                                                                                                                                                           |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | É o ato de recuperar os PS de um Pokémon que foram reduzidos por dano. <br>Sempre que um efeito disser algo como "Cure XX PS deste Pokémon.", o Contador de Vida é recuperado de acordo. |
 
 #### 27
 
-|  P  | Can I heal a character beyond the "120 HP" stated on their Characard?                                                         |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Não, não pode. <br>You cannot heal a Pokémon beyond the maximum HP stated on their Characard. |
+|  P  | Posso curar um personagem além dos "120 PS" indicados na Characard dele?                                                           |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Não, não pode. <br>Você não pode curar um Pokémon além do máximo de PS indicado na Characard dele. |
 
 #### 28
 
-|  P  | If both players' HP reaches 0 at the same time, who loses? |
-| :-: | :--------------------------------------------------------- |
-|  R  | The player who used the move loses.        |
+|  P  | Se os PS dos dois jogadores chegarem a 0 ao mesmo tempo, quem perde? |
+| :-: | :------------------------------------------------------------------- |
+|  R  | O jogador que usou o golpe perde.                    |
 
 #### 29
 
-|  P  | Are there any status conditions such as "Poison" or "Paralysis"? |
-| :-: | :--------------------------------------------------------------- |
-|  R  | No, there aren't.                                |
+|  P  | Existem Condições Especiais como "Envenenado" ou "Paralisado"? |
+| :-: | :------------------------------------------------------------- |
+|  R  | Não, não existem.                              |
 
 #### 30
 
-|  P  | During a match, can I check my opponent's life counter (remaining HP) or their remaining Wazacards? |
-| :-: | :--------------------------------------------------------------------------------------------------------------------- |
-|  R  | Sim, pode. <br>If you wish to look closely to check, please ask your opponent.         |
+|  P  | Durante uma partida, posso conferir o Contador de Vida (PS restantes) do meu oponente ou as Wazacards restantes dele? |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Sim, pode. <br>Se quiser olhar de perto para conferir, peça ao seu oponente.                             |
 
 #### 31
 
-|  P  | How many different Energy types are listed for the Enekoros?                                                                              |
+|  P  | Quantos tipos de Energia diferentes aparecem nos Enekoro?                                                                                 |
 | :-: | :---------------------------------------------------------------------------------------------------------------------------------------- |
 |  R  | There are 9 types. <br>These are Grass, Fire, Water, Electric, Psychic, Fighting, Dark, Steel and Flying. |
 

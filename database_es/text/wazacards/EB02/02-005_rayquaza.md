@@ -156,20 +156,20 @@
 
 #### Explosión Dragón
 
-| Nombre      | Explosión Dragón                                                                   |
-| ----------- | ---------------------------------------------------------------------------------- |
-| Japonés     | ドラゴンバースト                                                                           |
-| Tipo        | Dragón                                                                             |
-| Código      | EBW02-049                                                                          |
-| Pokémon     | Rayquaza                                                                           |
-| Energía     | {R}{C}{C}{C}                                                                       |
-| Daño        | 10                                                                                 |
-| Efecto      |                                                                                    |
-| De pie      | Este ataque hace 20 puntos de daño por cada energía {L} producida. |
-| De cabeza   |                                                                                    |
-| Boca arriba | Este ataque hace 20 puntos de daño por cada energía {L} producida. |
-| Boca abajo  |                                                                                    |
-| De lado     |                                                                                    |
+| Nombre      | Explosión Dragón                                                         |
+| ----------- | ------------------------------------------------------------------------ |
+| Japonés     | ドラゴンバースト                                                                 |
+| Tipo        | Dragón                                                                   |
+| Código      | EBW02-049                                                                |
+| Pokémon     | Rayquaza                                                                 |
+| Energía     | {R}{C}{C}{C}                                                             |
+| Daño        | 10                                                                       |
+| Efecto      |                                                                          |
+| De pie      | This attack does 20 damage for each {L} Energy produced. |
+| De cabeza   |                                                                          |
+| Boca arriba | This attack does 20 damage for each {L} Energy produced. |
+| Boca abajo  |                                                                          |
+| De lado     |                                                                          |
 
 [Explosión Dragón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
 

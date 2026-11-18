@@ -80,20 +80,20 @@
 
 #### Tempesta di Fiamme
 
-| Nome           | Tempesta di Fiamme                                                           |
-| -------------- | ---------------------------------------------------------------------------- |
-| Giapponese     | フレアストーム                                                                      |
-| Tipo           | Fuoco                                                                        |
-| Codice         | STW02-005                                                                    |
-| Pokémon        | Charmander                                                                   |
-| Energia        | {C}{C}{C}{C}{C}                                                              |
-| Danni          | 20                                                                           |
-| Effetto        |                                                                              |
-| In Piedi       | +10 danni per ogni energia {R} uscita sui tuoi dadi energia. |
-| A testa in giù |                                                                              |
-| Supino         |                                                                              |
-| Prono          |                                                                              |
-| Sui fianchi    | +10 danni per ogni energia {R} uscita sui tuoi dadi energia. |
+| Nome           | Tempesta di Fiamme                                                       |
+| -------------- | ------------------------------------------------------------------------ |
+| Giapponese     | フレアストーム                                                                  |
+| Tipo           | Fuoco                                                                    |
+| Codice         | STW02-005                                                                |
+| Pokémon        | Charmander                                                               |
+| Energia        | {C}{C}{C}{C}{C}                                                          |
+| Danni          | 20                                                                       |
+| Effetto        |                                                                          |
+| In Piedi       | This attack does 10 damage for each {R} Energy produced. |
+| A testa in giù |                                                                          |
+| Supino         |                                                                          |
+| Prono          |                                                                          |
+| Sui fianchi    | This attack does 10 damage for each {R} Energy produced. |
 
 [Tempesta di Fiamme](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard05.webp)
 

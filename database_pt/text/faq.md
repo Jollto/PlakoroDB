@@ -284,10 +284,10 @@
 
 #### 41
 
-|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Relâmpago" do Pikachu. <br>Como funciona o efeito "No seu próximo turno, você rola 2 Enekoro a menos."? <br>Also, who chooses which Enekoro to remove? |
-| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Escolha qualquer um dos seus três Enekoro e role-o. <br>O jogador que rola os Enekoro escolhe quais serão removidos.                                                                                                  |
-| Ref. | [Relâmpago](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-004.png)                                                                                                                                                                             |
+|           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Relâmpago" do Pikachu. <br>Como funciona o efeito "No seu próximo turno, você rola 2 Enekoro a menos."? <br>Além disso, quem escolhe quais Enekoro serão removidos? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Escolha qualquer um dos seus três Enekoro e role-o. <br>O jogador que rola os Enekoro escolhe quais serão removidos.                                                                                                               |
+| Ref. | [Relâmpago](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-004.png)                                                                                                                                                                                          |
 
 #### 42
 

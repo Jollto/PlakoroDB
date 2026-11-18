@@ -18,7 +18,7 @@
 
 Il testo giapponese (delle FAQ) utilizza la terminologia del TCG, mentre le icone presenti sulla pagina web adottano i tipi del VGC; utilizzerò anch'io i tipi del VGC.
 
-Per quanto riguarda la tipologia delle energie, utilizzerò la nomenclatura del GCC, indicando il tipo Volante con _Y_.
+For type reference in Energy, I'll be using TCG nomenclature, with _Y_ for flying type.
 
 ## Orientamento
 

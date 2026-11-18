@@ -23,20 +23,20 @@
 
 #### Foglielama
 
-| Nome           | Foglielama     |
-| -------------- | -------------- |
-| Giapponese     | はっぱカッター |
-| Tipo           | Erba           |
-| Codice         | STW01-002      |
-| Pokémon        | Bulbasaur      |
-| Energia        | {G}{G}         |
-| Danni          | 20             |
-| Effetto        |                |
-| In Piedi       | +20 danni.     |
-| A testa in giù |                |
-| Supino         |                |
-| Prono          |                |
-| Sui fianchi    | +20 danni.     |
+| Nome           | Foglielama       |
+| -------------- | ---------------- |
+| Giapponese     | はっぱカッター |
+| Tipo           | Erba             |
+| Codice         | STW01-002        |
+| Pokémon        | Bulbasaur        |
+| Energia        | {G}{G}           |
+| Danni          | 20               |
+| Effetto        |                  |
+| In Piedi       | +20 danni.       |
+| A testa in giù |                  |
+| Supino         |                  |
+| Prono          |                  |
+| Sui fianchi    | +20 danni.       |
 
 [Foglielama](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard02.webp)
 
@@ -44,7 +44,7 @@
 
 | Nome           | Parassiseme                                                                                                              |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Giapponese     | やどりぎのタネ                                                                                                           |
+| Giapponese     | やどりぎのタネ                                                                                                       |
 | Tipo           | Erba                                                                                                                     |
 | Codice         | STW01-003                                                                                                                |
 | Pokémon        | Bulbasaur                                                                                                                |
@@ -63,7 +63,7 @@
 
 | Nome           | Laccioerboso                                                                       |
 | -------------- | ---------------------------------------------------------------------------------- |
-| Giapponese     | くさむすび                                                                         |
+| Giapponese     | くさむすび                                                                       |
 | Tipo           | Erba                                                                               |
 | Codice         | STW01-004                                                                          |
 | Pokémon        | Bulbasaur                                                                          |
@@ -82,7 +82,7 @@
 
 | Nome           | Assalto                                |
 | -------------- | -------------------------------------- |
-| Giapponese     | とつげき                               |
+| Giapponese     | とつげき                             |
 | Tipo           | Erba                                   |
 | Codice         | STW01-005                              |
 | Pokémon        | Bulbasaur                              |
@@ -101,7 +101,7 @@
 
 | Nome           | Gigassorbimento                |
 | -------------- | ------------------------------ |
-| Giapponese     | ギガドレイン                   |
+| Giapponese     | ギガドレイン             |
 | Tipo           | Erba                           |
 | Codice         | STW01-006                      |
 | Pokémon        | Bulbasaur                      |
@@ -118,20 +118,20 @@
 
 #### Acidobomba
 
-| Nome           | Acidobomba   |
-| -------------- | ------------ |
-| Giapponese     | アシッドボム |
-| Tipo           | Buio         |
-| Codice         | STW01-007    |
-| Pokémon        | Bulbasaur    |
-| Energia        | {D}{C}{C}    |
-| Danni          | 10           |
-| Effetto        |              |
-| In Piedi       | +20 danni.   |
-| A testa in giù |              |
-| Supino         |              |
-| Prono          |              |
-| Sui fianchi    | +20 danni.   |
+| Nome           | Acidobomba       |
+| -------------- | ---------------- |
+| Giapponese     | アシッドボム |
+| Tipo           | Buio             |
+| Codice         | STW01-007        |
+| Pokémon        | Bulbasaur        |
+| Energia        | {D}{C}{C}        |
+| Danni          | 10               |
+| Effetto        |                  |
+| In Piedi       | +20 danni.       |
+| A testa in giù |                  |
+| Supino         |                  |
+| Prono          |                  |
+| Sui fianchi    | +20 danni.       |
 
 [Acidobomba](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st01/01/img_wazacard07.webp)
 

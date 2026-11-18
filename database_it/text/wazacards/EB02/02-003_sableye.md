@@ -4,39 +4,39 @@
 
 #### Graffio ?
 
-| Nome           | Graffio ?      |
-| -------------- | -------------- |
-| Giapponese     | ツメでひっかく |
-| Tipo           | Buio           |
-| Codice         | EBW02-021      |
-| Pokémon        | Sableye        |
-| Energia        | {D}            |
-| Danni          | 10             |
-| Effetto        |                |
-| In Piedi       | +10 danni.     |
-| A testa in giù |                |
-| Supino         | +10 danni.     |
-| Prono          | +10 danni.     |
-| Sui fianchi    |                |
+| Nome           | Graffio ?        |
+| -------------- | ---------------- |
+| Giapponese     | ツメでひっかく |
+| Tipo           | Buio             |
+| Codice         | EBW02-021        |
+| Pokémon        | Sableye          |
+| Energia        | {D}              |
+| Danni          | 10               |
+| Effetto        |                  |
+| In Piedi       | +10 danni.       |
+| A testa in giù |                  |
+| Supino         | +10 danni.       |
+| Prono          | +10 danni.       |
+| Sui fianchi    |                  |
 
 [Graffio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard01.webp)
 
 #### Finta
 
-| Nome           | Finta      |
-| -------------- | ---------- |
-| Giapponese     | だましうち |
-| Tipo           | Buio       |
-| Codice         | EBW02-022  |
-| Pokémon        | Sableye    |
-| Energia        | {D}{D}     |
-| Danni          | 20         |
-| Effetto        |            |
-| In Piedi       |            |
-| A testa in giù | +20 danni. |
-| Supino         |            |
-| Prono          | +20 danni. |
-| Sui fianchi    |            |
+| Nome           | Finta        |
+| -------------- | ------------ |
+| Giapponese     | だましうち |
+| Tipo           | Buio         |
+| Codice         | EBW02-022    |
+| Pokémon        | Sableye      |
+| Energia        | {D}{D}       |
+| Danni          | 20           |
+| Effetto        |              |
+| In Piedi       |              |
+| A testa in giù | +20 danni.   |
+| Supino         |              |
+| Prono          | +20 danni.   |
+| Sui fianchi    |              |
 
 [Finta](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard02.webp)
 
@@ -80,20 +80,20 @@
 
 #### Ventogelato
 
-| Nome           | Ventogelato  |
-| -------------- | ------------ |
-| Giapponese     | こごえるかぜ |
-| Tipo           | Acqua        |
-| Codice         | EBW02-025    |
-| Pokémon        | Sableye      |
-| Energia        | {W}          |
-| Danni          | 20           |
-| Effetto        |              |
-| In Piedi       | +20 danni.   |
-| A testa in giù |              |
-| Supino         | +20 danni.   |
-| Prono          |              |
-| Sui fianchi    |              |
+| Nome           | Ventogelato      |
+| -------------- | ---------------- |
+| Giapponese     | こごえるかぜ |
+| Tipo           | Acqua            |
+| Codice         | EBW02-025        |
+| Pokémon        | Sableye          |
+| Energia        | {W}              |
+| Danni          | 20               |
+| Effetto        |                  |
+| In Piedi       | +20 danni.       |
+| A testa in giù |                  |
+| Supino         | +20 danni.       |
+| Prono          |                  |
+| Sui fianchi    |                  |
 
 [Ventogelato](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard05.webp)
 
@@ -101,7 +101,7 @@
 
 | Nome           | Artiglio Oscuro ? |
 | -------------- | ----------------- |
-| Giapponese     | ダーククロー      |
+| Giapponese     | ダーククロー    |
 | Tipo           | Buio              |
 | Codice         | EBW02-026         |
 | Pokémon        | Sableye           |
@@ -120,7 +120,7 @@
 
 | Nome           | Sgambetto                                                                         |
 | -------------- | --------------------------------------------------------------------------------- |
-| Giapponese     | ころばす                                                                          |
+| Giapponese     | ころばす                                                                        |
 | Tipo           | Buio                                                                              |
 | Codice         | EBW02-027                                                                         |
 | Pokémon        | Sableye                                                                           |
@@ -137,20 +137,20 @@
 
 #### Neropulsar
 
-| Nome           | Neropulsar   |
-| -------------- | ------------ |
-| Giapponese     | あくのはどう |
-| Tipo           | Buio         |
-| Codice         | EBW02-028    |
-| Pokémon        | Sableye      |
-| Energia        | {D}{D}{D}    |
-| Danni          | 20           |
-| Effetto        |              |
-| In Piedi       | +30 danni.   |
-| A testa in giù |              |
-| Supino         | +30 danni.   |
-| Prono          |              |
-| Sui fianchi    |              |
+| Nome           | Neropulsar     |
+| -------------- | -------------- |
+| Giapponese     | あくのはどう |
+| Tipo           | Buio           |
+| Codice         | EBW02-028      |
+| Pokémon        | Sableye        |
+| Energia        | {D}{D}{D}      |
+| Danni          | 20             |
+| Effetto        |                |
+| In Piedi       | +30 danni.     |
+| A testa in giù |                |
+| Supino         | +30 danni.     |
+| Prono          |                |
+| Sui fianchi    |                |
 
 [Neropulsar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard08.webp)
 
@@ -158,7 +158,7 @@
 
 | Nome           | Lampo gemma ?                                                                                                                           |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | ジュエルフラッシュ                                                                                                                      |
+| Giapponese     | ジュエルフラッシュ                                                                                                                    |
 | Tipo           | Buio                                                                                                                                    |
 | Codice         | EBW02-029                                                                                                                               |
 | Pokémon        | Sableye                                                                                                                                 |

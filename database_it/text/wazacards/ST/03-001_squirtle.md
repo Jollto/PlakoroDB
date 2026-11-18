@@ -4,20 +4,20 @@
 
 #### Pistolacqua
 
-| Nome           | Pistolacqua  |
-| -------------- | ------------ |
-| Giapponese     | みずでっぽう |
-| Tipo           | Acqua        |
-| Codice         | STW03-001    |
-| Pokémon        | Squirtle     |
-| Energia        | {W}          |
-| Danni          | 10           |
-| Effetto        |              |
-| In Piedi       | +20 danni.   |
-| A testa in giù |              |
-| Supino         |              |
-| Prono          | +20 danni.   |
-| Sui fianchi    |              |
+| Nome           | Pistolacqua        |
+| -------------- | ------------------ |
+| Giapponese     | みずでっぽう |
+| Tipo           | Acqua              |
+| Codice         | STW03-001          |
+| Pokémon        | Squirtle           |
+| Energia        | {W}                |
+| Danni          | 10                 |
+| Effetto        |                    |
+| In Piedi       | +20 danni.         |
+| A testa in giù |                    |
+| Supino         |                    |
+| Prono          | +20 danni.         |
+| Sui fianchi    |                    |
 
 [Pistolacqua](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard01.webp)
 
@@ -42,20 +42,20 @@
 
 #### Idropulsar
 
-| Nome           | Idropulsar   |
-| -------------- | ------------ |
-| Giapponese     | みずのはどう |
-| Tipo           | Acqua        |
-| Codice         | STW03-003    |
-| Pokémon        | Squirtle     |
-| Energia        | {W}{W}       |
-| Danni          | 20           |
-| Effetto        |              |
-| In Piedi       | +20 danni.   |
-| A testa in giù |              |
-| Supino         |              |
-| Prono          |              |
-| Sui fianchi    | +20 danni.   |
+| Nome           | Idropulsar       |
+| -------------- | ---------------- |
+| Giapponese     | みずのはどう |
+| Tipo           | Acqua            |
+| Codice         | STW03-003        |
+| Pokémon        | Squirtle         |
+| Energia        | {W}{W}           |
+| Danni          | 20               |
+| Effetto        |                  |
+| In Piedi       | +20 danni.       |
+| A testa in giù |                  |
+| Supino         |                  |
+| Prono          |                  |
+| Sui fianchi    | +20 danni.       |
 
 [Idropulsar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard03.webp)
 
@@ -82,7 +82,7 @@
 
 | Nome           | Bollaraggio                                                        |
 | -------------- | ------------------------------------------------------------------ |
-| Giapponese     | バブルこうせん                                                     |
+| Giapponese     | バブルこうせん                                                 |
 | Tipo           | Acqua                                                              |
 | Codice         | STW03-005                                                          |
 | Pokémon        | Squirtle                                                           |
@@ -101,7 +101,7 @@
 
 | Nome           | Idrofuria ?                                   |
 | -------------- | --------------------------------------------- |
-| Giapponese     | ハイドロアンガー                              |
+| Giapponese     | ハイドロアンガー                          |
 | Tipo           | Acqua                                         |
 | Codice         | STW03-006                                     |
 | Pokémon        | Squirtle                                      |
@@ -118,20 +118,20 @@
 
 #### Colpo fango
 
-| Nome           | Colpo fango    |
-| -------------- | -------------- |
-| Giapponese     | マッドショット |
-| Tipo           | Lotta          |
-| Codice         | STW03-007      |
-| Pokémon        | Squirtle       |
-| Energia        | {F}{C}{C}{C}   |
-| Danni          | 30             |
-| Effetto        |                |
-| In Piedi       | +30 danni.     |
-| A testa in giù |                |
-| Supino         |                |
-| Prono          |                |
-| Sui fianchi    | +30 danni.     |
+| Nome           | Colpo fango      |
+| -------------- | ---------------- |
+| Giapponese     | マッドショット |
+| Tipo           | Lotta            |
+| Codice         | STW03-007        |
+| Pokémon        | Squirtle         |
+| Energia        | {F}{C}{C}{C}     |
+| Danni          | 30               |
+| Effetto        |                  |
+| In Piedi       | +30 danni.       |
+| A testa in giù |                  |
+| Supino         |                  |
+| Prono          |                  |
+| Sui fianchi    | +30 danni.       |
 
 [Colpo Fango](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st03/01/img_wazacard07.webp)
 

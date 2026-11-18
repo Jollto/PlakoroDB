@@ -18,7 +18,7 @@
 
 O texto em japonês (do FAQ) usa a terminologia do TCG, mas os ícones do site usam os tipos dos jogos (VGC), então também vou usar os tipos dos jogos.
 
-Para indicar o tipo nas energias, vou usar a nomenclatura do TCG, com _Y_ para o tipo Voador.
+Para indicar o tipo nas Energias, vou usar a nomenclatura do TCG, com _Y_ para o tipo Voador.
 
 ## Orientações
 

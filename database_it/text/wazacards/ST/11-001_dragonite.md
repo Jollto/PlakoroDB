@@ -6,7 +6,7 @@
 
 | Nome           | Dragopulsar                                            |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | りゅうのはどう                                         |
+| Giapponese     | りゅうのはどう                                       |
 | Tipo           | Drago                                                  |
 | Codice         | STW11-001                                              |
 | Pokémon        | Dragonite                                              |
@@ -23,39 +23,39 @@
 
 #### Lacerartiglio
 
-| Nome           | Lacerartiglio  |
-| -------------- | -------------- |
-| Giapponese     | ツメできりさく |
-| Tipo           | Drago          |
-| Codice         | STW11-002      |
-| Pokémon        | Dragonite      |
-| Energia        | {L}{L}         |
-| Danni          | 20             |
-| Effetto        |                |
-| In Piedi       | +20 danni.     |
-| A testa in giù |                |
-| Supino         |                |
-| Prono          |                |
-| Sui fianchi    | +20 danni.     |
+| Nome           | Lacerartiglio    |
+| -------------- | ---------------- |
+| Giapponese     | ツメできりさく |
+| Tipo           | Drago            |
+| Codice         | STW11-002        |
+| Pokémon        | Dragonite        |
+| Energia        | {L}{L}           |
+| Danni          | 20               |
+| Effetto        |                  |
+| In Piedi       | +20 danni.       |
+| A testa in giù |                  |
+| Supino         |                  |
+| Prono          |                  |
+| Sui fianchi    | +20 danni.       |
 
 [Lacerartiglio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard02.webp)
 
 #### Abbattere
 
-| Nome           | Abbattere    |
-| -------------- | ------------ |
-| Giapponese     | たたきつぶす |
-| Tipo           | Drago        |
-| Codice         | STW11-003    |
-| Pokémon        | Dragonite    |
-| Energia        | {W}{W}{W}    |
-| Danni          | 20           |
-| Effetto        |              |
-| In Piedi       | +30 danni.   |
-| A testa in giù |              |
-| Supino         | +30 danni.   |
-| Prono          | +30 danni.   |
-| Sui fianchi    |              |
+| Nome           | Abbattere      |
+| -------------- | -------------- |
+| Giapponese     | たたきつぶす |
+| Tipo           | Drago          |
+| Codice         | STW11-003      |
+| Pokémon        | Dragonite      |
+| Energia        | {W}{W}{W}      |
+| Danni          | 20             |
+| Effetto        |                |
+| In Piedi       | +30 danni.     |
+| A testa in giù |                |
+| Supino         | +30 danni.     |
+| Prono          | +30 danni.     |
+| Sui fianchi    |                |
 
 [Abbattere](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard03.webp)
 
@@ -63,7 +63,7 @@
 
 | Nome           | Calciorullo     |
 | -------------- | --------------- |
-| Giapponese     | まわしげり      |
+| Giapponese     | まわしげり    |
 | Tipo           | Drago           |
 | Codice         | STW11-004       |
 | Pokémon        | Dragonite       |
@@ -82,7 +82,7 @@
 
 | Nome           | Pressa di squame                                                                    |
 | -------------- | ----------------------------------------------------------------------------------- |
-| Giapponese     | スケイルプレス                                                                      |
+| Giapponese     | スケイルプレス                                                                    |
 | Tipo           | Acqua                                                                               |
 | Codice         | STW11-005                                                                           |
 | Pokémon        | Dragonite                                                                           |

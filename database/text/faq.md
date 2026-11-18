@@ -319,9 +319,9 @@
 
 #### 46
 
-|  Q  | I used Eevee's move "Best Dash". <br>How many energies of which type do I need to succeed? |
+|  Q  | I used Eevee's move "Best Dash". <br>How many Energies of which type do I need to succeed? |
 | :-: | :----------------------------------------------------------------------------------------- |
-|  A  | This move succeeds as long as you have 5 energies - any type will do.                      |
+|  A  | This move succeeds as long as you have 5 Energies - any type will do.                      |
 |  R  | [Best Dash](/database/cards/wazacards/ST/05-001_eevee/STW05-005.png)                       |
 
 #### 47

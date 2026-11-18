@@ -165,9 +165,9 @@
 | Energía     | {R}{C}{C}{C}                                                       |
 | Daño        | 10                                                                 |
 | Efecto      |                                                                    |
-| De pie      | Este ataque hace 20 puntos de daño por cada energía {L} producida. |
+| De pie      | Este ataque hace 20 puntos de daño por cada Energía {L} producida. |
 | De cabeza   |                                                                    |
-| Boca arriba | Este ataque hace 20 puntos de daño por cada energía {L} producida. |
+| Boca arriba | Este ataque hace 20 puntos de daño por cada Energía {L} producida. |
 | Boca abajo  |                                                                    |
 | De lado     |                                                                    |
 

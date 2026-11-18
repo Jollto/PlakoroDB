@@ -18,7 +18,7 @@
 
 Los textos en japonés (de las FAQ) usa la terminología del TCG, pero los iconos de la página web usan los tipos del VGC, por lo que usaré los tipos de VGC también.
 
-Para referenciar a los tipos de energía, usaré la nomenclatura del TCG, con _Y_ por el tipo volador.
+Para referenciar a los tipos de Energía, usaré la nomenclatura del TCG, con _Y_ por el tipo volador.
 
 ## Orientación
 

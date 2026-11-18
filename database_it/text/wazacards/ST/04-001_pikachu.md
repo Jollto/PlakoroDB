@@ -6,7 +6,7 @@
 
 | Nome           | Rosicchiare |
 | -------------- | ----------- |
-| Giapponese     | かじる      |
+| Giapponese     | かじる    |
 | Tipo           | Elettro     |
 | Codice         | STW04-001   |
 | Pokémon        | Pikachu     |
@@ -23,20 +23,20 @@
 
 #### Tuonoshock
 
-| Nome           | Tuonoshock     |
-| -------------- | -------------- |
-| Giapponese     | でんきショック |
-| Tipo           | Elettro        |
-| Codice         | STW04-002      |
-| Pokémon        | Pikachu        |
-| Energia        | {L}{L}         |
-| Danni          | 10             |
-| Effetto        |                |
-| In Piedi       | +20 danni.     |
-| A testa in giù | +20 danni.     |
-| Supino         |                |
-| Prono          |                |
-| Sui fianchi    | +20 danni.     |
+| Nome           | Tuonoshock       |
+| -------------- | ---------------- |
+| Giapponese     | でんきショック |
+| Tipo           | Elettro          |
+| Codice         | STW04-002        |
+| Pokémon        | Pikachu          |
+| Energia        | {L}{L}           |
+| Danni          | 10               |
+| Effetto        |                  |
+| In Piedi       | +20 danni.       |
+| A testa in giù | +20 danni.       |
+| Supino         |                  |
+| Prono          |                  |
+| Sui fianchi    | +20 danni.       |
 
 [Tuonoshock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st04/01/img_wazacard02.webp)
 
@@ -63,7 +63,7 @@
 
 | Nome           | Fulmine                                                |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | 10まんボルト                                           |
+| Giapponese     | 10まんボルト                                         |
 | Tipo           | Elettro                                                |
 | Codice         | STW04-004                                              |
 | Pokémon        | Pikachu                                                |
@@ -101,7 +101,7 @@
 
 | Nome           | Locomovolt                             |
 | -------------- | -------------------------------------- |
-| Giapponese     | ボルテッカー                           |
+| Giapponese     | ボルテッカー                         |
 | Tipo           | Elettro                                |
 | Codice         | STW04-006                              |
 | Pokémon        | Pikachu                                |
@@ -139,19 +139,19 @@
 
 #### Fulmine critico ?
 
-| Nome           | Fulmine critico ?  |
-| -------------- | ------------------ |
-| Giapponese     | クリティカルボルト |
-| Tipo           | Elettro            |
-| Codice         | PRW01-008          |
-| Pokémon        | Pikachu            |
-| Energia        | {L}{L}{L}{L}       |
-| Danni          | 30                 |
-| Effetto        |                    |
-| In Piedi       | +60 danni.         |
-| A testa in giù |                    |
-| Supino         |                    |
-| Prono          |                    |
-| Sui fianchi    |                    |
+| Nome           | Fulmine critico ?    |
+| -------------- | -------------------- |
+| Giapponese     | クリティカルボルト |
+| Tipo           | Elettro              |
+| Codice         | PRW01-008            |
+| Pokémon        | Pikachu              |
+| Energia        | {L}{L}{L}{L}         |
+| Danni          | 30                   |
+| Effetto        |                      |
+| In Piedi       | +60 danni.           |
+| A testa in giù |                      |
+| Supino         |                      |
+| Prono          |                      |
+| Sui fianchi    |                      |
 
 [Fulmine critico](https://x.com/plakoro_pokepla/status/2082994699628150947/photo/1)

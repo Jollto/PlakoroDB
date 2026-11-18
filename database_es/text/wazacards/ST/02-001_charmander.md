@@ -89,11 +89,11 @@
 | Energía     | {C}{C}{C}{C}{C}                                                    |
 | Daño        | 20                                                                 |
 | Efecto      |                                                                    |
-| De pie      | Este ataque hace 10 puntos de daño por cada energía {R} producida. |
+| De pie      | Este ataque hace 10 puntos de daño por cada Energía {R} producida. |
 | De cabeza   |                                                                    |
 | Boca arriba |                                                                    |
 | Boca abajo  |                                                                    |
-| De lado     | Este ataque hace 10 puntos de daño por cada energía {R} producida. |
+| De lado     | Este ataque hace 10 puntos de daño por cada Energía {R} producida. |
 
 [Tormenta de Llamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard05.webp)
 

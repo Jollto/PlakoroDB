@@ -6,7 +6,7 @@
 
 | Nome           | Velenogas                                                          |
 | -------------- | ------------------------------------------------------------------ |
-| Giapponese     | どくガス                                                           |
+| Giapponese     | どくガス                                                       |
 | Tipo           | Buio                                                               |
 | Codice         | EBW01-051                                                          |
 | Pokémon        | Grimer                                                             |
@@ -23,20 +23,20 @@
 
 #### Lancio Viscido ?
 
-| Nome           | Lancio Viscido ? |
-| -------------- | ---------------- |
-| Giapponese     | ベトベトなげ     |
-| Tipo           | Buio             |
-| Codice         | EBW01-052        |
-| Pokémon        | Grimer           |
-| Energia        | {D}{D}           |
-| Danni          | 20               |
-| Effetto        |                  |
-| In Piedi       | +20 danni.       |
-| A testa in giù |                  |
-| Supino         |                  |
-| Prono          |                  |
-| Sui fianchi    | +20 danni.       |
+| Nome           | Lancio Viscido ?   |
+| -------------- | ------------------ |
+| Giapponese     | ベトベトなげ |
+| Tipo           | Buio               |
+| Codice         | EBW01-052          |
+| Pokémon        | Grimer             |
+| Energia        | {D}{D}             |
+| Danni          | 20                 |
+| Effetto        |                    |
+| In Piedi       | +20 danni.         |
+| A testa in giù |                    |
+| Supino         |                    |
+| Prono          |                    |
+| Sui fianchi    | +20 danni.         |
 
 [Lancio Viscido](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard02.webp)
 
@@ -44,7 +44,7 @@
 
 | Nome           | Cura Tossica ?                                                                                         |
 | -------------- | ------------------------------------------------------------------------------------------------------ |
-| Giapponese     | どくどくヒール                                                                                         |
+| Giapponese     | どくどくヒール                                                                                     |
 | Tipo           | Buio                                                                                                   |
 | Codice         | EBW01-053                                                                                              |
 | Pokémon        | Grimer                                                                                                 |
@@ -63,7 +63,7 @@
 
 | Nome           | Accerchiamento Fangoso ?                                                           |
 | -------------- | ---------------------------------------------------------------------------------- |
-| Giapponese     | ヘドロでかこむ                                                                     |
+| Giapponese     | ヘドロでかこむ                                                                 |
 | Tipo           | Buio                                                                               |
 | Codice         | EBW01-054                                                                          |
 | Pokémon        | Grimer                                                                             |
@@ -80,20 +80,20 @@
 
 #### Pugno Veleno ?
 
-| Nome           | Pugno Veleno ? |
-| -------------- | -------------- |
-| Giapponese     | ベノムパンチ   |
-| Tipo           | Buio           |
-| Codice         | EBW01-055      |
-| Pokémon        | Grimer         |
-| Energia        | {D}{D}{D}{D}   |
-| Danni          | 40             |
-| Effetto        |                |
-| In Piedi       | +30 danni.     |
-| A testa in giù |                |
-| Supino         | +30 danni.     |
-| Prono          |                |
-| Sui fianchi    |                |
+| Nome           | Pugno Veleno ?   |
+| -------------- | ---------------- |
+| Giapponese     | ベノムパンチ |
+| Tipo           | Buio             |
+| Codice         | EBW01-055        |
+| Pokémon        | Grimer           |
+| Energia        | {D}{D}{D}{D}     |
+| Danni          | 40               |
+| Effetto        |                  |
+| In Piedi       | +30 danni.       |
+| A testa in giù |                  |
+| Supino         | +30 danni.       |
+| Prono          |                  |
+| Sui fianchi    |                  |
 
 [Pugno Veleno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/01/img_wazacard05.webp)
 
@@ -101,7 +101,7 @@
 
 | Nome           | Scivolata Velenosa ?                                                                |
 | -------------- | ----------------------------------------------------------------------------------- |
-| Giapponese     | ベノムスリップ                                                                      |
+| Giapponese     | ベノムスリップ                                                                  |
 | Tipo           | Buio                                                                                |
 | Codice         | EBW01-057                                                                           |
 | Pokémon        | Grimer                                                                              |
@@ -120,7 +120,7 @@
 
 | Nome           | Bomba Tossica ?                                                                    |
 | -------------- | ---------------------------------------------------------------------------------- |
-| Giapponese     | どくどくボンバー                                                                   |
+| Giapponese     | どくどくボンバー                                                           |
 | Tipo           | Buio                                                                               |
 | Codice         | EBW01-058                                                                          |
 | Pokémon        | Grimer                                                                             |
@@ -139,7 +139,7 @@
 
 | Nome           | Azione Fangosa ?                       |
 | -------------- | -------------------------------------- |
-| Giapponese     | ヘドロタックル                         |
+| Giapponese     | ヘドロタックル                       |
 | Tipo           | Buio                                   |
 | Codice         | EBW01-059                              |
 | Pokémon        | Grimer                                 |
@@ -158,7 +158,7 @@
 
 | Nome           | Veleno Dispettoso ?                                                                  |
 | -------------- | ------------------------------------------------------------------------------------ |
-| Giapponese     | いやがらせベノム                                                                     |
+| Giapponese     | いやがらせベノム                                                                 |
 | Tipo           | Buio                                                                                 |
 | Codice         | EBW01-060                                                                            |
 | Pokémon        | Grimer                                                                               |

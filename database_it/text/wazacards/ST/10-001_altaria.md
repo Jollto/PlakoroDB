@@ -61,20 +61,20 @@
 
 #### Aeroassalto
 
-| Nome           | Aeroassalto  |
-| -------------- | ------------ |
-| Giapponese     | つばめがえし |
-| Tipo           | Volante      |
-| Codice         | STW10-004    |
-| Pokémon        | Altaria      |
-| Energia        | {Y}{Y}{Y}    |
-| Danni          | 30           |
-| Effetto        |              |
-| In Piedi       | +20 danni.   |
-| A testa in giù |              |
-| Supino         | +20 danni.   |
-| Prono          |              |
-| Sui fianchi    |              |
+| Nome           | Aeroassalto      |
+| -------------- | ---------------- |
+| Giapponese     | つばめがえし |
+| Tipo           | Volante          |
+| Codice         | STW10-004        |
+| Pokémon        | Altaria          |
+| Energia        | {Y}{Y}{Y}        |
+| Danni          | 30               |
+| Effetto        |                  |
+| In Piedi       | +20 danni.       |
+| A testa in giù |                  |
+| Supino         | +20 danni.       |
+| Prono          |                  |
+| Sui fianchi    |                  |
 
 [Aeroassalto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard04.webp)
 
@@ -82,7 +82,7 @@
 
 | Nome           | Volo                                                                                                                               |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | そらをとぶ                                                                                                                         |
+| Giapponese     | そらをとぶ                                                                                                                       |
 | Tipo           | Volante                                                                                                                            |
 | Codice         | STW10-005                                                                                                                          |
 | Pokémon        | Altaria                                                                                                                            |
@@ -101,7 +101,7 @@
 
 | Nome           | Aeroattacco                                            |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ゴッドバード                                           |
+| Giapponese     | ゴッドバード                                   |
 | Tipo           | Volante                                                |
 | Codice         | STW10-006                                              |
 | Pokémon        | Altaria                                                |

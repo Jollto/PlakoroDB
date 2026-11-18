@@ -25,7 +25,7 @@
 
 | Nome           | Ondacalda                                             |
 | -------------- | ----------------------------------------------------- |
-| Giapponese     | ヒートアップ                                          |
+| Giapponese     | ヒートアップ                                        |
 | Tipo           | Fuoco                                                 |
 | Codice         | STW02-002                                             |
 | Pokémon        | Charmander                                            |
@@ -61,58 +61,58 @@
 
 #### Turbofuoco
 
-| Nome           | Turbofuoco   |
-| -------------- | ------------ |
-| Giapponese     | ほのおのキバ |
-| Tipo           | Fuoco        |
-| Codice         | STW02-004    |
-| Pokémon        | Charmander   |
-| Energia        | {R}{R}{R}{R} |
-| Danni          | 30           |
-| Effetto        |              |
-| In Piedi       | +30 danni.   |
-| A testa in giù |              |
-| Supino         | +30 danni.   |
-| Prono          | +30 danni.   |
-| Sui fianchi    |              |
+| Nome           | Turbofuoco     |
+| -------------- | -------------- |
+| Giapponese     | ほのおのキバ |
+| Tipo           | Fuoco          |
+| Codice         | STW02-004      |
+| Pokémon        | Charmander     |
+| Energia        | {R}{R}{R}{R}   |
+| Danni          | 30             |
+| Effetto        |                |
+| In Piedi       | +30 danni.     |
+| A testa in giù |                |
+| Supino         | +30 danni.     |
+| Prono          | +30 danni.     |
+| Sui fianchi    |                |
 
 [Turbofuoco](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard04.webp)
 
 #### Tempesta di Fiamme
 
-| Nome           | Tempesta di Fiamme                                           |
-| -------------- | ------------------------------------------------------------ |
-| Giapponese     | フレアストーム                                               |
-| Tipo           | Fuoco                                                        |
-| Codice         | STW02-005                                                    |
-| Pokémon        | Charmander                                                   |
-| Energia        | {C}{C}{C}{C}{C}                                              |
-| Danni          | 20                                                           |
-| Effetto        |                                                              |
-| In Piedi       | +10 danni per ogni energia {R} uscita sui tuoi dadi energia. |
-| A testa in giù |                                                              |
-| Supino         |                                                              |
-| Prono          |                                                              |
-| Sui fianchi    | +10 danni per ogni energia {R} uscita sui tuoi dadi energia. |
+| Nome           | Tempesta di Fiamme                                            |
+| -------------- | ------------------------------------------------------------- |
+| Giapponese     | フレアストーム                                                |
+| Tipo           | Fuoco                                                         |
+| Codice         | STW02-005                                                     |
+| Pokémon        | Charmander                                                    |
+| Energia        | {C}{C}{C}{C}{C}                                               |
+| Danni          | 20                                                            |
+| Effetto        |                                                               |
+| In Piedi       | Questa mossa infligge 10 danni per ogni Energia {R} ottenuta. |
+| A testa in giù |                                                               |
+| Supino         |                                                               |
+| Prono          |                                                               |
+| Sui fianchi    | Questa mossa infligge 10 danni per ogni Energia {R} ottenuta. |
 
 [Tempesta di Fiamme](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard05.webp)
 
 #### Tuonopugno
 
-| Nome           | Tuonopugno     |
-| -------------- | -------------- |
-| Giapponese     | かみなりパンチ |
-| Tipo           | Elettro        |
-| Codice         | STW02-006      |
-| Pokémon        | Charmander     |
-| Energia        | {L}{C}{C}      |
-| Danni          | 10             |
-| Effetto        |                |
-| In Piedi       | +20 danni.     |
-| A testa in giù |                |
-| Supino         | +20 danni.     |
-| Prono          |                |
-| Sui fianchi    | +20 danni.     |
+| Nome           | Tuonopugno       |
+| -------------- | ---------------- |
+| Giapponese     | かみなりパンチ |
+| Tipo           | Elettro          |
+| Codice         | STW02-006        |
+| Pokémon        | Charmander       |
+| Energia        | {L}{C}{C}        |
+| Danni          | 10               |
+| Effetto        |                  |
+| In Piedi       | +20 danni.       |
+| A testa in giù |                  |
+| Supino         | +20 danni.       |
+| Prono          |                  |
+| Sui fianchi    | +20 danni.       |
 
 [Tuonopugno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard06.webp)
 
@@ -141,7 +141,7 @@
 
 | Nome           | Fiamma crescente ?                                     |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | フレイムアップ                                         |
+| Giapponese     | フレイムアップ                                       |
 | Tipo           | Fuoco                                                  |
 | Codice         | PRW01-2-08                                             |
 | Pokémon        | Charmander                                             |

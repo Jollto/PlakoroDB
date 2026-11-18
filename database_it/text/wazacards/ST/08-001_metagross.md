@@ -6,7 +6,7 @@
 
 | Nome           | Raggio     |
 | -------------- | ---------- |
-| Giapponese     | ビーム     |
+| Giapponese     | ビーム   |
 | Tipo           | Acciaio    |
 | Codice         | STW08-001  |
 | Pokémon        | Metagross  |
@@ -25,7 +25,7 @@
 
 | Nome           | Calcolo Quadrupede ?                                                                         |
 | -------------- | -------------------------------------------------------------------------------------------- |
-| Giapponese     | しそくえんざん                                                                               |
+| Giapponese     | しそくえんざん                                                                             |
 | Tipo           | Acciaio                                                                                      |
 | Codice         | STW08-002                                                                                    |
 | Pokémon        | Metagross                                                                                    |
@@ -42,58 +42,58 @@
 
 #### Pressa Ampia ?
 
-| Nome           | Pressa Ampia ? |
-| -------------- | -------------- |
-| Giapponese     | ワイドプレス   |
-| Tipo           | Acciaio        |
-| Codice         | STW08-003      |
-| Pokémon        | Metagross      |
-| Energia        | {M}{M}         |
-| Danni          | 20             |
-| Effetto        |                |
-| In Piedi       |                |
-| A testa in giù |                |
-| Supino         |                |
-| Prono          |                |
-| Sui fianchi    | +30 danni.     |
+| Nome           | Pressa Ampia ?   |
+| -------------- | ---------------- |
+| Giapponese     | ワイドプレス |
+| Tipo           | Acciaio          |
+| Codice         | STW08-003        |
+| Pokémon        | Metagross        |
+| Energia        | {M}{M}           |
+| Danni          | 20               |
+| Effetto        |                  |
+| In Piedi       |                  |
+| A testa in giù |                  |
+| Supino         |                  |
+| Prono          |                  |
+| Sui fianchi    | +30 danni.       |
 
 [Pressa Ampia](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard03.webp)
 
 #### Pestone Diretto ?
 
-| Nome           | Pestone Diretto ?  |
-| -------------- | ------------------ |
-| Giapponese     | ストレートスタンプ |
-| Tipo           | Acciaio            |
-| Codice         | STW08-004          |
-| Pokémon        | Metagross          |
-| Energia        | {M}{M}{M}          |
-| Danni          | 30                 |
-| Effetto        |                    |
-| In Piedi       | +20 danni.         |
-| A testa in giù |                    |
-| Supino         | +20 danni.         |
-| Prono          | +20 danni.         |
-| Sui fianchi    |                    |
+| Nome           | Pestone Diretto ?    |
+| -------------- | -------------------- |
+| Giapponese     | ストレートスタンプ |
+| Tipo           | Acciaio              |
+| Codice         | STW08-004            |
+| Pokémon        | Metagross            |
+| Energia        | {M}{M}{M}            |
+| Danni          | 30                   |
+| Effetto        |                      |
+| In Piedi       | +20 danni.           |
+| A testa in giù |                      |
+| Supino         | +20 danni.           |
+| Prono          | +20 danni.           |
+| Sui fianchi    |                      |
 
 [Pestone Diretto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard04.webp)
 
 #### Meteorpugno
 
-| Nome           | Meteorpugno    |
-| -------------- | -------------- |
-| Giapponese     | コメットパンチ |
-| Tipo           | Acciaio        |
-| Codice         | STW08-005      |
-| Pokémon        | Metagross      |
-| Energia        | {M}{M}{M}      |
-| Danni          | 20             |
-| Effetto        |                |
-| In Piedi       | +40 danni.     |
-| A testa in giù |                |
-| Supino         | +40 danni.     |
-| Prono          |                |
-| Sui fianchi    |                |
+| Nome           | Meteorpugno      |
+| -------------- | ---------------- |
+| Giapponese     | コメットパンチ |
+| Tipo           | Acciaio          |
+| Codice         | STW08-005        |
+| Pokémon        | Metagross        |
+| Energia        | {M}{M}{M}        |
+| Danni          | 20               |
+| Effetto        |                  |
+| In Piedi       | +40 danni.       |
+| A testa in giù |                  |
+| Supino         | +40 danni.       |
+| Prono          |                  |
+| Sui fianchi    |                  |
 
 [Meteorpugno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard05.webp)
 
@@ -101,7 +101,7 @@
 
 | Nome           | Pesobomba                                              |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ヘビーボンバー                                         |
+| Giapponese     | ヘビーボンバー                                   |
 | Tipo           | Acciaio                                                |
 | Codice         | STW08-006                                              |
 | Pokémon        | Metagross                                              |
@@ -120,7 +120,7 @@
 
 | Nome           | Esplosione                                        |
 | -------------- | ------------------------------------------------- |
-| Giapponese     | だいばくはつ                                      |
+| Giapponese     | だいばくはつ                                  |
 | Tipo           | Normale                                           |
 | Codice         | STW08-007                                         |
 | Pokémon        | Metagross                                         |

@@ -156,20 +156,20 @@
 
 #### Rajada do Dragão
 
-| Nome            | Rajada do Dragão                                                                     |
-| --------------- | ------------------------------------------------------------------------------------ |
-| Japonês         | ドラゴンバースト                                                                             |
-| Tipo            | Dragão                                                                               |
-| Código          | EBW02-049                                                                            |
-| Pokémon         | Rayquaza                                                                             |
-| Energia         | {R}{C}{C}{C}                                                                         |
-| Dano            | 10                                                                                   |
-| Efeito          |                                                                                      |
-| Em pé           | Este ataque causa 20 pontos de dano para cada Energia {L} produzida. |
-| De ponta-cabeça |                                                                                      |
-| De costas       | Este ataque causa 20 pontos de dano para cada Energia {L} produzida. |
-| De bruços       |                                                                                      |
-| De lado         |                                                                                      |
+| Nome            | Rajada do Dragão                                                         |
+| --------------- | ------------------------------------------------------------------------ |
+| Japonês         | ドラゴンバースト                                                                 |
+| Tipo            | Dragão                                                                   |
+| Código          | EBW02-049                                                                |
+| Pokémon         | Rayquaza                                                                 |
+| Energia         | {R}{C}{C}{C}                                                             |
+| Dano            | 10                                                                       |
+| Efeito          |                                                                          |
+| Em pé           | This attack does 20 damage for each {L} Energy produced. |
+| De ponta-cabeça |                                                                          |
+| De costas       | This attack does 20 damage for each {L} Energy produced. |
+| De bruços       |                                                                          |
+| De lado         |                                                                          |
 
 [Rajada do Dragão](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
 

@@ -48,22 +48,22 @@
 
 |           P          | While the Charakoro effect of Aggron's move "Tyrant Shield" was active, my opponent successfully passed the Enekoro and Charakoro rolls for Mew's move "Psyshot", and I took 50 damage. <br>Nesse caso, quanto dano eu recebo? |
 | :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 50 de dano. <br>If the damage dealt by the opponent is 40 or less, you will not take any damage; however, if it is 50 or more, you will take the full amount of damage.                                        |
+|           R          | 50 pontos de dano. <br>If the damage dealt by the opponent is 40 or less, you will not take any damage; however, if it is 50 or more, you will take the full amount of damage.                                 |
 | Ref. | [Escudo Tirano](/database_pt/cards/wazacards/EB02/02-004_aggron/EBW02-033.png)<br>[Tiro Psíquico](/database_pt/cards/wazacards/ST/06-001_mew/STW06-005.png)                                                                                    |
 
 #### 8
 
-|           P          | While the Charakoro effect of Aggron's move "Tyrant Shield" was active, I took 30 damage from my oponent's Lucario's move "Aura Jab". <br>Nesse caso, quanto dano eu recebo?                                                                  |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           R          | 50 de dano. <br>As Aggron's weakness is Fighting-type attacks, the damage it takes is 30 + 20 = 50 damage. <br>In this case, as the damage taken will be 50 or more, you will take the full amount of damage. |
-| Ref. | [Escudo Tirano](/database_pt/cards/wazacards/EB02/02-004_aggron/EBW02-033.png)<br>[Soco Aura](/database_pt/cards/wazacards/ST/09-001_lucario/STW09-005.png)                                                                                                   |
+|           P          | While the Charakoro effect of Aggron's move "Tyrant Shield" was active, I took 30 damage from my oponent's Lucario's move "Aura Jab". <br>Nesse caso, quanto dano eu recebo?                                                                         |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 50 pontos de dano. <br>As Aggron's weakness is Fighting-type attacks, the damage it takes is 30 + 20 = 50 damage. <br>In this case, as the damage taken will be 50 or more, you will take the full amount of damage. |
+| Ref. | [Escudo Tirano](/database_pt/cards/wazacards/EB02/02-004_aggron/EBW02-033.png)<br>[Soco Aura](/database_pt/cards/wazacards/ST/09-001_lucario/STW09-005.png)                                                                                                          |
 
 #### 9
 
-|           P          | On the turn after my opponent failed a move, I successfully passed the Enekoro and Charakoro rolls for Aggron's move "Powerful Steel". <br>Nesse caso, quanto dano eu causo ao meu oponente?         |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 60 de dano. <br>In addition to the 20 damage dealt by the move, as Aggron did not take any damage drom a move during the opponent's previous turn, you deal an additional 40 damage. |
-| Ref. | [Aço Poderoso](/database_pt/cards/wazacards/EB02/02-004_aggron/EBW02-038.png)                                                                                                                                        |
+|           P          | On the turn after my opponent failed a move, I successfully passed the Enekoro and Charakoro rolls for Aggron's move "Powerful Steel". <br>Nesse caso, quanto dano eu causo ao meu oponente?                |
+| :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 60 pontos de dano. <br>In addition to the 20 damage dealt by the move, as Aggron did not take any damage drom a move during the opponent's previous turn, you deal an additional 40 damage. |
+| Ref. | [Aço Poderoso](/database_pt/cards/wazacards/EB02/02-004_aggron/EBW02-038.png)                                                                                                                                               |
 
 #### 10
 
@@ -74,17 +74,17 @@
 
 #### 11
 
-|           P          | Usei o golpe "Ultraje Feroz" do Rayquaza. <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>Nesse caso, quanto dano eu causo ao meu oponente?                                      |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 60 de dano. <br>As the Energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage. |
-| Ref. | [Ultraje Feroz](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-044.png)                                                                                                                                                                       |
+|           P          | Usei o golpe "Ultraje Feroz" do Rayquaza. <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>Nesse caso, quanto dano eu causo ao meu oponente?                                             |
+| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           R          | 60 pontos de dano. <br>As the Energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage. |
+| Ref. | [Ultraje Feroz](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-044.png)                                                                                                                                                                              |
 
 #### 12
 
-|           P          | Usei o golpe "Rajada do Dragão" do Rayquaza. <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
-| :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 70 de dano. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} Energy produced, adding 20 x 3 = 60 damage.     |
-| Ref. | [Rajada do Dragão](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                                  |
+|           P          | Usei o golpe "Rajada do Dragão" do Rayquaza. <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>Nesse caso, quanto dano eu causo ao meu oponente?    |
+| :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 70 pontos de dano. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} Energy produced, adding 20 x 3 = 60 damage. |
+| Ref. | [Rajada do Dragão](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                                     |
 
 #### 13
 
@@ -174,14 +174,14 @@
 
 |           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Muralha de Rocha" do Onix. <br>No turno seguinte, meu oponente usou com sucesso o golpe "Investida Elétrica" do Pikachu duas vezes. <br>Nesse caso, quanto dano eu recebo? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           R          | 0 de dano. <br>Cada vez que você é atingido por um golpe, pode reduzir em 30 o dano recebido.                                                                                                                                             |
+|           R          | 0 pontos de dano. <br>Cada vez que você é atingido por um golpe, pode reduzir em 30 o dano recebido.                                                                                                                                      |
 | Ref. | [Muralha de Rocha](/database_pt/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Investida Elétrica](/database_pt/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                     |
 
 #### 26
 
 |           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Muralha de Rocha" do Onix. <br>No turno seguinte, meu oponente foi bem-sucedido duas vezes na rolagem de Charakoro do golpe "Investida Voltaica" do Zapdos. <br>Nesse caso, quanto dano eu recebo? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           R          | 40 de dano. <br>Você pode subtrair 30 do dano total causado por "Investida Voltaica".                                                                                                                                                                             |
+|           R          | 40 pontos de dano. <br>Você pode subtrair 30 do dano total causado por "Investida Voltaica".                                                                                                                                                                      |
 | Ref. | [Muralha de Rocha](/database_pt/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Investida Voltaica](/database_pt/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)                                                                                                                            |
 
 #### 27
@@ -258,21 +258,21 @@
 
 |           P          | Fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Tempestade de Chamas" do Charmander. <br>Tirei 5 símbolos de Energia de Fogo {R}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 70 de dano.                                                                                                                                                                                                            |
+|           R          | 70 pontos de dano.                                                                                                                                                                                                     |
 | Ref. | [Tempestade de Chamas](/database_pt/cards/wazacards/ST/02-001_charmander/STW02-005.png)                                                                                                                                                |
 
 #### 38
 
 |           P          | No meu turno anterior, fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Ataque Carapaça" do Squirtle. <br>No turno seguinte, meu oponente usou o golpe "Chicote de Vinha" do Bulbasaur. <br>A rolagem de Enekoro foi bem-sucedida, mas a rolagem de Charakoro falhou. <br>Nesse caso, quanto dano eu recebo? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 0 de dano.                                                                                                                                                                                                                                                                                                                                                 |
+|           R          | 0 pontos de dano.                                                                                                                                                                                                                                                                                                                                          |
 | Ref. | [Ataque Carapaça](/database_pt/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Chicote de Vinha](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                                                     |
 
 #### 39
 
 |           P          | No meu turno anterior, fui bem-sucedido nas rolagens de Enekoro e Charakoro do golpe "Ataque Carapaça" do Squirtle. <br>No turno seguinte, meu oponente usou o golpe "Chicote de Vinha" do Bulbasaur e foi bem-sucedido nas rolagens de Enekoro e Charakoro. <br>Nesse caso, quanto dano eu recebo? |
 | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 10 de dano.                                                                                                                                                                                                                                                                                                         |
+|           R          | 10 pontos de dano.                                                                                                                                                                                                                                                                                                  |
 | Ref. | [Ataque Carapaça](/database_pt/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Chicote de Vinha](/database_pt/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                              |
 
 #### 40
@@ -312,30 +312,30 @@
 
 #### 45
 
-|           P          | Usei o golpe "Desmantelar" do Eevee. <br>The Enekoro roll showed 3 Flying {Y} Energy, and the Charakoro roll was {s1}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 30 damage.                                                                                                                                                                                   |
-| Ref. | [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                                         |
+|           P          | Usei o golpe "Desmantelar" do Eevee. <br>A rolagem de Enekoro mostrou 3 Energias de Voador {Y}, e a rolagem de Charakoro deu {s1}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | 30 pontos de dano.                                                                                                                                                                                       |
+| Ref. | [Desmantelar](/database_pt/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                                                |
 
 #### 46
 
-|           P          | I used Eevee's move "Best Dash". <br>How many energies of which type do I need to succeed? |
-| :------------------: | :--------------------------------------------------------------------------------------------------------- |
-|           R          | This move succeeds as long as you have 5 energies - any type will do.                      |
-| Ref. | [Best Dash](/database/cards/wazacards/ST/05-001_eevee/STW05-005.png)                                       |
+|           P          | Usei o golpe "Arrancada Total" do Eevee. <br>Quantas Energias, e de qual tipo, preciso para ter sucesso? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------- |
+|           R          | Este golpe tem sucesso desde que você tenha 5 Energias, de qualquer tipo.                                |
+| Ref. | [Arrancada Total](/database_pt/cards/wazacards/ST/05-001_eevee/STW05-005.png)                                            |
 
 #### 47
 
-|           P          | Due to the self-damage effect of Eevee's move "Take Down", Eevee also took damage, and both Pokémon lost all their HP at the same time. <br>Nesse caso, quem ganha e quem perde? |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                        |
-| Ref. | [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                             |
+|           P          | Por causa do dano a si mesmo do golpe "Desmantelar" do Eevee, o Eevee também recebeu dano, e os dois Pokémon perderam todos os PS ao mesmo tempo. <br>Nesse caso, quem ganha e quem perde? |
+| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           R          | Você perde. <br>Se os dois Pokémon perderem todos os PS ao mesmo tempo, o jogador que usou o golpe perde.                                                                  |
+| Ref. | [Desmantelar](/database_pt/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                                  |
 
 #### 48
 
 |           P          | I successfully passed the Enekoro and Charakoro rolls for Mew's move "Psychic". <br>My opponent rolled their Enekoro, and got one Grass {G} Energy, one Fire {R} Energy and one Water {W} Energy. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
 | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 30 damage. <br>Since the number of the most common Energy type is 1, 1 x 10 = 10 damage is added.                                                                                                                                                       |
+|           R          | 30 pontos de dano. <br>Since the number of the most common Energy type is 1, 1 x 10 = 10 damage is added.                                                                                                                                               |
 | Ref. | [Psychic](/database/cards/wazacards/ST/06-001_mew/STW06-006.png)                                                                                                                                                                                                                        |
 
 #### 49
@@ -349,7 +349,7 @@
 
 |           P          | My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Iron Tail", and I took 20 damage. <br>On my next turn, I successfully passed the Enekoro rolls for Mew's move "Reflection". <br>Nesse caso, quanto dano eu causo ao meu oponente? |
 | :------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 10 de dano. <br>"The damage of your opponent's last selected attack" is 20 damage. <br>However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20 - 10 = 10.                                  |
+|           R          | 10 pontos de dano. <br>"The damage of your opponent's last selected attack" is 20 damage. <br>However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20 - 10 = 10.                           |
 | Ref. | [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)                                                                                                                                                         |
 
 ## Sobre as Regras Básicas

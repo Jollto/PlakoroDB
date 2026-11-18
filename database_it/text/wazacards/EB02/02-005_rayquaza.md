@@ -156,20 +156,20 @@
 
 #### Esplosione drago
 
-| Nome           | Esplosione drago                                                         |
-| -------------- | ------------------------------------------------------------------------ |
-| Giapponese     | ドラゴンバースト                                                              |
-| Tipo           | Drago                                                                    |
-| Codice         | EBW02-049                                                                |
-| Pokémon        | Rayquaza                                                                 |
-| Energia        | {R}{C}{C}{C}                                                             |
-| Danni          | 10                                                                       |
-| Effetto        |                                                                          |
-| In Piedi       | This attack does 20 damage for each {L} Energy produced. |
-| A testa in giù |                                                                          |
-| Supino         | This attack does 20 damage for each {L} Energy produced. |
-| Prono          |                                                                          |
-| Sui fianchi    |                                                                          |
+| Nome           | Esplosione drago                                                              |
+| -------------- | ----------------------------------------------------------------------------- |
+| Giapponese     | ドラゴンバースト                                                                   |
+| Tipo           | Drago                                                                         |
+| Codice         | EBW02-049                                                                     |
+| Pokémon        | Rayquaza                                                                      |
+| Energia        | {R}{C}{C}{C}                                                                  |
+| Danni          | 10                                                                            |
+| Effetto        |                                                                               |
+| In Piedi       | Questa mossa infligge 20 danni per ogni Energia {L} ottenuta. |
+| A testa in giù |                                                                               |
+| Supino         | Questa mossa infligge 20 danni per ogni Energia {L} ottenuta. |
+| Prono          |                                                                               |
+| Sui fianchi    |                                                                               |
 
 [Esplosione drago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
 

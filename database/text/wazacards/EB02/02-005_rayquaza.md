@@ -165,9 +165,9 @@
 | Energy    | {R}{C}{C}{C}                                             |
 | Damage    | 10                                                       |
 | Effect    |                                                          |
-| Standing  | This attack does 20 damage for each {L} energy produced. |
+| Standing  | This attack does 20 damage for each {L} Energy produced. |
 | Handstand |                                                          |
-| Back      | This attack does 20 damage for each {L} energy produced. |
+| Back      | This attack does 20 damage for each {L} Energy produced. |
 | Down      |                                                          |
 | Sideways  |                                                          |
 

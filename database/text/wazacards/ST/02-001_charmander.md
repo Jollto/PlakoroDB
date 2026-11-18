@@ -89,11 +89,11 @@
 | Energy    | {C}{C}{C}{C}{C}                                          |
 | Damage    | 20                                                       |
 | Effect    |                                                          |
-| Standing  | This attack does 10 damage for each {R} energy produced. |
+| Standing  | This attack does 10 damage for each {R} Energy produced. |
 | Handstand |                                                          |
 | Back      |                                                          |
 | Down      |                                                          |
-| Sideways  | This attack does 10 damage for each {R} energy produced. |
+| Sideways  | This attack does 10 damage for each {R} Energy produced. |
 
 [Flare Storm](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard05.webp)
 

@@ -132,7 +132,7 @@ This license does **not** apply to either Pokémon's and Plakoro's original artw
     - [faq.md](/database/text/faq.md): Frequently Asked Questions, updated 01/09/2026
 - database_XX : database in that language, same structure as above. Files in English unless translated with [Crowdin](#translating)
 - [extras](/extras/) : extra files, helpful for the project
-  - [icons](/extras/icons/) : images from the official webpage, for Charakoro directions and Enekoro energy.
+  - [icons](/extras/icons/) : images from the official webpage, for Charakoro directions and Enekoro Energy.
   - [playseat](/extras/playseat/) : images of translation for the playseat. Contribution made based on Thai Playseat uploaded on the official webpage.
   - [faq_jp.md](/extras/faq_jp.md) : extracted FAQ from original webpage, to use as reference when it gets updated.
   - [orignal_names.md](/extras/original_names.md) : file with names that could not be copied from an official source, and had to get original names. Used to keep control of translations and helpful to mark "checked and approved" translations after talking with the community (still a long work in progress).

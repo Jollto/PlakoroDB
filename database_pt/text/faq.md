@@ -536,75 +536,75 @@
 
 #### 31
 
-|  P  | Quantos tipos de Energia diferentes aparecem nos Enekoro?                                                                                 |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | There are 9 types. <br>These are Grass, Fire, Water, Electric, Psychic, Fighting, Dark, Steel and Flying. |
+|  P  | Quantos tipos de Energia diferentes aparecem nos Enekoro?                                                                                              |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Existem 9 tipos. <br>São eles: Planta, Fogo, Água, Elétrico, Psíquico, Lutador, Sombrio, Aço e Voador. |
 
 #### 32
 
-|  P  | How many types of Pokémon are listed on Charakoros?                                                                                                        |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | There are 11 types. <br>These are Grass, Fire, Water, Electric, Psychic, Fighting, Dark, Steel, Dragon, Flying and Normal. |
+|  P  | Quantos tipos de Pokémon aparecem nos Charakoro?                                                                                                                        |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Existem 11 tipos. <br>São eles: Planta, Fogo, Água, Elétrico, Psíquico, Lutador, Sombrio, Aço, Dragão, Voador e Normal. |
 
 #### 33
 
-|  P  | What is "Normal" Energy, as shown on Wazacards?                                                                                                                                                                                             |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  R  | It is Energy that counts regardless of its type. <br>For example, if a Wazacard shows 5 "Normal" Energy, the Energy Check is successful as long as there are 5 Energies in total, regardless of their type. |
+|  P  | O que é a Energia "Normal" mostrada nas Wazacards?                                                                                                                                                                                                  |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | É uma Energia que conta independentemente do tipo. <br>Por exemplo, se uma Wazacard mostra 5 Energias "Normal", a verificação de Energia tem sucesso desde que haja 5 Energias no total, independentemente do tipo. |
 
 #### 34
 
-|  P  | Can I choose my Charakoro and Enekoro after seeing my opponent's Charakoro?                             |
+|  P  | Posso escolher meu Charakoro e meus Enekoro depois de ver o Charakoro do meu oponente?                  |
 | :-: | :------------------------------------------------------------------------------------------------------ |
-|  R  | Não, não pode. <br>Charakoros and Enekoros are revealed simultaneously. |
+|  R  | Não, não pode. <br>Os Charakoro e Enekoro são revelados ao mesmo tempo. |
 
 #### 35
 
-|  P  | Can I customise my Enekoro after seeing my opponent's Charakoro?                                        |
+|  P  | Posso personalizar meus Enekoro depois de ver o Charakoro do meu oponente?                              |
 | :-: | :------------------------------------------------------------------------------------------------------ |
-|  R  | Não, não pode. <br>Charakoros and Enekoros are revealed simultaneously. |
+|  R  | Não, não pode. <br>Os Charakoro e Enekoro são revelados ao mesmo tempo. |
 
 #### 36
 
-|  P  | Can I change my Charakoro during a battle?                                                                                                            |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Não, não pode. <br>Even if it is the same Pokémon, you cannot switch to a Charakoro with a different pose mid-battle. |
+|  P  | Posso trocar meu Charakoro durante uma batalha?                                                                                                                     |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  R  | Não, não pode. <br>Mesmo que seja o mesmo Pokémon, você não pode trocar no meio da batalha por um Charakoro com uma pose diferente. |
 
 #### 37
 
-|  P  | I would like to add an Enekoro mid-battle to use more Enekoro due to a move's effect. <br>In this case, do I need to show the opponent the Enekoro I wish to add during battle preparation? |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | No, you do not need to show them during battle preparation. <br>When you wish to increase your Enekoro, please show your opponent the additional Enekoro you wish to add.   |
+|  P  | Quero adicionar um Enekoro no meio da batalha para usar mais Enekoro por causa do efeito de um golpe. <br>Nesse caso, preciso mostrar ao oponente, durante a preparação da batalha, o Enekoro que quero adicionar? |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Não, não precisa mostrá-lo durante a preparação da batalha. <br>Quando quiser aumentar seus Enekoro, mostre ao seu oponente o Enekoro adicional que você quer adicionar.                           |
 
 #### 38
 
-|  P  | I added more Enekoros during the battle to roll more of them, due to a move’s effect. <br>In this case, can I choose to use the added Enekoros even on turns when the effect that increases the number of Enekoros is not in effect? |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Não, não pode. <br>On turns when the effect that increases the number of Enekoros is not in effect, you must roll the 3 Enekoros you showed your opponent during battle preparation.                                 |
+|  P  | Adicionei mais Enekoro durante a batalha para rolar mais deles, por causa do efeito de um golpe. <br>Nesse caso, posso escolher usar os Enekoro adicionados mesmo em turnos em que o efeito que aumenta o número de Enekoro não está ativo? |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Não, não pode. <br>Nos turnos em que o efeito que aumenta o número de Enekoro não está ativo, você precisa rolar os três Enekoro que mostrou ao seu oponente durante a preparação da batalha.                               |
 
 #### 39
 
-|  P  | I added more Enekoros during the battle to roll more of them, due to a move’s effect. <br>If the effect that allows me to use more Enekoro takes effect again on a different turn, do I have to use the same Enekoro? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  R  | No, you do not have to use the same ones. <br>Please show your opponent the Enekoro each time you add them.                                                                                           |
+|  P  | Adicionei mais Enekoro durante a batalha para rolar mais deles, por causa do efeito de um golpe. <br>Se o efeito que me permite usar mais Enekoro voltar a valer em outro turno, preciso usar os mesmos Enekoro? |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Não, não precisa usar os mesmos. <br>Mostre ao seu oponente os Enekoro toda vez que adicioná-los.                                                                                                |
 
 #### 40
 
-|  P  | Can I choose my Charako and Enekoro types after looking at my opponent's Wazacards?                                                                                                                                                                                                    |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Não, não pode. <br>You must reveal your Charakoro and Enekoro to each other at the same time while preparing for the battle. <br>Once all preparations for the battle are complete, turn all 4 Wazacards face up and start the battle. |
+|  P  | Posso escolher os tipos do meu Charakoro e dos meus Enekoro depois de olhar as Wazacards do meu oponente?                                                                                                                                                                                          |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Não, não pode. <br>Vocês precisam revelar o Charakoro e os Enekoro um ao outro ao mesmo tempo durante a preparação da batalha. <br>Quando toda a preparação da batalha estiver concluída, virem as quatro Wazacards para cima e comecem a batalha. |
 
 #### 41
 
-|  P  | What should I do if the number of Enekoro I can roll becomes 0 due to a move's effect or a similar reason?                                                                                                     |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | Even on a turn where you have 0 Enekoro to roll, select the move you wish to use for that turn and roll only the Charakoro. <br>After the outcome is known, the turn will end. |
+|  P  | O que devo fazer se o número de Enekoro que posso rolar ficar 0 por causa do efeito de um golpe ou de outro motivo?                                                                                           |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  R  | Mesmo num turno em que você tem 0 Enekoro para rolar, escolha o golpe que quer usar nesse turno e role apenas o Charakoro. <br>After the outcome is known, the turn will end. |
 
 #### 42
 
 |  P  | Due to a Charakoro effect, I would like to swap out my custom chips during a battle. <br>In this case, do I need to show the opponent the custom chips I wish to swap during battle preparation? |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  R  | No, you do not need to show them during battle preparation. <br>When you wish to swap your custom chips, please show your opponent the custom chips you wish to swap.            |
+|  R  | Não, não precisa mostrá-lo durante a preparação da batalha. <br>When you wish to swap your custom chips, please show your opponent the custom chips you wish to swap.            |
 
 #### 43
 

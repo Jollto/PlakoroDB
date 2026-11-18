@@ -76,14 +76,14 @@
 
 |           P          | Usei o golpe "Ultraje Feroz" do Rayquaza. <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>Nesse caso, quanto dano eu causo ao meu oponente?                                      |
 | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 60 de dano. <br>As the energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage. |
+|           R          | 60 de dano. <br>As the Energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage. |
 | Ref. | [Ultraje Feroz](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-044.png)                                                                                                                                                                       |
 
 #### 12
 
 |           P          | Usei o golpe "Rajada do Dragão" do Rayquaza. <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
 | :------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|           R          | 70 de dano. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} energy produced, adding 20 x 3 = 60 damage.     |
+|           R          | 70 de dano. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} Energy produced, adding 20 x 3 = 60 damage.     |
 | Ref. | [Rajada do Dragão](/database_pt/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                                  |
 
 #### 13
@@ -312,7 +312,7 @@
 
 #### 45
 
-|           P          | Usei o golpe "Desmantelar" do Eevee. <br>The Enekoro roll showed 3 Flying {Y} energy, and the Charakoro roll was {s1}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
+|           P          | Usei o golpe "Desmantelar" do Eevee. <br>The Enekoro roll showed 3 Flying {Y} Energy, and the Charakoro roll was {s1}. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
 | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | 30 damage.                                                                                                                                                                                   |
 | Ref. | [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                                         |
@@ -333,7 +333,7 @@
 
 #### 48
 
-|           P          | I successfully passed the Enekoro and Charakoro rolls for Mew's move "Psychic". <br>My opponent rolled their Enekoro, and got one Grass {G} energy, one Fire {R} energy and one Water {W} energy. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
+|           P          | I successfully passed the Enekoro and Charakoro rolls for Mew's move "Psychic". <br>My opponent rolled their Enekoro, and got one Grass {G} Energy, one Fire {R} Energy and one Water {W} Energy. <br>Nesse caso, quanto dano eu causo ao meu oponente? |
 | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |           R          | 30 damage. <br>Since the number of the most common Energy type is 1, 1 x 10 = 10 damage is added.                                                                                                                                                       |
 | Ref. | [Psychic](/database/cards/wazacards/ST/06-001_mew/STW06-006.png)                                                                                                                                                                                                                        |
@@ -358,7 +358,7 @@
 
 |  P  | What is an Enekoro?                                                                                                             |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------ |
-|  R  | It's a die that shows the energy needed to use a move. <br>You roll it during battle to use it. |
+|  R  | It's a die that shows the Energy needed to use a move. <br>You roll it during battle to use it. |
 
 #### 2
 
@@ -464,9 +464,9 @@
 
 #### 19
 
-|  P  | Are there any tips for using moves?                                                                                                                                             |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  R  | Moves with a low energy cost are more likely to succeed. Se seus golpes não estiverem acertando, tente usar golpes com custo de Energia 1 ou 2. |
+|  P  | Are there any tips for using moves?                                                                                                                                   |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  R  | Moves with a low Energy cost are more likely to succeed. If your moves aren't landing, try using moves with an Energy cost of 1 or 2. |
 
 #### 20
 

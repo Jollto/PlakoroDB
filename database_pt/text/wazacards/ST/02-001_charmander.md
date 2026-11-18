@@ -80,20 +80,20 @@
 
 #### Tempestade de Chamas ?
 
-| Nome            | Tempestade de Chamas ?                                                               |
-| --------------- | ------------------------------------------------------------------------------------ |
-| Japonês         | フレアストーム                                                                              |
-| Tipo            | Fogo                                                                                 |
-| Código          | STW02-005                                                                            |
-| Pokémon         | Charmander                                                                           |
-| Energia         | {C}{C}{C}{C}{C}                                                                      |
-| Dano            | 20                                                                                   |
-| Efeito          |                                                                                      |
-| Em pé           | Este ataque causa 10 pontos de dano para cada Energia {R} produzida. |
-| De ponta-cabeça |                                                                                      |
-| De costas       |                                                                                      |
-| De bruços       |                                                                                      |
-| De lado         | Este ataque causa 10 pontos de dano para cada Energia {R} produzida. |
+| Nome            | Tempestade de Chamas ?                                                   |
+| --------------- | ------------------------------------------------------------------------ |
+| Japonês         | フレアストーム                                                                  |
+| Tipo            | Fogo                                                                     |
+| Código          | STW02-005                                                                |
+| Pokémon         | Charmander                                                               |
+| Energia         | {C}{C}{C}{C}{C}                                                          |
+| Dano            | 20                                                                       |
+| Efeito          |                                                                          |
+| Em pé           | This attack does 10 damage for each {R} Energy produced. |
+| De ponta-cabeça |                                                                          |
+| De costas       |                                                                          |
+| De bruços       |                                                                          |
+| De lado         | This attack does 10 damage for each {R} Energy produced. |
 
 [Tempestade de Chamas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st02/01/img_wazacard05.webp)
 

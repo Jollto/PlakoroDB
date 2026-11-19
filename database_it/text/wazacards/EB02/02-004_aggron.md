@@ -23,20 +23,20 @@
 
 #### Testata d'acciaio
 
-| Nome           | Testata d'acciaio  |
-| -------------- | ------------------ |
-| Giapponese     | はがねのずつき |
-| Tipo           | Acciaio            |
-| Codice         | EBW02-032          |
-| Pokémon        | Aggron             |
-| Energia        | {M}{M}             |
-| Danni          | 10                 |
-| Effetto        |                    |
-| In Piedi       | +20 danni.         |
-| A testa in giù |                    |
-| Supino         |                    |
-| Prono          |                    |
-| Sui fianchi    | +20 danni.         |
+| Nome           | Testata d'acciaio |
+| -------------- | ----------------- |
+| Giapponese     | はがねのずつき    |
+| Tipo           | Acciaio           |
+| Codice         | EBW02-032         |
+| Pokémon        | Aggron            |
+| Energia        | {M}{M}            |
+| Danni          | 10                |
+| Effetto        |                   |
+| In Piedi       | +20 danni.        |
+| A testa in giù |                   |
+| Supino         |                   |
+| Prono          |                   |
+| Sui fianchi    | +20 danni.        |
 
 [Testata d'acciaio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
 
@@ -44,7 +44,7 @@
 
 | Nome           | Scudo tiranno ?                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | タイラントシールド                                                                                                         |
+| Giapponese     | タイラントシールド                                                                                                           |
 | Tipo           | Acciaio                                                                                                                      |
 | Codice         | EBW02-033                                                                                                                    |
 | Pokémon        | Aggron                                                                                                                       |
@@ -63,7 +63,7 @@
 
 | Nome           | Assalto                                |
 | -------------- | -------------------------------------- |
-| Giapponese     | とつげき                             |
+| Giapponese     | とつげき                               |
 | Tipo           | Acciaio                                |
 | Codice         | EBW02-034                              |
 | Pokémon        | Aggron                                 |
@@ -82,7 +82,7 @@
 
 | Nome           | Rocciatomba                                                                                            |
 | -------------- | ------------------------------------------------------------------------------------------------------ |
-| Giapponese     | がんせきふうじ                                                                                     |
+| Giapponese     | がんせきふうじ                                                                                         |
 | Tipo           | Lotta                                                                                                  |
 | Codice         | EBW02-035                                                                                              |
 | Pokémon        | Aggron                                                                                                 |
@@ -101,7 +101,7 @@
 
 | Nome           | Urto       |
 | -------------- | ---------- |
-| Giapponese     | ぶつかる |
+| Giapponese     | ぶつかる   |
 | Tipo           | Acciaio    |
 | Codice         | EBW02-036  |
 | Pokémon        | Aggron     |
@@ -120,7 +120,7 @@
 
 | Nome           | Corpo d'acciaio ?                                                                                                            |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | こうてつボディ                                                                                                           |
+| Giapponese     | こうてつボディ                                                                                                               |
 | Tipo           | Acciaio                                                                                                                      |
 | Codice         | EBW02-037                                                                                                                    |
 | Pokémon        | Aggron                                                                                                                       |
@@ -139,7 +139,7 @@
 
 | Nome           | Acciaio potente ?                                                                                   |
 | -------------- | --------------------------------------------------------------------------------------------------- |
-| Giapponese     | パワフルスチール                                                                                  |
+| Giapponese     | パワフルスチール                                                                                    |
 | Tipo           | Acciaio                                                                                             |
 | Codice         | EBW02-038                                                                                           |
 | Pokémon        | Aggron                                                                                              |
@@ -156,38 +156,38 @@
 
 #### Metaltestata
 
-| Nome           | Metaltestata     |
-| -------------- | ---------------- |
-| Giapponese     | アイアンヘッド |
-| Tipo           | Acciaio          |
-| Codice         | EBW02-039        |
-| Pokémon        | Aggron           |
-| Energia        | {M}{M}{M}        |
-| Danni          | 30               |
-| Effetto        |                  |
-| In Piedi       | +20 danni.       |
-| A testa in giù |                  |
-| Supino         | +20 danni.       |
-| Prono          | +20 danni.       |
-| Sui fianchi    |                  |
+| Nome           | Metaltestata   |
+| -------------- | -------------- |
+| Giapponese     | アイアンヘッド |
+| Tipo           | Acciaio        |
+| Codice         | EBW02-039      |
+| Pokémon        | Aggron         |
+| Energia        | {M}{M}{M}      |
+| Danni          | 30             |
+| Effetto        |                |
+| In Piedi       | +20 danni.     |
+| A testa in giù |                |
+| Supino         | +20 danni.     |
+| Prono          | +20 danni.     |
+| Sui fianchi    |                |
 
 [Metaltestata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard09.webp)
 
 #### Gelopugno
 
-| Nome           | Gelopugno        |
-| -------------- | ---------------- |
-| Giapponese     | れいとうパンチ |
-| Tipo           | Acqua            |
-| Codice         | EBW02-040        |
-| Pokémon        | Aggron           |
-| Energia        | {W}{C}{C}{C}     |
-| Danni          | 20               |
-| Effetto        |                  |
-| In Piedi       | +20 danni.       |
-| A testa in giù |                  |
-| Supino         |                  |
-| Prono          |                  |
-| Sui fianchi    | +20 danni.       |
+| Nome           | Gelopugno      |
+| -------------- | -------------- |
+| Giapponese     | れいとうパンチ |
+| Tipo           | Acqua          |
+| Codice         | EBW02-040      |
+| Pokémon        | Aggron         |
+| Energia        | {W}{C}{C}{C}   |
+| Danni          | 20             |
+| Effetto        |                |
+| In Piedi       | +20 danni.     |
+| A testa in giù |                |
+| Supino         |                |
+| Prono          |                |
+| Sui fianchi    | +20 danni.     |
 
 [Gelopugno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard10.webp)

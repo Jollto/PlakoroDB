@@ -63,7 +63,7 @@
 
 | Nombre      | Sacudida Dragón                         |
 | ----------- | --------------------------------------- |
-| Japonés     | まわしげり                              |
+| Japonés     | ドラゴンブラスト                        |
 | Tipo        | Dragón                                  |
 | Código      | STW11-004                               |
 | Pokémon     | Dragonite                               |

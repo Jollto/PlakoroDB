@@ -97,9 +97,9 @@
 
 [Brick Break](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
 
-#### Scissors Charge ?
+#### Pincers Charge ?
 
-| Name      | Scissors Charge ?                                                |
+| Name      | Pincers Charge ?                                                 |
 | --------- | ---------------------------------------------------------------- |
 | Japanese  | チャージばさみ                                                   |
 | Type      | Grass                                                            |
@@ -114,7 +114,7 @@
 | Down      |                                                                  |
 | Sideways  |                                                                  |
 
-[Scissors Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
+[Pincers Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 
 #### Berserk Swing ?
 
@@ -154,9 +154,9 @@
 
 [Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
-#### Deadly Scissors ?
+#### Deadly Pincers ?
 
-| Name      | Deadly Scissors ?                |
+| Name      | Deadly Pincers ?                 |
 | --------- | -------------------------------- |
 | Japanese  | ひっさつばさみ                   |
 | Type      | Grass                            |
@@ -171,7 +171,7 @@
 | Down      |                                  |
 | Sideways  |                                  |
 
-[Deadly Scissors](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
+[Deadly Pincers](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
 #### Submission
 

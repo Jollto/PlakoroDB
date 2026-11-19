@@ -4,20 +4,20 @@
 
 #### Avvolgi Gas
 
-| Nome           | Avvolgi Gas      |
-| -------------- | ---------------- |
-| Giapponese     | ガスでつつむ |
-| Tipo           | Buio             |
-| Codice         | STW07-001        |
-| Pokémon        | Gengar           |
-| Energia        | {D}              |
-| Danni          | 10               |
-| Effetto        |                  |
-| In Piedi       | +10 danni.       |
-| A testa in giù |                  |
-| Supino         |                  |
-| Prono          |                  |
-| Sui fianchi    | +10 danni.       |
+| Nome           | Avvolgi Gas  |
+| -------------- | ------------ |
+| Giapponese     | ガスでつつむ |
+| Tipo           | Buio         |
+| Codice         | STW07-001    |
+| Pokémon        | Gengar       |
+| Energia        | {D}          |
+| Danni          | 10           |
+| Effetto        |              |
+| In Piedi       | +10 danni.   |
+| A testa in giù |              |
+| Supino         |              |
+| Prono          |              |
+| Sui fianchi    | +10 danni.   |
 
 [Avvolgi Gas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard01.webp)
 
@@ -63,7 +63,7 @@
 
 | Nome           | Legame d'Ombra                                                        |
 | -------------- | --------------------------------------------------------------------- |
-| Giapponese     | かげしばり                                                        |
+| Giapponese     | かげしばり                                                            |
 | Tipo           | Buio                                                                  |
 | Codice         | STW07-004                                                             |
 | Pokémon        | Gengar                                                                |
@@ -80,20 +80,20 @@
 
 #### Fangobomba
 
-| Nome           | Fangobomba           |
-| -------------- | -------------------- |
-| Giapponese     | ヘドロばくだん |
-| Tipo           | Buio                 |
-| Codice         | STW07-005            |
-| Pokémon        | Gengar               |
-| Energia        | {D}{D}{D}            |
-| Danni          | 30                   |
-| Effetto        |                      |
-| In Piedi       | +20 danni.           |
-| A testa in giù |                      |
-| Supino         | +20 danni.           |
-| Prono          |                      |
-| Sui fianchi    | +20 danni.           |
+| Nome           | Fangobomba     |
+| -------------- | -------------- |
+| Giapponese     | ヘドロばくだん |
+| Tipo           | Buio           |
+| Codice         | STW07-005      |
+| Pokémon        | Gengar         |
+| Energia        | {D}{D}{D}      |
+| Danni          | 30             |
+| Effetto        |                |
+| In Piedi       | +20 danni.     |
+| A testa in giù |                |
+| Supino         | +20 danni.     |
+| Prono          |                |
+| Sui fianchi    | +20 danni.     |
 
 [Fangobomba](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard05.webp)
 
@@ -118,20 +118,20 @@
 
 #### Psiconda
 
-| Nome           | Psiconda         |
-| -------------- | ---------------- |
-| Giapponese     | サイコウェーブ |
-| Tipo           | Psico            |
-| Codice         | STW07-007        |
-| Pokémon        | Gengar           |
-| Energia        | {P}{C}{C}{C}     |
-| Danni          | 30               |
-| Effetto        |                  |
-| In Piedi       | +40 danni.       |
-| A testa in giù |                  |
-| Supino         |                  |
-| Prono          |                  |
-| Sui fianchi    |                  |
+| Nome           | Psiconda       |
+| -------------- | -------------- |
+| Giapponese     | サイコウェーブ |
+| Tipo           | Psico          |
+| Codice         | STW07-007      |
+| Pokémon        | Gengar         |
+| Energia        | {P}{C}{C}{C}   |
+| Danni          | 30             |
+| Effetto        |                |
+| In Piedi       | +40 danni.     |
+| A testa in giù |                |
+| Supino         |                |
+| Prono          |                |
+| Sui fianchi    |                |
 
 [Psiconda](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard07.webp)
 

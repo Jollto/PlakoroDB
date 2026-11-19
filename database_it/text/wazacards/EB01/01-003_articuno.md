@@ -6,7 +6,7 @@
 
 | Nome           | Ala Gelata                                                         |
 | -------------- | ------------------------------------------------------------------ |
-| Giapponese     | アイスウイング                                                   |
+| Giapponese     | アイスウイング                                                     |
 | Tipo           | Acqua                                                              |
 | Codice         | EBW01-021                                                          |
 | Pokémon        | Articuno                                                           |
@@ -25,7 +25,7 @@
 
 | Nome           | Lama Gelida ?                                                         |
 | -------------- | --------------------------------------------------------------------- |
-| Giapponese     | いてつくやいば                                                      |
+| Giapponese     | いてつくやいば                                                        |
 | Tipo           | Acqua                                                                 |
 | Codice         | EBW01-022                                                             |
 | Pokémon        | Articuno                                                              |
@@ -42,20 +42,20 @@
 
 #### Tempesta Bufera ?
 
-| Nome           | Tempesta Bufera ?        |
-| -------------- | ------------------------ |
-| Giapponese     | ブリザードストーム |
-| Tipo           | Acqua                    |
-| Codice         | EBW01-023                |
-| Pokémon        | Articuno                 |
-| Energia        | {W}{W}{W}{W}             |
-| Danni          | 30                       |
-| Effetto        |                          |
-| In Piedi       | +30 danni.               |
-| A testa in giù |                          |
-| Supino         | +30 danni.               |
-| Prono          |                          |
-| Sui fianchi    | +30 danni.               |
+| Nome           | Tempesta Bufera ?  |
+| -------------- | ------------------ |
+| Giapponese     | ブリザードストーム |
+| Tipo           | Acqua              |
+| Codice         | EBW01-023          |
+| Pokémon        | Articuno           |
+| Energia        | {W}{W}{W}{W}       |
+| Danni          | 30                 |
+| Effetto        |                    |
+| In Piedi       | +30 danni.         |
+| A testa in giù |                    |
+| Supino         | +30 danni.         |
+| Prono          |                    |
+| Sui fianchi    | +30 danni.         |
 
 [Tempesta Bufera](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard03.webp)
 
@@ -99,20 +99,20 @@
 
 #### Picchiata Gelida ?
 
-| Nome           | Picchiata Gelida ?   |
-| -------------- | -------------------- |
-| Giapponese     | フリーズダイブ |
-| Tipo           | Acqua                |
-| Codice         | EBW01-026            |
-| Pokémon        | Articuno             |
-| Energia        | {W}                  |
-| Danni          | 10                   |
-| Effetto        |                      |
-| In Piedi       | +20 danni.           |
-| A testa in giù |                      |
-| Supino         | +20 danni.           |
-| Prono          |                      |
-| Sui fianchi    |                      |
+| Nome           | Picchiata Gelida ? |
+| -------------- | ------------------ |
+| Giapponese     | フリーズダイブ     |
+| Tipo           | Acqua              |
+| Codice         | EBW01-026          |
+| Pokémon        | Articuno           |
+| Energia        | {W}                |
+| Danni          | 10                 |
+| Effetto        |                    |
+| In Piedi       | +20 danni.         |
+| A testa in giù |                    |
+| Supino         | +20 danni.         |
+| Prono          |                    |
+| Sui fianchi    |                    |
 
 [Picchiata Gelida](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard06.webp)
 
@@ -139,7 +139,7 @@
 
 | Nome           | Soffio Freddo                                                      |
 | -------------- | ------------------------------------------------------------------ |
-| Giapponese     | コールドブレス                                                 |
+| Giapponese     | コールドブレス                                                     |
 | Tipo           | Acqua                                                              |
 | Codice         | EBW01-028                                                          |
 | Pokémon        | Articuno                                                           |
@@ -158,7 +158,7 @@
 
 | Nome           | Purogelo                                                                                             |
 | -------------- | ---------------------------------------------------------------------------------------------------- |
-| Giapponese     | ぜったいれいど                                                                                   |
+| Giapponese     | ぜったいれいど                                                                                       |
 | Tipo           | Acqua                                                                                                |
 | Codice         | EBW01-029                                                                                            |
 | Pokémon        | Articuno                                                                                             |
@@ -177,7 +177,7 @@
 
 | Nome           | Volo                                                                                     |
 | -------------- | ---------------------------------------------------------------------------------------- |
-| Giapponese     | そらをとぶ                                                                             |
+| Giapponese     | そらをとぶ                                                                               |
 | Tipo           | Volante                                                                                  |
 | Codice         | EBW01-030                                                                                |
 | Pokémon        | Articuno                                                                                 |

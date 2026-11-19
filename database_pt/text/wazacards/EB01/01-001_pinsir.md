@@ -97,9 +97,9 @@
 
 [Quebra-telha](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
 
-#### Investida de Pinças ?
+#### Pincers Charge ?
 
-| Nome            | Investida de Pinças ?                             |
+| Nome            | Pincers Charge ?                                  |
 | --------------- | ------------------------------------------------- |
 | Japonês         | チャージばさみ                                    |
 | Tipo            | Planta                                            |
@@ -114,7 +114,7 @@
 | De bruços       |                                                   |
 | De lado         |                                                   |
 
-[Investida de Pinças](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
+[Pincers Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 
 #### Giro Enfurecido ?
 
@@ -154,9 +154,9 @@
 
 [Carga Indomável](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
-#### Pinça Fatal ?
+#### Deadly Pincers ?
 
-| Nome            | Pinça Fatal ?                               |
+| Nome            | Deadly Pincers ?                            |
 | --------------- | ------------------------------------------- |
 | Japonês         | ひっさつばさみ                              |
 | Tipo            | Planta                                      |
@@ -171,7 +171,7 @@
 | De bruços       |                                             |
 | De lado         |                                             |
 
-[Pinça Fatal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
+[Deadly Pincers](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
 #### Submissão
 

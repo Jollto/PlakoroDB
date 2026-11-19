@@ -63,7 +63,7 @@
 
 | Nome            | Explosão do Dragão                          |
 | --------------- | ------------------------------------------- |
-| Japonês         | まわしげり                                  |
+| Japonês         | ドラゴンブラスト                            |
 | Tipo            | Dragão                                      |
 | Código          | STW11-004                                   |
 | Pokémon         | Dragonite                                   |

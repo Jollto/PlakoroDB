@@ -4,39 +4,39 @@
 
 #### Lampo Elettrico ?
 
-| Nome           | Lampo Elettrico ?    |
-| -------------- | -------------------- |
-| Giapponese     | でんじフラッシュ |
-| Tipo           | Elettro              |
-| Codice         | EBW01-031            |
-| Pokémon        | Zapdos               |
-| Energia        | {L}{L}               |
-| Danni          | 20                   |
-| Effetto        |                      |
-| In Piedi       | +30 danni.           |
-| A testa in giù |                      |
-| Supino         | +30 danni.           |
-| Prono          |                      |
-| Sui fianchi    |                      |
+| Nome           | Lampo Elettrico ? |
+| -------------- | ----------------- |
+| Giapponese     | でんじフラッシュ  |
+| Tipo           | Elettro           |
+| Codice         | EBW01-031         |
+| Pokémon        | Zapdos            |
+| Energia        | {L}{L}            |
+| Danni          | 20                |
+| Effetto        |                   |
+| In Piedi       | +30 danni.        |
+| A testa in giù |                   |
+| Supino         | +30 danni.        |
+| Prono          |                   |
+| Sui fianchi    |                   |
 
 [Lampo Elettrico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
 
 #### Tuonoshock
 
-| Nome           | Tuonoshock       |
-| -------------- | ---------------- |
-| Giapponese     | でんきショック |
-| Tipo           | Elettro          |
-| Codice         | EBW01-032        |
-| Pokémon        | Zapdos           |
-| Energia        | {L}              |
-| Danni          | 10               |
-| Effetto        |                  |
-| In Piedi       | +10 danni.       |
-| A testa in giù |                  |
-| Supino         | +10 danni.       |
-| Prono          |                  |
-| Sui fianchi    | +10 danni.       |
+| Nome           | Tuonoshock     |
+| -------------- | -------------- |
+| Giapponese     | でんきショック |
+| Tipo           | Elettro        |
+| Codice         | EBW01-032      |
+| Pokémon        | Zapdos         |
+| Energia        | {L}            |
+| Danni          | 10             |
+| Effetto        |                |
+| In Piedi       | +10 danni.     |
+| A testa in giù |                |
+| Supino         | +10 danni.     |
+| Prono          |                |
+| Sui fianchi    | +10 danni.     |
 
 [Tuonoshock](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard02.webp)
 
@@ -44,7 +44,7 @@
 
 | Nome           | Carica Volt ?                                          |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ボルトラッシュ                                       |
+| Giapponese     | ボルトラッシュ                                         |
 | Tipo           | Elettro                                                |
 | Codice         | EBW01-033                                              |
 | Pokémon        | Zapdos                                                 |
@@ -61,39 +61,39 @@
 
 #### Aeroassalto
 
-| Nome           | Aeroassalto      |
-| -------------- | ---------------- |
-| Giapponese     | つばめがえし |
-| Tipo           | Volante          |
-| Codice         | EBW01-034        |
-| Pokémon        | Zapdos           |
-| Energia        | {Y}              |
-| Danni          | 20               |
-| Effetto        |                  |
-| In Piedi       | +20 danni.       |
-| A testa in giù |                  |
-| Supino         | +20 danni.       |
-| Prono          |                  |
-| Sui fianchi    |                  |
+| Nome           | Aeroassalto  |
+| -------------- | ------------ |
+| Giapponese     | つばめがえし |
+| Tipo           | Volante      |
+| Codice         | EBW01-034    |
+| Pokémon        | Zapdos       |
+| Energia        | {Y}          |
+| Danni          | 20           |
+| Effetto        |              |
+| In Piedi       | +20 danni.   |
+| A testa in giù |              |
+| Supino         | +20 danni.   |
+| Prono          |              |
+| Sui fianchi    |              |
 
 [Aeroassalto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard04.webp)
 
 #### Ala Crepitante ?
 
-| Nome           | Ala Crepitante ?       |
-| -------------- | ---------------------- |
-| Giapponese     | バリバリウイング |
-| Tipo           | Volante                |
-| Codice         | EBW01-035              |
-| Pokémon        | Zapdos                 |
-| Energia        | {Y}{C}{C}{C}{C}        |
-| Danni          | 40                     |
-| Effetto        |                        |
-| In Piedi       | +40 danni.             |
-| A testa in giù |                        |
-| Supino         |                        |
-| Prono          |                        |
-| Sui fianchi    | +40 danni.             |
+| Nome           | Ala Crepitante ? |
+| -------------- | ---------------- |
+| Giapponese     | バリバリウイング |
+| Tipo           | Volante          |
+| Codice         | EBW01-035        |
+| Pokémon        | Zapdos           |
+| Energia        | {Y}{C}{C}{C}{C}  |
+| Danni          | 40               |
+| Effetto        |                  |
+| In Piedi       | +40 danni.       |
+| A testa in giù |                  |
+| Supino         |                  |
+| Prono          |                  |
+| Sui fianchi    | +40 danni.       |
 
 [Ala Crepitante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard05.webp)
 
@@ -101,7 +101,7 @@
 
 | Nome           | Doppio Tuono ?                                         |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ダブルサンダー                                   |
+| Giapponese     | ダブルサンダー                                         |
 | Tipo           | Elettro                                                |
 | Codice         | EBW01-036                                              |
 | Pokémon        | Zapdos                                                 |
@@ -139,7 +139,7 @@
 
 | Nome           | Scarica    |
 | -------------- | ---------- |
-| Giapponese     | ほうでん |
+| Giapponese     | ほうでん   |
 | Tipo           | Elettro    |
 | Codice         | EBW01-038  |
 | Pokémon        | Zapdos     |
@@ -158,7 +158,7 @@
 
 | Nome           | Catena di Tuono                                                           |
 | -------------- | ------------------------------------------------------------------------- |
-| Giapponese     | サンダーチェイン                                                        |
+| Giapponese     | サンダーチェイン                                                          |
 | Tipo           | Elettro                                                                   |
 | Codice         | EBW01-039                                                                 |
 | Pokémon        | Zapdos                                                                    |
@@ -177,7 +177,7 @@
 
 | Nome           | Volo                                                                                     |
 | -------------- | ---------------------------------------------------------------------------------------- |
-| Giapponese     | そらをとぶ                                                                             |
+| Giapponese     | そらをとぶ                                                                               |
 | Tipo           | Volante                                                                                  |
 | Codice         | EBW01-040                                                                                |
 | Pokémon        | Zapdos                                                                                   |

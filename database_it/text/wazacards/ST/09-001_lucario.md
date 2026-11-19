@@ -44,7 +44,7 @@
 
 | Nome           | Aurapugno                                     |
 | -------------- | --------------------------------------------- |
-| Giapponese     | はどうナックル                              |
+| Giapponese     | はどうナックル                                |
 | Tipo           | Lotta                                         |
 | Codice         | STW09-003                                     |
 | Pokémon        | Lucario                                       |
@@ -61,20 +61,20 @@
 
 #### Calciorullo
 
-| Nome           | Calciorullo  |
-| -------------- | ------------ |
-| Giapponese     | まわしげり |
-| Tipo           | Lotta        |
-| Codice         | STW09-004    |
-| Pokémon        | Lucario      |
-| Energia        | {F}{F}{F}    |
-| Danni          | 20           |
-| Effetto        |              |
-| In Piedi       | +30 danni.   |
-| A testa in giù |              |
-| Supino         |              |
-| Prono          |              |
-| Sui fianchi    | +30 danni.   |
+| Nome           | Calciorullo |
+| -------------- | ----------- |
+| Giapponese     | まわしげり  |
+| Tipo           | Lotta       |
+| Codice         | STW09-004   |
+| Pokémon        | Lucario     |
+| Energia        | {F}{F}{F}   |
+| Danni          | 20          |
+| Effetto        |             |
+| In Piedi       | +30 danni.  |
+| A testa in giù |             |
+| Supino         |             |
+| Prono          |             |
+| Sui fianchi    | +30 danni.  |
 
 [Calciorullo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st09/01/img_wazacard04.webp)
 
@@ -82,7 +82,7 @@
 
 | Nome           | Aurastoccata ?                                                                                                         |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | オーラづき                                                                                                           |
+| Giapponese     | オーラづき                                                                                                             |
 | Tipo           | Lotta                                                                                                                  |
 | Codice         | STW09-005                                                                                                              |
 | Pokémon        | Lucario                                                                                                                |
@@ -101,7 +101,7 @@
 
 | Nome           | Forzasfera                                    |
 | -------------- | --------------------------------------------- |
-| Giapponese     | はどうだん                                |
+| Giapponese     | はどうだん                                    |
 | Tipo           | Lotta                                         |
 | Codice         | STW09-006                                     |
 | Pokémon        | Lucario                                       |

@@ -25,7 +25,7 @@
 
 | Nome           | Dragopulsar                                            |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | りゅうのはどう                                       |
+| Giapponese     | りゅうのはどう                                         |
 | Tipo           | Drago                                                  |
 | Codice         | EBW02-042                                              |
 | Pokémon        | Rayquaza                                               |
@@ -44,7 +44,7 @@
 
 | Nome           | Vastoimpatto                                                                                           |
 | -------------- | ------------------------------------------------------------------------------------------------------ |
-| Giapponese     | ワイドブレイカー                                                                                   |
+| Giapponese     | ワイドブレイカー                                                                                       |
 | Tipo           | Drago                                                                                                  |
 | Codice         | EBW02-043                                                                                              |
 | Pokémon        | Rayquaza                                                                                               |
@@ -61,20 +61,20 @@
 
 #### Furia scatenata ?
 
-| Nome           | Furia scatenata ?        |
-| -------------- | ------------------------ |
-| Giapponese     | げきりんランページ |
-| Tipo           | Drago                    |
-| Codice         | EBW02-044                |
-| Pokémon        | Rayquaza                 |
-| Energia        | {R}{R}{R}{L}{L}          |
-| Danni          | 60                       |
-| Effetto        |                          |
-| In Piedi       | +60 danni.               |
-| A testa in giù |                          |
-| Supino         | +60 danni.               |
-| Prono          |                          |
-| Sui fianchi    |                          |
+| Nome           | Furia scatenata ?  |
+| -------------- | ------------------ |
+| Giapponese     | げきりんランページ |
+| Tipo           | Drago              |
+| Codice         | EBW02-044          |
+| Pokémon        | Rayquaza           |
+| Energia        | {R}{R}{R}{L}{L}    |
+| Danni          | 60                 |
+| Effetto        |                    |
+| In Piedi       | +60 danni.         |
+| A testa in giù |                    |
+| Supino         | +60 danni.         |
+| Prono          |                    |
+| Sui fianchi    |                    |
 
 [Furia scatenata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
 
@@ -82,7 +82,7 @@
 
 | Nome           | Fiamma drago                           |
 | -------------- | -------------------------------------- |
-| Giapponese     | ドラゴンフレイム                   |
+| Giapponese     | ドラゴンフレイム                       |
 | Tipo           | Fuoco                                  |
 | Codice         | EBW02-045                              |
 | Pokémon        | Rayquaza                               |
@@ -118,39 +118,39 @@
 
 #### Dragartigli
 
-| Nome           | Dragartigli        |
-| -------------- | ------------------ |
-| Giapponese     | ドラゴンクロー |
-| Tipo           | Drago              |
-| Codice         | EBW02-047          |
-| Pokémon        | Rayquaza           |
-| Energia        | {R}{L}             |
-| Danni          | 20                 |
-| Effetto        |                    |
-| In Piedi       | +30 danni.         |
-| A testa in giù |                    |
-| Supino         | +30 danni.         |
-| Prono          |                    |
-| Sui fianchi    |                    |
+| Nome           | Dragartigli    |
+| -------------- | -------------- |
+| Giapponese     | ドラゴンクロー |
+| Tipo           | Drago          |
+| Codice         | EBW02-047      |
+| Pokémon        | Rayquaza       |
+| Energia        | {R}{L}         |
+| Danni          | 20             |
+| Effetto        |                |
+| In Piedi       | +30 danni.     |
+| A testa in giù |                |
+| Supino         | +30 danni.     |
+| Prono          |                |
+| Sui fianchi    |                |
 
 [Dragartigli](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard07.webp)
 
 #### Codadrago
 
-| Nome           | Codadrago          |
-| -------------- | ------------------ |
-| Giapponese     | ドラゴンテール |
-| Tipo           | Drago              |
-| Codice         | EBW02-048          |
-| Pokémon        | Rayquaza           |
-| Energia        | {R}{L}{L}          |
-| Danni          | 30                 |
-| Effetto        |                    |
-| In Piedi       | +20 danni.         |
-| A testa in giù |                    |
-| Supino         |                    |
-| Prono          |                    |
-| Sui fianchi    | +20 danni.         |
+| Nome           | Codadrago      |
+| -------------- | -------------- |
+| Giapponese     | ドラゴンテール |
+| Tipo           | Drago          |
+| Codice         | EBW02-048      |
+| Pokémon        | Rayquaza       |
+| Energia        | {R}{L}{L}      |
+| Danni          | 30             |
+| Effetto        |                |
+| In Piedi       | +20 danni.     |
+| A testa in giù |                |
+| Supino         |                |
+| Prono          |                |
+| Sui fianchi    | +20 danni.     |
 
 [Codadrago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard08.webp)
 
@@ -158,7 +158,7 @@
 
 | Nome           | Esplosione drago                                              |
 | -------------- | ------------------------------------------------------------- |
-| Giapponese     | ドラゴンバースト                                        |
+| Giapponese     | ドラゴンバースト                                              |
 | Tipo           | Drago                                                         |
 | Codice         | EBW02-049                                                     |
 | Pokémon        | Rayquaza                                                      |

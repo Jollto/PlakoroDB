@@ -23,20 +23,20 @@
 
 #### Vento di Fata
 
-| Nome           | Vento di Fata    |
-| -------------- | ---------------- |
-| Giapponese     | ようせいのかぜ |
-| Tipo           | Psico            |
-| Codice         | EBW02-012        |
-| Pokémon        | Tinkatink        |
-| Energia        | {P}{P}           |
-| Danni          | 10               |
-| Effetto        |                  |
-| In Piedi       | +30 danni.       |
-| A testa in giù |                  |
-| Supino         |                  |
-| Prono          |                  |
-| Sui fianchi    | +30 danni.       |
+| Nome           | Vento di Fata  |
+| -------------- | -------------- |
+| Giapponese     | ようせいのかぜ |
+| Tipo           | Psico          |
+| Codice         | EBW02-012      |
+| Pokémon        | Tinkatink      |
+| Energia        | {P}{P}         |
+| Danni          | 10             |
+| Effetto        |                |
+| In Piedi       | +30 danni.     |
+| A testa in giù |                |
+| Supino         |                |
+| Prono          |                |
+| Sui fianchi    | +30 danni.     |
 
 [Vento di Fata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard02.webp)
 
@@ -63,7 +63,7 @@
 
 | Nome           | Carineria                                                                                              |
 | -------------- | ------------------------------------------------------------------------------------------------------ |
-| Giapponese     | じゃれつく                                                                                           |
+| Giapponese     | じゃれつく                                                                                             |
 | Tipo           | Psico                                                                                                  |
 | Codice         | EBW02-014                                                                                              |
 | Pokémon        | Tinkatink                                                                                              |
@@ -101,7 +101,7 @@
 
 | Nome           | Bastonata  |
 | -------------- | ---------- |
-| Giapponese     | どつく   |
+| Giapponese     | どつく     |
 | Tipo           | Psico      |
 | Codice         | EBW02-016  |
 | Pokémon        | Tinkatink  |
@@ -120,7 +120,7 @@
 
 | Nome           | Assorbibacio                   |
 | -------------- | ------------------------------ |
-| Giapponese     | ドレインキッス               |
+| Giapponese     | ドレインキッス                 |
 | Tipo           | Psico                          |
 | Codice         | EBW02-017                      |
 | Pokémon        | Tinkatink                      |
@@ -158,7 +158,7 @@
 
 | Nome           | Pestone selvaggio ?                    |
 | -------------- | -------------------------------------- |
-| Giapponese     | ワイルドスタンプ                   |
+| Giapponese     | ワイルドスタンプ                       |
 | Tipo           | Psico                                  |
 | Codice         | EBW02-019                              |
 | Pokémon        | Tinkatink                              |
@@ -175,19 +175,19 @@
 
 #### Impatto Prodigioso ?
 
-| Nome           | Impatto Prodigioso ?   |
-| -------------- | ---------------------- |
-| Giapponese     | ワンダーインパクト |
-| Tipo           | Psico                  |
-| Codice         | EBW02-020              |
-| Pokémon        | Tinkatink              |
-| Energia        | {P}{P}{P}{P}           |
-| Danni          | 10                     |
-| Effetto        |                        |
-| In Piedi       | +60 danni.             |
-| A testa in giù |                        |
-| Supino         | +60 danni.             |
-| Prono          | +60 danni.             |
-| Sui fianchi    |                        |
+| Nome           | Impatto Prodigioso ? |
+| -------------- | -------------------- |
+| Giapponese     | ワンダーインパクト   |
+| Tipo           | Psico                |
+| Codice         | EBW02-020            |
+| Pokémon        | Tinkatink            |
+| Energia        | {P}{P}{P}{P}         |
+| Danni          | 10                   |
+| Effetto        |                      |
+| In Piedi       | +60 danni.           |
+| A testa in giù |                      |
+| Supino         | +60 danni.           |
+| Prono          | +60 danni.           |
+| Sui fianchi    |                      |
 
 [Impatto Prodigioso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard10.webp)

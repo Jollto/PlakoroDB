@@ -6,7 +6,7 @@
 
 | Nome           | Ala Gelata                                                                         |
 | -------------- | ---------------------------------------------------------------------------------- |
-| Giapponese     | アイスウイング                                                                           |
+| Giapponese     | アイスウイング                                                                            |
 | Tipo           | Acqua                                                                              |
 | Codice         | EBW01-021                                                                          |
 | Pokémon        | Articuno                                                                           |
@@ -25,7 +25,7 @@
 
 | Nome           | Lama Gelida ?                                                                         |
 | -------------- | ------------------------------------------------------------------------------------- |
-| Giapponese     | いてつくやいば                                                                              |
+| Giapponese     | いてつくやいば                                                                               |
 | Tipo           | Acqua                                                                                 |
 | Codice         | EBW01-022                                                                             |
 | Pokémon        | Articuno                                                                              |
@@ -44,7 +44,7 @@
 
 | Nome           | Tempesta Bufera ?          |
 | -------------- | -------------------------- |
-| Giapponese     | ブリザードストーム               |
+| Giapponese     | ブリザードストーム                  |
 | Tipo           | Acqua                      |
 | Codice         | EBW01-023                  |
 | Pokémon        | Articuno                   |
@@ -101,7 +101,7 @@
 
 | Nome           | Picchiata Gelida ?         |
 | -------------- | -------------------------- |
-| Giapponese     | フリーズダイブ                 |
+| Giapponese     | フリーズダイブ                    |
 | Tipo           | Acqua                      |
 | Codice         | EBW01-026                  |
 | Pokémon        | Articuno                   |
@@ -139,7 +139,7 @@
 
 | Nome           | Soffio Freddo                                                                      |
 | -------------- | ---------------------------------------------------------------------------------- |
-| Giapponese     | コールドブレス                                                                          |
+| Giapponese     | コールドブレス                                                                            |
 | Tipo           | Acqua                                                                              |
 | Codice         | EBW01-028                                                                          |
 | Pokémon        | Articuno                                                                           |
@@ -158,7 +158,7 @@
 
 | Nome           | Purogelo                                                                                                                             |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Giapponese     | ぜったいれいど                                                                                                                            |
+| Giapponese     | ぜったいれいど                                                                                                                              |
 | Tipo           | Acqua                                                                                                                                |
 | Codice         | EBW01-029                                                                                                                            |
 | Pokémon        | Articuno                                                                                                                             |
@@ -177,7 +177,7 @@
 
 | Nome           | Volo                                                                                                     |
 | -------------- | -------------------------------------------------------------------------------------------------------- |
-| Giapponese     | そらをとぶ                                                                                                   |
+| Giapponese     | そらをとぶ                                                                                                    |
 | Tipo           | Volante                                                                                                  |
 | Codice         | EBW01-030                                                                                                |
 | Pokémon        | Articuno                                                                                                 |

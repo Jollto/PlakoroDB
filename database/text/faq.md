@@ -186,10 +186,10 @@
 
 #### 27
 
-|   Q   | I successfully passed the Enekoro and Charakoro rolls for Pinsir's move "Scissors Charge". <br>How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied? <br>Also, who chooses which Enekoro to add?                                                                                         |
+|   Q   | I successfully passed the Enekoro and Charakoro rolls for Pinsir's move "Pincers Charge". <br>How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied? <br>Also, who chooses which Enekoro to add?                                                                                          |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | After rolling 3 Enekoro, choose 1 of them and roll it again. <br>All the Energy revealed during this process counts as the Energy produced this turn. <br>If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time. <br>The player rolling the Enekoro chooses which one to add. |
-|   R   | [Scissors Charge](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)                                                                                                                                                                                                                                                    |
+|   R   | [Pincers Charge](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-006.png)                                                                                                                                                                                                                                                     |
 
 #### 28
 

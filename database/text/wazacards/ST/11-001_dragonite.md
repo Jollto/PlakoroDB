@@ -63,7 +63,7 @@
 
 | Name      | Dragon Blast                     |
 | --------- | -------------------------------- |
-| Japanese  | まわしげり                       |
+| Japanese  | ドラゴンブラスト                 |
 | Type      | Dragon                           |
 | Code      | STW11-004                        |
 | Pokémon   | Dragonite                        |

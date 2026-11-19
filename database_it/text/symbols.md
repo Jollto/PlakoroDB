@@ -5,7 +5,7 @@
 |   Tipo  | Giapponese | Lettera |                                              Simbolo                                              |
 | :-----: | :--------: | :-----: | :-----------------------------------------------------------------------------------------------: |
 |   Erba  |    草（くさ）   |   {G}   |    ![Erba](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/grass.webp)    |
-|  Fuoco  |    Fuoco   |   {R}   |    ![Fuoco](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/fire.webp)    |
+|  Fuoco  |   炎（ほのお）   |   {R}   |    ![Fuoco](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/fire.webp)    |
 |  Acqua  |    水（みず）   |   {W}   |    ![Acqua](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/water.webp)   |
 | Elettro |   雷（かみなり）  |   {L}   | ![Elettro](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/electric.webp) |
 |  Psico  |   超（ちょう）   |   {P}   |   ![Psico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/psychic.webp)  |
@@ -22,10 +22,10 @@ Per quanto riguarda la tipologia delle Energie, utilizzerò la nomenclatura del 
 
 ## Orientamento
 
-|  Orientamento  |    Tag   | Giapponese |                                                                                                          Simbolo                                                                                                          |
-| :------------: | :------: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    In Piedi    |   {st}   |     立ち     |                                                          ![In piedi](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/standing.webp)                                                          |
-| A testa in giù |   {hs}   |    さかだち   |                                                       ![A testa in giù](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/handstand.webp)                                                      |
-|     Supino     |   {ba}   |    あおむけ    |                                                             ![Supino](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/back.webp)                                                             |
-|      Prono     |   {do}   |    うつぶせ   |                                                              ![Prono](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/down.webp)                                                             |
-|   Sui fianchi  | {s1}{s2} |     横向き    | ![Sui fianchi](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape01.webp)![Sideways02](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape02.webp) |
+|  Orientamento  |    Tag   | Giapponese |                                                                                                             Simbolo                                                                                                            |
+| :------------: | :------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    In Piedi    |   {st}   |     立ち     |                                                             ![In piedi](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/standing.webp)                                                            |
+| A testa in giù |   {hs}   |    さかだち   |                                                         ![A testa in giù](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/handstand.webp)                                                         |
+|     Supino     |   {ba}   |    あおむけ    |                                                                ![Supino](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/back.webp)                                                               |
+|      Prono     |   {do}   |    うつぶせ   |                                                                ![Prono](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/down.webp)                                                                |
+|   Sui fianchi  | {s1}{s2} |     横向き    | ![Sui fianchi01](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape01.webp)![Sui fianchi01](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape02.webp) |

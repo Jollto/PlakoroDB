@@ -13,9 +13,9 @@ Original translations for moves, due to being new Pokémon moves, or moves for o
 | EBW01-001  | しゅうちゅう         | Focus              | Concentrar           | Concentração          |
 | EBW01-002  | たえる               | Resist             | Resistir             | Resistência           |
 | EBW01-003  | つのでたたく         | _Horn Beat_        | Golpe Cuerno         | Pancada de Chifre     |
-| EBW01-006  | チャージばさみ       | _Scissors Charge_  | _Carga Tijeras_      | Investida de Pinças   |
+| EBW01-006  | チャージばさみ       | _Pincers Charge_   | _Carga Pinzas_       | Investida de Pinças   |
 | EBW01-007  | ぎゃくじょうスイング | Berserk Swing      | Golpe Cólera         | Giro Enfurecido       |
-| EBW01-009  | ひっさつばさみ       | _Deadly Scissors_  | Tijera Mortal        | Pinça Fatal           |
+| EBW01-009  | ひっさつばさみ       | _Deadly Pincers_   | Pinzas Mortales      | Pinça Fatal           |
 | EBW01-019  | ウイングラッシュ     | Wing Rush          | Ala Rápida           | Investida Alada       |
 | EBW01-022  | いてつくやいば       | Freezing Blade     | Hoja Heladora        | Lâmina Congelante     |
 | EBW01-023  | ブリザードストーム   | Blizzard Storm     | _Tormenta Ventisca_  | Tempestade de Nevasca |

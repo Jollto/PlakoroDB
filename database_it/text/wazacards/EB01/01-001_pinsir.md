@@ -97,9 +97,9 @@
 
 [Breccia](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
 
-#### Pincers Charge ?
+#### Tenaglia Carica ?
 
-| Nome           | Pincers Charge ?                                      |
+| Nome           | Tenaglia Carica ?                                     |
 | -------------- | ----------------------------------------------------- |
 | Giapponese     | チャージばさみ                                        |
 | Tipo           | Erba                                                  |
@@ -114,7 +114,7 @@
 | Prono          |                                                       |
 | Sui fianchi    |                                                       |
 
-[Pincers Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
+[Tenaglia Carica](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 
 #### Oscillata Furiosa ?
 
@@ -154,24 +154,24 @@
 
 [Assalto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
-#### Deadly Pincers ?
+#### Tenaglia Letale ?
 
-| Nome           | Deadly Pincers ? |
-| -------------- | ---------------- |
-| Giapponese     | ひっさつばさみ   |
-| Tipo           | Erba             |
-| Codice         | EBW01-009        |
-| Pokémon        | Pinsir           |
-| Energia        | {G}{G}{G}{G}     |
-| Danni          | 20               |
-| Effetto        |                  |
-| In Piedi       | +80 danni.       |
-| A testa in giù |                  |
-| Supino         |                  |
-| Prono          |                  |
-| Sui fianchi    |                  |
+| Nome           | Tenaglia Letale ? |
+| -------------- | ----------------- |
+| Giapponese     | ひっさつばさみ    |
+| Tipo           | Erba              |
+| Codice         | EBW01-009         |
+| Pokémon        | Pinsir            |
+| Energia        | {G}{G}{G}{G}      |
+| Danni          | 20                |
+| Effetto        |                   |
+| In Piedi       | +80 danni.        |
+| A testa in giù |                   |
+| Supino         |                   |
+| Prono          |                   |
+| Sui fianchi    |                   |
 
-[Deadly Pincers](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
+[Tenaglia Letale](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
 #### Sottomissione
 

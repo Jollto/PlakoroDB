@@ -82,7 +82,7 @@
 
 | Nome           | Assalto                                                |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | とつげき                                                  |
+| Giapponese     | とつげき                                                   |
 | Tipo           | Erba                                                   |
 | Codice         | STW01-005                                              |
 | Pokémon        | Bulbasaur                                              |

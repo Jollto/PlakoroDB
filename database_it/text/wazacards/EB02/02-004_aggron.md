@@ -63,7 +63,7 @@
 
 | Nome           | Assalto                                                |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | とつげき                                                  |
+| Giapponese     | とつげき                                                   |
 | Tipo           | Acciaio                                                |
 | Codice         | EBW02-034                                              |
 | Pokémon        | Aggron                                                 |

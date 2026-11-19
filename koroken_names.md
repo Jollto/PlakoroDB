@@ -1,6 +1,6 @@
 ## Existing Names in TCG
 
-| Japanese           | English         | Koroken English  | Link                                                                        |
+| Japanese           | PlakoroDB       | Koroken          | Link                                                                        |
 | :----------------- | :-------------- | :--------------- | :-------------------------------------------------------------------------- |
 | とつげき           | Reckless Charge | Assault          | https://bulbapedia.bulbagarden.net/wiki/Category:Cards_with_Reckless_Charge |
 | シェルアタック     | Shell Attack    | Shell Attack     | https://bulbapedia.bulbagarden.net/wiki/Category:Cards_with_Shell_Attack    |

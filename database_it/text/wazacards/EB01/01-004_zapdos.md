@@ -6,7 +6,7 @@
 
 | Nome           | Lampo Elettrico ?          |
 | -------------- | -------------------------- |
-| Giapponese     | でんじフラッシュ                 |
+| Giapponese     | でんじフラッシュ                   |
 | Tipo           | Elettro                    |
 | Codice         | EBW01-031                  |
 | Pokémon        | Zapdos                     |
@@ -25,7 +25,7 @@
 
 | Nome           | Tuonoshock                 |
 | -------------- | -------------------------- |
-| Giapponese     | でんきショック                   |
+| Giapponese     | でんきショック                    |
 | Tipo           | Elettro                    |
 | Codice         | EBW01-032                  |
 | Pokémon        | Zapdos                     |
@@ -44,7 +44,7 @@
 
 | Nome           | Carica Volt ?                                                          |
 | -------------- | ---------------------------------------------------------------------- |
-| Giapponese     | ボルトラッシュ                                                               |
+| Giapponese     | ボルトラッシュ                                                                |
 | Tipo           | Elettro                                                                |
 | Codice         | EBW01-033                                                              |
 | Pokémon        | Zapdos                                                                 |
@@ -63,7 +63,7 @@
 
 | Nome           | Aeroassalto                |
 | -------------- | -------------------------- |
-| Giapponese     | つばめがえし                   |
+| Giapponese     | つばめがえし                     |
 | Tipo           | Volante                    |
 | Codice         | EBW01-034                  |
 | Pokémon        | Zapdos                     |
@@ -82,7 +82,7 @@
 
 | Nome           | Ala Crepitante ?           |
 | -------------- | -------------------------- |
-| Giapponese     | バリバリウイング                |
+| Giapponese     | バリバリウイング                   |
 | Tipo           | Volante                    |
 | Codice         | EBW01-035                  |
 | Pokémon        | Zapdos                     |
@@ -101,7 +101,7 @@
 
 | Nome           | Doppio Tuono ?                                                         |
 | -------------- | ---------------------------------------------------------------------- |
-| Giapponese     | ダブルサンダー                                                             |
+| Giapponese     | ダブルサンダー                                                                |
 | Tipo           | Elettro                                                                |
 | Codice         | EBW01-036                                                              |
 | Pokémon        | Zapdos                                                                 |
@@ -139,7 +139,7 @@
 
 | Nome           | Scarica                    |
 | -------------- | -------------------------- |
-| Giapponese     | ほうでん                      |
+| Giapponese     | ほうでん                       |
 | Tipo           | Elettro                    |
 | Codice         | EBW01-038                  |
 | Pokémon        | Zapdos                     |
@@ -158,7 +158,7 @@
 
 | Nome           | Catena di Tuono                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | サンダーチェイン                                                                                                                                    |
+| Giapponese     | サンダーチェイン                                                                                                                                     |
 | Tipo           | Elettro                                                                                                                                      |
 | Codice         | EBW01-039                                                                                                                                    |
 | Pokémon        | Zapdos                                                                                                                                       |
@@ -177,7 +177,7 @@
 
 | Nome           | Volo                                                                                                     |
 | -------------- | -------------------------------------------------------------------------------------------------------- |
-| Giapponese     | そらをとぶ                                                                                                   |
+| Giapponese     | そらをとぶ                                                                                                    |
 | Tipo           | Volante                                                                                                  |
 | Codice         | EBW01-040                                                                                                |
 | Pokémon        | Zapdos                                                                                                   |

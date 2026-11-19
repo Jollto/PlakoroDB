@@ -319,10 +319,10 @@
 
 #### 46
 
-|           P          | Usei o golpe "Arrancada Total" do Eevee. <br>How many Energies of which type do I need to succeed? |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------- |
-|           R          | This move succeeds as long as you have 5 Energies - any type will do.                              |
-| Ref. | [Arrancada Total](/database_pt/cards/wazacards/ST/05-001_eevee/STW05-005.png)                                      |
+|           P          | Usei o golpe "Arrancada Total" do Eevee. <br>Quantas Energias, e de qual tipo, preciso para ter sucesso? |
+| :------------------: | :----------------------------------------------------------------------------------------------------------------------- |
+|           R          | Este golpe tem sucesso desde que você tenha 5 Energias, de qualquer tipo.                                |
+| Ref. | [Arrancada Total](/database_pt/cards/wazacards/ST/05-001_eevee/STW05-005.png)                                            |
 
 #### 47
 

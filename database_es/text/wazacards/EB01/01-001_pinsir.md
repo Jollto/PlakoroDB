@@ -97,9 +97,9 @@
 
 [Demolición](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
 
-#### Carga Tijeras ?
+#### Carga Pinzas ?
 
-| Nombre      | Carga Tijeras ?                                                      |
+| Nombre      | Carga Pinzas ?                                                       |
 | ----------- | -------------------------------------------------------------------- |
 | Japonés     | チャージばさみ                                                       |
 | Tipo        | Planta                                                               |
@@ -114,7 +114,7 @@
 | Boca abajo  |                                                                      |
 | De lado     |                                                                      |
 
-[Carga Tijeras](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
+[Carga Pinzas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 
 #### Golpe Cólera ?
 
@@ -154,9 +154,9 @@
 
 [Carga Descuidada](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard08.webp)
 
-#### Tijera Mortal ?
+#### Pinzas Mortales ?
 
-| Nombre      | Tijera Mortal ?                         |
+| Nombre      | Pinzas Mortales ?                       |
 | ----------- | --------------------------------------- |
 | Japonés     | ひっさつばさみ                          |
 | Tipo        | Planta                                  |
@@ -171,7 +171,7 @@
 | Boca abajo  |                                         |
 | De lado     |                                         |
 
-[Tijera Mortal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
+[Pinzas Mortales](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard09.webp)
 
 #### Sumisión
 

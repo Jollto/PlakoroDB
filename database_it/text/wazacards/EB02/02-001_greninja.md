@@ -6,7 +6,7 @@
 
 | Nome           | Cascata                    |
 | -------------- | -------------------------- |
-| Giapponese     | たきのぼり                     |
+| Giapponese     | たきのぼり                      |
 | Tipo           | Acqua                      |
 | Codice         | EBW02-001                  |
 | Pokémon        | Greninja                   |
@@ -25,7 +25,7 @@
 
 | Nome           | Taglio mutevole ?                                                                                                                               |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | へんげぎり                                                                                                                                         |
+| Giapponese     | へんげぎり                                                                                                                                           |
 | Tipo           | Acqua                                                                                                                                           |
 | Codice         | EBW02-002                                                                                                                                       |
 | Pokémon        | Greninja                                                                                                                                        |
@@ -44,7 +44,7 @@
 
 | Nome           | Acqualame                                                               |
 | -------------- | ----------------------------------------------------------------------- |
-| Giapponese     | みずしゅりけん                                                                |
+| Giapponese     | みずしゅりけん                                                                 |
 | Tipo           | Acqua                                                                   |
 | Codice         | EBW02-003                                                               |
 | Pokémon        | Greninja                                                                |
@@ -63,7 +63,7 @@
 
 | Nome           | Furtivombra                |
 | -------------- | -------------------------- |
-| Giapponese     | かげうち                      |
+| Giapponese     | かげうち                       |
 | Tipo           | Psico                      |
 | Codice         | EBW02-004                  |
 | Pokémon        | Greninja                   |
@@ -82,7 +82,7 @@
 
 | Nome           | Nottesferza                |
 | -------------- | -------------------------- |
-| Giapponese     | つじぎり                     |
+| Giapponese     | つじぎり                       |
 | Tipo           | Buio                       |
 | Codice         | EBW02-005                  |
 | Pokémon        | Greninja                   |
@@ -120,7 +120,7 @@
 
 | Nome           | Taglio nebbioso            |
 | -------------- | -------------------------- |
-| Giapponese     | かすみぎり                     |
+| Giapponese     | かすみぎり                      |
 | Tipo           | Acqua                      |
 | Codice         | EBW02-007                  |
 | Pokémon        | Greninja                   |
@@ -139,7 +139,7 @@
 
 | Nome           | Tecnica clone ?                                                         |
 | -------------- | ----------------------------------------------------------------------- |
-| Giapponese     | ぶんしんのじゅつ                                                              |
+| Giapponese     | ぶんしんのじゅつ                                                                |
 | Tipo           | Acqua                                                                   |
 | Codice         | EBW02-008                                                               |
 | Pokémon        | Greninja                                                                |

@@ -177,7 +177,7 @@
 
 | Nome           | Colpo Basso                |
 | -------------- | -------------------------- |
-| Giapponese     | けたぐり                      |
+| Giapponese     | けたぐり                       |
 | Tipo           | Lotta                      |
 | Codice         | EBW02-010                  |
 | Pokémon        | Greninja                   |

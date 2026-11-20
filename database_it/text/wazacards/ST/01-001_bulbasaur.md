@@ -44,7 +44,7 @@
 
 | Nome           | Parassiseme                                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | やどりぎのタネ                                                                                                                                                |
+| Giapponese     | やどりぎのタネ                                                                                                                                                  |
 | Tipo           | Erba                                                                                                                                                     |
 | Codice         | STW01-003                                                                                                                                                |
 | Pokémon        | Bulbasaur                                                                                                                                                |
@@ -63,7 +63,7 @@
 
 | Nome           | Laccioerboso                                                                                                       |
 | -------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Giapponese     | くさむすび                                                                                                             |
+| Giapponese     | くさむすび                                                                                                              |
 | Tipo           | Erba                                                                                                               |
 | Codice         | STW01-004                                                                                                          |
 | Pokémon        | Bulbasaur                                                                                                          |
@@ -101,7 +101,7 @@
 
 | Nome           | Gigassorbimento                                |
 | -------------- | ---------------------------------------------- |
-| Giapponese     | ギガドレイン                                      |
+| Giapponese     | ギガドレイン                                         |
 | Tipo           | Erba                                           |
 | Codice         | STW01-006                                      |
 | Pokémon        | Bulbasaur                                      |
@@ -120,7 +120,7 @@
 
 | Nome           | Acidobomba                 |
 | -------------- | -------------------------- |
-| Giapponese     | アシッドボム                   |
+| Giapponese     | アシッドボム                     |
 | Tipo           | Buio                       |
 | Codice         | STW01-007                  |
 | Pokémon        | Bulbasaur                  |

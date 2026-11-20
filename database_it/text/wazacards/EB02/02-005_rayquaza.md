@@ -44,7 +44,7 @@
 
 | Nome           | Vastoimpatto                                                                                                           |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | ワイドブレイカー                                                                                                             |
+| Giapponese     | ワイドブレイカー                                                                                                               |
 | Tipo           | Drago                                                                                                                  |
 | Codice         | EBW02-043                                                                                                              |
 | Pokémon        | Rayquaza                                                                                                               |
@@ -63,7 +63,7 @@
 
 | Nome           | Furia scatenata ?          |
 | -------------- | -------------------------- |
-| Giapponese     | げきりんランページ               |
+| Giapponese     | げきりんランページ                  |
 | Tipo           | Drago                      |
 | Codice         | EBW02-044                  |
 | Pokémon        | Rayquaza                   |
@@ -120,7 +120,7 @@
 
 | Nome           | Dragartigli                |
 | -------------- | -------------------------- |
-| Giapponese     | ドラゴンクロー                  |
+| Giapponese     | ドラゴンクロー                    |
 | Tipo           | Drago                      |
 | Codice         | EBW02-047                  |
 | Pokémon        | Rayquaza                   |
@@ -139,7 +139,7 @@
 
 | Nome           | Codadrago                  |
 | -------------- | -------------------------- |
-| Giapponese     | ドラゴンテール                  |
+| Giapponese     | ドラゴンテール                    |
 | Tipo           | Drago                      |
 | Codice         | EBW02-048                  |
 | Pokémon        | Rayquaza                   |
@@ -158,7 +158,7 @@
 
 | Nome           | Esplosione drago                                                              |
 | -------------- | ----------------------------------------------------------------------------- |
-| Giapponese     | ドラゴンバースト                                                                   |
+| Giapponese     | ドラゴンバースト                                                                      |
 | Tipo           | Drago                                                                         |
 | Codice         | EBW02-049                                                                     |
 | Pokémon        | Rayquaza                                                                      |

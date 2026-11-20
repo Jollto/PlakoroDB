@@ -158,7 +158,7 @@
 
 | Nome           | Schianto                   |
 | -------------- | -------------------------- |
-| Giapponese     | ぶちかます                     |
+| Giapponese     | ぶちかます                      |
 | Tipo           | Normale                    |
 | Codice         | EBW02-059                  |
 | Pokémon        | Chansey                    |

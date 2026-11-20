@@ -25,7 +25,7 @@
 
 | Nome           | Vento di Fata              |
 | -------------- | -------------------------- |
-| Giapponese     | ようせいのかぜ                   |
+| Giapponese     | ようせいのかぜ                    |
 | Tipo           | Psico                      |
 | Codice         | EBW02-012                  |
 | Pokémon        | Tinkatink                  |
@@ -63,7 +63,7 @@
 
 | Nome           | Carineria                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | じゃれつく                                                                                                                 |
+| Giapponese     | じゃれつく                                                                                                                  |
 | Tipo           | Psico                                                                                                                  |
 | Codice         | EBW02-014                                                                                                              |
 | Pokémon        | Tinkatink                                                                                                              |
@@ -101,7 +101,7 @@
 
 | Nome           | Bastonata                  |
 | -------------- | -------------------------- |
-| Giapponese     | どつく                       |
+| Giapponese     | どつく                        |
 | Tipo           | Psico                      |
 | Codice         | EBW02-016                  |
 | Pokémon        | Tinkatink                  |
@@ -120,7 +120,7 @@
 
 | Nome           | Assorbibacio                                   |
 | -------------- | ---------------------------------------------- |
-| Giapponese     | ドレインキッス                                       |
+| Giapponese     | ドレインキッス                                        |
 | Tipo           | Psico                                          |
 | Codice         | EBW02-017                                      |
 | Pokémon        | Tinkatink                                      |
@@ -158,7 +158,7 @@
 
 | Nome           | Pestone selvaggio ?                                    |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ワイルドスタンプ                                             |
+| Giapponese     | ワイルドスタンプ                                               |
 | Tipo           | Psico                                                  |
 | Codice         | EBW02-019                                              |
 | Pokémon        | Tinkatink                                              |
@@ -177,7 +177,7 @@
 
 | Nome           | Impatto Prodigioso ?       |
 | -------------- | -------------------------- |
-| Giapponese     | ワンダーインパクト                |
+| Giapponese     | ワンダーインパクト                  |
 | Tipo           | Psico                      |
 | Codice         | EBW02-020                  |
 | Pokémon        | Tinkatink                  |

@@ -101,7 +101,7 @@
 
 | Nome           | Urto                       |
 | -------------- | -------------------------- |
-| Giapponese     | ぶつかる                      |
+| Giapponese     | ぶつかる                       |
 | Tipo           | Acciaio                    |
 | Codice         | EBW02-036                  |
 | Pokémon        | Aggron                     |

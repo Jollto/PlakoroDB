@@ -141,7 +141,7 @@
 
 | Nome           | Fiamma crescente ?                                                     |
 | -------------- | ---------------------------------------------------------------------- |
-| Giapponese     | フレイムアップ                                                               |
+| Giapponese     | フレイムアップ                                                                |
 | Tipo           | Fuoco                                                                  |
 | Codice         | PRW01-2-08                                                             |
 | Pokémon        | Charmander                                                             |

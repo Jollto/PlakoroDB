@@ -6,7 +6,7 @@
 
 | Nome           | Raggio                     |
 | -------------- | -------------------------- |
-| Giapponese     | ビーム                       |
+| Giapponese     | ビーム                        |
 | Tipo           | Acciaio                    |
 | Codice         | STW08-001                  |
 | Pokémon        | Metagross                  |
@@ -44,7 +44,7 @@
 
 | Nome           | Pressa Ampia ?             |
 | -------------- | -------------------------- |
-| Giapponese     | ワイドプレス                   |
+| Giapponese     | ワイドプレス                     |
 | Tipo           | Acciaio                    |
 | Codice         | STW08-003                  |
 | Pokémon        | Metagross                  |
@@ -63,7 +63,7 @@
 
 | Nome           | Pestone Diretto ?          |
 | -------------- | -------------------------- |
-| Giapponese     | ストレートスタンプ                 |
+| Giapponese     | ストレートスタンプ                  |
 | Tipo           | Acciaio                    |
 | Codice         | STW08-004                  |
 | Pokémon        | Metagross                  |
@@ -82,7 +82,7 @@
 
 | Nome           | Meteorpugno                |
 | -------------- | -------------------------- |
-| Giapponese     | コメットパンチ                   |
+| Giapponese     | コメットパンチ                    |
 | Tipo           | Acciaio                    |
 | Codice         | STW08-005                  |
 | Pokémon        | Metagross                  |
@@ -101,7 +101,7 @@
 
 | Nome           | Pesobomba                                                              |
 | -------------- | ---------------------------------------------------------------------- |
-| Giapponese     | ヘビーボンバー                                                             |
+| Giapponese     | ヘビーボンバー                                                                |
 | Tipo           | Acciaio                                                                |
 | Codice         | STW08-006                                                              |
 | Pokémon        | Metagross                                                              |
@@ -120,7 +120,7 @@
 
 | Nome           | Esplosione                                                        |
 | -------------- | ----------------------------------------------------------------- |
-| Giapponese     | だいばくはつ                                                          |
+| Giapponese     | だいばくはつ                                                            |
 | Tipo           | Normale                                                           |
 | Codice         | STW08-007                                                         |
 | Pokémon        | Metagross                                                         |

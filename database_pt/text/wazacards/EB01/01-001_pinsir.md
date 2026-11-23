@@ -97,9 +97,9 @@
 
 [Quebra-telha](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard05.webp)
 
-#### Pincers Charge ?
+#### Investida de Pinças ?
 
-| Nome            | Pincers Charge ?                                  |
+| Nome            | Investida de Pinças ?                             |
 | --------------- | ------------------------------------------------- |
 | Japonês         | チャージばさみ                                    |
 | Tipo            | Planta                                            |
@@ -114,7 +114,7 @@
 | De bruços       |                                                   |
 | De lado         |                                                   |
 
-[Pincers Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
+[Investida de Pinças](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/03/img_wazacard06.webp)
 
 #### Giro Enfurecido ?
 

@@ -18,30 +18,30 @@
 
 #### 3
 
-|  Q  | Mientras que el efecto Charakoro del ataque del Altaria rival "Vuelo Suave" estaba activo, usé el ataque de Dragonite "Cuchillada Garra". <br>The Enekoro roll succeeded, and the Charakoro roll was {s1}. <br>En este caso, ¿cuánto daño hago a mi rival? |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 damage. <br>Due to the "Fluffy Flight" Charakoro effect, since you rolled {s1} or {s2}, your opponent does not take damage from that move.                                                                                                               |
-|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Cuchillada Garra](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-002.png)                                                                                                                          |
+|  Q  | Mientras que el efecto Charakoro del ataque del Altaria rival "Vuelo Suave" estaba activo, usé el ataque de Dragonite "Cuchillada Garra". <br>La tirada de Enekoro fue exitosa, y la tirada de Charakoro fue {s1}. <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 0 puntos de daño. <br>Debido al efecto Charakoro de "Vuelo Suave", como tiraste {s1} o {s2}, tu rival no recibe daño de tu ataque.                                                                                                                                 |
+|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Cuchillada Garra](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-002.png)                                                                                                                                  |
 
 #### 4
 
-|  Q  | While the Charakoro effect of the opponent's Altaria's move "Fluffy Flight" was active, I used Dragonite's move "Hurricane Tail". <br>The Enekoro roll succeeded, and the Charakoro rolls were {st}{st}{s1}. <br>En este caso, ¿cuánto daño hago a mi rival? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 damage. <br>Due to the "Fluffy Flight" Charakoro effect, since you rolled {s1} or {s2} at least 1 time, your opponent does not take damage from that move.                                                                                                 |
-|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Cola Vendaval](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-006.png)                                                                                                                               |
+|  Q  | Mientras que el efecto Charakoro del ataque del Altaria rival "Vuelo Suave" estaba activo, usé el ataque de Dragonite "Cola Vendaval". <br>La tirada de Enekoro fue exitosa, y las tiradas de Charakoro fueron {st}{st}{s1}. <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 0 puntos de daño. <br>Debido al efecto Charakoro de "Vuelo Suave", como tiraste {s1} o {s2} al menos 1 vez, tu rival no recibe daño de tu ataque.                                                                                                                            |
+|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Cola Vendaval](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-006.png)                                                                                                                                               |
 
 #### 5
 
-|  Q  | While the Charakoro effect of the opponent's Altaria's move "Fluffy Flight" was active, I used Chansey's move "Chance Tackle". <br>The Enekoro roll succeeded, and the Charakoro roll was {s1}. <br>After that, if I reroll the Charakoro due to the "Chance Tackle" Charakoro effect and I roll {ba}, can I deal damage? |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | Yes, you can. <br>With the "Chance Tackle" Charakoro effect, you can disregard the result of the 1st Charakoro roll you made and roll again, and calculate damage based on the direction of the reroll.                                                                                                                   |
-|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                                                                                                                         |
+|  Q  | Mientras que el efecto Charakoro del ataque del Altaria rival "Vuelo Suave" estaba activo, usé el ataque de Chansey "Placaje Oportuno". <br>La tirada de Enekoro fue exitosa, y la tirada de Charakoro fue {s1}. <br>After that, if I reroll the Charakoro due to the "Chance Tackle" Charakoro effect and I roll {ba}, can I deal damage? |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | Yes, you can. <br>With the "Chance Tackle" Charakoro effect, you can disregard the result of the 1st Charakoro roll you made and roll again, and calculate damage based on the direction of the reroll.                                                                                                                                    |
+|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                                                                                                                                          |
 
 #### 6
 
 |  Q  | While the Charakoro effect of Altaria's move "Fly" ({st}{s1}{s2}) was active, my opponent successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Bubble Beam". <br>In this case, how much damage do I take? <br>Also, how many Enekoro can I roll on my next turn? |
 | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 damage. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                                    |
+|  A  | 0 puntos de daño. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                            |
 |  R  | [Vuelo](/database_es/cards/wazacards/ST/10-001_altaria/STW10-005.png)<br>[Rayo Burbuja](/database_es/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                                                  |
 
 #### 7
@@ -223,7 +223,7 @@
 
 |  Q  | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall". <br>On my opponent's next turn, they successfully used Pikachu's move "Electric Rush" twice. <br>In this case, how much damage do I take? |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 damage. <br>Each time you take a hit from a move, you can reduce the damage you take by 30.                                                                                                                                |
+|  A  | 0 puntos de daño. <br>Each time you take a hit from a move, you can reduce the damage you take by 30.                                                                                                                        |
 |  R  | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                          |
 
 #### 33
@@ -279,7 +279,7 @@
 
 |  Q  | While the Charakoro effect of Moltres' move "Fly" ({st}{s1}{s2}) was active, my opponent successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Bubble Beam". <br>In this case, how much damage do I take? <br>Also, how many Enekoro can I roll on my next turn? |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 damage. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                                   |
+|  A  | 0 puntos de daño. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                           |
 |  R  | [Fly](/database/cards/wazacards/EB01/01-002_moltres/EBW01-020.png)<br>[Bubble Beam](/database/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                                                        |
 
 #### 41
@@ -321,7 +321,7 @@
 
 |  Q  | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip". <br>The Enekoro roll succeeded, but the Charakoro roll failed. <br>In this case, how much damage do I take? |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 damage.                                                                                                                                                                                                                                                                                                                                 |
+|  A  | 0 puntos de daño.                                                                                                                                                                                                                                                                                                                         |
 |  R  | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                                                    |
 
 #### 47

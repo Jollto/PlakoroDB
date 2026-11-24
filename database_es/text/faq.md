@@ -39,10 +39,10 @@
 
 #### 6
 
-|  Q  | While the Charakoro effect of Altaria's move "Fly" ({st}{s1}{s2}) was active, my opponent successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Bubble Beam". <br>In this case, how much damage do I take? <br>Also, how many Enekoro can I roll on my next turn? |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 puntos de daño. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                            |
-|  R  | [Vuelo](/database_es/cards/wazacards/ST/10-001_altaria/STW10-005.png)<br>[Rayo Burbuja](/database_es/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                                                  |
+|  Q  | Mientras que el efecto de Charakoro del ataque de Altaria "Vuelo" ({st}{s1}{s2}) estaba activo, mi rival ha lanzado con éxito las tiradas de Enekoro y Charakoro para el ataque de Squirtle "Rayo Burbuja". <br>En este caso, ¿cuánto daño recibo? <br>Además, ¿cuántos Enekoro puedo lanzar en mi siguiente turno? |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 0 puntos de daño. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                                                           |
+|  R  | [Vuelo](/database_es/cards/wazacards/ST/10-001_altaria/STW10-005.png)<br>[Rayo Burbuja](/database_es/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                                                                                 |
 
 #### 7
 
@@ -221,17 +221,17 @@
 
 #### 32
 
-|  Q  | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall". <br>On my opponent's next turn, they successfully used Pikachu's move "Electric Rush" twice. <br>In this case, how much damage do I take? |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 puntos de daño. <br>Each time you take a hit from a move, you can reduce the damage you take by 30.                                                                                                                        |
-|  R  | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                          |
+|  Q  | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall". <br>On my opponent's next turn, they successfully used Pikachu's move "Electric Rush" twice. <br>En este caso, ¿cuánto daño recibo? |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 0 puntos de daño. <br>Each time you take a hit from a move, you can reduce the damage you take by 30.                                                                                                                  |
+|  R  | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                    |
 
 #### 33
 
-|  Q  | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall". <br>On my opponent's next turn, they successfully rolled the Charakoro for Zapdos' move "Volt Rush" twice. <br>In this case, how much damage do I take? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 40 damage. <br>You can reduce the damage taken by 30 from the total damage dealt by "Volt Rush".                                                                                                                                           |
-|  R  | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Volt Rush](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)                                                                                                                           |
+|  Q  | I successfully passed the Enekoro and Charakoro rolls for Onix's move "Rock Wall". <br>On my opponent's next turn, they successfully rolled the Charakoro for Zapdos' move "Volt Rush" twice. <br>En este caso, ¿cuánto daño recibo? |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 40 damage. <br>You can reduce the damage taken by 30 from the total damage dealt by "Volt Rush".                                                                                                                                     |
+|  R  | [Rock Wall](/database/cards/wazacards/EB01/01-005_onix/EBW01-043.png)<br>[Volt Rush](/database/cards/wazacards/EB01/01-004_zapdos/EBW01-033.png)                                                                                                                     |
 
 #### 34
 
@@ -277,10 +277,10 @@
 
 #### 40
 
-|  Q  | While the Charakoro effect of Moltres' move "Fly" ({st}{s1}{s2}) was active, my opponent successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Bubble Beam". <br>In this case, how much damage do I take? <br>Also, how many Enekoro can I roll on my next turn? |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 puntos de daño. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                           |
-|  R  | [Fly](/database/cards/wazacards/EB01/01-002_moltres/EBW01-020.png)<br>[Bubble Beam](/database/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                                                        |
+|  Q  | While the Charakoro effect of Moltres' move "Fly" ({st}{s1}{s2}) was active, my opponent successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Bubble Beam". <br>En este caso, ¿cuánto daño recibo? <br>Además, ¿cuántos Enekoro puedo lanzar en mi siguiente turno? |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 0 puntos de daño. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                               |
+|  R  | [Fly](/database/cards/wazacards/EB01/01-002_moltres/EBW01-020.png)<br>[Bubble Beam](/database/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                                                            |
 
 #### 41
 
@@ -319,17 +319,17 @@
 
 #### 46
 
-|  Q  | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip". <br>The Enekoro roll succeeded, but the Charakoro roll failed. <br>In this case, how much damage do I take? |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 puntos de daño.                                                                                                                                                                                                                                                                                                                         |
-|  R  | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                                                    |
+|  Q  | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip". <br>The Enekoro roll succeeded, but the Charakoro roll failed. <br>En este caso, ¿cuánto daño recibo? |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 0 puntos de daño.                                                                                                                                                                                                                                                                                                                   |
+|  R  | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                                              |
 
 #### 47
 
-|  Q  | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip" and successfully passed the Enekoro and Charakoro rolls. <br>In this case, how much damage do I take? |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 10 damage.                                                                                                                                                                                                                                                                                                         |
-|  R  | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                             |
+|  Q  | On my previous turn, I successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Shell Attack". <br>On my opponent's next turn, my opponent used Bulbasaur's move "Vine Whip" and successfully passed the Enekoro and Charakoro rolls. <br>En este caso, ¿cuánto daño recibo? |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 10 damage.                                                                                                                                                                                                                                                                                                   |
+|  R  | [Shell Attack](/database/cards/wazacards/ST/03-001_squirtle/STW03-004.png)<br>[Vine Whip](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-001.png)                                                                                                                                                                       |
 
 #### 48
 

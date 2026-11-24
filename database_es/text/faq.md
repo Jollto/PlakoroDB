@@ -4,31 +4,31 @@
 
 #### 1
 
-|  Q  | Usé el ataque de Dragonite "Sacudida Dragón". <br>The Enekoro roll was {W}{L}, {W}{L}, {W}{L}, and the Charakoro roll was {hs}. <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 60 puntos de daño.                                                                                                                                                                                          |
-|  R  | [Sacudida Dragón](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-004.png)                                                                                                                                           |
+|  Q  | Usé el ataque de Dragonite "Sacudida Dragón". <br>La tirada de Enekoro fue {W}{L}, {W}{L}, {W}{L}, y la tirada de Charakoro fue {hs}. <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 60 puntos de daño.                                                                                                                                                                                    |
+|  R  | [Sacudida Dragón](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-004.png)                                                                                                                                     |
 
 #### 2
 
-|  Q  | I used Dragonite's move "Scale Press". <br>The Enekoro roll was {W}{L}, {L}{L}, {W}, and the Charakoro roll was {hs}. <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 30 puntos de daño.                                                                                                                                                                                |
-|  R  | [Plancha Escamas](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-005.png)                                                                                                                                 |
+|  Q  | Usé el ataque de Dragonite "Plancha Escamas". <br>La tirada de Enekoro fue {W}{L}, {L}{L}, {W}, y la tirada de Charakoro fue {hs}. <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 30 puntos de daño.                                                                                                                                                                                 |
+|  R  | [Plancha Escamas](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-005.png)                                                                                                                                  |
 
 #### 3
 
-|  Q  | While the Charakoro effect of the opponent's Altaria's move "Fluffy Flight" was active, I used Dragonite's move "Claw Slash". <br>The Enekoro roll succeeded, and the Charakoro roll was {s1}. <br>In this case, how much damage do I deal to my opponent? |
+|  Q  | Mientras que el efecto Charakoro del ataque del Altaria rival "Vuelo Suave" estaba activo, usé el ataque de Dragonite "Cuchillada Garra". <br>The Enekoro roll succeeded, and the Charakoro roll was {s1}. <br>En este caso, ¿cuánto daño hago a mi rival? |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  A  | 0 damage. <br>Due to the "Fluffy Flight" Charakoro effect, since you rolled {s1} or {s2}, your opponent does not take damage from that move.                                                                                                               |
 |  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Cuchillada Garra](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-002.png)                                                                                                                          |
 
 #### 4
 
-|  Q  | While the Charakoro effect of the opponent's Altaria's move "Fluffy Flight" was active, I used Dragonite's move "Hurricane Tail". <br>The Enekoro roll succeeded, and the Charakoro rolls were {st}{st}{s1}. <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 damage. <br>Due to the "Fluffy Flight" Charakoro effect, since you rolled {s1} or {s2} at least 1 time, your opponent does not take damage from that move.                                                                                                             |
-|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Cola Vendaval](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-006.png)                                                                                                                                           |
+|  Q  | While the Charakoro effect of the opponent's Altaria's move "Fluffy Flight" was active, I used Dragonite's move "Hurricane Tail". <br>The Enekoro roll succeeded, and the Charakoro rolls were {st}{st}{s1}. <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 0 damage. <br>Due to the "Fluffy Flight" Charakoro effect, since you rolled {s1} or {s2} at least 1 time, your opponent does not take damage from that move.                                                                                                 |
+|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Cola Vendaval](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-006.png)                                                                                                                               |
 
 #### 5
 
@@ -109,7 +109,7 @@
 
 #### 16
 
-|  Q  | On the turn after my opponent failed a move, I successfully passed the Enekoro and Charakoro rolls for Aggron's move "Powerful Steel". <br>In this case, how much damage do I deal to my opponent?          |
+|  Q  | On the turn after my opponent failed a move, I successfully passed the Enekoro and Charakoro rolls for Aggron's move "Powerful Steel". <br>En este caso, ¿cuánto daño hago a mi rival?                      |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  A  | 60 puntos de daño. <br>In addition to the 20 damage dealt by the move, as Aggron did not take any damage from a move during the opponent's previous turn, you deal an additional 40 damage. |
 |  R  | [Metal Poderoso](/database_es/cards/wazacards/EB02/02-004_aggron/EBW02-038.png)                                                                                                                                             |
@@ -123,17 +123,17 @@
 
 #### 18
 
-|  Q  | I used Rayquaza's move "Wild Rampage". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>In this case, how much damage do I deal to my opponent?                                          |
+|  Q  | I used Rayquaza's move "Wild Rampage". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {hs}. <br>En este caso, ¿cuánto daño hago a mi rival?                                                      |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  A  | 60 puntos de daño. <br>As the Energy required for the move ({R}{R}{R}{L}{L}) was generated, the Enekoro check was successful. <br>As the Charakoro effect failed, it just deals 60 damage. |
 |  R  | [Estampida Salvaje](/database_es/cards/wazacards/EB02/02-005_rayquaza/EBW02-044.png)                                                                                                                                                                          |
 
 #### 19
 
-|  Q  | I used Rayquaza's move "Dragon Burst". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 70 damage. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} Energy produced, adding 20 x 3 = 60 damage.      |
-|  R  | [Explosión Dragón](/database_es/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                                  |
+|  Q  | I used Rayquaza's move "Dragon Burst". <br>The Enekoro roll was {R}{L}, {R}{L}, {R}{L}, and the Charakoro roll was {st}. <br>En este caso, ¿cuánto daño hago a mi rival?        |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 70 damage. <br>In addition to the base 10 damage, due to the Charakoro effect of "Dragon Burst", you can add 20 damage for each {L} Energy produced, adding 20 x 3 = 60 damage. |
+|  R  | [Explosión Dragón](/database_es/cards/wazacards/EB02/02-005_rayquaza/EBW02-049.png)                                                                                                                             |
 
 #### 20
 
@@ -312,10 +312,10 @@
 
 #### 45
 
-|  Q  | I successfully passed the Enekoro and Charakoro rolls for Charmander's move "Flare Storm". <br>I got 5 Fire {R} Energy symbols. <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 70 damage.                                                                                                                                                                                                  |
-|  R  | [Flare Storm](/database/cards/wazacards/ST/02-001_charmander/STW02-005.png)                                                                                                                                                 |
+|  Q  | I successfully passed the Enekoro and Charakoro rolls for Charmander's move "Flare Storm". <br>I got 5 Fire {R} Energy symbols. <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 70 damage.                                                                                                                                                                                      |
+|  R  | [Flare Storm](/database/cards/wazacards/ST/02-001_charmander/STW02-005.png)                                                                                                                                     |
 
 #### 46
 
@@ -368,10 +368,10 @@
 
 #### 53
 
-|  Q  | I used Eevee's move "Take Down". <br>The Enekoro roll showed 3 Flying {Y} Energy, and the Charakoro roll was {s1}. <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 30 puntos de daño.                                                                                                                                                                             |
-|  R  | [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                                           |
+|  Q  | I used Eevee's move "Take Down". <br>The Enekoro roll showed 3 Flying {Y} Energy, and the Charakoro roll was {s1}. <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 30 puntos de daño.                                                                                                                                                                 |
+|  R  | [Take Down](/database/cards/wazacards/ST/05-001_eevee/STW05-003.png)                                                                                                                               |
 
 #### 54
 
@@ -389,24 +389,24 @@
 
 #### 56
 
-|  Q  | I successfully passed the Enekoro and Charakoro rolls for Mew's move "Psychic". <br>My opponent rolled their Enekoro, and got one Grass {G} Energy, one Fire {R} Energy and one Water {W} Energy. <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 30 puntos de daño. <br>Since the number of the most common Energy type is 1, 1 x 10 = 10 damage is added.                                                                                                                                                     |
-|  R  | [Psychic](/database/cards/wazacards/ST/06-001_mew/STW06-006.png)                                                                                                                                                                                                                              |
+|  Q  | I successfully passed the Enekoro and Charakoro rolls for Mew's move "Psychic". <br>My opponent rolled their Enekoro, and got one Grass {G} Energy, one Fire {R} Energy and one Water {W} Energy. <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 30 puntos de daño. <br>Since the number of the most common Energy type is 1, 1 x 10 = 10 damage is added.                                                                                                                                         |
+|  R  | [Psychic](/database/cards/wazacards/ST/06-001_mew/STW06-006.png)                                                                                                                                                                                                                  |
 
 #### 57
 
-|  Q  | My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Gnaw", and I took 40 damage. <br>On my next turn, I successfully passed the Enekoro and Charakoro rolls for Mew's move "Reflection". <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 20 damage. <br>"The damage of your opponent's last selected attack" is 10 damage. <br>Because the Charakoro effect of "Reflection" allows you to deal 2 times that amount, the damage is 10 x 2 = 20 damage.                                                         |
-|  R  | [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Gnaw](/database/cards/wazacards/ST/04-001_pikachu/STW04-001.png)                                                                                                                                                                             |
+|  Q  | My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Gnaw", and I took 40 damage. <br>On my next turn, I successfully passed the Enekoro and Charakoro rolls for Mew's move "Reflection". <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 20 damage. <br>"The damage of your opponent's last selected attack" is 10 damage. <br>Because the Charakoro effect of "Reflection" allows you to deal 2 times that amount, the damage is 10 x 2 = 20 damage.                                             |
+|  R  | [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Gnaw](/database/cards/wazacards/ST/04-001_pikachu/STW04-001.png)                                                                                                                                                                 |
 
 #### 58
 
-|  Q  | My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Iron Tail", and I took 20 damage. <br>On my next turn, I successfully passed the Enekoro rolls for Mew's move "Reflection". <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 10 damage. <br>"The damage of your opponent's last selected attack" is 20 damage. <br>However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20 - 10 = 10.                                         |
-|  R  | [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)                                                                                                                                                               |
+|  Q  | My opponent successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Iron Tail", and I took 20 damage. <br>On my next turn, I successfully passed the Enekoro rolls for Mew's move "Reflection". <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 10 damage. <br>"The damage of your opponent's last selected attack" is 20 damage. <br>However, as the opponent can reduce the damage taken by 10 due to the effect of "Iron Tail", the damage becomes 20 - 10 = 10.                             |
+|  R  | [Reflection](/database/cards/wazacards/ST/06-001_mew/STW06-007.png)<br>[Iron Tail](/database/cards/wazacards/ST/04-001_pikachu/STW04-007.png)                                                                                                                                                   |
 
 ## Acerca de las Normas Básicas
 

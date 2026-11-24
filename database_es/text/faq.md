@@ -41,29 +41,29 @@
 
 |  Q  | Mientras que el efecto de Charakoro del ataque de Altaria "Vuelo" ({st}{s1}{s2}) estaba activo, mi rival ha lanzado con éxito las tiradas de Enekoro y Charakoro para el ataque de Squirtle "Rayo Burbuja". <br>En este caso, ¿cuánto daño recibo? <br>Además, ¿cuántos Enekoro puedo lanzar en mi siguiente turno? |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 puntos de daño. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                                                           |
+|  A  | 0 puntos de daño. <br>Debido al efecto de Charakoro de "Vuelo", no recibes daño de ese ataque. <br>Pero, como aún te afectan los efectos que no sean daño, tirarás 1 Enekoro menos el próximo turno.                                                                                                   |
 |  R  | [Vuelo](/database_es/cards/wazacards/ST/10-001_altaria/STW10-005.png)<br>[Rayo Burbuja](/database_es/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                                                                                 |
 
 #### 7
 
-|  Q  | Due to the Charakoro effect of Chansey's "Chance Tackle", next turn, I can reroll the Charakoro 1 time. <br>In this case, can I choose not to reroll it? |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | Si, puedes.                                                                                                                                              |
-|  R  | [Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                       |
+|  Q  | Debido al efecto de Charakoro del ataque de Chansey "Placaje Oportuno", en el próximo turno, puedo volver a tirar el Charakoro 1 vez. <br>En este caso, ¿puedo elegir no relanzarlo? |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | Si, puedes.                                                                                                                                                                          |
+|  R  | [Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                                                   |
 
 #### 8
 
-|  Q  | Due to the Charakoro effect of Chansey's "Chance Tackle", next turn, I can reroll the Charakoro 2 times. <br>If I rerolled it once, can I choose not to reroll it the 2nd time? |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | Si, puedes.                                                                                                                                                                     |
-|  R  | [Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                                              |
+|  Q  | Debido al efecto de Charakoro del ataque de Chansey "Placaje Oportuno", en el próximo turno, puedo volver a tirar el Charakoro 2 veces. <br>Si lo he relanzado una vez, ¿puedo elegir no relanzarlo la 2a vez? |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | Si, puedes.                                                                                                                                                                                                    |
+|  R  | [Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                                                                             |
 
 #### 9
 
-|  Q  | Due to the Charakoro effect of Chansey's "Chance Tackle", next turn, I can reroll the Charakoro 1 time. <br>On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down". <br>In this case, what will be the orientation of the Charakoro I roll and the one I reroll on my next turn, respectively? |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | As the orientation of all the Charakoro rolled next turn will be {hs}, it will remain {hs} even if you reroll them.                                                                                                                                                                                                                                                                  |
-|  R  | [Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)<br>[Boca Abajo](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                                                                      |
+|  Q  | Debido al efecto de Charakoro del ataque de Chansey "Placaje Oportuno", en el próximo turno, puedo volver a tirar el Charakoro 1 vez. <br>On the opponent's next turn, my opponent successfully passed the Enekoro and Charakoro rolls for Gengar's move "Upside Down". <br>In this case, what will be the orientation of the Charakoro I roll and the one I reroll on my next turn, respectively? |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | As the orientation of all the Charakoro rolled next turn will be {hs}, it will remain {hs} even if you reroll them.                                                                                                                                                                                                                                                                                                |
+|  R  | [Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)<br>[Boca Abajo](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                                                                                                    |
 
 #### 10
 
@@ -279,7 +279,7 @@
 
 |  Q  | While the Charakoro effect of Moltres' move "Fly" ({st}{s1}{s2}) was active, my opponent successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Bubble Beam". <br>En este caso, ¿cuánto daño recibo? <br>Además, ¿cuántos Enekoro puedo lanzar en mi siguiente turno? |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 puntos de daño. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                               |
+|  A  | 0 puntos de daño. <br>Debido al efecto de Charakoro de "Vuelo", no recibes daño de ese ataque. <br>Pero, como aún te afectan los efectos que no sean daño, tirarás 1 Enekoro menos el próximo turno.                                                                       |
 |  R  | [Fly](/database/cards/wazacards/EB01/01-002_moltres/EBW01-020.png)<br>[Bubble Beam](/database/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                                                            |
 
 #### 41

@@ -18,24 +18,24 @@
 
 #### 3
 
-|  Q  | Mientras que el efecto Charakoro del ataque del Altaria rival "Vuelo Suave" estaba activo, usé el ataque de Dragonite "Cuchillada Garra". <br>La tirada de Enekoro fue exitosa, y la tirada de Charakoro fue {s1}. <br>En este caso, ¿cuánto daño hago a mi rival? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 puntos de daño. <br>Debido al efecto Charakoro de "Vuelo Suave", como tiraste {s1} o {s2}, tu rival no recibe daño de tu ataque.                                                                                                                                 |
-|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Cuchillada Garra](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-002.png)                                                                                                                                  |
+|  Q  | Mientras que el efecto de Charakoro del ataque del Altaria rival "Vuelo Suave" estaba activo, usé el ataque de Dragonite "Cuchillada Garra". <br>La tirada de Enekoro fue exitosa, y la tirada de Charakoro fue {s1}. <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 0 puntos de daño. <br>Debido al efecto de Charakoro de "Vuelo Suave", como tiraste {s1} o {s2}, tu rival no recibe daño de tu ataque.                                                                                                                                 |
+|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Cuchillada Garra](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-002.png)                                                                                                                                     |
 
 #### 4
 
-|  Q  | Mientras que el efecto Charakoro del ataque del Altaria rival "Vuelo Suave" estaba activo, usé el ataque de Dragonite "Cola Vendaval". <br>La tirada de Enekoro fue exitosa, y las tiradas de Charakoro fueron {st}{st}{s1}. <br>En este caso, ¿cuánto daño hago a mi rival? |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 0 puntos de daño. <br>Debido al efecto Charakoro de "Vuelo Suave", como tiraste {s1} o {s2} al menos 1 vez, tu rival no recibe daño de tu ataque.                                                                                                                            |
-|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Cola Vendaval](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-006.png)                                                                                                                                               |
+|  Q  | Mientras que el efecto de Charakoro del ataque del Altaria rival "Vuelo Suave" estaba activo, usé el ataque de Dragonite "Cola Vendaval". <br>La tirada de Enekoro fue exitosa, y las tiradas de Charakoro fueron {st}{st}{s1}. <br>En este caso, ¿cuánto daño hago a mi rival? |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 0 puntos de daño. <br>Debido al efecto de Charakoro de "Vuelo Suave", como tiraste {s1} o {s2} al menos 1 vez, tu rival no recibe daño de tu ataque.                                                                                                                            |
+|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Cola Vendaval](/database_es/cards/wazacards/ST/11-001_dragonite/STW11-006.png)                                                                                                                                                  |
 
 #### 5
 
-|  Q  | Mientras que el efecto Charakoro del ataque del Altaria rival "Vuelo Suave" estaba activo, usé el ataque de Chansey "Placaje Oportuno". <br>La tirada de Enekoro fue exitosa, y la tirada de Charakoro fue {s1}. <br>After that, if I reroll the Charakoro due to the "Chance Tackle" Charakoro effect and I roll {ba}, can I deal damage? |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | Yes, you can. <br>With the "Chance Tackle" Charakoro effect, you can disregard the result of the 1st Charakoro roll you made and roll again, and calculate damage based on the direction of the reroll.                                                                                                                                    |
-|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                                                                                                                                          |
+|  Q  | Mientras que el efecto de Charakoro del ataque del Altaria rival "Vuelo Suave" estaba activo, usé el ataque de Chansey "Placaje Oportuno". <br>La tirada de Enekoro fue exitosa, y la tirada de Charakoro fue {s1}. <br>Después de esto, si al volver a tirar el Charakoro debido al efecto de Charakoro de "Placaje Oportuno" y sale {ba}, ¿puedo hacer daño? |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | Si, puedes. <br>Con el efecto de Charakoro de "Placaje Oportuno", puedes descartar el resultado de la 1a tirada de Charakoro y tirar de nuevo, calculando el daño basándote en la dirección de la última tirada.                                                                                                                                               |
+|  R  | [Vuelo Suave](/database_es/cards/wazacards/ST/10-001_altaria/STW10-002.png)<br>[Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                                                                                                                                                              |
 
 #### 6
 
@@ -48,14 +48,14 @@
 
 |  Q  | Due to the Charakoro effect of Chansey's "Chance Tackle", next turn, I can reroll the Charakoro 1 time. <br>In this case, can I choose not to reroll it? |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | Yes, you can.                                                                                                                                            |
+|  A  | Si, puedes.                                                                                                                                              |
 |  R  | [Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                       |
 
 #### 8
 
 |  Q  | Due to the Charakoro effect of Chansey's "Chance Tackle", next turn, I can reroll the Charakoro 2 times. <br>If I rerolled it once, can I choose not to reroll it the 2nd time? |
 | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | Yes, you can.                                                                                                                                                                   |
+|  A  | Si, puedes.                                                                                                                                                                     |
 |  R  | [Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)                                                                                                              |
 
 #### 9
@@ -146,7 +146,7 @@
 
 |  Q  | Due to the Charakoro effect of Greninja's move "Shifting Slash", I can now swap out the custom chips on my Enekoro. <br>Is it possible not to swap any of the custom chips? |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  A  | Yes, you can. <br>In that case, inform your opponent that you will not be swapping any, and end the turn.                                                   |
+|  A  | Si, puedes. <br>In that case, inform your opponent that you will not be swapping any, and end the turn.                                                     |
 |  R  | [Tajo Cambiante](/database_es/cards/wazacards/EB02/02-001_greninja/EBW02-002.png)                                                                                                           |
 
 #### 22
@@ -209,14 +209,14 @@
 
 |  Q  | I used Grimer's move "Poison Gas". <br>The Enekoro roll succeeded, but the Charakoro roll failed. <br>On my next turn, if I succeed at the Enekoro and Charakoro rolls for Grimer's move "Toxic Blast", can I deal additional damage? |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | Yes, you can.                                                                                                                                                                                                                                         |
+|  A  | Si, puedes.                                                                                                                                                                                                                                           |
 |  R  | [Gas Venenoso](/database_es/cards/wazacards/EB01/01-006_grimer/EBW01-051.png)<br>[Chorro Tóxico](/database_es/cards/wazacards/EB01/01-006_grimer/EBW01-058.png)                                                                                                       |
 
 #### 31
 
 |  Q  | My opponent used Pikachu's move "Electric Rush". <br>The first Enekoro and Charakoro rolls were successful, but the second Enekoro roll failed. <br>On my next turn, if I succeed at the Enekoro and Charakoro rolls for Grimer's move "Harassment Venom", can I deal additional damage? |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | Yes, you can.                                                                                                                                                                                                                                                                                            |
+|  A  | Si, puedes.                                                                                                                                                                                                                                                                                              |
 |  R  | [Veneno Hostil](/database_es/cards/wazacards/EB01/01-006_grimer/EBW01-060.png)<br>[Asalto Eléctrico](/database_es/cards/wazacards/ST/04-001_pikachu/STW04-003.png)                                                                                                                                                       |
 
 #### 32
@@ -420,7 +420,7 @@
 
 |  Q  | Can I customize the combination of Enekoro's chips however I like? |
 | :-: | :----------------------------------------------------------------- |
-|  A  | Yes, you can.                                      |
+|  A  | Si, puedes.                                        |
 
 #### 3
 
@@ -474,7 +474,7 @@
 
 |  Q  | If a Charakoro lands diagonally, can I roll it again? |
 | :-: | :---------------------------------------------------- |
-|  A  | Yes, you can.                         |
+|  A  | Si, puedes.                           |
 
 #### 12
 
@@ -516,7 +516,7 @@
 
 |  Q  | Can I continue to use two different moves alternately every turn? |
 | :-: | :---------------------------------------------------------------- |
-|  A  | Yes, you can.                                     |
+|  A  | Si, puedes.                                       |
 
 #### 19
 
@@ -544,9 +544,9 @@
 
 #### 23
 
-|  Q  | Can I deal damage to my opponent from my very first turn when I go first?                                                                                                                                |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | Yes, you can. <br>Although you can only roll 2 Enekoro during your first turn when going first, you can deal damage provided you have enough Energy to pay for the move. |
+|  Q  | Can I deal damage to my opponent from my very first turn when I go first?                                                                                                                              |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | Si, puedes. <br>Although you can only roll 2 Enekoro during your first turn when going first, you can deal damage provided you have enough Energy to pay for the move. |
 
 #### 24
 
@@ -588,7 +588,7 @@
 
 |  Q  | During a match, can I check my opponent's Life Counter (remaining HP) or their remaining Wazacards? |
 | :-: | :--------------------------------------------------------------------------------------------------------------------- |
-|  A  | Yes, you can. <br>If you wish to look closely to check, please ask your opponent.      |
+|  A  | Si, puedes. <br>If you wish to look closely to check, please ask your opponent.        |
 
 #### 31
 

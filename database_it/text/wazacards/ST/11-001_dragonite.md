@@ -78,9 +78,9 @@
 
 [Calciorullo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard04.webp)
 
-#### Pressa di squame
+#### Pressa di squame ?
 
-| Nome           | Pressa di squame                                                                                    |
+| Nome           | Pressa di squame ?                                                                                  |
 | -------------- | --------------------------------------------------------------------------------------------------- |
 | Giapponese     | スケイルプレス                                                                                             |
 | Tipo           | Acqua                                                                                               |
@@ -137,9 +137,9 @@
 
 ### Promo
 
-#### Storm Call ?
+#### Tempestretta ?
 
-| Nome           | Storm Call ?                                                          |
+| Nome           | Tempestretta ?                                                        |
 | -------------- | --------------------------------------------------------------------- |
 | Giapponese     | ストームコール                                                               |
 | Tipo           | Drago                                                                 |

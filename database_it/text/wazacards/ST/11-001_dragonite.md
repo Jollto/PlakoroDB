@@ -78,9 +78,9 @@
 
 [Calciorullo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard04.webp)
 
-#### Pressa di squame ?
+#### Pressa ?
 
-| Nome           | Pressa di squame ?                                                                                  |
+| Nome           | Pressa ?                                                                                            |
 | -------------- | --------------------------------------------------------------------------------------------------- |
 | Giapponese     | スケイルプレス                                                                                             |
 | Tipo           | Acqua                                                                                               |
@@ -95,7 +95,7 @@
 | Prono          |                                                                                                     |
 | Sui fianchi    |                                                                                                     |
 
-[Pressa di squame](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
+[Pressa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
 
 #### Coda uragano
 

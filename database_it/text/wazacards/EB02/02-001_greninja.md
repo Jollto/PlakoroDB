@@ -6,7 +6,7 @@
 
 | Nome           | Cascata    |
 | -------------- | ---------- |
-| Giapponese     | たきのぼり |
+| Giapponese     | たきのぼり      |
 | Tipo           | Acqua      |
 | Codice         | EBW02-001  |
 | Pokémon        | Greninja   |
@@ -25,7 +25,7 @@
 
 | Nome           | Taglio mutevole ?                                                                            |
 | -------------- | -------------------------------------------------------------------------------------------- |
-| Giapponese     | へんげぎり                                                                                   |
+| Giapponese     | へんげぎり                                                                                        |
 | Tipo           | Acqua                                                                                        |
 | Codice         | EBW02-002                                                                                    |
 | Pokémon        | Greninja                                                                                     |
@@ -42,20 +42,20 @@
 
 #### Acqualame
 
-| Nome           | Acqualame                                               |
-| -------------- | ------------------------------------------------------- |
-| Giapponese     | みずしゅりけん                                          |
-| Tipo           | Acqua                                                   |
-| Codice         | EBW02-003                                               |
-| Pokémon        | Greninja                                                |
-| Energia        | {W}{W}{W}                                               |
-| Danni          |                                                         |
-| Effetto        | Lancia il PokéDice 3 volte in totale per questa mossa.  |
-| In Piedi       | per ogni PokéDice riuscito con questa mossa, +20 danni. |
-| A testa in giù |                                                         |
-| Supino         |                                                         |
-| Prono          |                                                         |
-| Sui fianchi    | per ogni PokéDice riuscito con questa mossa, +20 danni. |
+| Nome           | Acqualame                                              |
+| -------------- | ------------------------------------------------------ |
+| Giapponese     | みずしゅりけん                                                |
+| Tipo           | Acqua                                                  |
+| Codice         | EBW02-003                                              |
+| Pokémon        | Greninja                                               |
+| Energia        | {W}{W}{W}                                              |
+| Danni          |                                                        |
+| Effetto        | Lancia il PokéDice 3 volte in totale per questa mossa. |
+| In Piedi       | +20 danni per ogni PokéDice riuscito con questa mossa. |
+| A testa in giù |                                                        |
+| Supino         |                                                        |
+| Prono          |                                                        |
+| Sui fianchi    | +20 danni per ogni PokéDice riuscito con questa mossa. |
 
 [Acqualame](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard03.webp)
 
@@ -63,7 +63,7 @@
 
 | Nome           | Furtivombra |
 | -------------- | ----------- |
-| Giapponese     | かげうち    |
+| Giapponese     | かげうち        |
 | Tipo           | Psico       |
 | Codice         | EBW02-004   |
 | Pokémon        | Greninja    |
@@ -82,7 +82,7 @@
 
 | Nome           | Nottesferza  |
 | -------------- | ------------ |
-| Giapponese     | つじぎり     |
+| Giapponese     | つじぎり         |
 | Tipo           | Buio         |
 | Codice         | EBW02-005    |
 | Pokémon        | Greninja     |
@@ -99,20 +99,20 @@
 
 #### Pistolacqua
 
-| Nome           | Pistolacqua  |
-| -------------- | ------------ |
-| Giapponese     | みずでっぽう |
-| Tipo           | Acqua        |
-| Codice         | EBW02-006    |
-| Pokémon        | Greninja     |
-| Energia        | {W}          |
-| Danni          | 10           |
-| Effetto        |              |
-| In Piedi       | +20 danni.   |
-| A testa in giù |              |
-| Supino         | +20 danni.   |
-| Prono          |              |
-| Sui fianchi    |              |
+| Nome           | Pistolacqua |
+| -------------- | ----------- |
+| Giapponese     | みずでっぽう      |
+| Tipo           | Acqua       |
+| Codice         | EBW02-006   |
+| Pokémon        | Greninja    |
+| Energia        | {W}         |
+| Danni          | 10          |
+| Effetto        |             |
+| In Piedi       | +20 danni.  |
+| A testa in giù |             |
+| Supino         | +20 danni.  |
+| Prono          |             |
+| Sui fianchi    |             |
 
 [Pistolacqua](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard06.webp)
 
@@ -120,7 +120,7 @@
 
 | Nome           | Taglio nebbioso |
 | -------------- | --------------- |
-| Giapponese     | かすみぎり      |
+| Giapponese     | かすみぎり           |
 | Tipo           | Acqua           |
 | Codice         | EBW02-007       |
 | Pokémon        | Greninja        |
@@ -139,18 +139,18 @@
 
 | Nome           | Tecnica clone ?                                         |
 | -------------- | ------------------------------------------------------- |
-| Giapponese     | ぶんしんのじゅつ                                        |
+| Giapponese     | ぶんしんのじゅつ                                                |
 | Tipo           | Acqua                                                   |
 | Codice         | EBW02-008                                               |
 | Pokémon        | Greninja                                                |
 | Energia        | {W}{W}{W}{W}                                            |
 | Danni          |                                                         |
 | Effetto        | Lancia il PokéDice 2 volte in totale per questa mossa.  |
-| In Piedi       | per ogni PokéDice riuscito con questa mossa, +40 danni. |
+| In Piedi       | Per ogni PokéDice riuscito con questa mossa, +40 danni. |
 | A testa in giù |                                                         |
 | Supino         |                                                         |
 | Prono          |                                                         |
-| Sui fianchi    | per ogni PokéDice riuscito con questa mossa, +40 danni. |
+| Sui fianchi    | Per ogni PokéDice riuscito con questa mossa, +40 danni. |
 
 [Tecnica clone](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard08.webp)
 
@@ -158,7 +158,7 @@
 
 | Nome           | Apripista  |
 | -------------- | ---------- |
-| Giapponese     | くさわけ   |
+| Giapponese     | くさわけ       |
 | Tipo           | Erba       |
 | Codice         | EBW02-009  |
 | Pokémon        | Greninja   |
@@ -177,7 +177,7 @@
 
 | Nome           | Colpo Basso |
 | -------------- | ----------- |
-| Giapponese     | けたぐり    |
+| Giapponese     | けたぐり        |
 | Tipo           | Lotta       |
 | Codice         | EBW02-010   |
 | Pokémon        | Greninja    |

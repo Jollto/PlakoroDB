@@ -38,7 +38,7 @@
 | Boca abajo  | En tu próximo turno, reduce el número de Enekoro que tiras en 2. |
 | De lado     |                                                                  |
 
-[Hacer Trizas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard02.webp)
+[Pulso Dragón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard02.webp)
 
 #### Vasto Impacto
 

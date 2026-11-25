@@ -1,10 +1,10 @@
-## Sableye Cards
+## Cartas de Sableye
 
 ### Caja de Exploración 2
 
-#### Nail Scratch ?
+#### Arañazo Garfa ?
 
-| Nombre      | Nail Scratch ?                          |
+| Nombre      | Arañazo Garfa ?                         |
 | ----------- | --------------------------------------- |
 | Japonés     | ツメでひっかく                                 |
 | Tipo        | Siniestro                               |
@@ -19,11 +19,11 @@
 | Boca abajo  | Este ataque hace 10 puntos de daño más. |
 | De lado     |                                         |
 
-[Nail Scratch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard01.webp)
+[Arañazo Garfa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard01.webp)
 
-#### Feint Attack
+#### Finta
 
-| Nombre      | Feint Attack                            |
+| Nombre      | Finta                                   |
 | ----------- | --------------------------------------- |
 | Japonés     | だましうち                                   |
 | Tipo        | Siniestro                               |
@@ -38,49 +38,49 @@
 | Boca abajo  | Este ataque hace 20 puntos de daño más. |
 | De lado     |                                         |
 
-[Feint Attack](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard02.webp)
+[Finta](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard02.webp)
 
-#### Dig It Up
+#### Socavar
 
-| Nombre      | Dig It Up                                                                                                                  |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | ほりかえす                                                                                                                      |
-| Tipo        | Siniestro                                                                                                                  |
-| Código      | EBW02-023                                                                                                                  |
-| Pokémon     | Sableye                                                                                                                    |
-| Energía     | {D}{D}                                                                                                                     |
-| Daño        | 30                                                                                                                         |
-| Efecto      |                                                                                                                            |
-| De pie      | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| De cabeza   |                                                                                                                            |
-| Boca arriba | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| Boca abajo  |                                                                                                                            |
-| De lado     | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Nombre      | Socavar                                                                                                             |
+| ----------- | ------------------------------------------------------------------------------------------------------------------- |
+| Japonés     | ほりかえす                                                                                                               |
+| Tipo        | Siniestro                                                                                                           |
+| Código      | EBW02-023                                                                                                           |
+| Pokémon     | Sableye                                                                                                             |
+| Energía     | {D}{D}                                                                                                              |
+| Daño        | 30                                                                                                                  |
+| Efecto      |                                                                                                                     |
+| De pie      | En el próximo turno de tu rival, elige 1 Enekoro lanzado, y hazlo tirar de nuevo. (Tú eliges qué Enekoro relanzar.) |
+| De cabeza   |                                                                                                                     |
+| Boca arriba | En el próximo turno de tu rival, elige 1 Enekoro lanzado, y hazlo tirar de nuevo. (Tú eliges qué Enekoro relanzar.) |
+| Boca abajo  |                                                                                                                     |
+| De lado     | En el próximo turno de tu rival, elige 1 Enekoro lanzado, y hazlo tirar de nuevo. (Tú eliges qué Enekoro relanzar.) |
 
-[Dig It Up](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard03.webp)
+[Socavar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard03.webp)
 
-#### Instigate
+#### Instigar
 
-| Nombre      | Instigate                                                                         |
-| ----------- | --------------------------------------------------------------------------------- |
-| Japonés     | そそのかす                                                                             |
-| Tipo        | Siniestro                                                                         |
-| Código      | EBW02-024                                                                         |
-| Pokémon     | Sableye                                                                           |
-| Energía     | {D}{D}{D}                                                                         |
-| Daño        | 20                                                                                |
-| Efecto      |                                                                                   |
-| De pie      | Elige 1 de los ataques de tu rival. During their next turn, they use that attack. |
-| De cabeza   |                                                                                   |
-| Boca arriba |                                                                                   |
-| Boca abajo  |                                                                                   |
-| De lado     | Elige 1 de los ataques de tu rival. During their next turn, they use that attack. |
+| Nombre      | Instigar                                                                       |
+| ----------- | ------------------------------------------------------------------------------ |
+| Japonés     | そそのかす                                                                          |
+| Tipo        | Siniestro                                                                      |
+| Código      | EBW02-024                                                                      |
+| Pokémon     | Sableye                                                                        |
+| Energía     | {D}{D}{D}                                                                      |
+| Daño        | 20                                                                             |
+| Efecto      |                                                                                |
+| De pie      | Elige 1 de los ataques de tu rival. Durante su próximo turno, usan ese ataque. |
+| De cabeza   |                                                                                |
+| Boca arriba |                                                                                |
+| Boca abajo  |                                                                                |
+| De lado     | Elige 1 de los ataques de tu rival. Durante su próximo turno, usan ese ataque. |
 
-[Instigate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
+[Instigar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
 
-#### Icy Wind
+#### Viento Hielo
 
-| Nombre      | Icy Wind                                |
+| Nombre      | Viento Hielo                            |
 | ----------- | --------------------------------------- |
 | Japonés     | こごえるかぜ                                  |
 | Tipo        | Agua                                    |
@@ -95,11 +95,11 @@
 | Boca abajo  |                                         |
 | De lado     |                                         |
 
-[Icy Wind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard05.webp)
+[Viento Hielo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard05.webp)
 
-#### Dark Claw ?
+#### Garra Sombría ?
 
-| Nombre      | Dark Claw ?                             |
+| Nombre      | Garra Sombría ?                         |
 | ----------- | --------------------------------------- |
 | Japonés     | ダーククロー                                  |
 | Tipo        | Siniestro                               |
@@ -114,30 +114,30 @@
 | Boca abajo  |                                         |
 | De lado     |                                         |
 
-[Dark Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard06.webp)
+[Garra Sombría](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard06.webp)
 
-#### Trip Over
+#### Tropezón
 
-| Nombre      | Trip Over                                                                   |
-| ----------- | --------------------------------------------------------------------------- |
-| Japonés     | ころばす                                                                        |
-| Tipo        | Siniestro                                                                   |
-| Código      | EBW02-027                                                                   |
-| Pokémon     | Sableye                                                                     |
-| Energía     | {D}{D}                                                                      |
-| Daño        | 20                                                                          |
-| Efecto      |                                                                             |
-| De pie      | On your opponent's next turn, set the direction of their Charakoro to {do}. |
-| De cabeza   |                                                                             |
-| Boca arriba | On your opponent's next turn, set the direction of their Charakoro to {do}. |
-| Boca abajo  | On your opponent's next turn, set the direction of their Charakoro to {do}. |
-| De lado     |                                                                             |
+| Nombre      | Tropezón                                                                   |
+| ----------- | -------------------------------------------------------------------------- |
+| Japonés     | ころばす                                                                       |
+| Tipo        | Siniestro                                                                  |
+| Código      | EBW02-027                                                                  |
+| Pokémon     | Sableye                                                                    |
+| Energía     | {D}{D}                                                                     |
+| Daño        | 20                                                                         |
+| Efecto      |                                                                            |
+| De pie      | En el próximo turno de tu rival, fija la dirección de su Charakoro a {do}. |
+| De cabeza   |                                                                            |
+| Boca arriba | En el próximo turno de tu rival, fija la dirección de su Charakoro a {do}. |
+| Boca abajo  | En el próximo turno de tu rival, fija la dirección de su Charakoro a {do}. |
+| De lado     |                                                                            |
 
-[Trip Over](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard07.webp)
+[Tropezón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard07.webp)
 
-#### Dark Pulse
+#### Pulso Umbrío
 
-| Nombre      | Dark Pulse                              |
+| Nombre      | Pulso Umbrío                            |
 | ----------- | --------------------------------------- |
 | Japonés     | あくのはどう                                  |
 | Tipo        | Siniestro                               |
@@ -152,26 +152,26 @@
 | Boca abajo  |                                         |
 | De lado     |                                         |
 
-[Dark Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard08.webp)
+[Pulso Umbrío](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard08.webp)
 
-#### Jewel Flash ?
+#### Joya Destello ?
 
-| Nombre      | Jewel Flash ?                                                                                                              |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | ジュエルフラッシュ                                                                                                                  |
-| Tipo        | Siniestro                                                                                                                  |
-| Código      | EBW02-029                                                                                                                  |
-| Pokémon     | Sableye                                                                                                                    |
-| Energía     | {D}{D}{D}{D}                                                                                                               |
-| Daño        | 50                                                                                                                         |
-| Efecto      |                                                                                                                            |
-| De pie      | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| De cabeza   |                                                                                                                            |
-| Boca arriba | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
-| Boca abajo  |                                                                                                                            |
-| De lado     | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| Nombre      | Joya Destello ?                                                                                                       |
+| ----------- | --------------------------------------------------------------------------------------------------------------------- |
+| Japonés     | ジュエルフラッシュ                                                                                                             |
+| Tipo        | Siniestro                                                                                                             |
+| Código      | EBW02-029                                                                                                             |
+| Pokémon     | Sableye                                                                                                               |
+| Energía     | {D}{D}{D}{D}                                                                                                          |
+| Daño        | 50                                                                                                                    |
+| Efecto      |                                                                                                                       |
+| De pie      | En el próximo turno de tu rival, elige 2 Enekoro lanzados, y hazlos tirar de nuevo. (Tú eliges qué Enekoro relanzar.) |
+| De cabeza   |                                                                                                                       |
+| Boca arriba | En el próximo turno de tu rival, elige 2 Enekoro lanzados, y hazlos tirar de nuevo. (Tú eliges qué Enekoro relanzar.) |
+| Boca abajo  |                                                                                                                       |
+| De lado     | En el próximo turno de tu rival, elige 2 Enekoro lanzados, y hazlos tirar de nuevo. (Tú eliges qué Enekoro relanzar.) |
 
-[Jewel Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
+[Joya Destello](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
 
 #### Psicorrayo
 
@@ -190,4 +190,4 @@
 | Boca abajo  |                                         |
 | De lado     |                                         |
 
-[Psybeam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard10.webp)
+[Psicorrayo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard10.webp)

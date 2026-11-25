@@ -139,17 +139,17 @@
 
 #### Cantinela
 
-| Nome           | Cantinela                                                                                            |
-| -------------- | ---------------------------------------------------------------------------------------------------- |
-| Giapponese     | スリーピーソング                                                                                             |
-| Tipo           | Volante                                                                                              |
-| Codice         | PRW03-1-08                                                                                           |
-| Pokémon        | Altaria                                                                                              |
-| Energia        | {Y}{Y}{Y}                                                                                            |
-| Danni          | 20                                                                                                   |
-| Effetto        |                                                                                                      |
-| In Piedi       | On the opponent's next turn, if the Charakoro rolls {do}{s1}{s2}, that attack fails. |
-| A testa in giù |                                                                                                      |
-| Supino         | On the opponent's next turn, if the Charakoro rolls {do}{s1}{s2}, that attack fails. |
-| Prono          |                                                                                                      |
-| Sui fianchi    |                                                                                                      |
+| Nome           | Cantinela                                                                                                   |
+| -------------- | ----------------------------------------------------------------------------------------------------------- |
+| Giapponese     | スリーピーソング                                                                                                    |
+| Tipo           | Volante                                                                                                     |
+| Codice         | PRW03-1-08                                                                                                  |
+| Pokémon        | Altaria                                                                                                     |
+| Energia        | {Y}{Y}{Y}                                                                                                   |
+| Danni          | 20                                                                                                          |
+| Effetto        |                                                                                                             |
+| In Piedi       | Nel prossimo turno dell'avversario, se il PokéDice mostra {do}{s1}{s2}, l'attacco fallisce. |
+| A testa in giù |                                                                                                             |
+| Supino         | Nel prossimo turno dell'avversario, se il PokéDice mostra {do}{s1}{s2}, l'attacco fallisce. |
+| Prono          |                                                                                                             |
+| Sui fianchi    |                                                                                                             |

@@ -6,7 +6,7 @@
 
 | Nome            | Cachoeira                                   |
 | --------------- | ------------------------------------------- |
-| Japonês         | たきのぼり                                  |
+| Japonês         | たきのぼり                                       |
 | Tipo            | Água                                        |
 | Código          | EBW02-001                                   |
 | Pokémon         | Greninja                                    |
@@ -25,7 +25,7 @@
 
 | Nome            | Corte Mutante ?                                                                        |
 | --------------- | -------------------------------------------------------------------------------------- |
-| Japonês         | へんげぎり                                                                             |
+| Japonês         | へんげぎり                                                                                  |
 | Tipo            | Água                                                                                   |
 | Código          | EBW02-002                                                                              |
 | Pokémon         | Greninja                                                                               |
@@ -44,7 +44,7 @@
 
 | Nome            | Estrela Ninja de Água                                                                                    |
 | --------------- | -------------------------------------------------------------------------------------------------------- |
-| Japonês         | みずしゅりけん                                                                                           |
+| Japonês         | みずしゅりけん                                                                                                  |
 | Tipo            | Água                                                                                                     |
 | Código          | EBW02-003                                                                                                |
 | Pokémon         | Greninja                                                                                                 |
@@ -63,7 +63,7 @@
 
 | Nome            | Furtividade nas Sombras                     |
 | --------------- | ------------------------------------------- |
-| Japonês         | かげうち                                    |
+| Japonês         | かげうち                                        |
 | Tipo            | Psíquico                                    |
 | Código          | EBW02-004                                   |
 | Pokémon         | Greninja                                    |
@@ -82,7 +82,7 @@
 
 | Nome            | Talho Noturno                               |
 | --------------- | ------------------------------------------- |
-| Japonês         | つじぎり                                    |
+| Japonês         | つじぎり                                        |
 | Tipo            | Sombrio                                     |
 | Código          | EBW02-005                                   |
 | Pokémon         | Greninja                                    |
@@ -101,7 +101,7 @@
 
 | Nome            | Revólver d'Água                             |
 | --------------- | ------------------------------------------- |
-| Japonês         | みずでっぽう                                |
+| Japonês         | みずでっぽう                                      |
 | Tipo            | Água                                        |
 | Código          | EBW02-006                                   |
 | Pokémon         | Greninja                                    |
@@ -120,7 +120,7 @@
 
 | Nome            | Golpe de Névoa                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | かすみぎり                                  |
+| Japonês         | かすみぎり                                       |
 | Tipo            | Água                                        |
 | Código          | EBW02-007                                   |
 | Pokémon         | Greninja                                    |
@@ -139,7 +139,7 @@
 
 | Nome            | Jutsu Clone ?                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------------- |
-| Japonês         | ぶんしんのじゅつ                                                                                         |
+| Japonês         | ぶんしんのじゅつ                                                                                                 |
 | Tipo            | Água                                                                                                     |
 | Código          | EBW02-008                                                                                                |
 | Pokémon         | Greninja                                                                                                 |
@@ -158,7 +158,7 @@
 
 | Nome            | Desbravar                                   |
 | --------------- | ------------------------------------------- |
-| Japonês         | くさわけ                                    |
+| Japonês         | くさわけ                                        |
 | Tipo            | Planta                                      |
 | Código          | EBW02-009                                   |
 | Pokémon         | Greninja                                    |
@@ -177,7 +177,7 @@
 
 | Nome            | Rasteira                                    |
 | --------------- | ------------------------------------------- |
-| Japonês         | けたぐり                                    |
+| Japonês         | けたぐり                                        |
 | Tipo            | Lutador                                     |
 | Código          | EBW02-010                                   |
 | Pokémon         | Greninja                                    |

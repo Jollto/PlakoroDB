@@ -134,3 +134,22 @@
 | Sideways  | If the opponent is a {N} type, this attack does 40 more damage. |
 
 [Moonblast](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)
+
+### Promo
+
+#### Sleepy Song
+
+| Name      | Sleepy Song                                                                          |
+| --------- | ------------------------------------------------------------------------------------ |
+| Japanese  | スリーピーソング                                                                     |
+| Type      | Flying                                                                               |
+| Code      | PRW03-1-08                                                                           |
+| Pokémon   | Altaria                                                                              |
+| Energy    | {Y}{Y}{Y}                                                                            |
+| Damage    | 20                                                                                   |
+| Effect    |                                                                                      |
+| Standing  | On the opponent's next turn, if the Charakoro rolls {do}{s1}{s2}, that attack fails. |
+| Handstand |                                                                                      |
+| Back      | On the opponent's next turn, if the Charakoro rolls {do}{s1}{s2}, that attack fails. |
+| Down      |                                                                                      |
+| Sideways  |                                                                                      |

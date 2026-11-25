@@ -137,9 +137,9 @@
 
 ### Promoción
 
-#### Storm Call ?
+#### Llamada Tormenta ?
 
-| Nombre      | Storm Call ?                                                                         |
+| Nombre      | Llamada Tormenta ?                                                                   |
 | ----------- | ------------------------------------------------------------------------------------ |
 | Japonés     | ストームコール                                                                              |
 | Tipo        | Dragón                                                                               |

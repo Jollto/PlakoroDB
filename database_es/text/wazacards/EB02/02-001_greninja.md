@@ -6,7 +6,7 @@
 
 | Nombre      | Cascada                                 |
 | ----------- | --------------------------------------- |
-| Japonés     | たきのぼり                              |
+| Japonés     | たきのぼり                                   |
 | Tipo        | Agua                                    |
 | Código      | EBW02-001                               |
 | Pokémon     | Greninja                                |
@@ -25,7 +25,7 @@
 
 | Nombre      | Tajo Cambiante ?                                                                        |
 | ----------- | --------------------------------------------------------------------------------------- |
-| Japonés     | へんげぎり                                                                              |
+| Japonés     | へんげぎり                                                                                   |
 | Tipo        | Agua                                                                                    |
 | Código      | EBW02-002                                                                               |
 | Pokémon     | Greninja                                                                                |
@@ -42,20 +42,20 @@
 
 #### Shuriken de Agua
 
-| Nombre      | Shuriken de Agua                                                                             |
-| ----------- | -------------------------------------------------------------------------------------------- |
-| Japonés     | みずしゅりけん                                                                               |
-| Tipo        | Agua                                                                                         |
-| Código      | EBW02-003                                                                                    |
-| Pokémon     | Greninja                                                                                     |
-| Energía     | {W}{W}{W}                                                                                    |
-| Daño        |                                                                                              |
-| Efecto      | Tira tu Charakoro 3 veces.                                                                   |
-| De pie      | Cada vez que el Charakoro caiga bien en este ataque, este ataque hace 20 puntos de daño más. |
-| De cabeza   |                                                                                              |
-| Boca arriba |                                                                                              |
-| Boca abajo  |                                                                                              |
-| De lado     | Cada vez que el Charakoro caiga bien en este ataque, este ataque hace 20 puntos de daño más. |
+| Nombre      | Shuriken de Agua                                                                               |
+| ----------- | ---------------------------------------------------------------------------------------------- |
+| Japonés     | みずしゅりけん                                                                                        |
+| Tipo        | Agua                                                                                           |
+| Código      | EBW02-003                                                                                      |
+| Pokémon     | Greninja                                                                                       |
+| Energía     | {W}{W}{W}                                                                                      |
+| Daño        |                                                                                                |
+| Efecto      | Tira tu Charakoro 3 veces.                                                                     |
+| De pie      | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 20 puntos de daño más. |
+| De cabeza   |                                                                                                |
+| Boca arriba |                                                                                                |
+| Boca abajo  |                                                                                                |
+| De lado     | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 20 puntos de daño más. |
 
 [Shuriken de Agua](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard03.webp)
 
@@ -63,7 +63,7 @@
 
 | Nombre      | Sombra Vil                              |
 | ----------- | --------------------------------------- |
-| Japonés     | かげうち                                |
+| Japonés     | かげうち                                    |
 | Tipo        | Psíquico                                |
 | Código      | EBW02-004                               |
 | Pokémon     | Greninja                                |
@@ -82,7 +82,7 @@
 
 | Nombre      | Tajo Umbrío                             |
 | ----------- | --------------------------------------- |
-| Japonés     | つじぎり                                |
+| Japonés     | つじぎり                                    |
 | Tipo        | Siniestro                               |
 | Código      | EBW02-005                               |
 | Pokémon     | Greninja                                |
@@ -101,7 +101,7 @@
 
 | Nombre      | Pistola Agua                            |
 | ----------- | --------------------------------------- |
-| Japonés     | みずでっぽう                            |
+| Japonés     | みずでっぽう                                  |
 | Tipo        | Agua                                    |
 | Código      | EBW02-006                               |
 | Pokémon     | Greninja                                |
@@ -120,7 +120,7 @@
 
 | Nombre      | Golpe Niebla                            |
 | ----------- | --------------------------------------- |
-| Japonés     | かすみぎり                              |
+| Japonés     | かすみぎり                                   |
 | Tipo        | Agua                                    |
 | Código      | EBW02-007                               |
 | Pokémon     | Greninja                                |
@@ -139,7 +139,7 @@
 
 | Nombre      | Clon Jutsu ?                                                                                 |
 | ----------- | -------------------------------------------------------------------------------------------- |
-| Japonés     | ぶんしんのじゅつ                                                                             |
+| Japonés     | ぶんしんのじゅつ                                                                                     |
 | Tipo        | Agua                                                                                         |
 | Código      | EBW02-008                                                                                    |
 | Pokémon     | Greninja                                                                                     |
@@ -158,7 +158,7 @@
 
 | Nombre      | Abrecaminos                             |
 | ----------- | --------------------------------------- |
-| Japonés     | くさわけ                                |
+| Japonés     | くさわけ                                    |
 | Tipo        | Planta                                  |
 | Código      | EBW02-009                               |
 | Pokémon     | Greninja                                |
@@ -177,7 +177,7 @@
 
 | Nombre      | Patada Baja                             |
 | ----------- | --------------------------------------- |
-| Japonés     | けたぐり                                |
+| Japonés     | けたぐり                                    |
 | Tipo        | Lucha                                   |
 | Código      | EBW02-010                               |
 | Pokémon     | Greninja                                |

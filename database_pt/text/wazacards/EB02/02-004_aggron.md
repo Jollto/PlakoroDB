@@ -4,190 +4,190 @@
 
 #### Garra de Metal
 
-| Nome            | Garra de Metal                                              |
-| --------------- | ----------------------------------------------------------- |
-| Japonês         | メタルクロー                                                      |
-| Tipo            | Aço                                                         |
-| Código          | EBW02-031                                                   |
-| Pokémon         | Aggron                                                      |
-| Energia         | {M}                                                         |
-| Dano            | 10                                                          |
-| Efeito          |                                                             |
+| Nome            | Garra de Metal                              |
+| --------------- | ------------------------------------------- |
+| Japonês         | メタルクロー                                      |
+| Tipo            | Aço                                         |
+| Código          | EBW02-031                                   |
+| Pokémon         | Aggron                                      |
+| Energia         | {M}                                         |
+| Dano            | 10                                          |
+| Efeito          |                                             |
 | Em pé           | Este ataque causa 30 pontos de dano a mais. |
-| De ponta-cabeça |                                                             |
-| De costas       |                                                             |
-| De bruços       |                                                             |
-| De lado         |                                                             |
+| De ponta-cabeça |                                             |
+| De costas       |                                             |
+| De bruços       |                                             |
+| De lado         |                                             |
 
 [Garra de Metal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard01.webp)
 
 #### Cabeçada de Aço
 
-| Nome            | Cabeçada de Aço                                             |
-| --------------- | ----------------------------------------------------------- |
-| Japonês         | はがねのずつき                                                     |
-| Tipo            | Aço                                                         |
-| Código          | EBW02-032                                                   |
-| Pokémon         | Aggron                                                      |
-| Energia         | {M}{M}                                                      |
-| Dano            | 10                                                          |
-| Efeito          |                                                             |
+| Nome            | Cabeçada de Aço                             |
+| --------------- | ------------------------------------------- |
+| Japonês         | はがねのずつき                                     |
+| Tipo            | Aço                                         |
+| Código          | EBW02-032                                   |
+| Pokémon         | Aggron                                      |
+| Energia         | {M}{M}                                      |
+| Dano            | 10                                          |
+| Efeito          |                                             |
 | Em pé           | Este ataque causa 20 pontos de dano a mais. |
-| De ponta-cabeça |                                                             |
-| De costas       |                                                             |
-| De bruços       |                                                             |
+| De ponta-cabeça |                                             |
+| De costas       |                                             |
+| De bruços       |                                             |
 | De lado         | Este ataque causa 20 pontos de dano a mais. |
 
 [Cabeçada de Aço](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
 
-#### Escudo Tirano ?
+#### Tyrant Shield ?
 
-| Nome            | Escudo Tirano ?                                                                                                                         |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | タイラントシールド                                                                                                                               |
-| Tipo            | Aço                                                                                                                                     |
-| Código          | EBW02-033                                                                                                                               |
-| Pokémon         | Aggron                                                                                                                                  |
-| Energia         | {M}{M}{M}                                                                                                                               |
-| Dano            | 30                                                                                                                                      |
-| Efeito          |                                                                                                                                         |
-| Em pé           | No próximo turno do seu oponente, evite todo o dano causado a este Pokémon por ataques se esse dano for de 40 ou menos. |
-| De ponta-cabeça |                                                                                                                                         |
-| De costas       | No próximo turno do seu oponente, evite todo o dano causado a este Pokémon por ataques se esse dano for de 40 ou menos. |
-| De bruços       | No próximo turno do seu oponente, evite todo o dano causado a este Pokémon por ataques se esse dano for de 40 ou menos. |
-| De lado         |                                                                                                                                         |
+| Nome            | Tyrant Shield ?                                                                                                    |
+| --------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Japonês         | タイラントシールド                                                                                                          |
+| Tipo            | Aço                                                                                                                |
+| Código          | EBW02-033                                                                                                          |
+| Pokémon         | Aggron                                                                                                             |
+| Energia         | {M}{M}{M}                                                                                                          |
+| Dano            | 30                                                                                                                 |
+| Efeito          |                                                                                                                    |
+| Em pé           | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
+| De ponta-cabeça |                                                                                                                    |
+| De costas       | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
+| De bruços       | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less. |
+| De lado         |                                                                                                                    |
 
-[Escudo Tirano](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
+[Tyrant Shield](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
 
 #### Carga Indomável
 
-| Nome            | Carga Indomável                                                  |
-| --------------- | ---------------------------------------------------------------- |
-| Japonês         | とつげき                                                             |
-| Tipo            | Aço                                                              |
-| Código          | EBW02-034                                                        |
-| Pokémon         | Aggron                                                           |
-| Energia         | {M}{M}{M}{M}                                                     |
-| Dano            | 40                                                               |
-| Efeito          |                                                                  |
+| Nome            | Carga Indomável                                  |
+| --------------- | ------------------------------------------------ |
+| Japonês         | とつげき                                             |
+| Tipo            | Aço                                              |
+| Código          | EBW02-034                                        |
+| Pokémon         | Aggron                                           |
+| Energia         | {M}{M}{M}{M}                                     |
+| Dano            | 40                                               |
+| Efeito          |                                                  |
 | Em pé           | Este ataque causa 40 pontos de dano a mais.      |
 | De ponta-cabeça | Este Pokémon causa 40 pontos de dano a si mesmo. |
 | De costas       | Este ataque causa 40 pontos de dano a mais.      |
 | De bruços       | Este Pokémon causa 40 pontos de dano a si mesmo. |
-| De lado         |                                                                  |
+| De lado         |                                                  |
 
-[Carga Indomável](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard04.webp)
+[Reckless Charge](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard04.webp)
 
-#### Tumba de Rochas
+#### Rock Tomb
 
-| Nome            | Tumba de Rochas                                                           |
-| --------------- | ------------------------------------------------------------------------- |
-| Japonês         | がんせきふうじ                                                                   |
-| Tipo            | Lutador                                                                   |
-| Código          | EBW02-035                                                                 |
-| Pokémon         | Aggron                                                                    |
-| Energia         | {F}{C}{C}{C}                                                              |
-| Dano            | 30                                                                        |
-| Efeito          |                                                                           |
+| Nome            | Rock Tomb                                                 |
+| --------------- | --------------------------------------------------------- |
+| Japonês         | がんせきふうじ                                                   |
+| Tipo            | Lutador                                                   |
+| Código          | EBW02-035                                                 |
+| Pokémon         | Aggron                                                    |
+| Energia         | {F}{C}{C}{C}                                              |
+| Dano            | 30                                                        |
+| Efeito          |                                                           |
 | Em pé           | No próximo turno do oponente, ele rola 1 Enekoro a menos. |
-| De ponta-cabeça |                                                                           |
+| De ponta-cabeça |                                                           |
 | De costas       | No próximo turno do oponente, ele rola 1 Enekoro a menos. |
 | De bruços       | No próximo turno do oponente, ele rola 1 Enekoro a menos. |
-| De lado         |                                                                           |
+| De lado         |                                                           |
 
-[Tumba de Rochas](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard05.webp)
+[Rock Tomb](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard05.webp)
 
 #### Aríete
 
-| Nome            | Aríete                                                      |
-| --------------- | ----------------------------------------------------------- |
-| Japonês         | ぶつかる                                                        |
-| Tipo            | Aço                                                         |
-| Código          | EBW02-036                                                   |
-| Pokémon         | Aggron                                                      |
-| Energia         | {M}                                                         |
-| Dano            | 10                                                          |
-| Efeito          |                                                             |
+| Nome            | Aríete                                      |
+| --------------- | ------------------------------------------- |
+| Japonês         | ぶつかる                                        |
+| Tipo            | Aço                                         |
+| Código          | EBW02-036                                   |
+| Pokémon         | Aggron                                      |
+| Energia         | {M}                                         |
+| Dano            | 10                                          |
+| Efeito          |                                             |
 | Em pé           | Este ataque causa 10 pontos de dano a mais. |
-| De ponta-cabeça |                                                             |
+| De ponta-cabeça |                                             |
 | De costas       | Este ataque causa 10 pontos de dano a mais. |
-| De bruços       |                                                             |
+| De bruços       |                                             |
 | De lado         | Este ataque causa 10 pontos de dano a mais. |
 
-[Aríete](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard06.webp)
+[Ram](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard06.webp)
 
-#### Corpo de Aço ?
+#### Steel Body ?
 
-| Nome            | Corpo de Aço ?                                                                                                                          |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | こうてつボディ                                                                                                                                 |
-| Tipo            | Aço                                                                                                                                     |
-| Código          | EBW02-037                                                                                                                               |
-| Pokémon         | Aggron                                                                                                                                  |
-| Energia         | {M}{M}                                                                                                                                  |
-| Dano            | 20                                                                                                                                      |
-| Efeito          |                                                                                                                                         |
-| Em pé           | No próximo turno do seu oponente, evite todo o dano causado a este Pokémon por ataques se esse dano for de 30 ou menos. |
-| De ponta-cabeça |                                                                                                                                         |
-| De costas       | No próximo turno do seu oponente, evite todo o dano causado a este Pokémon por ataques se esse dano for de 30 ou menos. |
-| De bruços       |                                                                                                                                         |
-| De lado         | No próximo turno do seu oponente, evite todo o dano causado a este Pokémon por ataques se esse dano for de 30 ou menos. |
+| Nome            | Steel Body ?                                                                                                       |
+| --------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Japonês         | こうてつボディ                                                                                                            |
+| Tipo            | Aço                                                                                                                |
+| Código          | EBW02-037                                                                                                          |
+| Pokémon         | Aggron                                                                                                             |
+| Energia         | {M}{M}                                                                                                             |
+| Dano            | 20                                                                                                                 |
+| Efeito          |                                                                                                                    |
+| Em pé           | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
+| De ponta-cabeça |                                                                                                                    |
+| De costas       | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
+| De bruços       |                                                                                                                    |
+| De lado         | During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 30 or less. |
 
-[Corpo de Aço](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard07.webp)
+[Steel Body](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard07.webp)
 
-#### Aço Poderoso ?
+#### Powerful Steel ?
 
-| Nome            | Aço Poderoso ?                                                                                                                           |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | パワフルスチール                                                                                                                                 |
-| Tipo            | Aço                                                                                                                                      |
-| Código          | EBW02-038                                                                                                                                |
-| Pokémon         | Aggron                                                                                                                                   |
-| Energia         | {M}{M}{M}                                                                                                                                |
-| Dano            | 20                                                                                                                                       |
-| Efeito          |                                                                                                                                          |
-| Em pé           | Se este Pokémon não recebeu dano de ataques no último turno do seu oponente, este ataque causa 40 pontos de dano a mais. |
-| De ponta-cabeça |                                                                                                                                          |
-| De costas       |                                                                                                                                          |
-| De bruços       |                                                                                                                                          |
-| De lado         | Se este Pokémon não recebeu dano de ataques no último turno do seu oponente, este ataque causa 40 pontos de dano a mais. |
+| Nome            | Powerful Steel ?                                                                                                |
+| --------------- | --------------------------------------------------------------------------------------------------------------- |
+| Japonês         | パワフルスチール                                                                                                        |
+| Tipo            | Aço                                                                                                             |
+| Código          | EBW02-038                                                                                                       |
+| Pokémon         | Aggron                                                                                                          |
+| Energia         | {M}{M}{M}                                                                                                       |
+| Dano            | 20                                                                                                              |
+| Efeito          |                                                                                                                 |
+| Em pé           | If this Pokémon was not damaged by an attack during your opponent's last turn, this attack does 40 more damage. |
+| De ponta-cabeça |                                                                                                                 |
+| De costas       |                                                                                                                 |
+| De bruços       |                                                                                                                 |
+| De lado         | If this Pokémon was not damaged by an attack during your opponent's last turn, this attack does 40 more damage. |
 
-[Aço Poderoso](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
+[Powerful Steel](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
 
-#### Cabeça de Ferro
+#### Iron Head
 
-| Nome            | Cabeça de Ferro                                             |
-| --------------- | ----------------------------------------------------------- |
-| Japonês         | アイアンヘッド                                                     |
-| Tipo            | Aço                                                         |
-| Código          | EBW02-039                                                   |
-| Pokémon         | Aggron                                                      |
-| Energia         | {M}{M}{M}                                                   |
-| Dano            | 30                                                          |
-| Efeito          |                                                             |
+| Nome            | Iron Head                                   |
+| --------------- | ------------------------------------------- |
+| Japonês         | アイアンヘッド                                     |
+| Tipo            | Aço                                         |
+| Código          | EBW02-039                                   |
+| Pokémon         | Aggron                                      |
+| Energia         | {M}{M}{M}                                   |
+| Dano            | 30                                          |
+| Efeito          |                                             |
 | Em pé           | Este ataque causa 20 pontos de dano a mais. |
-| De ponta-cabeça |                                                             |
+| De ponta-cabeça |                                             |
 | De costas       | Este ataque causa 20 pontos de dano a mais. |
 | De bruços       | Este ataque causa 20 pontos de dano a mais. |
-| De lado         |                                                             |
+| De lado         |                                             |
 
-[Cabeça de Ferro](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard09.webp)
+[Iron Head](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard09.webp)
 
-#### Soco de Gelo
+#### Ice Punch
 
-| Nome            | Soco de Gelo                                                |
-| --------------- | ----------------------------------------------------------- |
-| Japonês         | れいとうパンチ                                                     |
-| Tipo            | Água                                                        |
-| Código          | EBW02-040                                                   |
-| Pokémon         | Aggron                                                      |
-| Energia         | {W}{C}{C}{C}                                                |
-| Dano            | 20                                                          |
-| Efeito          |                                                             |
+| Nome            | Ice Punch                                   |
+| --------------- | ------------------------------------------- |
+| Japonês         | れいとうパンチ                                     |
+| Tipo            | Água                                        |
+| Código          | EBW02-040                                   |
+| Pokémon         | Aggron                                      |
+| Energia         | {W}{C}{C}{C}                                |
+| Dano            | 20                                          |
+| Efeito          |                                             |
 | Em pé           | Este ataque causa 20 pontos de dano a mais. |
-| De ponta-cabeça |                                                             |
-| De costas       |                                                             |
-| De bruços       |                                                             |
+| De ponta-cabeça |                                             |
+| De costas       |                                             |
+| De bruços       |                                             |
 | De lado         | Este ataque causa 20 pontos de dano a mais. |
 
-[Soco de Gelo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard10.webp)
+[Ice Punch](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard10.webp)

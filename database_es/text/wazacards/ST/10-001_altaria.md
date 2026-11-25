@@ -137,19 +137,19 @@
 
 ### Promoción
 
-#### Sleepy Song
+#### Canción Adormecedora
 
-| Nombre      | Sleepy Song                                                                                          |
-| ----------- | ---------------------------------------------------------------------------------------------------- |
-| Japonés     | スリーピーソング                                                                                             |
-| Tipo        | Volador                                                                                              |
-| Código      | PRW03-1-08                                                                                           |
-| Pokémon     | Altaria                                                                                              |
-| Energía     | {Y}{Y}{Y}                                                                                            |
-| Daño        | 20                                                                                                   |
-| Efecto      |                                                                                                      |
-| De pie      | On the opponent's next turn, if the Charakoro rolls {do}{s1}{s2}, that attack fails. |
-| De cabeza   |                                                                                                      |
-| Boca arriba | On the opponent's next turn, if the Charakoro rolls {do}{s1}{s2}, that attack fails. |
-| Boca abajo  |                                                                                                      |
-| De lado     |                                                                                                      |
+| Nombre      | Canción Adormecedora                                                                                    |
+| ----------- | ------------------------------------------------------------------------------------------------------- |
+| Japonés     | スリーピーソング                                                                                                |
+| Tipo        | Volador                                                                                                 |
+| Código      | PRW03-1-08                                                                                              |
+| Pokémon     | Altaria                                                                                                 |
+| Energía     | {Y}{Y}{Y}                                                                                               |
+| Daño        | 20                                                                                                      |
+| Efecto      |                                                                                                         |
+| De pie      | En el próximo turno de tu rival, si el Charakoro cae en {do}{s1}{s2}, ese ataque falla. |
+| De cabeza   |                                                                                                         |
+| Boca arriba | En el próximo turno de tu rival, si el Charakoro cae en {do}{s1}{s2}, ese ataque falla. |
+| Boca abajo  |                                                                                                         |
+| De lado     |                                                                                                         |

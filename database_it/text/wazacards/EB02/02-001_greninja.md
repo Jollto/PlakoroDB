@@ -42,20 +42,20 @@
 
 #### Acqualame
 
-| Nome           | Acqualame                                               |
-| -------------- | ------------------------------------------------------- |
-| Giapponese     | みずしゅりけん                                          |
-| Tipo           | Acqua                                                   |
-| Codice         | EBW02-003                                               |
-| Pokémon        | Greninja                                                |
-| Energia        | {W}{W}{W}                                               |
-| Danni          |                                                         |
-| Effetto        | Lancia il PokéDice 3 volte in totale per questa mossa.  |
-| In Piedi       | per ogni PokéDice riuscito con questa mossa, +20 danni. |
-| A testa in giù |                                                         |
-| Supino         |                                                         |
-| Prono          |                                                         |
-| Sui fianchi    | per ogni PokéDice riuscito con questa mossa, +20 danni. |
+| Nome           | Acqualame                                              |
+| -------------- | ------------------------------------------------------ |
+| Giapponese     | みずしゅりけん                                         |
+| Tipo           | Acqua                                                  |
+| Codice         | EBW02-003                                              |
+| Pokémon        | Greninja                                               |
+| Energia        | {W}{W}{W}                                              |
+| Danni          |                                                        |
+| Effetto        | Lancia il PokéDice 3 volte in totale per questa mossa. |
+| In Piedi       | +20 danni per ogni PokéDice riuscito con questa mossa. |
+| A testa in giù |                                                        |
+| Supino         |                                                        |
+| Prono          |                                                        |
+| Sui fianchi    | +20 danni per ogni PokéDice riuscito con questa mossa. |
 
 [Acqualame](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard03.webp)
 
@@ -146,11 +146,11 @@
 | Energia        | {W}{W}{W}{W}                                            |
 | Danni          |                                                         |
 | Effetto        | Lancia il PokéDice 2 volte in totale per questa mossa.  |
-| In Piedi       | per ogni PokéDice riuscito con questa mossa, +40 danni. |
+| In Piedi       | Per ogni PokéDice riuscito con questa mossa, +40 danni. |
 | A testa in giù |                                                         |
 | Supino         |                                                         |
 | Prono          |                                                         |
-| Sui fianchi    | per ogni PokéDice riuscito con questa mossa, +40 danni. |
+| Sui fianchi    | Per ogni PokéDice riuscito con questa mossa, +40 danni. |
 
 [Tecnica clone](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard08.webp)
 

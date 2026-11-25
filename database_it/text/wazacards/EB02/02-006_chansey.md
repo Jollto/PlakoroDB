@@ -21,9 +21,9 @@
 
 [Botta](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard01.webp)
 
-#### Placcaggio fortuito ?
+#### Placcaggio Fortuito ?
 
-| Nome           | Placcaggio fortuito ?                                    |
+| Nome           | Placcaggio Fortuito ?                                    |
 | -------------- | -------------------------------------------------------- |
 | Giapponese     | チャンスタックル                                         |
 | Tipo           | Normale                                                  |
@@ -38,11 +38,11 @@
 | Prono          |                                                          |
 | Sui fianchi    |                                                          |
 
-[Placcaggio fortuito](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard02.webp)
+[Placcaggio Fortuito](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard02.webp)
 
-#### Attacco a palla
+#### Attacco a Palla
 
-| Nome           | Attacco a palla  |
+| Nome           | Attacco a Palla  |
 | -------------- | ---------------- |
 | Giapponese     | まるまるアタック |
 | Tipo           | Normale          |
@@ -57,11 +57,11 @@
 | Prono          |                  |
 | Sui fianchi    |                  |
 
-[Attacco a palla](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard03.webp)
+[Attacco a Palla](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard03.webp)
 
-#### Schiaffo drenante
+#### Schiaffo Drenante
 
-| Nome           | Schiaffo drenante              |
+| Nome           | Schiaffo Drenante              |
 | -------------- | ------------------------------ |
 | Giapponese     | ドレインビンタ                 |
 | Tipo           | Normale                        |
@@ -76,7 +76,7 @@
 | Prono          |                                |
 | Sui fianchi    |                                |
 
-[Schiaffo drenante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard04.webp)
+[Schiaffo Drenante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard04.webp)
 
 #### Palla Ombra
 
@@ -97,24 +97,24 @@
 
 [Palla Ombra](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard05.webp)
 
-#### Colpo a mano aperta
+#### Schiaffo
 
-| Nome           | Colpo a mano aperta |
-| -------------- | ------------------- |
-| Giapponese     | ひらてうち          |
-| Tipo           | Normale             |
-| Codice         | EBW02-056           |
-| Pokémon        | Chansey             |
-| Energia        | {Y}                 |
-| Danni          | 10                  |
-| Effetto        |                     |
-| In Piedi       | +40 danni.          |
-| A testa in giù |                     |
-| Supino         |                     |
-| Prono          |                     |
-| Sui fianchi    |                     |
+| Nome           | Schiaffo   |
+| -------------- | ---------- |
+| Giapponese     | ひらてうち |
+| Tipo           | Normale    |
+| Codice         | EBW02-056  |
+| Pokémon        | Chansey    |
+| Energia        | {Y}        |
+| Danni          | 10         |
+| Effetto        |            |
+| In Piedi       | +40 danni. |
+| A testa in giù |            |
+| Supino         |            |
+| Prono          |            |
+| Sui fianchi    |            |
 
-[Colpo a mano aperta](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard06.webp)
+[Schiaffo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard06.webp)
 
 #### Covauova
 
@@ -154,9 +154,9 @@
 
 [Pugno Fortunato](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard08.webp)
 
-#### Schianto
+#### Martello
 
-| Nome           | Schianto     |
+| Nome           | Martello     |
 | -------------- | ------------ |
 | Giapponese     | ぶちかます   |
 | Tipo           | Normale      |
@@ -171,7 +171,7 @@
 | Prono          |              |
 | Sui fianchi    |              |
 
-[Schianto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard09.webp)
+[Martello](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/06/img_wazacard09.webp)
 
 #### Lanciafiamme
 

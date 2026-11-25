@@ -134,3 +134,22 @@
 | De lado     | Si el rival es de tipo {N}, este ataque hace 40 puntos de daño más. |
 
 [Fuerza Lunar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)
+
+### Promoción
+
+#### Canción Adormecedora
+
+| Nombre      | Canción Adormecedora                                                                    |
+| ----------- | --------------------------------------------------------------------------------------- |
+| Japonés     | スリーピーソング                                                                        |
+| Tipo        | Volador                                                                                 |
+| Código      | PRW03-1-08                                                                              |
+| Pokémon     | Altaria                                                                                 |
+| Energía     | {Y}{Y}{Y}                                                                               |
+| Daño        | 20                                                                                      |
+| Efecto      |                                                                                         |
+| De pie      | En el próximo turno de tu rival, si el Charakoro cae en {do}{s1}{s2}, ese ataque falla. |
+| De cabeza   |                                                                                         |
+| Boca arriba | En el próximo turno de tu rival, si el Charakoro cae en {do}{s1}{s2}, ese ataque falla. |
+| Boca abajo  |                                                                                         |
+| De lado     |                                                                                         |

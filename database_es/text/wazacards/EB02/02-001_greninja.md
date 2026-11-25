@@ -42,20 +42,20 @@
 
 #### Shuriken de Agua
 
-| Nombre      | Shuriken de Agua                                                                             |
-| ----------- | -------------------------------------------------------------------------------------------- |
-| Japonés     | みずしゅりけん                                                                               |
-| Tipo        | Agua                                                                                         |
-| Código      | EBW02-003                                                                                    |
-| Pokémon     | Greninja                                                                                     |
-| Energía     | {W}{W}{W}                                                                                    |
-| Daño        |                                                                                              |
-| Efecto      | Tira tu Charakoro 3 veces.                                                                   |
-| De pie      | Cada vez que el Charakoro caiga bien en este ataque, este ataque hace 20 puntos de daño más. |
-| De cabeza   |                                                                                              |
-| Boca arriba |                                                                                              |
-| Boca abajo  |                                                                                              |
-| De lado     | Cada vez que el Charakoro caiga bien en este ataque, este ataque hace 20 puntos de daño más. |
+| Nombre      | Shuriken de Agua                                                                               |
+| ----------- | ---------------------------------------------------------------------------------------------- |
+| Japonés     | みずしゅりけん                                                                                 |
+| Tipo        | Agua                                                                                           |
+| Código      | EBW02-003                                                                                      |
+| Pokémon     | Greninja                                                                                       |
+| Energía     | {W}{W}{W}                                                                                      |
+| Daño        |                                                                                                |
+| Efecto      | Tira tu Charakoro 3 veces.                                                                     |
+| De pie      | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 20 puntos de daño más. |
+| De cabeza   |                                                                                                |
+| Boca arriba |                                                                                                |
+| Boca abajo  |                                                                                                |
+| De lado     | Por cada tirada correcta de Charakoro con este ataque, este ataque hace 20 puntos de daño más. |
 
 [Shuriken de Agua](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_wazacard03.webp)
 

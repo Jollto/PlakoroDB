@@ -134,3 +134,22 @@
 | Sui fianchi    | Se l'avversario è un tipo {N}: +40 danni. |
 
 [Forza Lunare](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)
+
+### Promo
+
+#### Cantinela
+
+| Nome           | Cantinela                                                                                   |
+| -------------- | ------------------------------------------------------------------------------------------- |
+| Giapponese     | スリーピーソング                                                                            |
+| Tipo           | Volante                                                                                     |
+| Codice         | PRW03-1-08                                                                                  |
+| Pokémon        | Altaria                                                                                     |
+| Energia        | {Y}{Y}{Y}                                                                                   |
+| Danni          | 20                                                                                          |
+| Effetto        |                                                                                             |
+| In Piedi       | Nel prossimo turno dell'avversario, se il PokéDice mostra {do}{s1}{s2}, l'attacco fallisce. |
+| A testa in giù |                                                                                             |
+| Supino         | Nel prossimo turno dell'avversario, se il PokéDice mostra {do}{s1}{s2}, l'attacco fallisce. |
+| Prono          |                                                                                             |
+| Sui fianchi    |                                                                                             |

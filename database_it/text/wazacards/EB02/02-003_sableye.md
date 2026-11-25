@@ -118,20 +118,20 @@
 
 #### Sgambetto
 
-| Nome           | Sgambetto                                                                         |
-| -------------- | --------------------------------------------------------------------------------- |
-| Giapponese     | ころばす                                                                          |
-| Tipo           | Buio                                                                              |
-| Codice         | EBW02-027                                                                         |
-| Pokémon        | Sableye                                                                           |
-| Energia        | {D}{D}                                                                            |
-| Danni          | 20                                                                                |
-| Effetto        |                                                                                   |
-| In Piedi       | Nel prossimo turno dell'avversario, l'orientamento del suo PokéDice diventa {do}. |
-| A testa in giù |                                                                                   |
-| Supino         | Nel prossimo turno dell'avversario, l'orientamento del suo PokéDice diventa {do}. |
-| Prono          | Nel prossimo turno dell'avversario, l'orientamento del suo PokéDice diventa {do}. |
-| Sui fianchi    |                                                                                   |
+| Nome           | Sgambetto                                                            |
+| -------------- | -------------------------------------------------------------------- |
+| Giapponese     | Sgambetto                                                            |
+| Tipo           | Buio                                                                 |
+| Codice         | EBW02-027                                                            |
+| Pokémon        | Sableye                                                              |
+| Energia        | {D}{D}                                                               |
+| Danni          | 20                                                                   |
+| Effetto        |                                                                      |
+| In Piedi       | Nel prossimo turno dell'avversario, il suo PokéDice conta come {do}. |
+| A testa in giù |                                                                      |
+| Supino         | Nel prossimo turno dell'avversario, il suo PokéDice conta come {do}. |
+| Prono          | Nel prossimo turno dell'avversario, il suo PokéDice conta come {do}. |
+| Sui fianchi    |                                                                      |
 
 [Sgambetto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard07.webp)
 
@@ -154,24 +154,24 @@
 
 [Neropulsar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard08.webp)
 
-#### Lampo gemma ?
+#### Lampo Gemma ?
 
-| Nome           | Lampo gemma ?                                                                                                                           |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | ジュエルフラッシュ                                                                                                                      |
-| Tipo           | Buio                                                                                                                                    |
-| Codice         | EBW02-029                                                                                                                               |
-| Pokémon        | Sableye                                                                                                                                 |
-| Energia        | {D}{D}{D}{D}                                                                                                                            |
-| Danni          | 50                                                                                                                                      |
-| Effetto        |                                                                                                                                         |
-| In Piedi       | Nel prossimo turno dell'avversario, scegli 2 dadi energia lanciati e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
-| A testa in giù |                                                                                                                                         |
-| Supino         | Nel prossimo turno dell'avversario, scegli 2 dadi energia lanciati e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
-| Prono          |                                                                                                                                         |
-| Sui fianchi    | Nel prossimo turno dell'avversario, scegli 2 dadi energia lanciati e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
+| Nome           | Lampo Gemma ?                                                                                                                            |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | ジュエルフラッシュ                                                                                                                       |
+| Tipo           | Buio                                                                                                                                     |
+| Codice         | EBW02-029                                                                                                                                |
+| Pokémon        | Sableye                                                                                                                                  |
+| Energia        | {D}{D}{D}{D}                                                                                                                             |
+| Danni          | 50                                                                                                                                       |
+| Effetto        |                                                                                                                                          |
+| In Piedi       | Nel prossimo turno dell'avversario, scegli 2 dado energia lanciato, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
+| A testa in giù |                                                                                                                                          |
+| Supino         | Nel prossimo turno dell'avversario, scegli 2 dado energia lanciato, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
+| Prono          |                                                                                                                                          |
+| Sui fianchi    | Nel prossimo turno dell'avversario, scegli 2 dado energia lanciato, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
 
-[Lampo gemma](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
+[Lampo Gemma](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
 
 #### Psicoraggio
 

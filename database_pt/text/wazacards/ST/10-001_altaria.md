@@ -134,3 +134,22 @@
 | De lado         | Se o oponente for do tipo {N}, este ataque causa 40 pontos de dano a mais. |
 
 [Explosão Lunar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard07.webp)
+
+### Promo
+
+#### Canção Sonolenta
+
+| Nome            | Canção Sonolenta                                                                     |
+| --------------- | ------------------------------------------------------------------------------------ |
+| Japonês         | スリーピーソング                                                                     |
+| Tipo            | Voador                                                                               |
+| Código          | PRW03-1-08                                                                           |
+| Pokémon         | Altaria                                                                              |
+| Energia         | {Y}{Y}{Y}                                                                            |
+| Dano            | 20                                                                                   |
+| Efeito          |                                                                                      |
+| Em pé           | On the opponent's next turn, if the Charakoro rolls {do}{s1}{s2}, that attack fails. |
+| De ponta-cabeça |                                                                                      |
+| De costas       | On the opponent's next turn, if the Charakoro rolls {do}{s1}{s2}, that attack fails. |
+| De bruços       |                                                                                      |
+| De lado         |                                                                                      |

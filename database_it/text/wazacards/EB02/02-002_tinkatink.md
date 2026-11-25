@@ -40,9 +40,9 @@
 
 [Vento di Fata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard02.webp)
 
-#### Colpo martello ?
+#### Colpo Martello ?
 
-| Nome           | Colpo martello ?                                       |
+| Nome           | Colpo Martello ?                                       |
 | -------------- | ------------------------------------------------------ |
 | Giapponese     | ハンマーストライク                                     |
 | Tipo           | Psico                                                  |
@@ -57,24 +57,24 @@
 | Prono          | +60 danni.                                             |
 | Sui fianchi    | Nel tuo prossimo turno, lancia 2 dadi energia in meno. |
 
-[Colpo martello](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
+[Colpo Martello](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard03.webp)
 
 #### Carineria
 
-| Nome           | Carineria                                                                                              |
-| -------------- | ------------------------------------------------------------------------------------------------------ |
-| Giapponese     | じゃれつく                                                                                             |
-| Tipo           | Psico                                                                                                  |
-| Codice         | EBW02-014                                                                                              |
-| Pokémon        | Tinkatink                                                                                              |
-| Energia        | {P}{P}{P}{P}                                                                                           |
-| Danni          | 10                                                                                                     |
-| Effetto        | Nel prossimo turno dell'avversario, Nel prossimo turno dell'avversario, lancia 1 dado energia in meno. |
-| In Piedi       | +40 danni.                                                                                             |
-| A testa in giù |                                                                                                        |
-| Supino         |                                                                                                        |
-| Prono          |                                                                                                        |
-| Sui fianchi    | +40 danni.                                                                                             |
+| Nome           | Carineria                                                          |
+| -------------- | ------------------------------------------------------------------ |
+| Giapponese     | じゃれつく                                                         |
+| Tipo           | Psico                                                              |
+| Codice         | EBW02-014                                                          |
+| Pokémon        | Tinkatink                                                          |
+| Energia        | {P}{P}{P}{P}                                                       |
+| Danni          | 10                                                                 |
+| Effetto        | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| In Piedi       | +40 danni.                                                         |
+| A testa in giù |                                                                    |
+| Supino         |                                                                    |
+| Prono          |                                                                    |
+| Sui fianchi    | +40 danni.                                                         |
 
 [Carineria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard04.webp)
 
@@ -154,9 +154,9 @@
 
 [Pianto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard08.webp)
 
-#### Pestone selvaggio ?
+#### Pestone Selvaggio ?
 
-| Nome           | Pestone selvaggio ?                    |
+| Nome           | Pestone Selvaggio ?                    |
 | -------------- | -------------------------------------- |
 | Giapponese     | ワイルドスタンプ                       |
 | Tipo           | Psico                                  |
@@ -171,7 +171,7 @@
 | Prono          | Anche questo Pokémon subisce 30 danni. |
 | Sui fianchi    | +50 danni.                             |
 
-[Pestone selvaggio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
+[Pestone Selvaggio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard09.webp)
 
 #### Impatto Prodigioso ?
 

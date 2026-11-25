@@ -134,3 +134,22 @@
 | De lado     |                                         |
 
 [Velocidad Extrema](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard07.webp)
+
+### Promoción
+
+#### Llamada Tormenta ?
+
+| Nombre      | Llamada Tormenta ?                                                   |
+| ----------- | -------------------------------------------------------------------- |
+| Japonés     | ストームコール                                                       |
+| Tipo        | Dragón                                                               |
+| Código      | PRW03-2-08                                                           |
+| Pokémon     | Dragonite                                                            |
+| Energía     | {W}{W}{L}{L}                                                         |
+| Daño        | 30                                                                   |
+| Efecto      |                                                                      |
+| De pie      | En tu próximo turno, incrementa el número de Enekoro que tiras en 2. |
+| De cabeza   |                                                                      |
+| Boca arriba |                                                                      |
+| Boca abajo  |                                                                      |
+| De lado     |                                                                      |

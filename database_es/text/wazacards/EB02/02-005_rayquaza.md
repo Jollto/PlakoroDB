@@ -95,7 +95,7 @@
 | Boca abajo  | Este Pokémon se hace 30 puntos de daño. |
 | De lado     | Este ataque hace 30 puntos de daño más. |
 
-[Llama Dragón ?](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
+[Llama Dragón](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
 
 #### Ciclón
 

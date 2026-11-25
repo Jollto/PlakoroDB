@@ -134,3 +134,22 @@
 | Sideways  |                                  |
 
 [Extreme Speed](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard07.webp)
+
+### Promo
+
+#### Storm Call ?
+
+| Name      | Storm Call ?                                                     |
+| --------- | ---------------------------------------------------------------- |
+| Japanese  | ストームコール                                                   |
+| Type      | Dragon                                                           |
+| Code      | PRW03-2-08                                                       |
+| Pokémon   | Dragonite                                                        |
+| Energy    | {W}{W}{L}{L}                                                     |
+| Damage    | 30                                                               |
+| Effect    |                                                                  |
+| Standing  | On your next turn, increase the number of Enekoro you roll by 2. |
+| Handstand |                                                                  |
+| Back      |                                                                  |
+| Down      |                                                                  |
+| Sideways  |                                                                  |

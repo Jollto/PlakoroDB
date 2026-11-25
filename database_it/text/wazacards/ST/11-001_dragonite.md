@@ -78,9 +78,9 @@
 
 [Calciorullo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard04.webp)
 
-#### Pressa di squame
+#### Pressa ?
 
-| Nome           | Pressa di squame                                                                    |
+| Nome           | Pressa ?                                                                            |
 | -------------- | ----------------------------------------------------------------------------------- |
 | Giapponese     | スケイルプレス                                                                      |
 | Tipo           | Acqua                                                                               |
@@ -95,7 +95,7 @@
 | Prono          |                                                                                     |
 | Sui fianchi    |                                                                                     |
 
-[Pressa di squame](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
+[Pressa](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard05.webp)
 
 #### Coda uragano
 
@@ -134,3 +134,22 @@
 | Sui fianchi    |              |
 
 [Extrarapido](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard07.webp)
+
+### Promo
+
+#### Tempestretta ?
+
+| Nome           | Tempestretta ?                                        |
+| -------------- | ----------------------------------------------------- |
+| Giapponese     | ストームコール                                        |
+| Tipo           | Drago                                                 |
+| Codice         | PRW03-2-08                                            |
+| Pokémon        | Dragonite                                             |
+| Energia        | {W}{W}{L}{L}                                          |
+| Danni          | 30                                                    |
+| Effetto        |                                                       |
+| In Piedi       | Nel tuo prossimo turno, lancia 2 dadi energia in più. |
+| A testa in giù |                                                       |
+| Supino         |                                                       |
+| Prono          |                                                       |
+| Sui fianchi    |                                                       |

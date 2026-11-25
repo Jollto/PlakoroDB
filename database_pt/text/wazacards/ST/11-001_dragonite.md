@@ -134,3 +134,22 @@
 | De lado         |                                             |
 
 [Velocidade Extrema](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st11/01/img_wazacard07.webp)
+
+### Promo
+
+#### Storm Call ?
+
+| Nome            | Storm Call ?                                      |
+| --------------- | ------------------------------------------------- |
+| Japonês         | ストームコール                                    |
+| Tipo            | Dragão                                            |
+| Código          | PRW03-2-08                                        |
+| Pokémon         | Dragonite                                         |
+| Energia         | {W}{W}{L}{L}                                      |
+| Dano            | 30                                                |
+| Efeito          |                                                   |
+| Em pé           | No seu próximo turno, você rola 2 Enekoro a mais. |
+| De ponta-cabeça |                                                   |
+| De costas       |                                                   |
+| De bruços       |                                                   |
+| De lado         |                                                   |

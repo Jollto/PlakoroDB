@@ -42,26 +42,26 @@
 
 #### Vastoimpatto
 
-| Nome           | Vastoimpatto                                                                                           |
-| -------------- | ------------------------------------------------------------------------------------------------------ |
-| Giapponese     | ワイドブレイカー                                                                                       |
-| Tipo           | Drago                                                                                                  |
-| Codice         | EBW02-043                                                                                              |
-| Pokémon        | Rayquaza                                                                                               |
-| Energia        | {R}{R}{L}                                                                                              |
-| Danni          | 30                                                                                                     |
-| Effetto        |                                                                                                        |
-| In Piedi       |                                                                                                        |
-| A testa in giù |                                                                                                        |
-| Supino         |                                                                                                        |
-| Prono          |                                                                                                        |
-| Sui fianchi    | Nel prossimo turno dell'avversario, Nel prossimo turno dell'avversario, lancia 1 dado energia in meno. |
+| Nome           | Vastoimpatto                                                       |
+| -------------- | ------------------------------------------------------------------ |
+| Giapponese     | ワイドブレイカー                                                   |
+| Tipo           | Drago                                                              |
+| Codice         | EBW02-043                                                          |
+| Pokémon        | Rayquaza                                                           |
+| Energia        | {R}{R}{L}                                                          |
+| Danni          | 30                                                                 |
+| Effetto        |                                                                    |
+| In Piedi       |                                                                    |
+| A testa in giù |                                                                    |
+| Supino         |                                                                    |
+| Prono          |                                                                    |
+| Sui fianchi    | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
 
 [Vastoimpatto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard03.webp)
 
-#### Furia scatenata ?
+#### Furia Scatenata ?
 
-| Nome           | Furia scatenata ?  |
+| Nome           | Furia Scatenata ?  |
 | -------------- | ------------------ |
 | Giapponese     | げきりんランページ |
 | Tipo           | Drago              |
@@ -76,11 +76,11 @@
 | Prono          |                    |
 | Sui fianchi    |                    |
 
-[Furia scatenata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
+[Furia Scatenata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard04.webp)
 
-#### Fiamma drago
+#### Fiamma Drago
 
-| Nome           | Fiamma drago                           |
+| Nome           | Fiamma Drago                           |
 | -------------- | -------------------------------------- |
 | Giapponese     | ドラゴンフレイム                       |
 | Tipo           | Fuoco                                  |
@@ -95,7 +95,7 @@
 | Prono          | Anche questo Pokémon subisce 30 danni. |
 | Sui fianchi    | +30 danni.                             |
 
-[Fiamma drago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
+[Fiamma Drago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard05.webp)
 
 #### Tornado
 
@@ -154,9 +154,9 @@
 
 [Codadrago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard08.webp)
 
-#### Esplosione drago
+#### Esplosione Drago
 
-| Nome           | Esplosione drago                                              |
+| Nome           | Esplosione Drago                                              |
 | -------------- | ------------------------------------------------------------- |
 | Giapponese     | ドラゴンバースト                                              |
 | Tipo           | Drago                                                         |
@@ -171,7 +171,7 @@
 | Prono          |                                                               |
 | Sui fianchi    |                                                               |
 
-[Esplosione drago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
+[Esplosione Drago](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_wazacard09.webp)
 
 #### Tuono
 

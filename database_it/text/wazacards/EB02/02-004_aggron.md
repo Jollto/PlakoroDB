@@ -21,9 +21,9 @@
 
 [Ferrartigli](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard01.webp)
 
-#### Testata d'acciaio
+#### Testata d'Acciaio
 
-| Nome           | Testata d'acciaio |
+| Nome           | Testata d'Acciaio |
 | -------------- | ----------------- |
 | Giapponese     | はがねのずつき    |
 | Tipo           | Acciaio           |
@@ -38,11 +38,11 @@
 | Prono          |                   |
 | Sui fianchi    | +20 danni.        |
 
-[Testata d'acciaio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
+[Testata d'Acciaio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard02.webp)
 
-#### Scudo tiranno ?
+#### Scudo Tiranno ?
 
-| Nome           | Scudo tiranno ?                                                                                                              |
+| Nome           | Scudo Tiranno ?                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Giapponese     | タイラントシールド                                                                                                           |
 | Tipo           | Acciaio                                                                                                                      |
@@ -57,7 +57,7 @@
 | Prono          | Nel prossimo turno dell'avversario, tutti i danni inflitti a questo Pokémon dalle mosse vengono annullati se sono 40 o meno. |
 | Sui fianchi    |                                                                                                                              |
 
-[Scudo tiranno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
+[Scudo Tiranno](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard03.webp)
 
 #### Assalto
 
@@ -80,20 +80,20 @@
 
 #### Rocciatomba
 
-| Nome           | Rocciatomba                                                                                            |
-| -------------- | ------------------------------------------------------------------------------------------------------ |
-| Giapponese     | がんせきふうじ                                                                                         |
-| Tipo           | Lotta                                                                                                  |
-| Codice         | EBW02-035                                                                                              |
-| Pokémon        | Aggron                                                                                                 |
-| Energia        | {F}{C}{C}{C}                                                                                           |
-| Danni          | 30                                                                                                     |
-| Effetto        |                                                                                                        |
-| In Piedi       | Nel prossimo turno dell'avversario, Nel prossimo turno dell'avversario, lancia 1 dado energia in meno. |
-| A testa in giù |                                                                                                        |
-| Supino         | Nel prossimo turno dell'avversario, Nel prossimo turno dell'avversario, lancia 1 dado energia in meno. |
-| Prono          | Nel prossimo turno dell'avversario, Nel prossimo turno dell'avversario, lancia 1 dado energia in meno. |
-| Sui fianchi    |                                                                                                        |
+| Nome           | Rocciatomba                                                        |
+| -------------- | ------------------------------------------------------------------ |
+| Giapponese     | がんせきふうじ                                                     |
+| Tipo           | Lotta                                                              |
+| Codice         | EBW02-035                                                          |
+| Pokémon        | Aggron                                                             |
+| Energia        | {F}{C}{C}{C}                                                       |
+| Danni          | 30                                                                 |
+| Effetto        |                                                                    |
+| In Piedi       | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| A testa in giù |                                                                    |
+| Supino         | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| Prono          | Nel prossimo turno dell'avversario, lancia 1 dadi energia in meno. |
+| Sui fianchi    |                                                                    |
 
 [Rocciatomba](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard05.webp)
 
@@ -116,9 +116,9 @@
 
 [Urto](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard06.webp)
 
-#### Corpo d'acciaio ?
+#### Corpo d'Acciaio ?
 
-| Nome           | Corpo d'acciaio ?                                                                                                            |
+| Nome           | Corpo d'Acciaio ?                                                                                                            |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Giapponese     | こうてつボディ                                                                                                               |
 | Tipo           | Acciaio                                                                                                                      |
@@ -133,11 +133,11 @@
 | Prono          |                                                                                                                              |
 | Sui fianchi    | Nel prossimo turno dell'avversario, tutti i danni inflitti a questo Pokémon dalle mosse vengono annullati se sono 30 o meno. |
 
-[Corpo d'acciaio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard07.webp)
+[Corpo d'Acciaio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard07.webp)
 
-#### Acciaio potente ?
+#### Acciaio Potente ?
 
-| Nome           | Acciaio potente ?                                                                                   |
+| Nome           | Acciaio Potente ?                                                                                   |
 | -------------- | --------------------------------------------------------------------------------------------------- |
 | Giapponese     | パワフルスチール                                                                                    |
 | Tipo           | Acciaio                                                                                             |
@@ -152,7 +152,7 @@
 | Prono          |                                                                                                     |
 | Sui fianchi    | Se questo Pokémon non ha subito danni da una mossa nel turno precedente dell'avversario, +40 danni. |
 
-[Acciaio potente](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
+[Acciaio Potente](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_wazacard08.webp)
 
 #### Metaltestata
 

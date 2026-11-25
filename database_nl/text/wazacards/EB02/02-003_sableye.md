@@ -6,7 +6,7 @@
 
 | Name      | Nail Scratch ?                   |
 | --------- | -------------------------------- |
-| Japanese  | ツメでひっかく                          |
+| Japanese  | ツメでひっかく                   |
 | Type      | Dark                             |
 | Code      | EBW02-021                        |
 | Pokémon   | Sableye                          |
@@ -25,7 +25,7 @@
 
 | Name      | Feint Attack                     |
 | --------- | -------------------------------- |
-| Japanese  | だましうち                            |
+| Japanese  | だましうち                       |
 | Type      | Dark                             |
 | Code      | EBW02-022                        |
 | Pokémon   | Sableye                          |
@@ -44,7 +44,7 @@
 
 | Name      | Dig It Up                                                                                                                  |
 | --------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | ほりかえす                                                                                                                      |
+| Japanese  | ほりかえす                                                                                                                 |
 | Type      | Dark                                                                                                                       |
 | Code      | EBW02-023                                                                                                                  |
 | Pokémon   | Sableye                                                                                                                    |
@@ -63,7 +63,7 @@
 
 | Name      | Instigate                                                                          |
 | --------- | ---------------------------------------------------------------------------------- |
-| Japanese  | そそのかす                                                                              |
+| Japanese  | そそのかす                                                                         |
 | Type      | Dark                                                                               |
 | Code      | EBW02-024                                                                          |
 | Pokémon   | Sableye                                                                            |
@@ -82,7 +82,7 @@
 
 | Name      | Icy Wind                         |
 | --------- | -------------------------------- |
-| Japanese  | こごえるかぜ                           |
+| Japanese  | こごえるかぜ                     |
 | Type      | Water                            |
 | Code      | EBW02-025                        |
 | Pokémon   | Sableye                          |
@@ -101,7 +101,7 @@
 
 | Name      | Dark Claw ?                      |
 | --------- | -------------------------------- |
-| Japanese  | ダーククロー                           |
+| Japanese  | ダーククロー                     |
 | Type      | Dark                             |
 | Code      | EBW02-026                        |
 | Pokémon   | Sableye                          |
@@ -120,7 +120,7 @@
 
 | Name      | Trip Over                                                                   |
 | --------- | --------------------------------------------------------------------------- |
-| Japanese  | ころばす                                                                        |
+| Japanese  | ころばす                                                                    |
 | Type      | Dark                                                                        |
 | Code      | EBW02-027                                                                   |
 | Pokémon   | Sableye                                                                     |
@@ -139,7 +139,7 @@
 
 | Name      | Dark Pulse                       |
 | --------- | -------------------------------- |
-| Japanese  | あくのはどう                           |
+| Japanese  | あくのはどう                     |
 | Type      | Dark                             |
 | Code      | EBW02-028                        |
 | Pokémon   | Sableye                          |
@@ -158,7 +158,7 @@
 
 | Name      | Jewel Flash ?                                                                                                              |
 | --------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | ジュエルフラッシュ                                                                                                                  |
+| Japanese  | ジュエルフラッシュ                                                                                                         |
 | Type      | Dark                                                                                                                       |
 | Code      | EBW02-029                                                                                                                  |
 | Pokémon   | Sableye                                                                                                                    |
@@ -177,7 +177,7 @@
 
 | Name      | Psybeam                          |
 | --------- | -------------------------------- |
-| Japanese  | サイケこうせん                          |
+| Japanese  | サイケこうせん                   |
 | Type      | Psychic                          |
 | Code      | EBW02-030                        |
 | Pokémon   | Sableye                          |

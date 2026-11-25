@@ -6,7 +6,7 @@
 
 | Nome            | Triturar                                    |
 | --------------- | ------------------------------------------- |
-| Japonês         | ひきさく                                        |
+| Japonês         | ひきさく                                    |
 | Tipo            | Dragão                                      |
 | Código          | EBW02-041                                   |
 | Pokémon         | Rayquaza                                    |
@@ -25,7 +25,7 @@
 
 | Nome            | Pulso do Dragão                                    |
 | --------------- | -------------------------------------------------- |
-| Japonês         | りゅうのはどう                                            |
+| Japonês         | りゅうのはどう                                     |
 | Tipo            | Dragão                                             |
 | Código          | EBW02-042                                          |
 | Pokémon         | Rayquaza                                           |
@@ -44,7 +44,7 @@
 
 | Nome            | Impacto Vasto                                             |
 | --------------- | --------------------------------------------------------- |
-| Japonês         | ワイドブレイカー                                                  |
+| Japonês         | ワイドブレイカー                                          |
 | Tipo            | Dragão                                                    |
 | Código          | EBW02-043                                                 |
 | Pokémon         | Rayquaza                                                  |
@@ -63,7 +63,7 @@
 
 | Nome            | Ultraje Feroz ?                             |
 | --------------- | ------------------------------------------- |
-| Japonês         | げきりんランページ                                   |
+| Japonês         | げきりんランページ                          |
 | Tipo            | Dragão                                      |
 | Código          | EBW02-044                                   |
 | Pokémon         | Rayquaza                                    |
@@ -82,7 +82,7 @@
 
 | Nome            | Chama do Dragão ?                                |
 | --------------- | ------------------------------------------------ |
-| Japonês         | ドラゴンフレイム                                         |
+| Japonês         | ドラゴンフレイム                                 |
 | Tipo            | Fogo                                             |
 | Código          | EBW02-045                                        |
 | Pokémon         | Rayquaza                                         |
@@ -101,7 +101,7 @@
 
 | Nome            | Twister                                     |
 | --------------- | ------------------------------------------- |
-| Japonês         | たつまき                                        |
+| Japonês         | たつまき                                    |
 | Tipo            | Dragão                                      |
 | Código          | EBW02-046                                   |
 | Pokémon         | Rayquaza                                    |
@@ -120,7 +120,7 @@
 
 | Nome            | Garra de Dragão                             |
 | --------------- | ------------------------------------------- |
-| Japonês         | ドラゴンクロー                                     |
+| Japonês         | ドラゴンクロー                              |
 | Tipo            | Dragão                                      |
 | Código          | EBW02-047                                   |
 | Pokémon         | Rayquaza                                    |
@@ -139,7 +139,7 @@
 
 | Nome            | Cauda do Dragão                             |
 | --------------- | ------------------------------------------- |
-| Japonês         | ドラゴンテール                                     |
+| Japonês         | ドラゴンテール                              |
 | Tipo            | Dragão                                      |
 | Código          | EBW02-048                                   |
 | Pokémon         | Rayquaza                                    |
@@ -158,7 +158,7 @@
 
 | Nome            | Rajada do Dragão                                                     |
 | --------------- | -------------------------------------------------------------------- |
-| Japonês         | ドラゴンバースト                                                             |
+| Japonês         | ドラゴンバースト                                                     |
 | Tipo            | Dragão                                                               |
 | Código          | EBW02-049                                                            |
 | Pokémon         | Rayquaza                                                             |
@@ -177,7 +177,7 @@
 
 | Nome            | Trovão                                      |
 | --------------- | ------------------------------------------- |
-| Japonês         | かみなり                                        |
+| Japonês         | かみなり                                    |
 | Tipo            | Elétrico                                    |
 | Código          | EBW02-050                                   |
 | Pokémon         | Rayquaza                                    |

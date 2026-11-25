@@ -4,190 +4,190 @@
 
 #### Arranhão de Garras ?
 
-| Nome            | Arranhão de Garras ?                                        |
-| --------------- | ----------------------------------------------------------- |
-| Japonês         | ツメでひっかく                                                     |
-| Tipo            | Sombrio                                                     |
-| Código          | EBW02-021                                                   |
-| Pokémon         | Sableye                                                     |
-| Energia         | {D}                                                         |
-| Dano            | 10                                                          |
-| Efeito          |                                                             |
+| Nome            | Arranhão de Garras ?                        |
+| --------------- | ------------------------------------------- |
+| Japonês         | ツメでひっかく                                     |
+| Tipo            | Sombrio                                     |
+| Código          | EBW02-021                                   |
+| Pokémon         | Sableye                                     |
+| Energia         | {D}                                         |
+| Dano            | 10                                          |
+| Efeito          |                                             |
 | Em pé           | Este ataque causa 10 pontos de dano a mais. |
-| De ponta-cabeça |                                                             |
+| De ponta-cabeça |                                             |
 | De costas       | Este ataque causa 10 pontos de dano a mais. |
 | De bruços       | Este ataque causa 10 pontos de dano a mais. |
-| De lado         |                                                             |
+| De lado         |                                             |
 
 [Arranhão de Garras](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard01.webp)
 
 #### Ataque Dissimulado
 
-| Nome            | Ataque Dissimulado                                          |
-| --------------- | ----------------------------------------------------------- |
-| Japonês         | だましうち                                                       |
-| Tipo            | Sombrio                                                     |
-| Código          | EBW02-022                                                   |
-| Pokémon         | Sableye                                                     |
-| Energia         | {D}{D}                                                      |
-| Dano            | 20                                                          |
-| Efeito          |                                                             |
-| Em pé           |                                                             |
+| Nome            | Ataque Dissimulado                          |
+| --------------- | ------------------------------------------- |
+| Japonês         | だましうち                                       |
+| Tipo            | Sombrio                                     |
+| Código          | EBW02-022                                   |
+| Pokémon         | Sableye                                     |
+| Energia         | {D}{D}                                      |
+| Dano            | 20                                          |
+| Efeito          |                                             |
+| Em pé           |                                             |
 | De ponta-cabeça | Este ataque causa 20 pontos de dano a mais. |
-| De costas       |                                                             |
+| De costas       |                                             |
 | De bruços       | Este ataque causa 20 pontos de dano a mais. |
-| De lado         |                                                             |
+| De lado         |                                             |
 
 [Ataque Dissimulado](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard02.webp)
 
 #### Desaterrar
 
-| Nome            | Desaterrar                                                                                                                                                                                                          |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | ほりかえす                                                                                                                                                                                                               |
-| Tipo            | Sombrio                                                                                                                                                                                                             |
-| Código          | EBW02-023                                                                                                                                                                                                           |
-| Pokémon         | Sableye                                                                                                                                                                                                             |
-| Energia         | {D}{D}                                                                                                                                                                                                              |
-| Dano            | 30                                                                                                                                                                                                                  |
-| Efeito          |                                                                                                                                                                                                                     |
-| Em pé           | No próximo turno do oponente, escolha 1 Enekoro que ele rolar, e ele deve rolar de novo o que você escolheu. (Você escolhe quais Enekoro serão rolados de novo.) |
-| De ponta-cabeça |                                                                                                                                                                                                                     |
-| De costas       | No próximo turno do oponente, escolha 1 Enekoro que ele rolar, e ele deve rolar de novo o que você escolheu. (Você escolhe quais Enekoro serão rolados de novo.) |
-| De bruços       |                                                                                                                                                                                                                     |
-| De lado         | No próximo turno do oponente, escolha 1 Enekoro que ele rolar, e ele deve rolar de novo o que você escolheu. (Você escolhe quais Enekoro serão rolados de novo.) |
+| Nome            | Desaterrar                                                                                                                 |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Japonês         | ほりかえす                                                                                                                      |
+| Tipo            | Sombrio                                                                                                                    |
+| Código          | EBW02-023                                                                                                                  |
+| Pokémon         | Sableye                                                                                                                    |
+| Energia         | {D}{D}                                                                                                                     |
+| Dano            | 30                                                                                                                         |
+| Efeito          |                                                                                                                            |
+| Em pé           | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| De ponta-cabeça |                                                                                                                            |
+| De costas       | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| De bruços       |                                                                                                                            |
+| De lado         | On the opponent's next turn, choose 1 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
 
 [Desaterrar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard03.webp)
 
-#### Instigar
+#### Instigate
 
-| Nome            | Instigar                                                                                                                        |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | そそのかす                                                                                                                           |
-| Tipo            | Sombrio                                                                                                                         |
-| Código          | EBW02-024                                                                                                                       |
-| Pokémon         | Sableye                                                                                                                         |
-| Energia         | {D}{D}{D}                                                                                                                       |
-| Dano            | 20                                                                                                                              |
-| Efeito          |                                                                                                                                 |
-| Em pé           | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, ele deve usar esse ataque. |
-| De ponta-cabeça |                                                                                                                                 |
-| De costas       |                                                                                                                                 |
-| De bruços       |                                                                                                                                 |
-| De lado         | Escolha 1 dos ataques do seu oponente. Durante o próximo turno dele, ele deve usar esse ataque. |
+| Nome            | Instigate                                                                            |
+| --------------- | ------------------------------------------------------------------------------------ |
+| Japonês         | そそのかす                                                                                |
+| Tipo            | Sombrio                                                                              |
+| Código          | EBW02-024                                                                            |
+| Pokémon         | Sableye                                                                              |
+| Energia         | {D}{D}{D}                                                                            |
+| Dano            | 20                                                                                   |
+| Efeito          |                                                                                      |
+| Em pé           | Escolha 1 dos ataques do seu oponente. During their next turn, they use that attack. |
+| De ponta-cabeça |                                                                                      |
+| De costas       |                                                                                      |
+| De bruços       |                                                                                      |
+| De lado         | Escolha 1 dos ataques do seu oponente. During their next turn, they use that attack. |
 
-[Instigar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
+[Instigate](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard04.webp)
 
-#### Vento Congelante
+#### Icy Wind
 
-| Nome            | Vento Congelante                                            |
-| --------------- | ----------------------------------------------------------- |
-| Japonês         | こごえるかぜ                                                      |
-| Tipo            | Água                                                        |
-| Código          | EBW02-025                                                   |
-| Pokémon         | Sableye                                                     |
-| Energia         | {W}                                                         |
-| Dano            | 20                                                          |
-| Efeito          |                                                             |
+| Nome            | Icy Wind                                    |
+| --------------- | ------------------------------------------- |
+| Japonês         | こごえるかぜ                                      |
+| Tipo            | Água                                        |
+| Código          | EBW02-025                                   |
+| Pokémon         | Sableye                                     |
+| Energia         | {W}                                         |
+| Dano            | 20                                          |
+| Efeito          |                                             |
 | Em pé           | Este ataque causa 20 pontos de dano a mais. |
-| De ponta-cabeça |                                                             |
+| De ponta-cabeça |                                             |
 | De costas       | Este ataque causa 20 pontos de dano a mais. |
-| De bruços       |                                                             |
-| De lado         |                                                             |
+| De bruços       |                                             |
+| De lado         |                                             |
 
-[Vento Congelante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard05.webp)
+[Icy Wind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard05.webp)
 
-#### Garra Sombria ?
+#### Dark Claw ?
 
-| Nome            | Garra Sombria ?                                             |
-| --------------- | ----------------------------------------------------------- |
-| Japonês         | ダーククロー                                                      |
-| Tipo            | Sombrio                                                     |
-| Código          | EBW02-026                                                   |
-| Pokémon         | Sableye                                                     |
-| Energia         | {D}                                                         |
-| Dano            | 10                                                          |
-| Efeito          |                                                             |
+| Nome            | Dark Claw ?                                 |
+| --------------- | ------------------------------------------- |
+| Japonês         | ダーククロー                                      |
+| Tipo            | Sombrio                                     |
+| Código          | EBW02-026                                   |
+| Pokémon         | Sableye                                     |
+| Energia         | {D}                                         |
+| Dano            | 10                                          |
+| Efeito          |                                             |
 | Em pé           | Este ataque causa 30 pontos de dano a mais. |
-| De ponta-cabeça |                                                             |
-| De costas       |                                                             |
-| De bruços       |                                                             |
-| De lado         |                                                             |
+| De ponta-cabeça |                                             |
+| De costas       |                                             |
+| De bruços       |                                             |
+| De lado         |                                             |
 
-[Garra Sombria](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard06.webp)
+[Dark Claw](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard06.webp)
 
-#### Tropeção
+#### Trip Over
 
-| Nome            | Tropeção                                                                                           |
-| --------------- | -------------------------------------------------------------------------------------------------- |
-| Japonês         | ころばす                                                                                               |
-| Tipo            | Sombrio                                                                                            |
-| Código          | EBW02-027                                                                                          |
-| Pokémon         | Sableye                                                                                            |
-| Energia         | {D}{D}                                                                                             |
-| Dano            | 20                                                                                                 |
-| Efeito          |                                                                                                    |
-| Em pé           | No próximo turno do seu oponente, a orientação do Charakoro dele passa a ser {do}. |
-| De ponta-cabeça |                                                                                                    |
-| De costas       | No próximo turno do seu oponente, a orientação do Charakoro dele passa a ser {do}. |
-| De bruços       | No próximo turno do seu oponente, a orientação do Charakoro dele passa a ser {do}. |
-| De lado         |                                                                                                    |
+| Nome            | Trip Over                                                                   |
+| --------------- | --------------------------------------------------------------------------- |
+| Japonês         | ころばす                                                                        |
+| Tipo            | Sombrio                                                                     |
+| Código          | EBW02-027                                                                   |
+| Pokémon         | Sableye                                                                     |
+| Energia         | {D}{D}                                                                      |
+| Dano            | 20                                                                          |
+| Efeito          |                                                                             |
+| Em pé           | On your opponent's next turn, set the direction of their Charakoro to {do}. |
+| De ponta-cabeça |                                                                             |
+| De costas       | On your opponent's next turn, set the direction of their Charakoro to {do}. |
+| De bruços       | On your opponent's next turn, set the direction of their Charakoro to {do}. |
+| De lado         |                                                                             |
 
-[Tropeção](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard07.webp)
+[Trip Over](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard07.webp)
 
-#### Pulso Sombrio
+#### Dark Pulse
 
-| Nome            | Pulso Sombrio                                               |
-| --------------- | ----------------------------------------------------------- |
-| Japonês         | あくのはどう                                                      |
-| Tipo            | Sombrio                                                     |
-| Código          | EBW02-028                                                   |
-| Pokémon         | Sableye                                                     |
-| Energia         | {D}{D}{D}                                                   |
-| Dano            | 20                                                          |
-| Efeito          |                                                             |
+| Nome            | Dark Pulse                                  |
+| --------------- | ------------------------------------------- |
+| Japonês         | あくのはどう                                      |
+| Tipo            | Sombrio                                     |
+| Código          | EBW02-028                                   |
+| Pokémon         | Sableye                                     |
+| Energia         | {D}{D}{D}                                   |
+| Dano            | 20                                          |
+| Efeito          |                                             |
 | Em pé           | Este ataque causa 30 pontos de dano a mais. |
-| De ponta-cabeça |                                                             |
+| De ponta-cabeça |                                             |
 | De costas       | Este ataque causa 30 pontos de dano a mais. |
-| De bruços       |                                                             |
-| De lado         |                                                             |
+| De bruços       |                                             |
+| De lado         |                                             |
 
-[Pulso Sombrio](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard08.webp)
+[Dark Pulse](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard08.webp)
 
-#### Flash de Joia ?
+#### Jewel Flash ?
 
-| Nome            | Flash de Joia ?                                                                                                                                                                                                     |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | ジュエルフラッシュ                                                                                                                                                                                                           |
-| Tipo            | Sombrio                                                                                                                                                                                                             |
-| Código          | EBW02-029                                                                                                                                                                                                           |
-| Pokémon         | Sableye                                                                                                                                                                                                             |
-| Energia         | {D}{D}{D}{D}                                                                                                                                                                                                        |
-| Dano            | 50                                                                                                                                                                                                                  |
-| Efeito          |                                                                                                                                                                                                                     |
-| Em pé           | No próximo turno do oponente, escolha 2 Enekoro que ele rolar, e ele deve rolar de novo o que você escolheu. (Você escolhe quais Enekoro serão rolados de novo.) |
-| De ponta-cabeça |                                                                                                                                                                                                                     |
-| De costas       | No próximo turno do oponente, escolha 2 Enekoro que ele rolar, e ele deve rolar de novo o que você escolheu. (Você escolhe quais Enekoro serão rolados de novo.) |
-| De bruços       |                                                                                                                                                                                                                     |
-| De lado         | No próximo turno do oponente, escolha 2 Enekoro que ele rolar, e ele deve rolar de novo o que você escolheu. (Você escolhe quais Enekoro serão rolados de novo.) |
+| Nome            | Jewel Flash ?                                                                                                              |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Japonês         | ジュエルフラッシュ                                                                                                                  |
+| Tipo            | Sombrio                                                                                                                    |
+| Código          | EBW02-029                                                                                                                  |
+| Pokémon         | Sableye                                                                                                                    |
+| Energia         | {D}{D}{D}{D}                                                                                                               |
+| Dano            | 50                                                                                                                         |
+| Efeito          |                                                                                                                            |
+| Em pé           | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| De ponta-cabeça |                                                                                                                            |
+| De costas       | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
+| De bruços       |                                                                                                                            |
+| De lado         | On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again. (You choose which Enekoro to reroll.) |
 
-[Flash de Joia](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
+[Jewel Flash](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
 
 #### Feixe Psíquico
 
-| Nome            | Feixe Psíquico                                              |
-| --------------- | ----------------------------------------------------------- |
-| Japonês         | サイケこうせん                                                     |
-| Tipo            | Psíquico                                                    |
-| Código          | EBW02-030                                                   |
-| Pokémon         | Sableye                                                     |
-| Energia         | {P}{P}                                                      |
-| Dano            | 30                                                          |
-| Efeito          |                                                             |
+| Nome            | Feixe Psíquico                              |
+| --------------- | ------------------------------------------- |
+| Japonês         | サイケこうせん                                     |
+| Tipo            | Psíquico                                    |
+| Código          | EBW02-030                                   |
+| Pokémon         | Sableye                                     |
+| Energia         | {P}{P}                                      |
+| Dano            | 30                                          |
+| Efeito          |                                             |
 | Em pé           | Este ataque causa 20 pontos de dano a mais. |
-| De ponta-cabeça |                                                             |
+| De ponta-cabeça |                                             |
 | De costas       | Este ataque causa 20 pontos de dano a mais. |
-| De bruços       |                                                             |
-| De lado         |                                                             |
+| De bruços       |                                             |
+| De lado         |                                             |
 
-[Feixe Psíquico](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard10.webp)
+[Psybeam](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard10.webp)

@@ -4,10 +4,10 @@
 
 #### 1
 
-|  Q  | I used Dragonite's move "Dragon Blast". <br>The Enekoro roll was {W}{L}, {W}{L}, {W}{L}, and the Charakoro roll was {hs}. <br>In this case, how much damage do I deal to my opponent? |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  A  | 60 damage.                                                                                                                                                                                            |
-|  R  | [Dragon Blast](/database/cards/wazacards/ST/11-001_dragonite/STW11-004.png)                                                                                                                                           |
+|  Q  | Ho usato "Calciorullo" di Dragonite <br>L'energie mostrano {W}{L}, {W}{L}, {W}{L}, e il PokéDice mostra {hs}. <br>In this case, how much damage do I deal to my opponent? |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  A  | 60 damage.                                                                                                                                                                |
+|  R  | [Dragon Blast](/database/cards/wazacards/ST/11-001_dragonite/STW11-004.png)                                                                                                               |
 
 #### 2
 

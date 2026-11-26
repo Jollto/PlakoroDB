@@ -6,7 +6,7 @@
 
 | Nome            | Pulso                                       |
 | --------------- | ------------------------------------------- |
-| Japonês         | たたく                                      |
+| Japonês         | たたく                                         |
 | Tipo            | Psíquico                                    |
 | Código          | EBW02-011                                   |
 | Pokémon         | Tinkatink                                   |
@@ -25,7 +25,7 @@
 
 | Nome            | Vento de Fada                               |
 | --------------- | ------------------------------------------- |
-| Japonês         | ようせいのかぜ                              |
+| Japonês         | ようせいのかぜ                                     |
 | Tipo            | Psíquico                                    |
 | Código          | EBW02-012                                   |
 | Pokémon         | Tinkatink                                   |
@@ -44,7 +44,7 @@
 
 | Nome            | Golpe de Martelo ?                                 |
 | --------------- | -------------------------------------------------- |
-| Japonês         | ハンマーストライク                                 |
+| Japonês         | ハンマーストライク                                          |
 | Tipo            | Psíquico                                           |
 | Código          | EBW02-013                                          |
 | Pokémon         | Tinkatink                                          |
@@ -63,7 +63,7 @@
 
 | Nome            | Jogo Duro                                                 |
 | --------------- | --------------------------------------------------------- |
-| Japonês         | じゃれつく                                                |
+| Japonês         | じゃれつく                                                     |
 | Tipo            | Psíquico                                                  |
 | Código          | EBW02-014                                                 |
 | Pokémon         | Tinkatink                                                 |
@@ -82,7 +82,7 @@
 
 | Nome            | Garra de Metal                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | メタルクロー                                |
+| Japonês         | メタルクロー                                      |
 | Tipo            | Aço                                         |
 | Código          | EBW02-015                                   |
 | Pokémon         | Tinkatink                                   |
@@ -101,7 +101,7 @@
 
 | Nome            | Soco Saca-rolha                             |
 | --------------- | ------------------------------------------- |
-| Japonês         | どつく                                      |
+| Japonês         | どつく                                         |
 | Tipo            | Psíquico                                    |
 | Código          | EBW02-016                                   |
 | Pokémon         | Tinkatink                                   |
@@ -120,7 +120,7 @@
 
 | Nome            | Beijo Drenante                              |
 | --------------- | ------------------------------------------- |
-| Japonês         | ドレインキッス                              |
+| Japonês         | ドレインキッス                                     |
 | Tipo            | Psíquico                                    |
 | Código          | EBW02-017                                   |
 | Pokémon         | Tinkatink                                   |
@@ -139,7 +139,7 @@
 
 | Nome            | Lastimar                                    |
 | --------------- | ------------------------------------------- |
-| Japonês         | なきわめく                                  |
+| Japonês         | なきわめく                                       |
 | Tipo            | Psíquico                                    |
 | Código          | EBW02-018                                   |
 | Pokémon         | Tinkatink                                   |
@@ -158,7 +158,7 @@
 
 | Nome            | Pisão Feroz ?                                    |
 | --------------- | ------------------------------------------------ |
-| Japonês         | ワイルドスタンプ                                 |
+| Japonês         | ワイルドスタンプ                                         |
 | Tipo            | Psíquico                                         |
 | Código          | EBW02-019                                        |
 | Pokémon         | Tinkatink                                        |
@@ -177,7 +177,7 @@
 
 | Nome            | Impacto Estranho ?                          |
 | --------------- | ------------------------------------------- |
-| Japonês         | ワンダーインパクト                          |
+| Japonês         | ワンダーインパクト                                   |
 | Tipo            | Psíquico                                    |
 | Código          | EBW02-020                                   |
 | Pokémon         | Tinkatink                                   |

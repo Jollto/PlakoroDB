@@ -2,20 +2,20 @@
 
 ## Modello
 
-| Nome           |   |
-| -------------- | - |
-| Giapponese     |   |
-| Tipo           |   |
-| Codice         |   |
-| Pokémon        |   |
-| Energia        |   |
-| Danni          |   |
-| Effetto        |   |
-| In Piedi       |   |
-| A testa in giù |   |
-| Supino         |   |
-| Prono          |   |
-| Sui fianchi    |   |
+| Nome           |     |
+| -------------- | --- |
+| Giapponese     |     |
+| Tipo           |     |
+| Codice         |     |
+| Pokémon        |     |
+| Energia        |     |
+| Danni          |     |
+| Effetto        |     |
+| In Piedi       |     |
+| A testa in giù |     |
+| Supino         |     |
+| Prono          |     |
+| Sui fianchi    |     |
 
 ## Set Starter
 

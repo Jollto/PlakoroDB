@@ -6,7 +6,7 @@
 
 | Nombre      | Arañazo Garfa ?                         |
 | ----------- | --------------------------------------- |
-| Japonés     | ツメでひっかく                                 |
+| Japonés     | ツメでひっかく                          |
 | Tipo        | Siniestro                               |
 | Código      | EBW02-021                               |
 | Pokémon     | Sableye                                 |
@@ -25,7 +25,7 @@
 
 | Nombre      | Finta                                   |
 | ----------- | --------------------------------------- |
-| Japonés     | だましうち                                   |
+| Japonés     | だましうち                              |
 | Tipo        | Siniestro                               |
 | Código      | EBW02-022                               |
 | Pokémon     | Sableye                                 |
@@ -44,7 +44,7 @@
 
 | Nombre      | Socavar                                                                                                             |
 | ----------- | ------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | ほりかえす                                                                                                               |
+| Japonés     | ほりかえす                                                                                                          |
 | Tipo        | Siniestro                                                                                                           |
 | Código      | EBW02-023                                                                                                           |
 | Pokémon     | Sableye                                                                                                             |
@@ -63,7 +63,7 @@
 
 | Nombre      | Instigar                                                                       |
 | ----------- | ------------------------------------------------------------------------------ |
-| Japonés     | そそのかす                                                                          |
+| Japonés     | そそのかす                                                                     |
 | Tipo        | Siniestro                                                                      |
 | Código      | EBW02-024                                                                      |
 | Pokémon     | Sableye                                                                        |
@@ -82,7 +82,7 @@
 
 | Nombre      | Viento Hielo                            |
 | ----------- | --------------------------------------- |
-| Japonés     | こごえるかぜ                                  |
+| Japonés     | こごえるかぜ                            |
 | Tipo        | Agua                                    |
 | Código      | EBW02-025                               |
 | Pokémon     | Sableye                                 |
@@ -101,7 +101,7 @@
 
 | Nombre      | Garra Sombría ?                         |
 | ----------- | --------------------------------------- |
-| Japonés     | ダーククロー                                  |
+| Japonés     | ダーククロー                            |
 | Tipo        | Siniestro                               |
 | Código      | EBW02-026                               |
 | Pokémon     | Sableye                                 |
@@ -120,7 +120,7 @@
 
 | Nombre      | Tropezón                                                                   |
 | ----------- | -------------------------------------------------------------------------- |
-| Japonés     | ころばす                                                                       |
+| Japonés     | ころばす                                                                   |
 | Tipo        | Siniestro                                                                  |
 | Código      | EBW02-027                                                                  |
 | Pokémon     | Sableye                                                                    |
@@ -139,7 +139,7 @@
 
 | Nombre      | Pulso Umbrío                            |
 | ----------- | --------------------------------------- |
-| Japonés     | あくのはどう                                  |
+| Japonés     | あくのはどう                            |
 | Tipo        | Siniestro                               |
 | Código      | EBW02-028                               |
 | Pokémon     | Sableye                                 |
@@ -158,7 +158,7 @@
 
 | Nombre      | Joya Destello ?                                                                                                       |
 | ----------- | --------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | ジュエルフラッシュ                                                                                                             |
+| Japonés     | ジュエルフラッシュ                                                                                                    |
 | Tipo        | Siniestro                                                                                                             |
 | Código      | EBW02-029                                                                                                             |
 | Pokémon     | Sableye                                                                                                               |
@@ -177,7 +177,7 @@
 
 | Nombre      | Psicorrayo                              |
 | ----------- | --------------------------------------- |
-| Japonés     | サイケこうせん                                 |
+| Japonés     | サイケこうせん                          |
 | Tipo        | Psíquico                                |
 | Código      | EBW02-030                               |
 | Pokémon     | Sableye                                 |

@@ -6,7 +6,7 @@
 
 | Nome            | Pancada                                     |
 | --------------- | ------------------------------------------- |
-| Japonês         | はたく                                         |
+| Japonês         | はたく                                      |
 | Tipo            | Normal                                      |
 | Código          | EBW02-051                                   |
 | Pokémon         | Chansey                                     |
@@ -25,7 +25,7 @@
 
 | Nome            | Investida Oportuna ?                                           |
 | --------------- | -------------------------------------------------------------- |
-| Japonês         | チャンスタックル                                                       |
+| Japonês         | チャンスタックル                                               |
 | Tipo            | Normal                                                         |
 | Código          | EBW02-052                                                      |
 | Pokémon         | Chansey                                                        |
@@ -44,7 +44,7 @@
 
 | Nome            | Batida Curva                                |
 | --------------- | ------------------------------------------- |
-| Japonês         | まるまるアタック                                    |
+| Japonês         | まるまるアタック                            |
 | Tipo            | Normal                                      |
 | Código          | EBW02-053                                   |
 | Pokémon         | Chansey                                     |
@@ -63,7 +63,7 @@
 
 | Nome            | Bofetada Drenagem                     |
 | --------------- | ------------------------------------- |
-| Japonês         | ドレインビンタ                               |
+| Japonês         | ドレインビンタ                        |
 | Tipo            | Normal                                |
 | Código          | EBW02-054                             |
 | Pokémon         | Chansey                               |
@@ -82,7 +82,7 @@
 
 | Nome            | Bola Sombria                                |
 | --------------- | ------------------------------------------- |
-| Japonês         | シャドーボール                                     |
+| Japonês         | シャドーボール                              |
 | Tipo            | Psíquico                                    |
 | Código          | EBW02-055                                   |
 | Pokémon         | Chansey                                     |
@@ -101,7 +101,7 @@
 
 | Nome            | Estalo                                      |
 | --------------- | ------------------------------------------- |
-| Japonês         | ひらてうち                                       |
+| Japonês         | ひらてうち                                  |
 | Tipo            | Normal                                      |
 | Código          | EBW02-056                                   |
 | Pokémon         | Chansey                                     |
@@ -120,7 +120,7 @@
 
 | Nome            | Cozidos                               |
 | --------------- | ------------------------------------- |
-| Japonês         | タマゴうみ                                 |
+| Japonês         | タマゴうみ                            |
 | Tipo            | Normal                                |
 | Código          | EBW02-057                             |
 | Pokémon         | Chansey                               |
@@ -139,7 +139,7 @@
 
 | Nome            | Soco da Sorte                                                  |
 | --------------- | -------------------------------------------------------------- |
-| Japonês         | ラッキーパンチ                                                        |
+| Japonês         | ラッキーパンチ                                                 |
 | Tipo            | Normal                                                         |
 | Código          | EBW02-058                                                      |
 | Pokémon         | Chansey                                                        |
@@ -158,7 +158,7 @@
 
 | Nome            | Martelada                                   |
 | --------------- | ------------------------------------------- |
-| Japonês         | ぶちかます                                       |
+| Japonês         | ぶちかます                                  |
 | Tipo            | Normal                                      |
 | Código          | EBW02-059                                   |
 | Pokémon         | Chansey                                     |
@@ -177,7 +177,7 @@
 
 | Nome            | Lança-chamas                                       |
 | --------------- | -------------------------------------------------- |
-| Japonês         | かえんほうしゃ                                            |
+| Japonês         | かえんほうしゃ                                     |
 | Tipo            | Fogo                                               |
 | Código          | EBW02-060                                          |
 | Pokémon         | Chansey                                            |

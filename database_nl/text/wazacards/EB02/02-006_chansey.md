@@ -6,7 +6,7 @@
 
 | Name      | Pound                            |
 | --------- | -------------------------------- |
-| Japanese  | はたく                           |
+| Japanese  | はたく                              |
 | Type      | Normal                           |
 | Code      | EBW02-051                        |
 | Pokémon   | Chansey                          |
@@ -25,7 +25,7 @@
 
 | Name      | Chance Tackle ?                                   |
 | --------- | ------------------------------------------------- |
-| Japanese  | チャンスタックル                                  |
+| Japanese  | チャンスタックル                                          |
 | Type      | Normal                                            |
 | Code      | EBW02-052                                         |
 | Pokémon   | Chansey                                           |
@@ -44,7 +44,7 @@
 
 | Name      | Curve Strike                     |
 | --------- | -------------------------------- |
-| Japanese  | まるまるアタック                 |
+| Japanese  | まるまるアタック                         |
 | Type      | Normal                           |
 | Code      | EBW02-053                        |
 | Pokémon   | Chansey                          |
@@ -63,7 +63,7 @@
 
 | Name      | Drain Slap                        |
 | --------- | --------------------------------- |
-| Japanese  | ドレインビンタ                    |
+| Japanese  | ドレインビンタ                           |
 | Type      | Normal                            |
 | Code      | EBW02-054                         |
 | Pokémon   | Chansey                           |
@@ -82,7 +82,7 @@
 
 | Name      | Shadow Ball                      |
 | --------- | -------------------------------- |
-| Japanese  | シャドーボール                   |
+| Japanese  | シャドーボール                          |
 | Type      | Psychic                          |
 | Code      | EBW02-055                        |
 | Pokémon   | Chansey                          |
@@ -101,7 +101,7 @@
 
 | Name      | Smack                            |
 | --------- | -------------------------------- |
-| Japanese  | ひらてうち                       |
+| Japanese  | ひらてうち                            |
 | Type      | Normal                           |
 | Code      | EBW02-056                        |
 | Pokémon   | Chansey                          |
@@ -120,7 +120,7 @@
 
 | Name      | Soft-Boiled                        |
 | --------- | ---------------------------------- |
-| Japanese  | タマゴうみ                         |
+| Japanese  | タマゴうみ                              |
 | Type      | Normal                             |
 | Code      | EBW02-057                          |
 | Pokémon   | Chansey                            |
@@ -139,7 +139,7 @@
 
 | Name      | Lucky Punch                                       |
 | --------- | ------------------------------------------------- |
-| Japanese  | ラッキーパンチ                                    |
+| Japanese  | ラッキーパンチ                                           |
 | Type      | Normal                                            |
 | Code      | EBW02-058                                         |
 | Pokémon   | Chansey                                           |
@@ -158,7 +158,7 @@
 
 | Name      | Hammer In                        |
 | --------- | -------------------------------- |
-| Japanese  | ぶちかます                       |
+| Japanese  | ぶちかます                            |
 | Type      | Normal                           |
 | Code      | EBW02-059                        |
 | Pokémon   | Chansey                          |
@@ -177,7 +177,7 @@
 
 | Name      | Flamethrower                                                   |
 | --------- | -------------------------------------------------------------- |
-| Japanese  | かえんほうしゃ                                                 |
+| Japanese  | かえんほうしゃ                                                        |
 | Type      | Fire                                                           |
 | Code      | EBW02-060                                                      |
 | Pokémon   | Chansey                                                        |

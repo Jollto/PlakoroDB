@@ -6,7 +6,7 @@
 
 | Name      | Shred                            |
 | --------- | -------------------------------- |
-| Japanese  | ひきさく                         |
+| Japanese  | ひきさく                             |
 | Type      | Dragon                           |
 | Code      | EBW02-041                        |
 | Pokémon   | Rayquaza                         |
@@ -25,7 +25,7 @@
 
 | Name      | Dragon Pulse                                                   |
 | --------- | -------------------------------------------------------------- |
-| Japanese  | りゅうのはどう                                                 |
+| Japanese  | りゅうのはどう                                                        |
 | Type      | Dragon                                                         |
 | Code      | EBW02-042                                                      |
 | Pokémon   | Rayquaza                                                       |
@@ -44,7 +44,7 @@
 
 | Name      | Breaking Swipe                                                            |
 | --------- | ------------------------------------------------------------------------- |
-| Japanese  | ワイドブレイカー                                                          |
+| Japanese  | ワイドブレイカー                                                                  |
 | Type      | Dragon                                                                    |
 | Code      | EBW02-043                                                                 |
 | Pokémon   | Rayquaza                                                                  |
@@ -63,7 +63,7 @@
 
 | Name      | Wild Rampage ?                   |
 | --------- | -------------------------------- |
-| Japanese  | げきりんランページ               |
+| Japanese  | げきりんランページ                        |
 | Type      | Dragon                           |
 | Code      | EBW02-044                        |
 | Pokémon   | Rayquaza                         |
@@ -82,7 +82,7 @@
 
 | Name      | Dragon Flame                           |
 | --------- | -------------------------------------- |
-| Japanese  | ドラゴンフレイム                       |
+| Japanese  | ドラゴンフレイム                               |
 | Type      | Fire                                   |
 | Code      | EBW02-045                              |
 | Pokémon   | Rayquaza                               |
@@ -101,7 +101,7 @@
 
 | Name      | Twister                          |
 | --------- | -------------------------------- |
-| Japanese  | たつまき                         |
+| Japanese  | たつまき                             |
 | Type      | Dragon                           |
 | Code      | EBW02-046                        |
 | Pokémon   | Rayquaza                         |
@@ -120,7 +120,7 @@
 
 | Name      | Dragon Claw                      |
 | --------- | -------------------------------- |
-| Japanese  | ドラゴンクロー                   |
+| Japanese  | ドラゴンクロー                          |
 | Type      | Dragon                           |
 | Code      | EBW02-047                        |
 | Pokémon   | Rayquaza                         |
@@ -139,7 +139,7 @@
 
 | Name      | Dragon Tail                      |
 | --------- | -------------------------------- |
-| Japanese  | ドラゴンテール                   |
+| Japanese  | ドラゴンテール                          |
 | Type      | Dragon                           |
 | Code      | EBW02-048                        |
 | Pokémon   | Rayquaza                         |
@@ -158,7 +158,7 @@
 
 | Name      | Dragon Burst                                             |
 | --------- | -------------------------------------------------------- |
-| Japanese  | ドラゴンバースト                                         |
+| Japanese  | ドラゴンバースト                                                 |
 | Type      | Dragon                                                   |
 | Code      | EBW02-049                                                |
 | Pokémon   | Rayquaza                                                 |
@@ -177,7 +177,7 @@
 
 | Name      | Thunder                          |
 | --------- | -------------------------------- |
-| Japanese  | かみなり                         |
+| Japanese  | かみなり                             |
 | Type      | Electric                         |
 | Code      | EBW02-050                        |
 | Pokémon   | Rayquaza                         |

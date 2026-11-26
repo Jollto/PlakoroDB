@@ -6,7 +6,7 @@
 
 | Nome           | Colpire    |
 | -------------- | ---------- |
-| Giapponese     | たたく     |
+| Giapponese     | たたく        |
 | Tipo           | Psico      |
 | Codice         | EBW02-011  |
 | Pokémon        | Tinkatink  |
@@ -23,20 +23,20 @@
 
 #### Vento di Fata
 
-| Nome           | Vento di Fata  |
-| -------------- | -------------- |
-| Giapponese     | ようせいのかぜ |
-| Tipo           | Psico          |
-| Codice         | EBW02-012      |
-| Pokémon        | Tinkatink      |
-| Energia        | {P}{P}         |
-| Danni          | 10             |
-| Effetto        |                |
-| In Piedi       | +30 danni.     |
-| A testa in giù |                |
-| Supino         |                |
-| Prono          |                |
-| Sui fianchi    | +30 danni.     |
+| Nome           | Vento di Fata |
+| -------------- | ------------- |
+| Giapponese     | ようせいのかぜ       |
+| Tipo           | Psico         |
+| Codice         | EBW02-012     |
+| Pokémon        | Tinkatink     |
+| Energia        | {P}{P}        |
+| Danni          | 10            |
+| Effetto        |               |
+| In Piedi       | +30 danni.    |
+| A testa in giù |               |
+| Supino         |               |
+| Prono          |               |
+| Sui fianchi    | +30 danni.    |
 
 [Vento di Fata](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard02.webp)
 
@@ -44,7 +44,7 @@
 
 | Nome           | Colpo Martello ?                                       |
 | -------------- | ------------------------------------------------------ |
-| Giapponese     | ハンマーストライク                                     |
+| Giapponese     | ハンマーストライク                                              |
 | Tipo           | Psico                                                  |
 | Codice         | EBW02-013                                              |
 | Pokémon        | Tinkatink                                              |
@@ -63,7 +63,7 @@
 
 | Nome           | Carineria                                                          |
 | -------------- | ------------------------------------------------------------------ |
-| Giapponese     | じゃれつく                                                         |
+| Giapponese     | じゃれつく                                                              |
 | Tipo           | Psico                                                              |
 | Codice         | EBW02-014                                                          |
 | Pokémon        | Tinkatink                                                          |
@@ -80,20 +80,20 @@
 
 #### Ferrartigli
 
-| Nome           | Ferrartigli  |
-| -------------- | ------------ |
-| Giapponese     | メタルクロー |
-| Tipo           | Acciaio      |
-| Codice         | EBW02-015    |
-| Pokémon        | Tinkatink    |
-| Energia        | {M}{C}       |
-| Danni          | 10           |
-| Effetto        |              |
-| In Piedi       | +40 danni.   |
-| A testa in giù |              |
-| Supino         |              |
-| Prono          |              |
-| Sui fianchi    |              |
+| Nome           | Ferrartigli |
+| -------------- | ----------- |
+| Giapponese     | メタルクロー      |
+| Tipo           | Acciaio     |
+| Codice         | EBW02-015   |
+| Pokémon        | Tinkatink   |
+| Energia        | {M}{C}      |
+| Danni          | 10          |
+| Effetto        |             |
+| In Piedi       | +40 danni.  |
+| A testa in giù |             |
+| Supino         |             |
+| Prono          |             |
+| Sui fianchi    |             |
 
 [Ferrartigli](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_wazacard05.webp)
 
@@ -101,7 +101,7 @@
 
 | Nome           | Bastonata  |
 | -------------- | ---------- |
-| Giapponese     | どつく     |
+| Giapponese     | どつく        |
 | Tipo           | Psico      |
 | Codice         | EBW02-016  |
 | Pokémon        | Tinkatink  |
@@ -120,7 +120,7 @@
 
 | Nome           | Assorbibacio                   |
 | -------------- | ------------------------------ |
-| Giapponese     | ドレインキッス                 |
+| Giapponese     | ドレインキッス                        |
 | Tipo           | Psico                          |
 | Codice         | EBW02-017                      |
 | Pokémon        | Tinkatink                      |
@@ -139,7 +139,7 @@
 
 | Nome           | Pianto     |
 | -------------- | ---------- |
-| Giapponese     | なきわめく |
+| Giapponese     | なきわめく      |
 | Tipo           | Psico      |
 | Codice         | EBW02-018  |
 | Pokémon        | Tinkatink  |
@@ -158,7 +158,7 @@
 
 | Nome           | Pestone Selvaggio ?                    |
 | -------------- | -------------------------------------- |
-| Giapponese     | ワイルドスタンプ                       |
+| Giapponese     | ワイルドスタンプ                               |
 | Tipo           | Psico                                  |
 | Codice         | EBW02-019                              |
 | Pokémon        | Tinkatink                              |
@@ -177,7 +177,7 @@
 
 | Nome           | Impatto Prodigioso ? |
 | -------------- | -------------------- |
-| Giapponese     | ワンダーインパクト   |
+| Giapponese     | ワンダーインパクト            |
 | Tipo           | Psico                |
 | Codice         | EBW02-020            |
 | Pokémon        | Tinkatink            |

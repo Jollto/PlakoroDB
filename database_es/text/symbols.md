@@ -16,9 +16,9 @@
 |  Volador  |  空（そら）  |  {Y}  |   ![Volador](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/flying.webp)   |
 |   Normal  | 無（むしょく） |  {C}  |    ![Normal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/normal.webp)   |
 
-Los textos en japonés (de las FAQ) usa la terminología del TCG, pero los iconos de la página web usan los tipos del VGC, por lo que usaré los tipos de VGC también.
+Los textos en japonés (de las FAQ) usan la terminología del TCG, pero los iconos de la página web usan los tipos del VGC, por lo que usaré los tipos de VGC también.
 
-Para referenciar a los tipos de Energía, usaré la nomenclatura del TCG, con _Y_ por el tipo volador.
+Para referenciar a los tipos de Energía, usaré la nomenclatura del TCG, con _Y_ para el tipo volador.
 
 ## Orientación
 

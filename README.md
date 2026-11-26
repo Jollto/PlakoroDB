@@ -7,7 +7,7 @@ An unofficial database and fan translation for the Pokémon's dice game **Plakor
 
 ## About
 
-This repository aims to provide translations of Plakoro cards for players who cannot read Japanese.
+This repository aims to provide translations of Plakoro cards for players who can't read Japanese.
 
 The translations are created by fans and are intended to be as accurate and consistent as possible, following official terminology whenever it exists and the writing conventions commonly used in trading card games.
 

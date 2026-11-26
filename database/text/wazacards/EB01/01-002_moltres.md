@@ -50,7 +50,7 @@
 | Pokémon   | Moltres                                                        |
 | Energy    | {R}{R}{R}{R}                                                   |
 | Damage    | 40                                                             |
-| Effect    |
+| Effect    |                                                                |
 | Standing  | This attack does 40 more damage.                               |
 | Handstand | On your next turn, reduce the number of Enekoro you roll by 2. |
 | Back      | This attack does 40 more damage.                               |

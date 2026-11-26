@@ -41,7 +41,7 @@
 
 |   Q   | While the Charakoro effect of Altaria's move "Fly" ({st}{s1}{s2}) was active, my opponent successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Bubble Beam". <br>In this case, how much damage do I take? <br>Also, how many Enekoro can I roll on my next turn? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 0 damage. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                                                 |
+|   A   | 0 damage. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by non-damage effects, you will roll 1 Enekoro less next turn.                                                                                        |
 |   R   | [Fly](/database/cards/wazacards/ST/10-001_altaria/STW10-005.png)<br>[Bubble Beam](/database/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                        |
 
 #### 7
@@ -88,7 +88,7 @@
 
 #### 13
 
-|   Q   | While the Charakoro effect of Sableye's move "Jewel Flash" was active, the Charakoro effect of the opponent's Pikachu's move "Thunderbolt" meant that the opponent had 2 less Enekoro to roll on their next turn. <br>How is the effect "On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again." applied? |
+|   Q   | While the Charakoro effect of Sableye's move "Jewel Flash" was active, the Charakoro effect of the opponent's Pikachu's move "Thunderbolt" meant that the opponent had 2 Enekoro less to roll on their next turn. <br>How is the effect "On the opponent's next turn, choose 2 rolled Enekoro, and have them roll them again." applied? |
 | :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | If there is only 1 Enekoro, choose that 1 Enekoro and have them roll it again. <br>(You can only reroll the die 1 time.)                                                                                                                                                                                                                |
 |   R   | [Jewel Flash](/database/cards/wazacards/EB02/02-003_sableye/EBW02-029.png)<br>[Thunderbolt](/database/cards/wazacards/ST/04-001_pikachu/STW04-004.png)                                                                                                                                                                                  |
@@ -158,7 +158,7 @@
 
 #### 23
 
-|   Q   | Due to the Charakoro effect of Tinkatink's move "Hammer Strike", I have 2 less Enekoro to roll on my next turn. <br>On my opponent's next turn, due to the Charakoro effect of Lucario's move "Force Palm", I will have 1 less Enekoro to roll on my next turn. <br>In this case, how many Enekoro can I roll on my next turn? |
+|   Q   | Due to the Charakoro effect of Tinkatink's move "Hammer Strike", I have 2 Enekoro less to roll on my next turn. <br>On my opponent's next turn, due to the Charakoro effect of Lucario's move "Force Palm", I will have 1 Enekoro less to roll on my next turn. <br>In this case, how many Enekoro can I roll on my next turn? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | 0 Enekoro. <br>Even on a turn where you have 0 Enekoro to roll, select the move you wish to use for that turn and roll only the Charakoro. <br>After the outcome is known, the turn will end.                                                                                                                                  |
 |   R   | [Hammer Strike](/database/cards/wazacards/EB02/02-002_tinkatink/EBW02-013.png)<br>[Force Palm](/database/cards/wazacards/ST/09-001_lucario/STW09-002.png)                                                                                                                                                                      |
@@ -256,7 +256,7 @@
 
 #### 37
 
-|   Q   | Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn. <br>However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 less Enekoro to roll on my next turn. <br>In this case, how many Enekoro can I roll on my next turn? |
+|   Q   | Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn. <br>However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 Enekoro less to roll on my next turn. <br>In this case, how many Enekoro can I roll on my next turn? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | 3 Enekoro.                                                                                                                                                                                                                                                                                               |
 |   R   | [Cold Breath](/database/cards/wazacards/EB01/01-003_articuno/EBW01-028.png)<br>[Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                   |
@@ -279,7 +279,7 @@
 
 |   Q   | While the Charakoro effect of Moltres' move "Fly" ({st}{s1}{s2}) was active, my opponent successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Bubble Beam". <br>In this case, how much damage do I take? <br>Also, how many Enekoro can I roll on my next turn? |
 | :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 0 damage. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by effects other than damage, you will roll 1 less Enekoro next turn.                                                                                |
+|   A   | 0 damage. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by non-damage effects, you will roll 1 Enekoro less next turn.                                                                                       |
 |   R   | [Fly](/database/cards/wazacards/EB01/01-002_moltres/EBW01-020.png)<br>[Bubble Beam](/database/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                     |
 
 #### 41
@@ -354,7 +354,7 @@
 
 #### 51
 
-|   Q   | My opponent successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed", so on my next turn, I will roll 1 less Enekoro. <br>On my next turn, with 2 Enekoro remaining, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush". <br>When I use "Electric Rush" for the 2nd time in a row, how many Enekoro do I have to use? |
+|   Q   | My opponent successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed", so on my next turn, I will roll 1 Enekoro less. <br>On my next turn, with 2 Enekoro remaining, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush". <br>When I use "Electric Rush" for the 2nd time in a row, how many Enekoro do I have to use? |
 | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | 2 Enekoro. <br>Even if you continue to succeed, the number of Enekoro you can roll remains at 2.                                                                                                                                                                                                                                                                                         |
 |   R   | [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)<br>[Leech Seed](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)                                                                                                                                                                                                                                  |
@@ -448,7 +448,7 @@
 
 #### 7
 
-|   Q   | Due to a move's effect, I need to roll less Enekoro. How should I roll them in this case?                                                                                                |
+|   Q   | Due to a move's effect, I need to roll fewer Enekoro. How should I roll them in this case?                                                                                               |
 | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | Before rolling the Enekoro, select the ones you want to remove. <br>Roll the remaining Enekoro, and all the Energy revealed during this process counts as the Energy produced this turn. |
 

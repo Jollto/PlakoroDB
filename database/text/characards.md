@@ -1,4 +1,4 @@
-# CharaCards
+# Characards
 
 ## Template
 
@@ -202,7 +202,7 @@
 
 ## Exploration Box 2
 
-### Greninja
+### [Greninja](../cards/characards/EBC02-001_greninja.png)
 
 | Name     | Greninja  |
 | -------- | --------- |

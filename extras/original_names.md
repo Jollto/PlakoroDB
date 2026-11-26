@@ -70,5 +70,5 @@ Original translations for moves, due to being new Pokémon moves, or moves for o
 | EBW02-044  | げきりんランページ   | _Wild Rampage_     | Estampida Salvaje    | Ultraje Feroz         |
 | EBW02-045  | ドラゴンフレイム     | **Dragon Flame**   | Llama Dragón         | Chama do Dragão       |
 | EBW02-052  | チャンスタックル     | Chance Tackle      | Placaje Oportuno     | Investida Oportuna    |
-| PRW03-008  | ミラクルビーム       | **Miracle Beam**   | Rayo Miráculo        | Feixe Milagre         |
+| PRW03-008  | ミラクルビーム       | **Miracle Beam**   | Rayo Milagro         | Feixe Milagre         |
 | PRW03-2-08 | ストームコール       | Storm Call         | Llamada Tormenta     |

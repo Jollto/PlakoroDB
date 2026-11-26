@@ -61,20 +61,20 @@
 
 #### Shadow Bind
 
-| Name      | Shadow Bind                                                     |
-| --------- | --------------------------------------------------------------- |
-| Japanese  | かげしばり                                                      |
-| Type      | Dark                                                            |
-| Code      | STW07-004                                                       |
-| Pokémon   | Gengar                                                          |
-| Energy    | {D}{D}{D}                                                       |
-| Damage    | 30                                                              |
-| Effect    |                                                                 |
-| Standing  | On your opponent's next turn, they cannot roll their Charakoro. |
-| Handstand |                                                                 |
-| Back      | On your opponent's next turn, they cannot roll their Charakoro. |
-| Down      |                                                                 |
-| Sideways  | On your opponent's next turn, they cannot roll their Charakoro. |
+| Name      | Shadow Bind                                                    |
+| --------- | -------------------------------------------------------------- |
+| Japanese  | かげしばり                                                     |
+| Type      | Dark                                                           |
+| Code      | STW07-004                                                      |
+| Pokémon   | Gengar                                                         |
+| Energy    | {D}{D}{D}                                                      |
+| Damage    | 30                                                             |
+| Effect    |                                                                |
+| Standing  | On your opponent's next turn, they can't roll their Charakoro. |
+| Handstand |                                                                |
+| Back      | On your opponent's next turn, they can't roll their Charakoro. |
+| Down      |                                                                |
+| Sideways  | On your opponent's next turn, they can't roll their Charakoro. |
 
 [Shadow Bind](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard04.webp)
 

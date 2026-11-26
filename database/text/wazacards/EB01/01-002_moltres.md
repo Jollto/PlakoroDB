@@ -50,7 +50,7 @@
 | Pokémon   | Moltres                                                        |
 | Energy    | {R}{R}{R}{R}                                                   |
 | Damage    | 40                                                             |
-| Effect    |
+| Effect    |                                                                |
 | Standing  | This attack does 40 more damage.                               |
 | Handstand | On your next turn, reduce the number of Enekoro you roll by 2. |
 | Back      | This attack does 40 more damage.                               |
@@ -175,19 +175,19 @@
 
 #### Fly
 
-| Name      | Fly                                                                              |
-| --------- | -------------------------------------------------------------------------------- |
-| Japanese  | そらをとぶ                                                                       |
-| Type      | Flying                                                                           |
-| Code      | EBW01-020                                                                        |
-| Pokémon   | Moltres                                                                          |
-| Energy    | {Y}{C}{C}                                                                        |
-| Damage    | 30                                                                               |
-| Effect    |                                                                                  |
-| Standing  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
-| Handstand | This attack does nothing.                                                        |
-| Back      | This attack does nothing.                                                        |
-| Down      | This attack does nothing.                                                        |
-| Sideways  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
+| Name      | Fly                                                                                     |
+| --------- | --------------------------------------------------------------------------------------- |
+| Japanese  | そらをとぶ                                                                              |
+| Type      | Flying                                                                                  |
+| Code      | EBW01-020                                                                               |
+| Pokémon   | Moltres                                                                                 |
+| Energy    | {Y}{C}{C}                                                                               |
+| Damage    | 30                                                                                      |
+| Effect    |                                                                                         |
+| Standing  | During your opponent's next turn, prevent all damage from attacks done to this Pokémon. |
+| Handstand | This attack does nothing.                                                               |
+| Back      | This attack does nothing.                                                               |
+| Down      | This attack does nothing.                                                               |
+| Sideways  | During your opponent's next turn, prevent all damage from attacks done to this Pokémon. |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard10.webp)

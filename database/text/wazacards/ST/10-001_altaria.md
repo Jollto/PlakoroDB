@@ -23,20 +23,20 @@
 
 #### Fluffy Flight ?
 
-| Name      | Fluffy Flight ?                                                                                                                               |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | ふわふわひこう                                                                                                                                |
-| Type      | Flying                                                                                                                                        |
-| Code      | STW10-002                                                                                                                                     |
-| Pokémon   | Altaria                                                                                                                                       |
-| Energy    | {Y}{Y}                                                                                                                                        |
-| Damage    | 20                                                                                                                                            |
-| Effect    |                                                                                                                                               |
-| Standing  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
-| Handstand |                                                                                                                                               |
-| Back      |                                                                                                                                               |
-| Down      |                                                                                                                                               |
-| Sideways  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (You are still affected by other effects.) |
+| Name      | Fluffy Flight ?                                                                                                                                                  |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japanese  | ふわふわひこう                                                                                                                                                   |
+| Type      | Flying                                                                                                                                                           |
+| Code      | STW10-002                                                                                                                                                        |
+| Pokémon   | Altaria                                                                                                                                                          |
+| Energy    | {Y}{Y}                                                                                                                                                           |
+| Damage    | 20                                                                                                                                                               |
+| Effect    |                                                                                                                                                                  |
+| Standing  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, prevent all damage from attacks done to this Pokémon. (Any other effects of attacks still happen.) |
+| Handstand |                                                                                                                                                                  |
+| Back      |                                                                                                                                                                  |
+| Down      |                                                                                                                                                                  |
+| Sideways  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, prevent all damage from attacks done to this Pokémon. (Any other effects of attacks still happen.) |
 
 [Fluffy Flight](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 
@@ -80,20 +80,20 @@
 
 #### Fly
 
-| Name      | Fly                                                                                                                         |
-| --------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | そらをとぶ                                                                                                                  |
-| Type      | Flying                                                                                                                      |
-| Code      | STW10-005                                                                                                                   |
-| Pokémon   | Altaria                                                                                                                     |
-| Energy    | {Y}{Y}{Y}                                                                                                                   |
-| Damage    | 40                                                                                                                          |
-| Effect    |                                                                                                                             |
-| Standing  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. (You are still affected by other effects.) |
-| Handstand | This attack does nothing.                                                                                                   |
-| Back      | This attack does nothing.                                                                                                   |
-| Down      | This attack does nothing.                                                                                                   |
-| Sideways  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. (You are still affected by other effects.) |
+| Name      | Fly                                                                                                                                  |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Japanese  | そらをとぶ                                                                                                                           |
+| Type      | Flying                                                                                                                               |
+| Code      | STW10-005                                                                                                                            |
+| Pokémon   | Altaria                                                                                                                              |
+| Energy    | {Y}{Y}{Y}                                                                                                                            |
+| Damage    | 40                                                                                                                                   |
+| Effect    |                                                                                                                                      |
+| Standing  | During your opponent's next turn, prevent all damage from attacks done to this Pokémon. (Any other effects of attacks still happen.) |
+| Handstand | This attack does nothing.                                                                                                            |
+| Back      | This attack does nothing.                                                                                                            |
+| Down      | This attack does nothing.                                                                                                            |
+| Sideways  | During your opponent's next turn, prevent all damage from attacks done to this Pokémon. (Any other effects of attacks still happen.) |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
 

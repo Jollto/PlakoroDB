@@ -1,4 +1,4 @@
-### Cartas de Pikachu
+## Cartas de Pikachu
 
 ### Set de Inicio
 

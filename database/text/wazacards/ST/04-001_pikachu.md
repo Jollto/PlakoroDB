@@ -1,4 +1,4 @@
-### Pikachu Cards
+## Pikachu Cards
 
 ### Starter Set
 

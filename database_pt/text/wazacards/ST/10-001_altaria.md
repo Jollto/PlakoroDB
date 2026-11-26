@@ -80,20 +80,20 @@
 
 #### Voar
 
-| Nome            | Voar                                                                                                                                                                                             |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Japonês         | そらをとぶ                                                                                                                                                                                            |
-| Tipo            | Voador                                                                                                                                                                                           |
-| Código          | STW10-005                                                                                                                                                                                        |
-| Pokémon         | Altaria                                                                                                                                                                                          |
-| Energia         | {Y}{Y}{Y}                                                                                                                                                                                        |
-| Dano            | 40                                                                                                                                                                                               |
-| Efeito          |                                                                                                                                                                                                  |
-| Em pé           | Durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. (Any other effects of attacks still happen.) |
-| De ponta-cabeça | Este ataque não faz nada.                                                                                                                                                        |
-| De costas       | Este ataque não faz nada.                                                                                                                                                        |
-| De bruços       | Este ataque não faz nada.                                                                                                                                                        |
-| De lado         | Durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. (Any other effects of attacks still happen.) |
+| Nome            | Voar                                                                                                                                                                                      |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonês         | そらをとぶ                                                                                                                                                                                     |
+| Tipo            | Voador                                                                                                                                                                                    |
+| Código          | STW10-005                                                                                                                                                                                 |
+| Pokémon         | Altaria                                                                                                                                                                                   |
+| Energia         | {Y}{Y}{Y}                                                                                                                                                                                 |
+| Dano            | 40                                                                                                                                                                                        |
+| Efeito          |                                                                                                                                                                                           |
+| Em pé           | No próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. (Any other effects of attacks still happen.) |
+| De ponta-cabeça | Este ataque não faz nada.                                                                                                                                                 |
+| De costas       | Este ataque não faz nada.                                                                                                                                                 |
+| De bruços       | Este ataque não faz nada.                                                                                                                                                 |
+| De lado         | No próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. (Any other effects of attacks still happen.) |
 
 [Voar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
 

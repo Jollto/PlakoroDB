@@ -2,20 +2,20 @@
 
 ## Modello
 
-| Nome           |     |
-| -------------- | --- |
-| Giapponese     |     |
-| Tipo           |     |
-| Codice         |     |
-| Pokémon        |     |
-| Energia        |     |
-| Danni          |     |
-| Effetto        |     |
-| In Piedi       |     |
-| A testa in giù |     |
-| Supino         |     |
-| Prono          |     |
-| Sui fianchi    |     |
+| Nome           |   |
+| -------------- | - |
+| Giapponese     |   |
+| Tipo           |   |
+| Codice         |   |
+| Pokémon        |   |
+| Energia        |   |
+| Danni          |   |
+| Effetto        |   |
+| In Piedi       |   |
+| A testa in giù |   |
+| Supino         |   |
+| Prono          |   |
+| Sui fianchi    |   |
 
 ## Set Starter
 
@@ -45,23 +45,23 @@
 
 ### Gengar
 
-[Gengar Cards](wazacards/ST/07-001_gengar.md)
+[Carte Gengar](wazacards/ST/07-001_gengar.md)
 
 ### Metagross
 
-[Metagross Cards](wazacards/ST/08-001_metagross.md)
+[Carte Metagross](wazacards/ST/08-001_metagross.md)
 
 ### Lucario
 
-[Lucario Cards](wazacards/ST/09-001_lucario.md)
+[Carte Lucario](wazacards/ST/09-001_lucario.md)
 
 ### Altaria
 
-[Altaria Cards](wazacards/ST/10-001_altaria.md)
+[Carte Altaria](wazacards/ST/10-001_altaria.md)
 
 ### Dragonite
 
-[Dragonite Cards](wazacards/ST/11-001_dragonite.md)
+[Carte Dragonite](wazacards/ST/11-001_dragonite.md)
 
 ## Box Esplorazione 1
 
@@ -93,24 +93,24 @@
 
 ### Greninja
 
-[Greninja Cards](wazacards/EB02/02-001_greninja.md)
+[Carte Greninja](wazacards/EB02/02-001_greninja.md)
 
 ### Tinkatink
 
-[Tinkatink Cards](wazacards/EB02/02-002_tinkatink.md)
+[Carte Tinkatink](wazacards/EB02/02-002_tinkatink.md)
 
 ### Sableye
 
-[Sableye Cards](wazacards/EB02/02-003_sableye.md)
+[Carte Sableye](wazacards/EB02/02-003_sableye.md)
 
 ### Aggron
 
-[Aggron Cards](wazacards/EB02/02-004_aggron.md)
+[Carte Aggron](wazacards/EB02/02-004_aggron.md)
 
 ### Rayquaza
 
-[Rayquaza Cards](wazacards/EB02/02-005_rayquaza.md)
+[Carte Rayquaza](wazacards/EB02/02-005_rayquaza.md)
 
 ### Chansey
 
-[Chansey Cards](wazacards/EB02/02-006_chansey.md)
+[Carte Chansey](wazacards/EB02/02-006_chansey.md)

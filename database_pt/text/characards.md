@@ -1,4 +1,4 @@
-# CharaCards
+# Characards
 
 ## Modelo
 
@@ -202,7 +202,7 @@
 
 ## Exploration Box 2
 
-### Greninja
+### [Greninja](../cards/characards/EBC02-001_greninja.png)
 
 | Nome     | Greninja  |
 | -------- | --------- |
@@ -213,7 +213,7 @@
 
 [Greninja](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/01/img_characard.webp)
 
-### Tinkatink
+### [Tinkatink](../cards/characards/EBC02-002_tinkatink.png)
 
 | Nome     | Tinkatink |
 | -------- | --------- |
@@ -224,7 +224,7 @@
 
 [Tinkatink](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/02/img_characard.webp)
 
-### Sableye
+### [Sableye](../cards/characards/EBC02-003_sableye.png)
 
 | Nome     | Sableye   |
 | -------- | --------- |
@@ -235,7 +235,7 @@
 
 [Sableye](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_characard.webp)
 
-### Aggron
+### [Aggron](../cards/characards/EBC02-004_aggron.png)
 
 | Nome     | Aggron    |
 | -------- | --------- |
@@ -246,7 +246,7 @@
 
 [Aggron](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/04/img_characard.webp)
 
-### Rayquaza
+### [Rayquaza](../cards/characards/EBC02-005_rayquaza.png)
 
 | Nome     | Rayquaza  |
 | -------- | --------- |
@@ -257,7 +257,7 @@
 
 [Rayquaza](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/05/img_characard.webp)
 
-### Chansey
+### [Chansey](../cards/characards/EBC02-006_chansey.png)
 
 | Nome     | Chansey   |
 | -------- | --------- |

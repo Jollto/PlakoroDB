@@ -1,4 +1,4 @@
-## Cartas de Carmander
+## Cartas de Charmander
 
 ### Set de Inicio
 

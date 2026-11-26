@@ -16,16 +16,16 @@
 |  Volador  |  空（そら）  |  {Y}  |   ![Volador](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/flying.webp)   |
 |   Normal  | 無（むしょく） |  {C}  |    ![Normal](https://bandai-hobby.net/site/pokemon/plakoro/images/products/type_icon/normal.webp)   |
 
-Los textos en japonés (de las FAQ) usa la terminología del TCG, pero los iconos de la página web usan los tipos del VGC, por lo que usaré los tipos de VGC también.
+Los textos en japonés (de las FAQ) usan la terminología del TCG, pero los iconos de la página web usan los tipos del VGC, por lo que usaré los tipos de VGC también.
 
-Para referenciar a los tipos de Energía, usaré la nomenclatura del TCG, con _Y_ por el tipo volador.
+Para referenciar a los tipos de Energía, usaré la nomenclatura del TCG, con _Y_ para el tipo volador.
 
 ## Orientación
 
 | Orientación | Etiqueta | Japonés |                                                                                                          Símbolo                                                                                                         |
 | :---------: | :------: | :-----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |    De pie   |   {st}   |    ⽴ち   |                                                           ![De pie](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/standing.webp)                                                          |
-|  De cabeza  |   {hs}   |   さかだち  |                                                         ![Vertical](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/handstand.webp)                                                         |
-| Boca arriba |   {ba}   |   あおむけ  |                                                           ![De espalda](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/back.webp)                                                          |
+|  De cabeza  |   {hs}   |   さかだち  |                                                         ![De cabeza](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/handstand.webp)                                                        |
+| Boca arriba |   {ba}   |   あおむけ  |                                                          ![Boca arriba](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/back.webp)                                                          |
 |  Boca abajo |   {do}   |   うつぶせ  |                                                           ![Boca abajo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/down.webp)                                                          |
 |   De lado   | {s1}{s2} |   横向き   | ![De lado 01](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape01.webp)![De lado 02](https://bandai-hobby.net/site/pokemon/plakoro/images/products/direction_icon/landscape02.webp) |

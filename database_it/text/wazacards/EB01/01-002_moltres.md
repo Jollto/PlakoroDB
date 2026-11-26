@@ -175,19 +175,19 @@
 
 #### Volo
 
-| Nome           | Volo                                                                                     |
-| -------------- | ---------------------------------------------------------------------------------------- |
-| Giapponese     | そらをとぶ                                                                               |
-| Tipo           | Volante                                                                                  |
-| Codice         | EBW01-020                                                                                |
-| Pokémon        | Moltres                                                                                  |
-| Energia        | {Y}{C}{C}                                                                                |
-| Danni          | 30                                                                                       |
-| Effetto        |                                                                                          |
-| In Piedi       | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. |
-| A testa in giù | Questa mossa fallisce.                                                                   |
-| Supino         | Questa mossa fallisce.                                                                   |
-| Prono          | Questa mossa fallisce.                                                                   |
-| Sui fianchi    | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. |
+| Nome           | Volo                                                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | そらをとぶ                                                                                                     |
+| Tipo           | Volante                                                                                                        |
+| Codice         | EBW01-020                                                                                                      |
+| Pokémon        | Moltres                                                                                                        |
+| Energia        | {Y}{C}{C}                                                                                                      |
+| Danni          | 30                                                                                                             |
+| Effetto        |                                                                                                                |
+| In Piedi       | Durante il prossimo turno del tuo avversario, previeni tutti i danni degli attacchi inflitti a questo Pokémon. |
+| A testa in giù | Questa mossa fallisce.                                                                                         |
+| Supino         | Questa mossa fallisce.                                                                                         |
+| Prono          | Questa mossa fallisce.                                                                                         |
+| Sui fianchi    | Durante il prossimo turno del tuo avversario, previeni tutti i danni degli attacchi inflitti a questo Pokémon. |
 
 [Volo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard10.webp)

@@ -23,20 +23,20 @@
 
 #### Hoja Heladora ?
 
-| Nombre      | Hoja Heladora ?                                                  |
-| ----------- | ---------------------------------------------------------------- |
-| Japonés     | いてつくやいば                                                   |
-| Tipo        | Agua                                                             |
-| Código      | EBW01-022                                                        |
-| Pokémon     | Articuno                                                         |
-| Energía     | {W}{W}{W}                                                        |
-| Daño        | 30                                                               |
-| Efecto      |                                                                  |
-| De pie      | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
-| De cabeza   |                                                                  |
-| Boca arriba |                                                                  |
-| Boca abajo  |                                                                  |
-| De lado     | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
+| Nombre      | Hoja Heladora ?                                                |
+| ----------- | -------------------------------------------------------------- |
+| Japonés     | いてつくやいば                                                 |
+| Tipo        | Agua                                                           |
+| Código      | EBW01-022                                                      |
+| Pokémon     | Articuno                                                       |
+| Energía     | {W}{W}{W}                                                      |
+| Daño        | 30                                                             |
+| Efecto      |                                                                |
+| De pie      | En el próximo turno de tu rival, no pueden tirar su Charakoro. |
+| De cabeza   |                                                                |
+| Boca arriba |                                                                |
+| Boca abajo  |                                                                |
+| De lado     | En el próximo turno de tu rival, no pueden tirar su Charakoro. |
 
 [Hoja Heladora](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
 
@@ -175,19 +175,19 @@
 
 #### Vuelo
 
-| Nombre      | Vuelo                                                                             |
-| ----------- | --------------------------------------------------------------------------------- |
-| Japonés     | そらをとぶ                                                                        |
-| Tipo        | Volador                                                                           |
-| Código      | EBW01-030                                                                         |
-| Pokémon     | Articuno                                                                          |
-| Energía     | {Y}{C}{C}                                                                         |
-| Daño        | 30                                                                                |
-| Efecto      |                                                                                   |
-| De pie      | Durante el próximo turno de tu rival, este Pokémon no recibe daño de los ataques. |
-| De cabeza   | Este ataque no hace nada.                                                         |
-| Boca arriba | Este ataque no hace nada.                                                         |
-| Boca abajo  | Este ataque no hace nada.                                                         |
-| De lado     | Durante el próximo turno de tu rival, este Pokémon no recibe daño de los ataques. |
+| Nombre      | Vuelo                                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------------- |
+| Japonés     | そらをとぶ                                                                                         |
+| Tipo        | Volador                                                                                            |
+| Código      | EBW01-030                                                                                          |
+| Pokémon     | Articuno                                                                                           |
+| Energía     | {Y}{C}{C}                                                                                          |
+| Daño        | 30                                                                                                 |
+| Efecto      |                                                                                                    |
+| De pie      | Durante el próximo turno de tu rival, evita todo el daño de los ataques infligidos a este Pokémon. |
+| De cabeza   | Este ataque no hace nada.                                                                          |
+| Boca arriba | Este ataque no hace nada.                                                                          |
+| Boca abajo  | Este ataque no hace nada.                                                                          |
+| De lado     | Durante el próximo turno de tu rival, evita todo el daño de los ataques infligidos a este Pokémon. |
 
 [Vuelo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

@@ -23,20 +23,20 @@
 
 #### Operación Básica ?
 
-| Nombre      | Operación Básica ?                                                                                                   |
-| ----------- | -------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | しそくえんざん                                                                                                       |
-| Tipo        | Acero                                                                                                                |
-| Código      | STW08-002                                                                                                            |
-| Pokémon     | Metagross                                                                                                            |
-| Energía     | {M}{M}                                                                                                               |
-| Daño        | 20                                                                                                                   |
-| Efecto      |                                                                                                                      |
-| De pie      | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este ataque. |
-| De cabeza   |                                                                                                                      |
-| Boca arriba | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este ataque. |
-| Boca abajo  |                                                                                                                      |
-| De lado     | En tu siguiente turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este ataque. |
+| Nombre      | Operación Básica ?                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------------------ |
+| Japonés     | しそくえんざん                                                                                                     |
+| Tipo        | Acero                                                                                                              |
+| Código      | STW08-002                                                                                                          |
+| Pokémon     | Metagross                                                                                                          |
+| Energía     | {M}{M}                                                                                                             |
+| Daño        | 20                                                                                                                 |
+| Efecto      |                                                                                                                    |
+| De pie      | En tu próximo turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este ataque. |
+| De cabeza   |                                                                                                                    |
+| Boca arriba | En tu próximo turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este ataque. |
+| Boca abajo  |                                                                                                                    |
+| De lado     | En tu próximo turno, la dirección de tu Charakoro se convierte en la misma posición que ha salido con este ataque. |
 
 [Operación Básica](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st08/01/img_wazacard02.webp)
 

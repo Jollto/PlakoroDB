@@ -43,6 +43,26 @@
 
 [Carte Mew](wazacards/ST/06-001_mew.md)
 
+### Gengar
+
+[Carte Gengar](wazacards/ST/07-001_gengar.md)
+
+### Metagross
+
+[Carte Metagross](wazacards/ST/08-001_metagross.md)
+
+### Lucario
+
+[Carte Lucario](wazacards/ST/09-001_lucario.md)
+
+### Altaria
+
+[Carte Altaria](wazacards/ST/10-001_altaria.md)
+
+### Dragonite
+
+[Carte Dragonite](wazacards/ST/11-001_dragonite.md)
+
 ## Box Esplorazione 1
 
 ### Pinsir
@@ -68,3 +88,29 @@
 ### Grimer
 
 [Carte Grimer](wazacards/EB01/01-006_grimer.md)
+
+## Box Eslporazione 2
+
+### Greninja
+
+[Carte Greninja](wazacards/EB02/02-001_greninja.md)
+
+### Tinkatink
+
+[Carte Tinkatink](wazacards/EB02/02-002_tinkatink.md)
+
+### Sableye
+
+[Carte Sableye](wazacards/EB02/02-003_sableye.md)
+
+### Aggron
+
+[Carte Aggron](wazacards/EB02/02-004_aggron.md)
+
+### Rayquaza
+
+[Carte Rayquaza](wazacards/EB02/02-005_rayquaza.md)
+
+### Chansey
+
+[Carte Chansey](wazacards/EB02/02-006_chansey.md)

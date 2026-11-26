@@ -23,20 +23,20 @@
 
 #### Freezing Blade ?
 
-| Name      | Freezing Blade ?                                                |
-| --------- | --------------------------------------------------------------- |
-| Japanese  | いてつくやいば                                                  |
-| Type      | Water                                                           |
-| Code      | EBW01-022                                                       |
-| Pokémon   | Articuno                                                        |
-| Energy    | {W}{W}{W}                                                       |
-| Damage    | 30                                                              |
-| Effect    |                                                                 |
-| Standing  | On your opponent's next turn, they cannot roll their Charakoro. |
-| Handstand |                                                                 |
-| Back      |                                                                 |
-| Down      |                                                                 |
-| Sideways  | On your opponent's next turn, they cannot roll their Charakoro. |
+| Name      | Freezing Blade ?                                               |
+| --------- | -------------------------------------------------------------- |
+| Japanese  | いてつくやいば                                                 |
+| Type      | Water                                                          |
+| Code      | EBW01-022                                                      |
+| Pokémon   | Articuno                                                       |
+| Energy    | {W}{W}{W}                                                      |
+| Damage    | 30                                                             |
+| Effect    |                                                                |
+| Standing  | On your opponent's next turn, they can't roll their Charakoro. |
+| Handstand |                                                                |
+| Back      |                                                                |
+| Down      |                                                                |
+| Sideways  | On your opponent's next turn, they can't roll their Charakoro. |
 
 [Freezing Blade](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard02.webp)
 
@@ -156,38 +156,38 @@
 
 #### Sheer Cold
 
-| Name      | Sheer Cold                                                                                                  |
-| --------- | ----------------------------------------------------------------------------------------------------------- |
-| Japanese  | ぜったいれいど                                                                                              |
-| Type      | Water                                                                                                       |
-| Code      | EBW01-029                                                                                                   |
-| Pokémon   | Articuno                                                                                                    |
-| Energy    | {W}{W}{W}{W}                                                                                                |
-| Damage    | 40                                                                                                          |
-| Effect    |                                                                                                             |
-| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
-| Handstand |                                                                                                             |
-| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They cannot roll their Charakoro. |
-| Down      |                                                                                                             |
-| Sideways  |                                                                                                             |
+| Name      | Sheer Cold                                                                                                 |
+| --------- | ---------------------------------------------------------------------------------------------------------- |
+| Japanese  | ぜったいれいど                                                                                             |
+| Type      | Water                                                                                                      |
+| Code      | EBW01-029                                                                                                  |
+| Pokémon   | Articuno                                                                                                   |
+| Energy    | {W}{W}{W}{W}                                                                                               |
+| Damage    | 40                                                                                                         |
+| Effect    |                                                                                                            |
+| Standing  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They can't roll their Charakoro. |
+| Handstand |                                                                                                            |
+| Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 2. They can't roll their Charakoro. |
+| Down      |                                                                                                            |
+| Sideways  |                                                                                                            |
 
 [Sheer Cold](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard09.webp)
 
 #### Fly
 
-| Name      | Fly                                                                              |
-| --------- | -------------------------------------------------------------------------------- |
-| Japanese  | そらをとぶ                                                                       |
-| Type      | Flying                                                                           |
-| Code      | EBW01-030                                                                        |
-| Pokémon   | Articuno                                                                         |
-| Energy    | {Y}{C}{C}                                                                        |
-| Damage    | 30                                                                               |
-| Effect    |                                                                                  |
-| Standing  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
-| Handstand | This attack does nothing.                                                        |
-| Back      | This attack does nothing.                                                        |
-| Down      | This attack does nothing.                                                        |
-| Sideways  | During your opponent's next turn, this Pokémon doesn't take damage from attacks. |
+| Name      | Fly                                                                                     |
+| --------- | --------------------------------------------------------------------------------------- |
+| Japanese  | そらをとぶ                                                                              |
+| Type      | Flying                                                                                  |
+| Code      | EBW01-030                                                                               |
+| Pokémon   | Articuno                                                                                |
+| Energy    | {Y}{C}{C}                                                                               |
+| Damage    | 30                                                                                      |
+| Effect    |                                                                                         |
+| Standing  | During your opponent's next turn, prevent all damage from attacks done to this Pokémon. |
+| Handstand | This attack does nothing.                                                               |
+| Back      | This attack does nothing.                                                               |
+| Down      | This attack does nothing.                                                               |
+| Sideways  | During your opponent's next turn, prevent all damage from attacks done to this Pokémon. |
 
 [Fly](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

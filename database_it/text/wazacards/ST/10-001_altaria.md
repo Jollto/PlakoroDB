@@ -23,20 +23,20 @@
 
 #### Volo soffice ?
 
-| Nome           | Volo soffice ?                                                                                                                               |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | ふわふわひこう                                                                                                                               |
-| Tipo           | Volante                                                                                                                                      |
-| Codice         | STW10-002                                                                                                                                    |
-| Pokémon        | Altaria                                                                                                                                      |
-| Energia        | {Y}{Y}                                                                                                                                       |
-| Danni          | 20                                                                                                                                           |
-| Effetto        |                                                                                                                                              |
-| In Piedi       | Nel prossimo turno dell'avversario, se il PokéDice mostra {s1}{s2}, non subisci danni dalle mosse. (Gli altri effetti si applicano comunque) |
-| A testa in giù |                                                                                                                                              |
-| Supino         |                                                                                                                                              |
-| Prono          |                                                                                                                                              |
-| Sui fianchi    | Nel prossimo turno dell'avversario, se il PokéDice mostra {s1}{s2}, non subisci danni dalle mosse. (Gli altri effetti si applicano comunque) |
+| Nome           | Volo soffice ?                                                                                                                                                                                        |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | ふわふわひこう                                                                                                                                                                                        |
+| Tipo           | Volante                                                                                                                                                                                               |
+| Codice         | STW10-002                                                                                                                                                                                             |
+| Pokémon        | Altaria                                                                                                                                                                                               |
+| Energia        | {Y}{Y}                                                                                                                                                                                                |
+| Danni          | 20                                                                                                                                                                                                    |
+| Effetto        |                                                                                                                                                                                                       |
+| In Piedi       | Nel prossimo turno dell'avversario, se il PokéDice mostra {s1}{s2}, previeni tutti i danni degli attacchi inflitti a questo Pokémon. (Tutti gli altri effetti degli attacchi vanno invece applicati.) |
+| A testa in giù |                                                                                                                                                                                                       |
+| Supino         |                                                                                                                                                                                                       |
+| Prono          |                                                                                                                                                                                                       |
+| Sui fianchi    | Nel prossimo turno dell'avversario, se il PokéDice mostra {s1}{s2}, previeni tutti i danni degli attacchi inflitti a questo Pokémon. (Tutti gli altri effetti degli attacchi vanno invece applicati.) |
 
 [Volo soffice](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 
@@ -80,20 +80,20 @@
 
 #### Volo
 
-| Nome           | Volo                                                                                                                               |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Giapponese     | そらをとぶ                                                                                                                         |
-| Tipo           | Volante                                                                                                                            |
-| Codice         | STW10-005                                                                                                                          |
-| Pokémon        | Altaria                                                                                                                            |
-| Energia        | {Y}{Y}{Y}                                                                                                                          |
-| Danni          | 40                                                                                                                                 |
-| Effetto        |                                                                                                                                    |
-| In Piedi       | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. (Gli altri effetti si applicano comunque) |
-| A testa in giù | Questa mossa fallisce.                                                                                                             |
-| Supino         | Questa mossa fallisce.                                                                                                             |
-| Prono          | Questa mossa fallisce.                                                                                                             |
-| Sui fianchi    | Durante il prossimo turno dell'avversario, questo Pokémon non subisce danni dalle mosse. (Gli altri effetti si applicano comunque) |
+| Nome           | Volo                                                                                                                                                                            |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Giapponese     | そらをとぶ                                                                                                                                                                      |
+| Tipo           | Volante                                                                                                                                                                         |
+| Codice         | STW10-005                                                                                                                                                                       |
+| Pokémon        | Altaria                                                                                                                                                                         |
+| Energia        | {Y}{Y}{Y}                                                                                                                                                                       |
+| Danni          | 40                                                                                                                                                                              |
+| Effetto        |                                                                                                                                                                                 |
+| In Piedi       | Durante il prossimo turno del tuo avversario, previeni tutti i danni degli attacchi inflitti a questo Pokémon. (Tutti gli altri effetti degli attacchi vanno invece applicati.) |
+| A testa in giù | Questa mossa fallisce.                                                                                                                                                          |
+| Supino         | Questa mossa fallisce.                                                                                                                                                          |
+| Prono          | Questa mossa fallisce.                                                                                                                                                          |
+| Sui fianchi    | Durante il prossimo turno del tuo avversario, previeni tutti i danni degli attacchi inflitti a questo Pokémon. (Tutti gli altri effetti degli attacchi vanno invece applicati.) |
 
 [Volo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
 

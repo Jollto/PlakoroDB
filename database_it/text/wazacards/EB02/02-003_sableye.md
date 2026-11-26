@@ -120,7 +120,7 @@
 
 | Nome           | Sgambetto                                                            |
 | -------------- | -------------------------------------------------------------------- |
-| Giapponese     | Sgambetto                                                            |
+| Giapponese     | ころばす                                                             |
 | Tipo           | Buio                                                                 |
 | Codice         | EBW02-027                                                            |
 | Pokémon        | Sableye                                                              |
@@ -165,11 +165,11 @@
 | Energia        | {D}{D}{D}{D}                                                                                                                             |
 | Danni          | 50                                                                                                                                       |
 | Effetto        |                                                                                                                                          |
-| In Piedi       | Nel prossimo turno dell'avversario, scegli 2 dado energia lanciato, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
+| In Piedi       | Nel prossimo turno dell'avversario, scegli 2 dadi energia lanciati, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
 | A testa in giù |                                                                                                                                          |
-| Supino         | Nel prossimo turno dell'avversario, scegli 2 dado energia lanciato, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
+| Supino         | Nel prossimo turno dell'avversario, scegli 2 dadi energia lanciati, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
 | Prono          |                                                                                                                                          |
-| Sui fianchi    | Nel prossimo turno dell'avversario, scegli 2 dado energia lanciato, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
+| Sui fianchi    | Nel prossimo turno dell'avversario, scegli 2 dadi energia lanciati, e fallo rilanciare. (Scegli tu quale dado energia viene rilanciato.) |
 
 [Lampo Gemma](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb02/03/img_wazacard09.webp)
 

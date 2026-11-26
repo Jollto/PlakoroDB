@@ -23,20 +23,20 @@
 
 #### Vuelo Suave ?
 
-| Nombre      | Vuelo Suave ?                                                                                                                     |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Japonés     | ふわふわひこう                                                                                                                    |
-| Tipo        | Volador                                                                                                                           |
-| Código      | STW10-002                                                                                                                         |
-| Pokémon     | Altaria                                                                                                                           |
-| Energía     | {Y}{Y}                                                                                                                            |
-| Daño        | 20                                                                                                                                |
-| Efecto      |                                                                                                                                   |
-| De pie      | En el próximo turno de tu rival, si el Charakoro cae en {s1}{s2}, no recibes daño de los ataques. (Aún te afectan otros efectos.) |
-| De cabeza   |                                                                                                                                   |
-| Boca arriba |                                                                                                                                   |
-| Boca abajo  |                                                                                                                                   |
-| De lado     | En el próximo turno de tu rival, si el Charakoro cae en {s1}{s2}, no recibes daño de los ataques. (Aún te afectan otros efectos.) |
+| Nombre      | Vuelo Suave ?                                                                                                                                                            |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Japonés     | ふわふわひこう                                                                                                                                                           |
+| Tipo        | Volador                                                                                                                                                                  |
+| Código      | STW10-002                                                                                                                                                                |
+| Pokémon     | Altaria                                                                                                                                                                  |
+| Energía     | {Y}{Y}                                                                                                                                                                   |
+| Daño        | 20                                                                                                                                                                       |
+| Efecto      |                                                                                                                                                                          |
+| De pie      | En el próximo turno de tu rival, si el Charakoro cae en {s1}{s2}, evita todo el daño de los ataques infligidos a este Pokémon. (Sigue ocurriendo cualquier otro efecto.) |
+| De cabeza   |                                                                                                                                                                          |
+| Boca arriba |                                                                                                                                                                          |
+| Boca abajo  |                                                                                                                                                                          |
+| De lado     | En el próximo turno de tu rival, si el Charakoro cae en {s1}{s2}, evita todo el daño de los ataques infligidos a este Pokémon. (Sigue ocurriendo cualquier otro efecto.) |
 
 [Vuelo Suave](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 
@@ -80,20 +80,20 @@
 
 #### Vuelo
 
-| Nombre      | Vuelo                                                                                                             |
-| ----------- | ----------------------------------------------------------------------------------------------------------------- |
-| Japonés     | そらをとぶ                                                                                                        |
-| Tipo        | Volador                                                                                                           |
-| Código      | STW10-005                                                                                                         |
-| Pokémon     | Altaria                                                                                                           |
-| Energía     | {Y}{Y}{Y}                                                                                                         |
-| Daño        | 40                                                                                                                |
-| Efecto      |                                                                                                                   |
-| De pie      | Durante el próximo turno de tu rival, este Pokémon no recibe daño de los ataques. (Aún te afectan otros efectos.) |
-| De cabeza   | Este ataque no hace nada.                                                                                         |
-| Boca arriba | Este ataque no hace nada.                                                                                         |
-| Boca abajo  | Este ataque no hace nada.                                                                                         |
-| De lado     | Durante el próximo turno de tu rival, este Pokémon no recibe daño de los ataques. (Aún te afectan otros efectos.) |
+| Nombre      | Vuelo                                                                                                                                        |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonés     | そらをとぶ                                                                                                                                   |
+| Tipo        | Volador                                                                                                                                      |
+| Código      | STW10-005                                                                                                                                    |
+| Pokémon     | Altaria                                                                                                                                      |
+| Energía     | {Y}{Y}{Y}                                                                                                                                    |
+| Daño        | 40                                                                                                                                           |
+| Efecto      |                                                                                                                                              |
+| De pie      | Durante el próximo turno de tu rival, evita todo el daño de los ataques infligidos a este Pokémon. (Sigue ocurriendo cualquier otro efecto.) |
+| De cabeza   | Este ataque no hace nada.                                                                                                                    |
+| Boca arriba | Este ataque no hace nada.                                                                                                                    |
+| Boca abajo  | Este ataque no hace nada.                                                                                                                    |
+| De lado     | Durante el próximo turno de tu rival, evita todo el daño de los ataques infligidos a este Pokémon. (Sigue ocurriendo cualquier otro efecto.) |
 
 [Vuelo](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
 

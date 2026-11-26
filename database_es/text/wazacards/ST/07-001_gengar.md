@@ -61,20 +61,20 @@
 
 #### Atadura Sombría
 
-| Nombre      | Atadura Sombría                                                  |
-| ----------- | ---------------------------------------------------------------- |
-| Japonés     | かげしばり                                                       |
-| Tipo        | Siniestro                                                        |
-| Código      | STW07-004                                                        |
-| Pokémon     | Gengar                                                           |
-| Energía     | {D}{D}{D}                                                        |
-| Daño        | 30                                                               |
-| Efecto      |                                                                  |
-| De pie      | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
-| De cabeza   |                                                                  |
-| Boca arriba | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
-| Boca abajo  |                                                                  |
-| De lado     | En el siguiente turno de tu rival, no pueden tirar su Charakoro. |
+| Nombre      | Atadura Sombría                                                |
+| ----------- | -------------------------------------------------------------- |
+| Japonés     | かげしばり                                                     |
+| Tipo        | Siniestro                                                      |
+| Código      | STW07-004                                                      |
+| Pokémon     | Gengar                                                         |
+| Energía     | {D}{D}{D}                                                      |
+| Daño        | 30                                                             |
+| Efecto      |                                                                |
+| De pie      | En el próximo turno de tu rival, no pueden tirar su Charakoro. |
+| De cabeza   |                                                                |
+| Boca arriba | En el próximo turno de tu rival, no pueden tirar su Charakoro. |
+| Boca abajo  |                                                                |
+| De lado     | En el próximo turno de tu rival, no pueden tirar su Charakoro. |
 
 [Atadura Sombría](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st07/01/img_wazacard04.webp)
 

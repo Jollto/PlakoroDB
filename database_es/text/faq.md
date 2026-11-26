@@ -41,7 +41,7 @@
 
 |   Q   | Mientras que el efecto de Charakoro del ataque de Altaria "Vuelo" ({st}{s1}{s2}) estaba activo, mi rival ha lanzado con éxito las tiradas de Enekoro y Charakoro para el ataque de Squirtle "Rayo Burbuja". <br>En este caso, ¿cuánto daño recibo? <br>Además, ¿cuántos Enekoro puedo lanzar en mi siguiente turno? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   A   | 0 puntos de daño. <br>Debido al efecto de Charakoro de "Vuelo", no recibes daño de ese ataque. <br>Pero, como aún te afectan los efectos que no sean daño, tirarás 1 Enekoro menos el próximo turno.                                                                                                                |
+|   A   | 0 puntos de daño. <br>Debido al efecto de Charakoro de "Vuelo", no recibes daño de ese ataque. <br>Pero, como los otros efectos del ataque aún suceden, tirarás 1 Enekoro menos el próximo turno.                                                                                                                   |
 |   R   | [Vuelo](/database_es/cards/wazacards/ST/10-001_altaria/STW10-005.png)<br>[Rayo Burbuja](/database_es/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                                              |
 
 #### 7
@@ -60,24 +60,24 @@
 
 #### 9
 
-|   Q   | Debido al efecto de Charakoro del ataque de Chansey "Placaje Oportuno", en el próximo turno, puedo volver a tirar el Charakoro 1 vez. <br>En el próximo turno de mi rival, lanzó con éxito las tiradas de Enekoro y Charakoro para el movimiento de Gengar "Boca Abajo". <br>En este caso, ¿cuál será la dirección del Charakoro cuando lo lance y lo relance en mi próximo turno, respectivamente? |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | Como la orientación de todos los Charakoro lanzados el próximo turno será {hs}, seguirá siendo {hs} aunque lo relances.                                                                                                                                                                                                                                                                             |
-|   R   | [Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)<br>[Boca Abajo](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                                                                     |
+|   Q   | Debido al efecto de Charakoro del ataque de Chansey "Placaje Oportuno", en el próximo turno, puedo volver a tirar el Charakoro 1 vez. <br>En el próximo turno de mi rival, lanzó con éxito las tiradas de Enekoro y Charakoro para el ataque de Gengar "Boca Abajo". <br>En este caso, ¿cuál será la dirección del Charakoro cuando lo lance y lo relance en mi próximo turno, respectivamente? |
+| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | Como la orientación de todos los Charakoro lanzados el próximo turno será {hs}, seguirá siendo {hs} aunque lo relances.                                                                                                                                                                                                                                                                         |
+|   R   | [Placaje Oportuno](/database_es/cards/wazacards/EB02/02-006_chansey/EBW02-052.png)<br>[Boca Abajo](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                                                                                 |
 
 #### 10
 
-|   Q   | He lanzado con éxito las tiradas de Enekoro y Charakoro para el movimiento de Sableye "Instigar". <br>¿Puedo elegir el movimiento que mi rival usó en el turno anterior y hacer que lo vuelvan a usar el próximo turno? |
-| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, no puedes.                                                                                                                                                                                                          |
-|   R   | [Instigar](/database_es/cards/wazacards/EB02/02-003_sableye/EBW02-024.png)                                                                                                                                              |
+|   Q   | He lanzado con éxito las tiradas de Enekoro y Charakoro para el ataque de Sableye "Instigar". <br>¿Puedo elegir el ataque que mi rival usó en el turno anterior y hacer que lo vuelvan a usar el próximo turno? |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | No, no puedes.                                                                                                                                                                                                  |
+|   R   | [Instigar](/database_es/cards/wazacards/EB02/02-003_sableye/EBW02-024.png)                                                                                                                                      |
 
 #### 11
 
-|   Q   | He lanzado con éxito las tiradas de Enekoro y Charakoro para el movimiento de Sableye "Joya Destello". <br>En el próximo turno de mi rival, si su ataque falla, ¿aún debo elegir 2 Enekoro y hacer que los relancen? |
-| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | Sí. Debes elegir 2 Enekoro y hacer que los lancen de nuevo.                                                                                                                                                          |
-|   R   | [Joya Destello](/database_es/cards/wazacards/EB02/02-003_sableye/EBW02-029.png)                                                                                                                                      |
+|   Q   | He lanzado con éxito las tiradas de Enekoro y Charakoro para el ataque de Sableye "Joya Destello". <br>En el próximo turno de mi rival, si su ataque falla, ¿aún debo elegir 2 Enekoro y hacer que los relancen? |
+| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | Sí. Debes elegir 2 Enekoro y hacer que los lancen de nuevo.                                                                                                                                                      |
+|   R   | [Joya Destello](/database_es/cards/wazacards/EB02/02-003_sableye/EBW02-029.png)                                                                                                                                  |
 
 #### 12
 
@@ -118,7 +118,7 @@
 
 |   Q   | On the first turn of the match, I successfully passed the Enekoro and Charakoro rolls for Aggron's move "Powerful Steel". <br>In this case, can I deal additional damage with the Charakoro effect? |
 | :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, no puedes. <br>Since the opponent has not taken a turn, you cannot deal any additional damage.                                                                                                  |
+|   A   | No, no puedes. <br>Since the opponent has not taken a turn, you can't deal any additional damage.                                                                                                   |
 |   R   | [Metal Poderoso](/database_es/cards/wazacards/EB02/02-004_aggron/EBW02-038.png)                                                                                                                     |
 
 #### 18
@@ -139,7 +139,7 @@
 
 |   Q   | If the Charakoro effect of Greninja's move "Shifting Slash" is successful, how should I prepare the custom chips for the swap? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------- |
-|   A   | Please prepare them when you're getting ready for a match. (You do not need to show them to your opponent.)                    |
+|   A   | Please prepare them when you're getting ready for a match. (You don't need to show them to your opponent.)                     |
 |   R   | [Tajo Cambiante](/database_es/cards/wazacards/EB02/02-001_greninja/EBW02-002.png)                                              |
 
 #### 21
@@ -158,7 +158,7 @@
 
 #### 23
 
-|   Q   | Due to the Charakoro effect of Tinkatink's move "Hammer Strike", I have 2 less Enekoro to roll on my next turn. <br>On my opponent's next turn, due to the Charakoro effect of Lucario's move "Force Palm", I will have 1 less Enekoro to roll on my next turn. <br>In this case, how many Enekoro can I roll on my next turn? |
+|   Q   | Due to the Charakoro effect of Tinkatink's move "Hammer Strike", I have 2 Enekoro less to roll on my next turn. <br>On my opponent's next turn, due to the Charakoro effect of Lucario's move "Force Palm", I will have 1 Enekoro less to roll on my next turn. <br>In this case, how many Enekoro can I roll on my next turn? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | 0 Enekoro. <br>Even on a turn where you have 0 Enekoro to roll, select the move you wish to use for that turn and roll only the Charakoro. <br>After the outcome is known, the turn will end.                                                                                                                                  |
 |   R   | [Golpe Martillo](/database_es/cards/wazacards/EB02/02-002_tinkatink/EBW02-013.png)<br>[Palmeo](/database_es/cards/wazacards/ST/09-001_lucario/STW09-002.png)                                                                                                                                                                   |
@@ -179,10 +179,10 @@
 
 #### 26
 
-|   Q   | I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}. <br>En el próximo turno de mi rival, lanzó con éxito las tiradas de Enekoro y Charakoro para el movimiento de Gengar "Boca Abajo". <br>In this case, what will be the orientation of the Charakoro I roll on my next turn? |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will be {hs}.                                                                                                                                                                                                                                                          |
-|   R   | [Operación Básica](/database_es/cards/wazacards/ST/08-001_metagross/STW08-002.png)<br>[Boca Abajo](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                               |
+|   Q   | I successfully passed the Enekoro roll for Metagross' move "Basic Calculation", and the Charakoro result was {st}. <br>En el próximo turno de mi rival, lanzó con éxito las tiradas de Enekoro y Charakoro para el ataque de Gengar "Boca Abajo". <br>In this case, what will be the orientation of the Charakoro I roll on my next turn? |
+| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | Due to the "Upside Down" Charakoro effect, the Charakoro's orientation will be {hs}.                                                                                                                                                                                                                                                      |
+|   R   | [Operación Básica](/database_es/cards/wazacards/ST/08-001_metagross/STW08-002.png)<br>[Boca Abajo](/database_es/cards/wazacards/ST/07-001_gengar/STW07-003.png)                                                                                                                                                                           |
 
 #### 27
 
@@ -256,7 +256,7 @@
 
 #### 37
 
-|   Q   | Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn. <br>However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 less Enekoro to roll on my next turn. <br>In this case, how many Enekoro can I roll on my next turn? |
+|   Q   | Due to the Charakoro effect of Charmander's move "Heat Up", I have 2 more Enekoro to roll on my next turn. <br>However, due to the Charakoro effect of Articuno's move "Cold Breath", I also have 2 Enekoro less to roll on my next turn. <br>In this case, how many Enekoro can I roll on my next turn? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | 3 Enekoro.                                                                                                                                                                                                                                                                                               |
 |   R   | [Cold Breath](/database/cards/wazacards/EB01/01-003_articuno/EBW01-028.png)<br>[Heat Up](/database/cards/wazacards/ST/02-001_charmander/STW02-002.png)                                                                                                                                                   |
@@ -279,12 +279,12 @@
 
 |   Q   | While the Charakoro effect of Moltres' move "Fly" ({st}{s1}{s2}) was active, my opponent successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Bubble Beam". <br>En este caso, ¿cuánto daño recibo? <br>Además, ¿cuántos Enekoro puedo lanzar en mi siguiente turno? |
 | :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 0 puntos de daño. <br>Debido al efecto de Charakoro de "Vuelo", no recibes daño de ese ataque. <br>Pero, como aún te afectan los efectos que no sean daño, tirarás 1 Enekoro menos el próximo turno.                                                                                    |
+|   A   | 0 puntos de daño. <br>Debido al efecto de Charakoro de "Vuelo", no recibes daño de ese ataque. <br>Pero, como los otros efectos del ataque aún suceden, tirarás 1 Enekoro menos el próximo turno.                                                                                       |
 |   R   | [Fly](/database/cards/wazacards/EB01/01-002_moltres/EBW01-020.png)<br>[Bubble Beam](/database/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                         |
 
 #### 41
 
-|   Q   | He lanzado con éxito las tiradas de Enekoro y Charakoro para el movimiento de Bulbasaur "Drenadoras". <br>How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?                                                                                                                                                |
+|   Q   | He lanzado con éxito las tiradas de Enekoro y Charakoro para el ataque de Bulbasaur "Drenadoras". <br>How is the effect "On your next turn, increase the number of Enekoro you roll by 1." applied?                                                                                                                                                    |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | First, roll 3 Enekoro. <br>Next, choose 1 of the rolled Enekoro and roll it again. <br>The player rolling the Enekoro chooses which one to add. <br>All the Energy revealed during this process counts as the Energy produced this turn. <br>If you have 4 or more Enekoro, you may add any Enekoro of your choice and roll them all at the same time. |
 |   R   | [Leech Seed](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)                                                                                                                                                                                                                                                                              |
@@ -354,7 +354,7 @@
 
 #### 51
 
-|   Q   | My opponent successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed", so on my next turn, I will roll 1 less Enekoro. <br>On my next turn, with 2 Enekoro remaining, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush". <br>When I use "Electric Rush" for the 2nd time in a row, how many Enekoro do I have to use? |
+|   Q   | My opponent successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Leech Seed", so on my next turn, I will roll 1 Enekoro less. <br>On my next turn, with 2 Enekoro remaining, I successfully passed the Enekoro and Charakoro rolls for Pikachu's move "Electric Rush". <br>When I use "Electric Rush" for the 2nd time in a row, how many Enekoro do I have to use? |
 | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | 2 Enekoro. <br>Even if you continue to succeed, the number of Enekoro you can roll remains at 2.                                                                                                                                                                                                                                                                                         |
 |   R   | [Electric Rush](/database/cards/wazacards/ST/04-001_pikachu/STW04-003.png)<br>[Leech Seed](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-003.png)                                                                                                                                                                                                                                  |
@@ -448,7 +448,7 @@
 
 #### 7
 
-|   Q   | Due to a move's effect, I need to roll less Enekoro. How should I roll them in this case?                                                                                                |
+|   Q   | Due to a move's effect, I need to roll fewer Enekoro. How should I roll them in this case?                                                                                               |
 | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | Before rolling the Enekoro, select the ones you want to remove. <br>Roll the remaining Enekoro, and all the Energy revealed during this process counts as the Energy produced this turn. |
 
@@ -460,9 +460,9 @@
 
 #### 9
 
-|   Q   | Can I roll the Enekoro and Charakoro separately?                                                                                                          |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | Generally, you roll them at the same time. <br>However, if you cannot hold both the Enekoro and Charakoro at the same time, you may roll them separately. |
+|   Q   | Can I roll the Enekoro and Charakoro separately?                                                                                                         |
+| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | Generally, you roll them at the same time. <br>However, if you can't hold both the Enekoro and Charakoro at the same time, you may roll them separately. |
 
 #### 10
 
@@ -568,9 +568,9 @@
 
 #### 27
 
-|   Q   | Can I heal a Pokémon beyond the "120 HP" stated on its Characard?                           |
-| :---: | :------------------------------------------------------------------------------------------ |
-|   A   | No, no puedes. <br>You cannot heal a Pokémon beyond the maximum HP stated on its Characard. |
+|   Q   | Can I heal a Pokémon beyond the "120 HP" stated on its Characard?                          |
+| :---: | :----------------------------------------------------------------------------------------- |
+|   A   | No, no puedes. <br>You can't heal a Pokémon beyond the maximum HP stated on its Characard. |
 
 #### 28
 
@@ -604,9 +604,9 @@
 
 #### 33
 
-|   Q   | What is "Normal" Energy, as shown on Wazacards?                                                                                                                                                             |
-| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | It is Energy that counts regardless of its type. <br>For example, if a Wazacard shows 5 "Normal" Energy, the Energy check is successful as long as there are 5 Energies in total, regardless of their type. |
+|   Q   | What is "Normal" Energy, as shown on Wazacards?                                                                                                                                                           |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | It is Energy that counts regardless of its type. <br>For example, if a Wazacard shows 5 "Normal" Energy, the Energy check is successful as long as there are 5 Energy in total, regardless of their type. |
 
 #### 34
 
@@ -622,15 +622,15 @@
 
 #### 36
 
-|   Q   | Can I change my Charakoro during a battle?                                                                            |
-| :---: | :-------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, no puedes. <br>Even if it is the same Pokémon, you cannot switch to a Charakoro with a different pose mid-battle. |
+|   Q   | Can I change my Charakoro during a battle?                                                                           |
+| :---: | :------------------------------------------------------------------------------------------------------------------- |
+|   A   | No, no puedes. <br>Even if it is the same Pokémon, you can't switch to a Charakoro with a different pose mid-battle. |
 
 #### 37
 
 |   Q   | I would like to add an Enekoro mid-battle to use more Enekoro due to a move's effect. <br>In this case, do I need to show the opponent the Enekoro I wish to add during battle preparation? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   A   | No, you do not need to show them during battle preparation. <br>When you wish to increase your Enekoro, please show your opponent the additional Enekoro you wish to add.                   |
+|   A   | No, you don't need to show them during battle preparation. <br>When you wish to increase your Enekoro, please show your opponent the additional Enekoro you wish to add.                    |
 
 #### 38
 
@@ -642,7 +642,7 @@
 
 |   Q   | I added more Enekoro during the battle to roll more of them, due to a move's effect. <br>If the effect that allows me to use more Enekoro takes effect again on a different turn, do I have to use the same Enekoro? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you do not have to use the same ones. <br>Please show your opponent the Enekoro each time you add them.                                                                                                          |
+|   A   | No, you don't have to use the same ones. <br>Please show your opponent the Enekoro each time you add them.                                                                                                           |
 
 #### 40
 
@@ -660,7 +660,7 @@
 
 |   Q   | Due to a Charakoro effect, I would like to swap out my custom chips during a battle. <br>In this case, do I need to show the opponent the custom chips I wish to swap during battle preparation? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you do not need to show them during battle preparation. <br>When you wish to swap your custom chips, please show your opponent the custom chips you wish to swap.                            |
+|   A   | No, you don't need to show them during battle preparation. <br>When you wish to swap your custom chips, please show your opponent the custom chips you wish to swap.                             |
 
 #### 43
 

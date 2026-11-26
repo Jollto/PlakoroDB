@@ -23,20 +23,20 @@
 
 #### Voo Fofinho ?
 
-| Nome            | Voo Fofinho ?                                                                                                                                |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | ふわふわひこう                                                                                                                               |
-| Tipo            | Voador                                                                                                                                       |
-| Código          | STW10-002                                                                                                                                    |
-| Pokémon         | Altaria                                                                                                                                      |
-| Energia         | {Y}{Y}                                                                                                                                       |
-| Dano            | 20                                                                                                                                           |
-| Efeito          |                                                                                                                                              |
-| Em pé           | No próximo turno do oponente, se o Charakoro dele cair {s1}{s2}, você não recebe dano de ataques. (Você ainda é afetado por outros efeitos.) |
-| De ponta-cabeça |                                                                                                                                              |
-| De costas       |                                                                                                                                              |
-| De bruços       |                                                                                                                                              |
-| De lado         | No próximo turno do oponente, se o Charakoro dele cair {s1}{s2}, você não recebe dano de ataques. (Você ainda é afetado por outros efeitos.) |
+| Nome            | Voo Fofinho ?                                                                                                                                                       |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japonês         | ふわふわひこう                                                                                                                                                      |
+| Tipo            | Voador                                                                                                                                                              |
+| Código          | STW10-002                                                                                                                                                           |
+| Pokémon         | Altaria                                                                                                                                                             |
+| Energia         | {Y}{Y}                                                                                                                                                              |
+| Dano            | 20                                                                                                                                                                  |
+| Efeito          |                                                                                                                                                                     |
+| Em pé           | No próximo turno do oponente, se o Charakoro dele cair {s1}{s2}, previna todo o dano causado a este Pokémon por ataques. (Você ainda é afetado por outros efeitos.) |
+| De ponta-cabeça |                                                                                                                                                                     |
+| De costas       |                                                                                                                                                                     |
+| De bruços       |                                                                                                                                                                     |
+| De lado         | No próximo turno do oponente, se o Charakoro dele cair {s1}{s2}, previna todo o dano causado a este Pokémon por ataques. (Você ainda é afetado por outros efeitos.) |
 
 [Voo Fofinho](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 
@@ -80,20 +80,20 @@
 
 #### Voar
 
-| Nome            | Voar                                                                                                                  |
-| --------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Japonês         | そらをとぶ                                                                                                            |
-| Tipo            | Voador                                                                                                                |
-| Código          | STW10-005                                                                                                             |
-| Pokémon         | Altaria                                                                                                               |
-| Energia         | {Y}{Y}{Y}                                                                                                             |
-| Dano            | 40                                                                                                                    |
-| Efeito          |                                                                                                                       |
-| Em pé           | No próximo turno do seu oponente, este Pokémon não recebe dano de ataques. (Você ainda é afetado por outros efeitos.) |
-| De ponta-cabeça | Este ataque não faz nada.                                                                                             |
-| De costas       | Este ataque não faz nada.                                                                                             |
-| De bruços       | Este ataque não faz nada.                                                                                             |
-| De lado         | No próximo turno do seu oponente, este Pokémon não recebe dano de ataques. (Você ainda é afetado por outros efeitos.) |
+| Nome            | Voar                                                                                                                                 |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Japonês         | そらをとぶ                                                                                                                           |
+| Tipo            | Voador                                                                                                                               |
+| Código          | STW10-005                                                                                                                            |
+| Pokémon         | Altaria                                                                                                                              |
+| Energia         | {Y}{Y}{Y}                                                                                                                            |
+| Dano            | 40                                                                                                                                   |
+| Efeito          |                                                                                                                                      |
+| Em pé           | No próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. (Você ainda é afetado por outros efeitos.) |
+| De ponta-cabeça | Este ataque não faz nada.                                                                                                            |
+| De costas       | Este ataque não faz nada.                                                                                                            |
+| De bruços       | Este ataque não faz nada.                                                                                                            |
+| De lado         | No próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. (Você ainda é afetado por outros efeitos.) |
 
 [Voar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard05.webp)
 

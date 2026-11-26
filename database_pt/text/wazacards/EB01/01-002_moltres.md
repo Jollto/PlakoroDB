@@ -175,19 +175,19 @@
 
 #### Voar
 
-| Nome            | Voar                                                                       |
-| --------------- | -------------------------------------------------------------------------- |
-| Japonês         | そらをとぶ                                                                 |
-| Tipo            | Voador                                                                     |
-| Código          | EBW01-020                                                                  |
-| Pokémon         | Moltres                                                                    |
-| Energia         | {Y}{C}{C}                                                                  |
-| Dano            | 30                                                                         |
-| Efeito          |                                                                            |
-| Em pé           | No próximo turno do seu oponente, este Pokémon não recebe dano de ataques. |
-| De ponta-cabeça | Este ataque não faz nada.                                                  |
-| De costas       | Este ataque não faz nada.                                                  |
-| De bruços       | Este ataque não faz nada.                                                  |
-| De lado         | No próximo turno do seu oponente, este Pokémon não recebe dano de ataques. |
+| Nome            | Voar                                                                                      |
+| --------------- | ----------------------------------------------------------------------------------------- |
+| Japonês         | そらをとぶ                                                                                |
+| Tipo            | Voador                                                                                    |
+| Código          | EBW01-020                                                                                 |
+| Pokémon         | Moltres                                                                                   |
+| Energia         | {Y}{C}{C}                                                                                 |
+| Dano            | 30                                                                                        |
+| Efeito          |                                                                                           |
+| Em pé           | No próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. |
+| De ponta-cabeça | Este ataque não faz nada.                                                                 |
+| De costas       | Este ataque não faz nada.                                                                 |
+| De bruços       | Este ataque não faz nada.                                                                 |
+| De lado         | No próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. |
 
 [Voar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/06/img_wazacard10.webp)

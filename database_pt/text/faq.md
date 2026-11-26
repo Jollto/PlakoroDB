@@ -460,9 +460,9 @@
 
 #### 9
 
-|   P   | Posso rolar os Enekoro e o Charakoro separadamente?                                                                                                      |
-| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   R   | Em geral, eles são rolados ao mesmo tempo. <br>However, if you can't hold both the Enekoro and Charakoro at the same time, you may roll them separately. |
+|   P   | Posso rolar os Enekoro e o Charakoro separadamente?                                                                                                       |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   R   | Em geral, eles são rolados ao mesmo tempo. <br>Porém, se você não conseguir segurar os Enekoro e o Charakoro ao mesmo tempo, pode rolá-los separadamente. |
 
 #### 10
 
@@ -622,15 +622,15 @@
 
 #### 36
 
-|   P   | Posso trocar meu Charakoro durante uma batalha?                                                                      |
-| :---: | :------------------------------------------------------------------------------------------------------------------- |
-|   R   | Não, não pode. <br>Even if it is the same Pokémon, you can't switch to a Charakoro with a different pose mid-battle. |
+|   P   | Posso trocar meu Charakoro durante uma batalha?                                                                                     |
+| :---: | :---------------------------------------------------------------------------------------------------------------------------------- |
+|   R   | Não, não pode. <br>Mesmo que seja o mesmo Pokémon, você não pode trocar no meio da batalha por um Charakoro com uma pose diferente. |
 
 #### 37
 
 |   P   | Quero adicionar um Enekoro no meio da batalha para usar mais Enekoro por causa do efeito de um golpe. <br>Nesse caso, preciso mostrar ao oponente, durante a preparação da batalha, o Enekoro que quero adicionar? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   R   | No, you don't need to show them during battle preparation. <br>Quando quiser aumentar seus Enekoro, mostre ao seu oponente o Enekoro adicional que você quer adicionar.                                            |
+|   R   | Não, não precisa mostrá-lo durante a preparação da batalha. <br>Quando quiser aumentar seus Enekoro, mostre ao seu oponente o Enekoro adicional que você quer adicionar.                                           |
 
 #### 38
 
@@ -642,7 +642,7 @@
 
 |   P   | I added more Enekoro during the battle to roll more of them, due to a move's effect. <br>Se o efeito que me permite usar mais Enekoro voltar a valer em outro turno, preciso usar os mesmos Enekoro? |
 | :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   R   | No, you don't have to use the same ones. <br>Mostre ao seu oponente os Enekoro toda vez que adicioná-los.                                                                                            |
+|   R   | Não, não precisa usar os mesmos. <br>Mostre ao seu oponente os Enekoro toda vez que adicioná-los.                                                                                                    |
 
 #### 40
 
@@ -660,7 +660,7 @@
 
 |   P   | Due to a Charakoro effect, I would like to swap out my custom chips during a battle. <br>In this case, do I need to show the opponent the custom chips I wish to swap during battle preparation? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   R   | No, you don't need to show them during battle preparation. <br>When you wish to swap your custom chips, please show your opponent the custom chips you wish to swap.                             |
+|   R   | Não, não precisa mostrá-lo durante a preparação da batalha. <br>When you wish to swap your custom chips, please show your opponent the custom chips you wish to swap.                            |
 
 #### 43
 

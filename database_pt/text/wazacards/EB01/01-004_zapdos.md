@@ -2,9 +2,9 @@
 
 ### Exploration Box 1
 
-#### Flash Eletromagnético ?
+#### Flash Trovejante ?
 
-| Nome            | Flash Eletromagnético ?                                     |
+| Nome            | Flash Trovejante ?                                          |
 | --------------- | ----------------------------------------------------------- |
 | Japonês         | でんじフラッシュ                                                    |
 | Tipo            | Elétrico                                                    |
@@ -19,7 +19,7 @@
 | De bruços       |                                                             |
 | De lado         |                                                             |
 
-[Flash Eletromagnético](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
+[Flash Trovejante](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/05/img_wazacard01.webp)
 
 #### Trovoada de Choques
 
@@ -175,19 +175,19 @@
 
 #### Voar
 
-| Nome            | Voar                                                                                                             |
-| --------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Japonês         | そらをとぶ                                                                                                            |
-| Tipo            | Voador                                                                                                           |
-| Código          | EBW01-040                                                                                                        |
-| Pokémon         | Zapdos                                                                                                           |
-| Energia         | {Y}{C}{C}                                                                                                        |
-| Dano            | 30                                                                                                               |
-| Efeito          |                                                                                                                  |
-| Em pé           | Durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. |
-| De ponta-cabeça | Este ataque não faz nada.                                                                        |
-| De costas       | Este ataque não faz nada.                                                                        |
-| De bruços       | Este ataque não faz nada.                                                                        |
-| De lado         | Durante o próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. |
+| Nome            | Voar                                                                                                      |
+| --------------- | --------------------------------------------------------------------------------------------------------- |
+| Japonês         | そらをとぶ                                                                                                     |
+| Tipo            | Voador                                                                                                    |
+| Código          | EBW01-040                                                                                                 |
+| Pokémon         | Zapdos                                                                                                    |
+| Energia         | {Y}{C}{C}                                                                                                 |
+| Dano            | 30                                                                                                        |
+| Efeito          |                                                                                                           |
+| Em pé           | No próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. |
+| De ponta-cabeça | Este ataque não faz nada.                                                                 |
+| De costas       | Este ataque não faz nada.                                                                 |
+| De bruços       | Este ataque não faz nada.                                                                 |
+| De lado         | No próximo turno do seu oponente, previna todo o dano causado a este Pokémon por ataques. |
 
 [Voar](https://bandai-hobby.net/site/pokemon/plakoro/images/products/eb01/04/img_wazacard10.webp)

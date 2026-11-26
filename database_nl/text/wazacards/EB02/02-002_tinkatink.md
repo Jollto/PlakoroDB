@@ -6,7 +6,7 @@
 
 | Name      | Beat                             |
 | --------- | -------------------------------- |
-| Japanese  | たたく                           |
+| Japanese  | たたく                              |
 | Type      | Psychic                          |
 | Code      | EBW02-011                        |
 | Pokémon   | Tinkatink                        |
@@ -25,7 +25,7 @@
 
 | Name      | Fairy Wind                       |
 | --------- | -------------------------------- |
-| Japanese  | ようせいのかぜ                   |
+| Japanese  | ようせいのかぜ                          |
 | Type      | Psychic                          |
 | Code      | EBW02-012                        |
 | Pokémon   | Tinkatink                        |
@@ -44,7 +44,7 @@
 
 | Name      | Hammer Strike ?                                                |
 | --------- | -------------------------------------------------------------- |
-| Japanese  | ハンマーストライク                                             |
+| Japanese  | ハンマーストライク                                                      |
 | Type      | Psychic                                                        |
 | Code      | EBW02-013                                                      |
 | Pokémon   | Tinkatink                                                      |
@@ -63,7 +63,7 @@
 
 | Name      | Play Rough                                                                |
 | --------- | ------------------------------------------------------------------------- |
-| Japanese  | じゃれつく                                                                |
+| Japanese  | じゃれつく                                                                     |
 | Type      | Psychic                                                                   |
 | Code      | EBW02-014                                                                 |
 | Pokémon   | Tinkatink                                                                 |
@@ -82,7 +82,7 @@
 
 | Name      | Metal Claw                       |
 | --------- | -------------------------------- |
-| Japanese  | メタルクロー                     |
+| Japanese  | メタルクロー                           |
 | Type      | Steel                            |
 | Code      | EBW02-015                        |
 | Pokémon   | Tinkatink                        |
@@ -101,7 +101,7 @@
 
 | Name      | Corkscrew Punch                  |
 | --------- | -------------------------------- |
-| Japanese  | どつく                           |
+| Japanese  | どつく                              |
 | Type      | Psychic                          |
 | Code      | EBW02-016                        |
 | Pokémon   | Tinkatink                        |
@@ -120,7 +120,7 @@
 
 | Name      | Draining Kiss                     |
 | --------- | --------------------------------- |
-| Japanese  | ドレインキッス                    |
+| Japanese  | ドレインキッス                           |
 | Type      | Psychic                           |
 | Code      | EBW02-017                         |
 | Pokémon   | Tinkatink                         |
@@ -139,7 +139,7 @@
 
 | Name      | Wail                             |
 | --------- | -------------------------------- |
-| Japanese  | なきわめく                       |
+| Japanese  | なきわめく                            |
 | Type      | Psychic                          |
 | Code      | EBW02-018                        |
 | Pokémon   | Tinkatink                        |
@@ -158,7 +158,7 @@
 
 | Name      | Wild Stamp ?                           |
 | --------- | -------------------------------------- |
-| Japanese  | ワイルドスタンプ                       |
+| Japanese  | ワイルドスタンプ                               |
 | Type      | Psychic                                |
 | Code      | EBW02-019                              |
 | Pokémon   | Tinkatink                              |
@@ -177,7 +177,7 @@
 
 | Name      | Strange Impact ?                 |
 | --------- | -------------------------------- |
-| Japanese  | ワンダーインパクト               |
+| Japanese  | ワンダーインパクト                        |
 | Type      | Psychic                          |
 | Code      | EBW02-020                        |
 | Pokémon   | Tinkatink                        |

@@ -41,7 +41,7 @@
 
 |   Q   | While the Charakoro effect of Altaria's move "Fly" ({st}{s1}{s2}) was active, my opponent successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Bubble Beam". <br>In this case, how much damage do I take? <br>Also, how many Enekoro can I roll on my next turn? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 0 damage. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by non-damage effects, you will roll 1 Enekoro less next turn.                                                                                        |
+|   A   | 0 damage. <br>Due to the "Fly" Charakoro effect, you don't take damage from that move. <br>However, since any other effects of attacks still happen, you will roll 1 Enekoro less next turn.                                                                                         |
 |   R   | [Fly](/database/cards/wazacards/ST/10-001_altaria/STW10-005.png)<br>[Bubble Beam](/database/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                        |
 
 #### 7
@@ -69,7 +69,7 @@
 
 |   Q   | I successfully passed the Enekoro and Charakoro rolls for Sableye's move "Instigate". <br>Can I choose the move my opponent used during their previous turn and make them use it again during their next turn? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot.                                                                                                                                                                                                |
+|   A   | No, you can't.                                                                                                                                                                                                 |
 |   R   | [Instigate](/database/cards/wazacards/EB02/02-003_sableye/EBW02-024.png)                                                                                                                                       |
 
 #### 11
@@ -118,7 +118,7 @@
 
 |   Q   | On the first turn of the match, I successfully passed the Enekoro and Charakoro rolls for Aggron's move "Powerful Steel". <br>In this case, can I deal additional damage with the Charakoro effect? |
 | :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot. <br>Since the opponent has not taken a turn, you cannot deal any additional damage.                                                                                                 |
+|   A   | No, you can't. <br>Since the opponent has not taken a turn, you can't deal any additional damage.                                                                                                   |
 |   R   | [Powerful Steel](/database/cards/wazacards/EB02/02-004_aggron/EBW02-038.png)                                                                                                                        |
 
 #### 18
@@ -139,7 +139,7 @@
 
 |   Q   | If the Charakoro effect of Greninja's move "Shifting Slash" is successful, how should I prepare the custom chips for the swap? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------- |
-|   A   | Please prepare them when you're getting ready for a match. (You do not need to show them to your opponent.)                    |
+|   A   | Please prepare them when you're getting ready for a match. (You don't need to show them to your opponent.)                     |
 |   R   | [Shifting Slash](/database/cards/wazacards/EB02/02-001_greninja/EBW02-002.png)                                                 |
 
 #### 21
@@ -153,7 +153,7 @@
 
 |   Q   | Due to the Charakoro effect of Greninja's move "Shifting Slash", I can now swap out the custom chips on my Enekoro. <br>Rather than changing the custom chips, can I swap it for another Enekoro I own? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   A   | No, you cannot. Only custom chips can be swapped.                                                                                                                                                       |
+|   A   | No, you can't. Only custom chips can be swapped.                                                                                                                                                        |
 |   R   | [Shifting Slash](/database/cards/wazacards/EB02/02-001_greninja/EBW02-002.png)                                                                                                                          |
 
 #### 23
@@ -202,7 +202,7 @@
 
 |   Q   | When Lucario's HP was 120, I successfully passed the Enekoro and Charakoro rolls for Lucario's move "Aura Knuckle". <br>In this case, can I deal additional damage? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   A   | No, you cannot. <br>You can only deal additional damage via the Charakoro effect of "Aura Knuckle" when HP is 80 or less.                                           |
+|   A   | No, you can't. <br>You can only deal additional damage via the Charakoro effect of "Aura Knuckle" when HP is 80 or less.                                            |
 |   R   | [Aura Knuckle](/database/cards/wazacards/ST/09-001_lucario/STW09-003.png)                                                                                           |
 
 #### 30
@@ -244,7 +244,7 @@
 
 |   Q   | I used Pinsir's move "Guillotine". <br>The Enekoro roll showed 4 Grass {G} Energy, and the Charakoro roll was {st}. <br>In this case, can I deal damage? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot. <br>As the Enekoro roll failed, the move fails. <br>In this case, the Charakoro check is not carried out, and the turn ends.             |
+|   A   | No, you can't. <br>As the Enekoro roll failed, the move fails. <br>In this case, the Charakoro check is not carried out, and the turn ends.              |
 |   R   | [Guillotine](/database/cards/wazacards/EB01/01-001_pinsir/EBW01-004.png)                                                                                 |
 
 #### 36
@@ -279,7 +279,7 @@
 
 |   Q   | While the Charakoro effect of Moltres' move "Fly" ({st}{s1}{s2}) was active, my opponent successfully passed the Enekoro and Charakoro rolls for Squirtle's move "Bubble Beam". <br>In this case, how much damage do I take? <br>Also, how many Enekoro can I roll on my next turn? |
 | :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | 0 damage. <br>Due to the "Fly" Charakoro effect, you do not take damage from that move. <br>However, as you are still affected by non-damage effects, you will roll 1 Enekoro less next turn.                                                                                       |
+|   A   | 0 damage. <br>Due to the "Fly" Charakoro effect, you don't take damage from that move. <br>However, since any other effects of attacks still happen, you will roll 1 Enekoro less next turn.                                                                                        |
 |   R   | [Fly](/database/cards/wazacards/EB01/01-002_moltres/EBW01-020.png)<br>[Bubble Beam](/database/cards/wazacards/ST/03-001_squirtle/STW03-005.png)                                                                                                                                     |
 
 #### 41
@@ -293,7 +293,7 @@
 
 |   Q   | When Bulbasaur's HP was 120, I successfully passed the Enekoro and Charakoro rolls for Bulbasaur's move "Giga Drain". <br>In this case, can I raise its HP to 160? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot. Bulbasaur's max HP is 120.                                                                                                                         |
+|   A   | No, you can't. Bulbasaur's max HP is 120.                                                                                                                          |
 |   R   | [Giga Drain](/database/cards/wazacards/ST/01-001_bulbasaur/STW01-006.png)                                                                                          |
 
 #### 43
@@ -432,7 +432,7 @@
 
 |   Q   | Can I swap out Enekoro's chips during a battle? |
 | :---: | :---------------------------------------------- |
-|   A   | No, you cannot.                                 |
+|   A   | No, you can't.                                  |
 
 #### 5
 
@@ -460,9 +460,9 @@
 
 #### 9
 
-|   Q   | Can I roll the Enekoro and Charakoro separately?                                                                                                          |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | Generally, you roll them at the same time. <br>However, if you cannot hold both the Enekoro and Charakoro at the same time, you may roll them separately. |
+|   Q   | Can I roll the Enekoro and Charakoro separately?                                                                                                         |
+| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | Generally, you roll them at the same time. <br>However, if you can't hold both the Enekoro and Charakoro at the same time, you may roll them separately. |
 
 #### 10
 
@@ -478,9 +478,9 @@
 
 #### 12
 
-|   Q   | Can I use a Charakoro for a Pokémon other than the one on the Characard?                               |
-| :---: | :----------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot. <br>Please use the Charakoro with the same name as the Pokémon shown on the Characard. |
+|   Q   | Can I use a Charakoro for a Pokémon other than the one on the Characard?                              |
+| :---: | :---------------------------------------------------------------------------------------------------- |
+|   A   | No, you can't. <br>Please use the Charakoro with the same name as the Pokémon shown on the Characard. |
 
 #### 13
 
@@ -496,21 +496,21 @@
 
 #### 15
 
-|   Q   | Can I mix and use Wazacards from different Pokémon?                                                                 |
-| :---: | :------------------------------------------------------------------------------------------------------------------ |
-|   A   | No, you cannot. <br>Only the Pokémon listed under "Pokémon that can use this move" on a Wazacard can use this move. |
+|   Q   | Can I mix and use Wazacards from different Pokémon?                                                                |
+| :---: | :----------------------------------------------------------------------------------------------------------------- |
+|   A   | No, you can't. <br>Only the Pokémon listed under "Pokémon that can use this move" on a Wazacard can use this move. |
 
 #### 16
 
 |   Q   | Can I include multiple copies of the same Wazacard? |
 | :---: | :-------------------------------------------------- |
-|   A   | No, you cannot.                                     |
+|   A   | No, you can't.                                      |
 
 #### 17
 
-|   Q   | Can I start a match while keeping the contents of my Wazacards secret from my opponent?                   |
-| :---: | :-------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot. <br>Once both players are ready to begin the match, all Wazacards must be turned face up. |
+|   Q   | Can I start a match while keeping the contents of my Wazacards secret from my opponent?                  |
+| :---: | :------------------------------------------------------------------------------------------------------- |
+|   A   | No, you can't. <br>Once both players are ready to begin the match, all Wazacards must be turned face up. |
 
 #### 18
 
@@ -526,21 +526,21 @@
 
 #### 20
 
-|   Q   | If a move fails, can I still apply the Charakoro effect?                                               |
-| :---: | :----------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot. If a move fails, the Charakoro check is not carried out and the turn ends immediately. |
+|   Q   | If a move fails, can I still apply the Charakoro effect?                                              |
+| :---: | :---------------------------------------------------------------------------------------------------- |
+|   A   | No, you can't. If a move fails, the Charakoro check is not carried out and the turn ends immediately. |
 
 #### 21
 
 |   Q   | Can I start a match with fewer than four Wazacards (for example, just three)? |
 | :---: | :---------------------------------------------------------------------------- |
-|   A   | No, you cannot.                                                               |
+|   A   | No, you can't.                                                                |
 
 #### 22
 
-|   Q   | Can I "pass" without using a move?                                  |
-| :---: | :------------------------------------------------------------------ |
-|   A   | No, you cannot. <br>You must choose 1 move to use during your turn. |
+|   Q   | Can I "pass" without using a move?                                 |
+| :---: | :----------------------------------------------------------------- |
+|   A   | No, you can't. <br>You must choose 1 move to use during your turn. |
 
 #### 23
 
@@ -552,13 +552,13 @@
 
 |   Q   | If I roll more Energy than a move requires, can I switch to a different move? |
 | :---: | :---------------------------------------------------------------------------- |
-|   A   | No, you cannot.                                                               |
+|   A   | No, you can't.                                                                |
 
 #### 25
 
-|   Q   | Can the "Weakness +20" effect be applied to both the damage dealt by a successful move and the damage caused by a Charakoro effect?                 |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot. <br>The Weakness effect is calculated after the damage from the move and the damage from the "Charakoro" effect have been combined. |
+|   Q   | Can the "Weakness +20" effect be applied to both the damage dealt by a successful move and the damage caused by a Charakoro effect?                |
+| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | No, you can't. <br>The Weakness effect is calculated after the damage from the move and the damage from the "Charakoro" effect have been combined. |
 
 #### 26
 
@@ -568,9 +568,9 @@
 
 #### 27
 
-|   Q   | Can I heal a Pokémon beyond the "120 HP" stated on its Characard?                            |
-| :---: | :------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot. <br>You cannot heal a Pokémon beyond the maximum HP stated on its Characard. |
+|   Q   | Can I heal a Pokémon beyond the "120 HP" stated on its Characard?                          |
+| :---: | :----------------------------------------------------------------------------------------- |
+|   A   | No, you can't. <br>You can't heal a Pokémon beyond the maximum HP stated on its Characard. |
 
 #### 28
 
@@ -604,51 +604,51 @@
 
 #### 33
 
-|   Q   | What is "Normal" Energy, as shown on Wazacards?                                                                                                                                                             |
-| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | It is Energy that counts regardless of its type. <br>For example, if a Wazacard shows 5 "Normal" Energy, the Energy check is successful as long as there are 5 Energies in total, regardless of their type. |
+|   Q   | What is "Normal" Energy, as shown on Wazacards?                                                                                                                                                           |
+| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | It is Energy that counts regardless of its type. <br>For example, if a Wazacard shows 5 "Normal" Energy, the Energy check is successful as long as there are 5 Energy in total, regardless of their type. |
 
 #### 34
 
 |   Q   | Can I choose my Charakoro and Enekoro after seeing my opponent's Charakoro? |
 | :---: | :-------------------------------------------------------------------------- |
-|   A   | No, you cannot. <br>Charakoro and Enekoro are revealed simultaneously.      |
+|   A   | No, you can't. <br>Charakoro and Enekoro are revealed simultaneously.       |
 
 #### 35
 
-|   Q   | Can I customize my Enekoro after seeing my opponent's Charakoro?       |
-| :---: | :--------------------------------------------------------------------- |
-|   A   | No, you cannot. <br>Charakoro and Enekoro are revealed simultaneously. |
+|   Q   | Can I customize my Enekoro after seeing my opponent's Charakoro?      |
+| :---: | :-------------------------------------------------------------------- |
+|   A   | No, you can't. <br>Charakoro and Enekoro are revealed simultaneously. |
 
 #### 36
 
-|   Q   | Can I change my Charakoro during a battle?                                                                             |
-| :---: | :--------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot. <br>Even if it is the same Pokémon, you cannot switch to a Charakoro with a different pose mid-battle. |
+|   Q   | Can I change my Charakoro during a battle?                                                                           |
+| :---: | :------------------------------------------------------------------------------------------------------------------- |
+|   A   | No, you can't. <br>Even if it is the same Pokémon, you can't switch to a Charakoro with a different pose mid-battle. |
 
 #### 37
 
 |   Q   | I would like to add an Enekoro mid-battle to use more Enekoro due to a move's effect. <br>In this case, do I need to show the opponent the Enekoro I wish to add during battle preparation? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   A   | No, you do not need to show them during battle preparation. <br>When you wish to increase your Enekoro, please show your opponent the additional Enekoro you wish to add.                   |
+|   A   | No, you don't need to show them during battle preparation. <br>When you wish to increase your Enekoro, please show your opponent the additional Enekoro you wish to add.                    |
 
 #### 38
 
 |   Q   | I added more Enekoro during the battle to roll more of them, due to a move's effect. <br>In this case, can I choose to use the added Enekoro even on turns when the effect that increases the number of Enekoro is not in effect? |
 | :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot. <br>On turns when the effect that increases the number of Enekoro is not in effect, you must roll the 3 Enekoro you showed your opponent during battle preparation.                                               |
+|   A   | No, you can't. <br>On turns when the effect that increases the number of Enekoro is not in effect, you must roll the 3 Enekoro you showed your opponent during battle preparation.                                                |
 
 #### 39
 
 |   Q   | I added more Enekoro during the battle to roll more of them, due to a move's effect. <br>If the effect that allows me to use more Enekoro takes effect again on a different turn, do I have to use the same Enekoro? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you do not have to use the same ones. <br>Please show your opponent the Enekoro each time you add them.                                                                                                          |
+|   A   | No, you don't have to use the same ones. <br>Please show your opponent the Enekoro each time you add them.                                                                                                           |
 
 #### 40
 
-|   Q   | Can I choose my Charakoro and Enekoro types after looking at my opponent's Wazacards?                                                                                                                                                   |
-| :---: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot. <br>You must reveal your Charakoro and Enekoro to each other at the same time while preparing for the battle. <br>Once all preparations for the battle are complete, turn all 4 Wazacards face up and start the battle. |
+|   Q   | Can I choose my Charakoro and Enekoro types after looking at my opponent's Wazacards?                                                                                                                                                  |
+| :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   A   | No, you can't. <br>You must reveal your Charakoro and Enekoro to each other at the same time while preparing for the battle. <br>Once all preparations for the battle are complete, turn all 4 Wazacards face up and start the battle. |
 
 #### 41
 
@@ -660,12 +660,12 @@
 
 |   Q   | Due to a Charakoro effect, I would like to swap out my custom chips during a battle. <br>In this case, do I need to show the opponent the custom chips I wish to swap during battle preparation? |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you do not need to show them during battle preparation. <br>When you wish to swap your custom chips, please show your opponent the custom chips you wish to swap.                            |
+|   A   | No, you don't need to show them during battle preparation. <br>When you wish to swap your custom chips, please show your opponent the custom chips you wish to swap.                             |
 
 #### 43
 
 |   Q   | Due to a Charakoro effect, I would like to swap out my custom chips during a battle. <br>In this case, is it possible to swap any faces other than the custom chips? |
 | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   A   | No, you cannot.                                                                                                                                                      |
+|   A   | No, you can't.                                                                                                                                                       |
 
 ![](../extras/icons/faq/img_customchips.webp)

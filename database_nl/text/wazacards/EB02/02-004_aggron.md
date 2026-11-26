@@ -6,7 +6,7 @@
 
 | Name      | Metal Claw                       |
 | --------- | -------------------------------- |
-| Japanese  | メタルクロー                     |
+| Japanese  | メタルクロー                           |
 | Type      | Steel                            |
 | Code      | EBW02-031                        |
 | Pokémon   | Aggron                           |
@@ -25,7 +25,7 @@
 
 | Name      | Steel Headbutt                   |
 | --------- | -------------------------------- |
-| Japanese  | はがねのずつき                   |
+| Japanese  | はがねのずつき                          |
 | Type      | Steel                            |
 | Code      | EBW02-032                        |
 | Pokémon   | Aggron                           |
@@ -44,7 +44,7 @@
 
 | Name      | Tyrant Shield ?                                                                                                    |
 | --------- | ------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | タイラントシールド                                                                                                 |
+| Japanese  | タイラントシールド                                                                                                          |
 | Type      | Steel                                                                                                              |
 | Code      | EBW02-033                                                                                                          |
 | Pokémon   | Aggron                                                                                                             |
@@ -63,7 +63,7 @@
 
 | Name      | Reckless Charge                        |
 | --------- | -------------------------------------- |
-| Japanese  | とつげき                               |
+| Japanese  | とつげき                                   |
 | Type      | Steel                                  |
 | Code      | EBW02-034                              |
 | Pokémon   | Aggron                                 |
@@ -82,7 +82,7 @@
 
 | Name      | Rock Tomb                                                                 |
 | --------- | ------------------------------------------------------------------------- |
-| Japanese  | がんせきふうじ                                                            |
+| Japanese  | がんせきふうじ                                                                   |
 | Type      | Fighting                                                                  |
 | Code      | EBW02-035                                                                 |
 | Pokémon   | Aggron                                                                    |
@@ -101,7 +101,7 @@
 
 | Name      | Ram                              |
 | --------- | -------------------------------- |
-| Japanese  | ぶつかる                         |
+| Japanese  | ぶつかる                             |
 | Type      | Steel                            |
 | Code      | EBW02-036                        |
 | Pokémon   | Aggron                           |
@@ -120,7 +120,7 @@
 
 | Name      | Steel Body ?                                                                                                       |
 | --------- | ------------------------------------------------------------------------------------------------------------------ |
-| Japanese  | こうてつボディ                                                                                                     |
+| Japanese  | こうてつボディ                                                                                                            |
 | Type      | Steel                                                                                                              |
 | Code      | EBW02-037                                                                                                          |
 | Pokémon   | Aggron                                                                                                             |
@@ -139,7 +139,7 @@
 
 | Name      | Powerful Steel ?                                                                                                |
 | --------- | --------------------------------------------------------------------------------------------------------------- |
-| Japanese  | パワフルスチール                                                                                                |
+| Japanese  | パワフルスチール                                                                                                        |
 | Type      | Steel                                                                                                           |
 | Code      | EBW02-038                                                                                                       |
 | Pokémon   | Aggron                                                                                                          |
@@ -158,7 +158,7 @@
 
 | Name      | Iron Head                        |
 | --------- | -------------------------------- |
-| Japanese  | アイアンヘッド                   |
+| Japanese  | アイアンヘッド                          |
 | Type      | Steel                            |
 | Code      | EBW02-039                        |
 | Pokémon   | Aggron                           |
@@ -177,7 +177,7 @@
 
 | Name      | Ice Punch                        |
 | --------- | -------------------------------- |
-| Japanese  | れいとうパンチ                   |
+| Japanese  | れいとうパンチ                          |
 | Type      | Water                            |
 | Code      | EBW02-040                        |
 | Pokémon   | Aggron                           |

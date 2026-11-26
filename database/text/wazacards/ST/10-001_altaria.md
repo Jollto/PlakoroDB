@@ -23,20 +23,20 @@
 
 #### Fluffy Flight ?
 
-| Name      | Fluffy Flight ?                                                                                                                                 |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japanese  | ふわふわひこう                                                                                                                                  |
-| Type      | Flying                                                                                                                                          |
-| Code      | STW10-002                                                                                                                                       |
-| Pokémon   | Altaria                                                                                                                                         |
-| Energy    | {Y}{Y}                                                                                                                                          |
-| Damage    | 20                                                                                                                                              |
-| Effect    |                                                                                                                                                 |
-| Standing  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (Any other effects of attacks still happen.) |
-| Handstand |                                                                                                                                                 |
-| Back      |                                                                                                                                                 |
-| Down      |                                                                                                                                                 |
-| Sideways  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, you do not take damage from attacks. (Any other effects of attacks still happen.) |
+| Name      | Fluffy Flight ?                                                                                                                                                  |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Japanese  | ふわふわひこう                                                                                                                                                   |
+| Type      | Flying                                                                                                                                                           |
+| Code      | STW10-002                                                                                                                                                        |
+| Pokémon   | Altaria                                                                                                                                                          |
+| Energy    | {Y}{Y}                                                                                                                                                           |
+| Damage    | 20                                                                                                                                                               |
+| Effect    |                                                                                                                                                                  |
+| Standing  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, prevent all damage from attacks done to this Pokémon. (Any other effects of attacks still happen.) |
+| Handstand |                                                                                                                                                                  |
+| Back      |                                                                                                                                                                  |
+| Down      |                                                                                                                                                                  |
+| Sideways  | On the opponent's next turn, if the Charakoro rolls {s1}{s2}, prevent all damage from attacks done to this Pokémon. (Any other effects of attacks still happen.) |
 
 [Fluffy Flight](https://bandai-hobby.net/site/pokemon/plakoro/images/products/st10/01/img_wazacard02.webp)
 

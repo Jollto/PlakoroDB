@@ -153,3 +153,5 @@
 | Back      | On the opponent's next turn, if the Charakoro rolls {do}{s1}{s2}, that attack fails. |
 | Down      |                                                                                      |
 | Sideways  |                                                                                      |
+
+[Sleepy Song](https://www.bandai-tabletop-games.com/images/banners/8f926d3c-a8a3-4819-90b9-0a7c2fe4f711.png)

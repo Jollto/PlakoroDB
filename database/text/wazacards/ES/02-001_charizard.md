@@ -6,7 +6,7 @@
 | --------- | -------------------------------- |
 | Japanese  | フレアテール                     |
 | Type      | Fire                             |
-| Code      |                                  |
+| Code      | ESW02-0                          |
 | Pokémon   | Charmeleon                       |
 | Energy    | {R}{R}{R}{R}{R}                  |
 | Damage    | 50                               |

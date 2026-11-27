@@ -17,7 +17,6 @@
 | Down      |                                                                |
 | Sideways  |                                                                |
 
-
 #### Leaf Storm
 
 | Name      | Leaf Storm                       |
@@ -51,4 +50,3 @@
 | Back      | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
 | Down      |                                                                           |
 | Sideways  | On the opponent's next turn, reduce the number of Enekoro they roll by 2. |
-

@@ -1,4 +1,12 @@
 \usetikzlibrary{matrix,calc}
+\let\originalincludegraphics\includegraphics
+
+\renewcommand{\includegraphics}[2][]{%
+    \IfFileExists{#2}{%
+        \originalincludegraphics[#1]{#2}%
+    }{}%
+}
+
 \newcommand{\cardpage}[1]{%
     \thispagestyle{empty}%
     \begin{tikzpicture}[remember picture,overlay]
@@ -7,12 +15,12 @@
             anchor=center,
             ampersand replacement=\&,
             nodes={
-                draw,
-                anchor=center,
-                minimum width=6cm,
-                minimum height=3cm,
-                inner sep=0pt
-            },
+                    draw,
+                    anchor=center,
+                    minimum width=6cm,
+                    minimum height=3cm,
+                    inner sep=0pt
+                },
             row sep=0pt,
             column sep=0pt
         ] at (current page.center) {
